@@ -1,0 +1,1 @@
+<title><?php echo $arr['title']; ?></title>

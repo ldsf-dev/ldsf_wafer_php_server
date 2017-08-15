@@ -1,0 +1,1 @@
+php /data/release/php-weapp-demo/test9.php
