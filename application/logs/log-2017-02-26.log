@@ -1,0 +1,162 @@
+ERROR - 2017-02-26 00:59:58 --> newcomment
+ERROR - 2017-02-26 01:03:24 --> newcomment
+ERROR - 2017-02-26 02:34:04 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-26 09:01:47 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-02-26 13:12:21 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-26 13:12:22 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2017-02-26 13:12:22 --> 404 Page Not Found: PMA/index
+ERROR - 2017-02-26 13:12:23 --> 404 Page Not Found: Pma/index
+ERROR - 2017-02-26 13:12:23 --> 404 Page Not Found: Admin/index
+ERROR - 2017-02-26 13:12:24 --> 404 Page Not Found: Dbadmin/index
+ERROR - 2017-02-26 13:12:24 --> 404 Page Not Found: Mysql/index
+ERROR - 2017-02-26 13:12:25 --> 404 Page Not Found: Myadmin/index
+ERROR - 2017-02-26 13:12:25 --> 404 Page Not Found: Openserver/phpmyadmin
+ERROR - 2017-02-26 13:12:25 --> 404 Page Not Found: Phpmyadmin2/index
+ERROR - 2017-02-26 13:12:26 --> 404 Page Not Found: PhpMyAdmin2/index
+ERROR - 2017-02-26 13:12:26 --> 404 Page Not Found: PhpMyAdmin-2/index
+ERROR - 2017-02-26 13:12:27 --> 404 Page Not Found: Php-my-admin/index
+ERROR - 2017-02-26 13:12:30 --> 404 Page Not Found: PhpMyAdmin-223/index
+ERROR - 2017-02-26 13:12:31 --> 404 Page Not Found: PhpMyAdmin-226/index
+ERROR - 2017-02-26 13:12:31 --> 404 Page Not Found: PhpMyAdmin-251/index
+ERROR - 2017-02-26 13:12:32 --> 404 Page Not Found: PhpMyAdmin-254/index
+ERROR - 2017-02-26 13:12:32 --> 404 Page Not Found: PhpMyAdmin-255-rc1/index
+ERROR - 2017-02-26 13:12:33 --> 404 Page Not Found: PhpMyAdmin-255-rc2/index
+ERROR - 2017-02-26 13:12:33 --> 404 Page Not Found: PhpMyAdmin-255/index
+ERROR - 2017-02-26 13:12:34 --> 404 Page Not Found: PhpMyAdmin-255-pl1/index
+ERROR - 2017-02-26 13:12:34 --> 404 Page Not Found: PhpMyAdmin-256-rc1/index
+ERROR - 2017-02-26 13:12:34 --> 404 Page Not Found: PhpMyAdmin-256-rc2/index
+ERROR - 2017-02-26 13:12:35 --> 404 Page Not Found: PhpMyAdmin-256/index
+ERROR - 2017-02-26 13:12:35 --> 404 Page Not Found: PhpMyAdmin-257/index
+ERROR - 2017-02-26 13:12:36 --> 404 Page Not Found: PhpMyAdmin-257-pl1/index
+ERROR - 2017-02-26 13:12:36 --> 404 Page Not Found: PhpMyAdmin-260-alpha/index
+ERROR - 2017-02-26 13:12:37 --> 404 Page Not Found: PhpMyAdmin-260-alpha2/index
+ERROR - 2017-02-26 13:12:37 --> 404 Page Not Found: PhpMyAdmin-260-beta1/index
+ERROR - 2017-02-26 13:12:38 --> 404 Page Not Found: PhpMyAdmin-260-beta2/index
+ERROR - 2017-02-26 13:12:38 --> 404 Page Not Found: PhpMyAdmin-260-rc1/index
+ERROR - 2017-02-26 13:12:38 --> 404 Page Not Found: PhpMyAdmin-260-rc2/index
+ERROR - 2017-02-26 13:12:39 --> 404 Page Not Found: PhpMyAdmin-260-rc3/index
+ERROR - 2017-02-26 13:12:39 --> 404 Page Not Found: PhpMyAdmin-260/index
+ERROR - 2017-02-26 13:12:40 --> 404 Page Not Found: PhpMyAdmin-260-pl1/index
+ERROR - 2017-02-26 13:12:40 --> 404 Page Not Found: PhpMyAdmin-260-pl2/index
+ERROR - 2017-02-26 13:12:41 --> 404 Page Not Found: PhpMyAdmin-260-pl3/index
+ERROR - 2017-02-26 13:12:41 --> 404 Page Not Found: PhpMyAdmin-261-rc1/index
+ERROR - 2017-02-26 13:12:42 --> 404 Page Not Found: PhpMyAdmin-261-rc2/index
+ERROR - 2017-02-26 13:12:42 --> 404 Page Not Found: PhpMyAdmin-261/index
+ERROR - 2017-02-26 13:12:42 --> 404 Page Not Found: PhpMyAdmin-261-pl1/index
+ERROR - 2017-02-26 13:12:43 --> 404 Page Not Found: PhpMyAdmin-261-pl2/index
+ERROR - 2017-02-26 13:12:43 --> 404 Page Not Found: PhpMyAdmin-261-pl3/index
+ERROR - 2017-02-26 13:12:44 --> 404 Page Not Found: PhpMyAdmin-262-rc1/index
+ERROR - 2017-02-26 13:12:44 --> 404 Page Not Found: PhpMyAdmin-262-beta1/index
+ERROR - 2017-02-26 13:12:45 --> 404 Page Not Found: PhpMyAdmin-262-rc1/index
+ERROR - 2017-02-26 13:12:45 --> 404 Page Not Found: PhpMyAdmin-262/index
+ERROR - 2017-02-26 13:12:46 --> 404 Page Not Found: PhpMyAdmin-262-pl1/index
+ERROR - 2017-02-26 13:12:46 --> 404 Page Not Found: PhpMyAdmin-263/index
+ERROR - 2017-02-26 13:12:46 --> 404 Page Not Found: PhpMyAdmin-263-rc1/index
+ERROR - 2017-02-26 13:12:47 --> 404 Page Not Found: PhpMyAdmin-263/index
+ERROR - 2017-02-26 13:12:47 --> 404 Page Not Found: PhpMyAdmin-263-pl1/index
+ERROR - 2017-02-26 13:12:48 --> 404 Page Not Found: PhpMyAdmin-264-rc1/index
+ERROR - 2017-02-26 13:12:48 --> 404 Page Not Found: PhpMyAdmin-264-pl1/index
+ERROR - 2017-02-26 13:12:52 --> 404 Page Not Found: PhpMyAdmin-264-pl2/index
+ERROR - 2017-02-26 13:12:52 --> 404 Page Not Found: PhpMyAdmin-264-pl3/index
+ERROR - 2017-02-26 13:12:53 --> 404 Page Not Found: PhpMyAdmin-264-pl4/index
+ERROR - 2017-02-26 13:12:53 --> 404 Page Not Found: PhpMyAdmin-264/index
+ERROR - 2017-02-26 13:12:54 --> 404 Page Not Found: PhpMyAdmin-270-beta1/index
+ERROR - 2017-02-26 13:12:54 --> 404 Page Not Found: PhpMyAdmin-270-rc1/index
+ERROR - 2017-02-26 13:12:54 --> 404 Page Not Found: PhpMyAdmin-270-pl1/index
+ERROR - 2017-02-26 13:12:55 --> 404 Page Not Found: PhpMyAdmin-270-pl2/index
+ERROR - 2017-02-26 13:12:55 --> 404 Page Not Found: PhpMyAdmin-270/index
+ERROR - 2017-02-26 13:12:56 --> 404 Page Not Found: PhpMyAdmin-280-beta1/index
+ERROR - 2017-02-26 13:12:56 --> 404 Page Not Found: PhpMyAdmin-280-rc1/index
+ERROR - 2017-02-26 13:12:57 --> 404 Page Not Found: PhpMyAdmin-280-rc2/index
+ERROR - 2017-02-26 13:12:57 --> 404 Page Not Found: PhpMyAdmin-280/index
+ERROR - 2017-02-26 13:12:58 --> 404 Page Not Found: PhpMyAdmin-2801/index
+ERROR - 2017-02-26 13:12:58 --> 404 Page Not Found: PhpMyAdmin-2802/index
+ERROR - 2017-02-26 13:12:59 --> 404 Page Not Found: PhpMyAdmin-2803/index
+ERROR - 2017-02-26 13:12:59 --> 404 Page Not Found: PhpMyAdmin-2804/index
+ERROR - 2017-02-26 13:12:59 --> 404 Page Not Found: PhpMyAdmin-281-rc1/index
+ERROR - 2017-02-26 13:13:00 --> 404 Page Not Found: PhpMyAdmin-281/index
+ERROR - 2017-02-26 13:13:00 --> 404 Page Not Found: PhpMyAdmin-282/index
+ERROR - 2017-02-26 13:13:01 --> 404 Page Not Found: Sqlmanager/index
+ERROR - 2017-02-26 13:13:01 --> 404 Page Not Found: Mysqlmanager/index
+ERROR - 2017-02-26 13:13:02 --> 404 Page Not Found: P/m
+ERROR - 2017-02-26 13:13:02 --> 404 Page Not Found: PMA2005/index
+ERROR - 2017-02-26 13:13:03 --> 404 Page Not Found: Pma2005/index
+ERROR - 2017-02-26 13:13:03 --> 404 Page Not Found: Phpmanager/index
+ERROR - 2017-02-26 13:13:04 --> 404 Page Not Found: Php-myadmin/index
+ERROR - 2017-02-26 13:13:04 --> 404 Page Not Found: Phpmy-admin/index
+ERROR - 2017-02-26 13:13:04 --> 404 Page Not Found: Webadmin/index
+ERROR - 2017-02-26 13:13:05 --> 404 Page Not Found: Sqlweb/index
+ERROR - 2017-02-26 13:13:05 --> 404 Page Not Found: Websql/index
+ERROR - 2017-02-26 13:13:06 --> 404 Page Not Found: Webdb/index
+ERROR - 2017-02-26 13:13:06 --> 404 Page Not Found: Mysqladmin/index
+ERROR - 2017-02-26 13:13:07 --> 404 Page Not Found: Mysql-admin/index
+ERROR - 2017-02-26 15:54:39 --> 1 2
+ERROR - 2017-02-26 15:54:39 --> 2 0
+[2017-02-26 15:54:39][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011KDEvV1v2jIU0eCFvV1kmgvV1KDEvG",
+                "encrypt_data": "42AV229fAMTknfYiVbI0E1vfOx7RheeLHz0TifAy33bkOeE6yM7PDghDnC5yHQWsHPqIcxpaOEVjU1t3FB0Sz78c8oy6vZlBPqlJECawV+YNX99F7gE2z110OScxCSFj6vIEAebHiou\/zU2amz5N5gI28X9sk0FPFWJ8cB7kWFC2nf4QOphr+jnZ6Afl+DE3oOAL4nz6RE7GJwq4NZRROeFxXLgmYSRQsLtqCEhfzAwmHqye4Mre8HrA0LJx8cAmjyQjBweFZquYh3VxePyPB7kAoB+oX55rky9EjZMuc6rV2Z\/UPCuO\/H8rHiB9K5m5VXyxapD9k76Ud53ZFcuGzDgysNhYs4L3kOJR4MAPq5Dy64xjZfuaF6sOHcyLjKYlkh81SXI9MnMH82AkWlJyi10UWAHETWl07ziPSwZ5yU0sj7Xgz2hMEX+Yg\/4Nv9FkMB21Rd2YbG\/G8IgwpWd1h1M9tmRS2R8OdQAQl+Xtrm0=",
+                "iv": "+X77muZ3jXF0GzzuGhI3Dg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "3ed489279f1ec91c35692912d058786d",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1488095679,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "99ms"
+}
+
+[2017-02-26 15:54:39][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "3ed489279f1ec91c35692912d058786d",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-26 20:57:52 --> 10
+ERROR - 2017-02-26 21:07:11 --> 1
+ERROR - 2017-02-26 21:12:31 --> 2
+ERROR - 2017-02-26 21:13:07 --> 2
+ERROR - 2017-02-26 21:52:34 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-02-26 21:52:34 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-02-26 21:52:34 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-02-26 21:52:39 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-02-26 21:52:39 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-02-26 21:52:39 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-02-26 21:52:51 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-02-26 21:52:51 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-02-26 21:52:51 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-02-26 21:53:11 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-02-26 21:53:11 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-02-26 21:53:11 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-02-26 23:34:08 --> 51156

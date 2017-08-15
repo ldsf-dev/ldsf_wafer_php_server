@@ -1,0 +1,402 @@
+ERROR - 2017-02-11 00:07:40 --> 1 2
+ERROR - 2017-02-11 00:07:40 --> 2 0
+[2017-02-11 00:07:40][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0519rurN0P2yF625CTrN01qcrN09rurQ",
+                "encrypt_data": "btX1ld+VOz8OVzYwt2X7rej6KbatcZ+uv7kMzMhnbiGnVgayMFqu5bqFeN0aWCmj9WqTJyUX\/d4ehqfTib9sHibSYWxY0Rr\/Q864bW3at+VxK3kV5wlDkoEQMkAOvhHgLIVLkgZ8ZGMC0j19bA82sXSU93f2Lx34e8wRD8IDWJE5LhBA8T3HKkrFJIhKXRMew8hOKjppvYfwbGea3LZOA2Dms92pCeQWUMaanDWC85VWebs3PqDOX+\/3EvNotFGoFNdaxiRibtWycD1QCLvDkk22oHOG7a1qjC9pAK\/tfHfcVyqdXkKgZDnySpqodAnDDMpJMp5snAsMPpCbk9xPJ+skEct5UKlev76nnhh+OM4hS2Z3uveNOQy33JTyC0DBM54jEl9Kuc39EyXasBgqe9Ngeudg7H3RGXtYZCrWX\/P0EK4zDOuw+tcO0vm0oeGyxHqke5CFVb2csgueIfwc8PiVz2WqeZowtS8GFK3HM68=",
+                "iv": "8G8Y5MW+NSkfYWhprowFKg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "3226e2485999eeea959455d7322c2c97",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1486742860,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "107ms"
+}
+
+[2017-02-11 00:07:40][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "3226e2485999eeea959455d7322c2c97",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-11 00:26:39 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2017-02-11 00:26:50 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2017-02-11 01:21:01 --> 404 Page Not Found: Cgi-bin/test-cgi
+ERROR - 2017-02-11 06:15:48 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2017-02-11 06:44:43 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-11 09:44:28 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-11 11:02:15 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-11 12:07:47 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-11 12:54:37 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-11 12:54:39 --> 404 Page Not Found: Notexist_pathhtaccess/index
+ERROR - 2017-02-11 12:54:43 --> 404 Page Not Found: Notexist_path404notfound/index
+ERROR - 2017-02-11 12:54:43 --> 404 Page Not Found: Path_not_exist404notfound/index
+ERROR - 2017-02-11 12:54:43 --> 404 Page Not Found: Web-console/ServerInfo.jsp
+ERROR - 2017-02-11 12:54:45 --> 404 Page Not Found: Wp-includes/wlwmanifest.xml
+ERROR - 2017-02-11 12:54:46 --> 404 Page Not Found: Wp-includes/images
+ERROR - 2017-02-11 12:54:46 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-02-11 12:54:46 --> 404 Page Not Found: Notexist_pathtxt/index
+ERROR - 2017-02-11 12:54:46 --> 404 Page Not Found: Data/stat_setting.xml
+ERROR - 2017-02-11 12:54:47 --> 404 Page Not Found: Ckeditor/notexist_path.html
+ERROR - 2017-02-11 12:54:48 --> 404 Page Not Found: Ckeditor/CHANGES.html
+ERROR - 2017-02-11 12:54:48 --> 404 Page Not Found: Ckeditor/notexist_path.md
+ERROR - 2017-02-11 12:54:48 --> 404 Page Not Found: Ckeditor/CHANGES.md
+ERROR - 2017-02-11 12:54:49 --> 404 Page Not Found: Licencetxt/index
+ERROR - 2017-02-11 12:54:49 --> 404 Page Not Found: Phpmyadmin/notexist_path
+ERROR - 2017-02-11 12:54:49 --> 404 Page Not Found: Phpmyadmin/ChangeLog
+ERROR - 2017-02-11 12:54:50 --> 404 Page Not Found: PhpMyAdmin/notexist_path
+ERROR - 2017-02-11 12:54:50 --> 404 Page Not Found: PhpMyAdmin/ChangeLog
+ERROR - 2017-02-11 12:54:50 --> 404 Page Not Found: Notexist_path/index
+ERROR - 2017-02-11 12:54:51 --> 404 Page Not Found: ChangeLog/index
+ERROR - 2017-02-11 12:54:51 --> 404 Page Not Found: Doc/notexist_path.py
+ERROR - 2017-02-11 12:54:51 --> 404 Page Not Found: Doc/conf.py
+ERROR - 2017-02-11 12:54:52 --> 404 Page Not Found: Phpmyadmin/doc
+ERROR - 2017-02-11 12:54:52 --> 404 Page Not Found: Phpmyadmin/doc
+ERROR - 2017-02-11 12:54:52 --> 404 Page Not Found: PhpMyAdmin/doc
+ERROR - 2017-02-11 12:54:52 --> 404 Page Not Found: PhpMyAdmin/doc
+ERROR - 2017-02-11 12:54:53 --> 404 Page Not Found: Phpmyadmin/README
+ERROR - 2017-02-11 12:54:53 --> 404 Page Not Found: PhpMyAdmin/README
+ERROR - 2017-02-11 12:54:53 --> 404 Page Not Found: README/index
+ERROR - 2017-02-11 12:54:54 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-11 12:54:54 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-11 12:54:54 --> 404 Page Not Found: Docs/CHANGELOG.html
+ERROR - 2017-02-11 12:54:55 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-11 12:54:55 --> 404 Page Not Found: Statics/js
+ERROR - 2017-02-11 12:54:56 --> 404 Page Not Found: Phpcms/member
+ERROR - 2017-02-11 12:54:56 --> 404 Page Not Found: Phpcms/data
+ERROR - 2017-02-11 12:54:56 --> 404 Page Not Found: Source/script_cookie.js
+ERROR - 2017-02-11 12:54:57 --> 404 Page Not Found: Source/script_common.js
+ERROR - 2017-02-11 12:54:57 --> 404 Page Not Found: Source/script_ajax.js
+ERROR - 2017-02-11 12:54:58 --> 404 Page Not Found: Js/common.js
+ERROR - 2017-02-11 12:54:59 --> 404 Page Not Found: Language/ja_JP
+ERROR - 2017-02-11 12:54:59 --> 404 Page Not Found: Doc/README_en.txt
+ERROR - 2017-02-11 12:54:59 --> 404 Page Not Found: API/index
+ERROR - 2017-02-11 12:55:00 --> 404 Page Not Found: BUGS/index
+ERROR - 2017-02-11 12:55:00 --> 404 Page Not Found: CREDITS/index
+ERROR - 2017-02-11 12:55:00 --> 404 Page Not Found: INSTALL/index
+ERROR - 2017-02-11 12:55:01 --> 404 Page Not Found: Wtnewsxml/index
+ERROR - 2017-02-11 12:55:01 --> 404 Page Not Found: Docs/README.TXT
+ERROR - 2017-02-11 12:55:02 --> 404 Page Not Found: INSTALLtxt/index
+ERROR - 2017-02-11 12:55:02 --> 404 Page Not Found: Js/config.js
+ERROR - 2017-02-11 12:55:02 --> 404 Page Not Found: Js/api.js
+ERROR - 2017-02-11 12:55:03 --> 404 Page Not Found: Js/login.js
+ERROR - 2017-02-11 12:55:03 --> 404 Page Not Found: Themes/mall
+ERROR - 2017-02-11 12:55:03 --> 404 Page Not Found: Themes/mall
+ERROR - 2017-02-11 12:55:04 --> 404 Page Not Found: Themes/store
+ERROR - 2017-02-11 12:55:04 --> 404 Page Not Found: Templets/plus
+ERROR - 2017-02-11 12:55:05 --> 404 Page Not Found: Dede/templets
+ERROR - 2017-02-11 12:55:05 --> 404 Page Not Found: Dede/templets
+ERROR - 2017-02-11 12:55:05 --> 404 Page Not Found: Templets/default
+ERROR - 2017-02-11 12:55:06 --> 404 Page Not Found: Templets/default
+ERROR - 2017-02-11 12:55:06 --> 404 Page Not Found: Templets/default
+ERROR - 2017-02-11 12:55:06 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-02-11 12:55:07 --> 404 Page Not Found: READMEtxt/index
+ERROR - 2017-02-11 12:55:07 --> 404 Page Not Found: Addons/theme
+ERROR - 2017-02-11 12:55:07 --> 404 Page Not Found: Includes/js
+ERROR - 2017-02-11 12:55:08 --> 404 Page Not Found: Htaccesstxt/index
+ERROR - 2017-02-11 12:55:08 --> 404 Page Not Found: Joomlaxml/index
+ERROR - 2017-02-11 12:55:08 --> 404 Page Not Found: Administrator/manifests
+ERROR - 2017-02-11 12:55:09 --> 404 Page Not Found: Misc/drupal.js
+ERROR - 2017-02-11 12:55:09 --> 404 Page Not Found: CHANGELOGtxt/index
+ERROR - 2017-02-11 12:55:09 --> 404 Page Not Found: Licensetxt/index
+ERROR - 2017-02-11 12:55:10 --> 404 Page Not Found: Template/default
+ERROR - 2017-02-11 12:55:10 --> 404 Page Not Found: Readmetxt/index
+ERROR - 2017-02-11 12:55:10 --> 404 Page Not Found: Zb_system/script
+ERROR - 2017-02-11 12:55:11 --> 404 Page Not Found: Celive/js
+ERROR - 2017-02-11 12:55:11 --> 404 Page Not Found: Core/notexist_path.txt
+ERROR - 2017-02-11 12:55:11 --> 404 Page Not Found: Core/version.txt
+ERROR - 2017-02-11 12:55:11 --> 404 Page Not Found: Js/photoshow.js
+ERROR - 2017-02-11 12:55:12 --> 404 Page Not Found: Static/javascript
+ERROR - 2017-02-11 12:55:12 --> 404 Page Not Found: Tttgfilesmd5/index
+ERROR - 2017-02-11 12:55:12 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-11 12:55:13 --> 404 Page Not Found: Template/taoCMS
+ERROR - 2017-02-11 12:55:13 --> 404 Page Not Found: Csdj/js
+ERROR - 2017-02-11 12:55:13 --> 404 Page Not Found: Admin/cpstyle.css
+ERROR - 2017-02-11 12:55:14 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-11 12:55:14 --> 404 Page Not Found: Api/js
+ERROR - 2017-02-11 12:55:14 --> 404 Page Not Found: Images/default
+ERROR - 2017-02-11 12:55:14 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-11 12:55:15 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-11 12:55:15 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-11 12:55:15 --> 404 Page Not Found: Images/edit
+ERROR - 2017-02-11 12:55:16 --> 404 Page Not Found: Templates/default
+ERROR - 2017-02-11 12:55:16 --> 404 Page Not Found: Public/themes
+ERROR - 2017-02-11 12:55:17 --> 404 Page Not Found: Public/themes
+ERROR - 2017-02-11 12:55:17 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-02-11 12:55:17 --> 404 Page Not Found: E/data
+ERROR - 2017-02-11 12:55:17 --> 404 Page Not Found: Wlwmanifestxml/index
+ERROR - 2017-02-11 12:55:18 --> 404 Page Not Found: Themes/ajax.js
+ERROR - 2017-02-11 12:55:18 --> 404 Page Not Found: Themes/base.js
+ERROR - 2017-02-11 12:55:19 --> 404 Page Not Found: Js/pinyin.js
+ERROR - 2017-02-11 12:55:19 --> 404 Page Not Found: Javascript/hotaru.js
+ERROR - 2017-02-11 12:55:20 --> 404 Page Not Found: Templates/admin
+ERROR - 2017-02-11 12:55:20 --> 404 Page Not Found: Common/js
+ERROR - 2017-02-11 12:55:20 --> 404 Page Not Found: Resource/images
+ERROR - 2017-02-11 12:55:20 --> 404 Page Not Found: Include/javascript
+ERROR - 2017-02-11 12:55:21 --> 404 Page Not Found: Include/javascript
+ERROR - 2017-02-11 12:55:21 --> 404 Page Not Found: Skins/default
+ERROR - 2017-02-11 12:55:21 --> 404 Page Not Found: Skins/default
+ERROR - 2017-02-11 12:55:22 --> 404 Page Not Found: Cache/js-common-chs.js
+ERROR - 2017-02-11 12:55:22 --> 404 Page Not Found: Tpl/static
+ERROR - 2017-02-11 12:55:23 --> 404 Page Not Found: Stylesheetcss/index
+ERROR - 2017-02-11 12:55:23 --> 404 Page Not Found: Includes/general.js
+ERROR - 2017-02-11 12:55:23 --> 404 Page Not Found: OsCommerce/OM
+ERROR - 2017-02-11 12:55:23 --> 404 Page Not Found: Images/banners
+ERROR - 2017-02-11 12:55:24 --> 404 Page Not Found: Cms/config
+ERROR - 2017-02-11 12:55:24 --> 404 Page Not Found: Css/index.css
+ERROR - 2017-02-11 12:55:24 --> 404 Page Not Found: Js/base.js
+ERROR - 2017-02-11 12:55:25 --> 404 Page Not Found: Library/hoteditor
+ERROR - 2017-02-11 12:55:25 --> 404 Page Not Found: System/templates
+ERROR - 2017-02-11 12:55:25 --> 404 Page Not Found: System/templates
+ERROR - 2017-02-11 12:55:26 --> 404 Page Not Found: Templates/404.html
+ERROR - 2017-02-11 12:55:27 --> 404 Page Not Found: Templates/default
+ERROR - 2017-02-11 12:55:27 --> 404 Page Not Found: Include/apache_rewrite.txt
+ERROR - 2017-02-11 12:55:28 --> 404 Page Not Found: Admin/editor
+ERROR - 2017-02-11 12:55:28 --> 404 Page Not Found: Readmehtm/index
+ERROR - 2017-02-11 12:55:29 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2017-02-11 12:55:29 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2017-02-11 12:55:29 --> 404 Page Not Found: Tpl/public
+ERROR - 2017-02-11 12:55:29 --> 404 Page Not Found: Tpl/login
+ERROR - 2017-02-11 12:55:30 --> 404 Page Not Found: Tpl/user
+ERROR - 2017-02-11 12:55:30 --> 404 Page Not Found: Js/frcms.js
+ERROR - 2017-02-11 12:55:30 --> 404 Page Not Found: Resource/css
+ERROR - 2017-02-11 12:55:31 --> 404 Page Not Found: POLICYtxt/index
+ERROR - 2017-02-11 12:55:32 --> 404 Page Not Found: PhpMemcachedAdmin/Public
+ERROR - 2017-02-11 12:55:32 --> 404 Page Not Found: PhpMemcachedAdmin/Public
+ERROR - 2017-02-11 12:55:32 --> 404 Page Not Found: Public/Scripts
+ERROR - 2017-02-11 12:55:32 --> 404 Page Not Found: Public/Scripts
+ERROR - 2017-02-11 12:55:33 --> 404 Page Not Found: Lib/ufinder
+ERROR - 2017-02-11 12:55:33 --> 404 Page Not Found: Ufinder/ufinder.js
+ERROR - 2017-02-11 12:55:33 --> 404 Page Not Found: Lib/ufinder
+ERROR - 2017-02-11 12:55:34 --> 404 Page Not Found: Ufinder/ufinder.config.js
+ERROR - 2017-02-11 12:55:34 --> 404 Page Not Found: Admin/index
+ERROR - 2017-02-11 12:55:34 --> 404 Page Not Found: Uc_center/images
+ERROR - 2017-02-11 12:55:35 --> 404 Page Not Found: Template/knifecms
+ERROR - 2017-02-11 12:55:35 --> 404 Page Not Found: Templates/phpmps
+ERROR - 2017-02-11 12:55:35 --> 404 Page Not Found: Style/gb
+ERROR - 2017-02-11 12:55:36 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 12:55:36 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 12:55:37 --> 404 Page Not Found: Img/notexist_path.png
+ERROR - 2017-02-11 12:55:37 --> 404 Page Not Found: Img/cake.icon.png
+ERROR - 2017-02-11 12:55:37 --> 404 Page Not Found: Img/notexist_path.gif
+ERROR - 2017-02-11 12:55:38 --> 404 Page Not Found: Img/cake.power.gif
+ERROR - 2017-02-11 14:32:03 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-11 15:43:27 --> 404 Page Not Found: Ckeditor/CHANGES.html
+ERROR - 2017-02-11 15:43:35 --> 404 Page Not Found: Templets/default
+ERROR - 2017-02-11 15:43:35 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-11 15:43:35 --> 404 Page Not Found: Themes/mall
+ERROR - 2017-02-11 15:43:41 --> 404 Page Not Found: Cms/config
+ERROR - 2017-02-11 15:43:43 --> 404 Page Not Found: API/index
+ERROR - 2017-02-11 15:43:43 --> 404 Page Not Found: README/index
+ERROR - 2017-02-11 15:43:44 --> 404 Page Not Found: Admin/editor
+ERROR - 2017-02-11 15:43:44 --> 404 Page Not Found: Ckeditor/CHANGES.html
+ERROR - 2017-02-11 15:50:14 --> 404 Page Not Found: README/index
+ERROR - 2017-02-11 15:50:16 --> 404 Page Not Found: README/index
+ERROR - 2017-02-11 16:11:24 --> 404 Page Not Found: PhpMyAdmin/doc
+ERROR - 2017-02-11 16:11:24 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 16:11:25 --> 404 Page Not Found: Doc/conf.py
+ERROR - 2017-02-11 16:11:25 --> 404 Page Not Found: Path_not_exist404notfound/index
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: Path_not_exist404notfound/index
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: Path_not_exist404notfound/index
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: Path_not_exist404notfound/index
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: ChangeLog/index
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: PhpMyAdmin/doc
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: Path_not_exist404notfound/index
+ERROR - 2017-02-11 16:11:34 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 16:11:46 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 16:12:52 --> 404 Page Not Found: Web-console/ServerInfo.jsp
+ERROR - 2017-02-11 16:14:08 --> 404 Page Not Found: PhpMyAdmin/doc
+ERROR - 2017-02-11 16:14:16 --> 404 Page Not Found: Notexist_path/index
+ERROR - 2017-02-11 16:14:17 --> 404 Page Not Found: Readmehtm/index
+ERROR - 2017-02-11 16:14:20 --> 404 Page Not Found: Ckeditor/notexist_path.html
+ERROR - 2017-02-11 16:14:28 --> 404 Page Not Found: Ckeditor/notexist_path.md
+ERROR - 2017-02-11 16:14:28 --> 404 Page Not Found: Dede/templets
+ERROR - 2017-02-11 16:16:36 --> 404 Page Not Found: Templates/404.html
+ERROR - 2017-02-11 16:17:01 --> 404 Page Not Found: Style/gb
+ERROR - 2017-02-11 16:17:10 --> 404 Page Not Found: Style/gb
+ERROR - 2017-02-11 16:17:19 --> 404 Page Not Found: Templates/admin
+ERROR - 2017-02-11 16:17:24 --> 404 Page Not Found: PhpMyAdmin/notexist_path
+ERROR - 2017-02-11 16:17:25 --> 404 Page Not Found: Images/banners
+ERROR - 2017-02-11 16:17:25 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-11 16:17:31 --> 404 Page Not Found: Template/default
+ERROR - 2017-02-11 16:17:40 --> 404 Page Not Found: PhpMyAdmin/notexist_path
+ERROR - 2017-02-11 16:17:41 --> 404 Page Not Found: Templets/default
+ERROR - 2017-02-11 16:18:00 --> 404 Page Not Found: Admin/index
+ERROR - 2017-02-11 16:18:10 --> 404 Page Not Found: Admin/index
+ERROR - 2017-02-11 16:21:19 --> 404 Page Not Found: System/templates
+ERROR - 2017-02-11 16:21:23 --> 404 Page Not Found: Dede/templets
+ERROR - 2017-02-11 16:21:28 --> 404 Page Not Found: Doc/notexist_path.py
+ERROR - 2017-02-11 16:21:28 --> 404 Page Not Found: System/templates
+ERROR - 2017-02-11 16:21:32 --> 404 Page Not Found: Dede/templets
+ERROR - 2017-02-11 16:21:32 --> 404 Page Not Found: Tttgfilesmd5/index
+ERROR - 2017-02-11 16:21:33 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-11 16:21:37 --> 404 Page Not Found: Templets/plus
+ERROR - 2017-02-11 16:21:40 --> 404 Page Not Found: INSTALL/index
+ERROR - 2017-02-11 17:33:51 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-11 17:38:19 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 17:38:19 --> 404 Page Not Found: Themes/mall
+ERROR - 2017-02-11 17:38:28 --> 404 Page Not Found: Themes/store
+ERROR - 2017-02-11 17:38:28 --> 404 Page Not Found: Themes/mall
+ERROR - 2017-02-11 17:38:28 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 17:38:33 --> 404 Page Not Found: Themes/store
+ERROR - 2017-02-11 17:38:33 --> 404 Page Not Found: Themes/store
+ERROR - 2017-02-11 17:38:36 --> 404 Page Not Found: Themes/store
+ERROR - 2017-02-11 17:55:59 --> 404 Page Not Found: Admin/editor
+ERROR - 2017-02-11 17:56:11 --> 404 Page Not Found: Admin/editor
+ERROR - 2017-02-11 17:56:26 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-11 18:25:44 --> 404 Page Not Found: API/index
+ERROR - 2017-02-11 18:50:46 --> 404 Page Not Found: ChangeLog/index
+ERROR - 2017-02-11 18:54:39 --> 404 Page Not Found: Web-console/ServerInfo.jsp
+ERROR - 2017-02-11 20:02:04 --> 404 Page Not Found: Templates/admin
+ERROR - 2017-02-11 20:10:33 --> 404 Page Not Found: Readmehtm/index
+ERROR - 2017-02-11 20:10:45 --> 404 Page Not Found: Readmehtm/index
+ERROR - 2017-02-11 20:17:26 --> 404 Page Not Found: Tttgfilesmd5/index
+ERROR - 2017-02-11 20:17:35 --> 404 Page Not Found: Ckeditor/notexist_path.html
+ERROR - 2017-02-11 20:54:48 --> 404 Page Not Found: API/index
+ERROR - 2017-02-11 21:02:37 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-11 21:04:37 --> 404 Page Not Found: INSTALL/index
+ERROR - 2017-02-11 21:11:43 --> 404 Page Not Found: ThinkPHP/Tpl
+ERROR - 2017-02-11 21:14:14 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-11 21:21:01 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-11 21:21:21 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-11 22:24:22 --> 404 Page Not Found: Admin/editor
+ERROR - 2017-02-11 22:33:26 --> 404 Page Not Found: Readmehtm/index
+ERROR - 2017-02-11 23:40:26 --> 1 2
+ERROR - 2017-02-11 23:40:26 --> 2 0
+[2017-02-11 23:40:26][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051VwvUo1pFENm04nhUo1OTqUo1VwvU6",
+                "encrypt_data": "awp6P626hR4WdX8GV7LH9hvtLvGCndltOpxkuDyHiVP1BCqqPZKlX1d3sa35HLhWw0Zt75WJ2p4FARxYCa3NtrOCwFqB59IPayJofcy56\/Loh+2sCMexJIP2htOhlZnnAcZO5cXcCGlwTS2cqjG7Tw7kBnYa1ZQs\/naBmjQWqZdw9jzwDhwQQcLCPfN53T+Ik+\/XJQJyzcVEqWM62+8yslMQdqs81chfs9z1ReOrKjbm9zzJYNLhEvxljzlRASDZOsdKVsrCg8kPppFLFzBy+92FboK0lqSC+RNEZV3lSeDLTO9hWAWPqYN5abaBe9PM1st2XzgsBbBowUvS1T5qYeCaG0oqQWzzfOkapXsZAt22YZ95J3PoBSUP2BaSHpsAWAG4MCUQMm8uih2wNiF9WgXP0XkIML+GGKs0tsdD+rI57l7KO55tRCsKyCiGeiQUd2OPikCAwvPjCZSa8YSQn9R246YQRF3hQT5A\/n4H190=",
+                "iv": "dj9MKPn4CU\/V4WQs1HBeNg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "048eb3a2bc53a56b637cd2d4f8806df1",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1486827626,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "101ms"
+}
+
+[2017-02-11 23:40:26][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "048eb3a2bc53a56b637cd2d4f8806df1",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-11 23:40:26 --> 1 2
+ERROR - 2017-02-11 23:40:26 --> 2 0
+[2017-02-11 23:40:26][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041Gmrly1GpWVd0pufly1ZgFly1GmrlP",
+                "encrypt_data": "xxlE8PlQbTnxF3zCjV7BRU1vk1FGXJOfPiuwE8ArTXBcCV\/Ls4p6DvZqUKMBTRJvXteOCzNY8DB2X5lIZd1Q5Z1LMLBexClxU2c3Aw0fdP80RDkOY+H5b4BrxaQlIa6KjxCiwZpKJctb8KcDHxvijTBJPp3oDDBYCwRDiuI+GpLZlDt8J+04Q9rzLhbqgmj35JZ60Yxe2ZjLJUA3dCiVmMC9x6xUfIr6qET9KiT79X8h8Cg9yRZ6XKcPiQCVdKx5v0i3WnV4t5hLlnHZSb+Hfn62UcUfZBKtcmJlB6iSk\/0Y8ynjoPA33pctxtJykvTK+juQW\/F2wvkNRZf9LenAUjgFUZtUDg16R9y\/NMe8v3tbAoctQ6DbFMH1L4SB23gTdgHlMR6uPdSn8jsPNC341gEV5wncS79TrulWkKDmAUqAzoaDAfDBVBZKx9pR2PSmTUD2S5BX90TcyxRR4KyW3sBK\/n5eXIXWoxbk6TLImp4=",
+                "iv": "hBALgbdNAFhM06WjC7+OOQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "4b361e3a2fd822a67fa829b8edbf4669",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1486827626,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "90ms"
+}
+
+[2017-02-11 23:40:26][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "4b361e3a2fd822a67fa829b8edbf4669",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+

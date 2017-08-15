@@ -1,0 +1,92 @@
+ERROR - 2017-07-14 01:47:55 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-14 07:58:53 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-07-14 12:12:20 --> 404 Page Not Found: Cache/global
+ERROR - 2017-07-14 16:34:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-14 16:34:04 --> 404 Page Not Found: Stats/index
+ERROR - 2017-07-14 18:59:24 --> 1 2
+ERROR - 2017-07-14 18:59:24 --> 2 0
+[2017-07-14 18:59:24][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0225o3ww1XEBJb0ntDuw1YP3ww15o3w7",
+                "encrypt_data": "SK+N4D5HQnYp6JbSr1auC6TSbtNGrO0ztVOSKGGaOcyk8AtSm0kPBfcIE97xxmgCkL\/EOwjnYjJvnZI8RJnhg4+KLihcIclQvmKA9EepsuSsWUabB9QljokfJhsSpcDheNQtsCnlLgMw5EvGE7M0m0+CMum0uwNH8wnKXmtCo6j6792zTVafuG2JlC6BVdBrDcqqWUxkKm+LjHeZNF7rrxyfK+Au6z+SW1A8eF+Zc1TZpIzIf9Wt8CSsTkJjI5igqkwaCglhn0PWxv6o1XB7a92b+31CC7+TLzn5WJDK7n2vIXr7NDts0XEKMAGZlUkDHJ\/ynjL39DZseVfzvwsoEq5Db0yVDGgJ3lh7Zue6AWLyqHRFVyLik6A1OoFUYkJGXyMWhZOsbyN\/5FDERSO9SEJKb8Z6JbGfo1v9\/bC+133IgR4RDUSjfDrZiBcyR4VUit50Mon25WbNiF4o4pTDeLS2JtprlfW5sEeLPK\/eH4S7dwwQrTs1qRNNDyZCT8dlutSsJSsAzEZK4KwYttL\/Dw==",
+                "iv": "\/FDgGWNwvSDpfWGe4WSFNQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "ca13f685c10d66144cdcb13e2fa99845",
+            "skey": "fd1dc000f44903c949d320b872f9f656",
+            "user_info": {
+                "openId": "oPicY0SvPjtHZjpqqDXGZWQ-SbpQ",
+                "nickName": "Call me Jack",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "North Korea",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/eiapvzPCRoO0cPLSx1DsHCrHick6Blr7dGu5IswUtOhHPxhfx9ozgGTuFb1QPJhM1g5aUzuC2L4jh0fxjVouySCQ\/0",
+                "unionId": "oU11PxLJe4jbda758ojqZcs-sV7o",
+                "watermark": {
+                    "timestamp": 1500029963,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "578ms"
+}
+
+[2017-07-14 18:59:24][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "ca13f685c10d66144cdcb13e2fa99845",
+        "skey": "fd1dc000f44903c949d320b872f9f656",
+        "openid": "oPicY0SvPjtHZjpqqDXGZWQ-SbpQ",
+        "unionid": "oU11PxLJe4jbda758ojqZcs-sV7o"
+    }
+}
+
+ERROR - 2017-07-14 18:59:24 --> 1 2
+ERROR - 2017-07-14 18:59:24 --> 2 0
+[2017-07-14 18:59:24][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "012fGyw42BMMOJ0EYxx42u4yw42fGywg",
+                "encrypt_data": "2c0Ol1IxjiQBJKs9yemDhldEaxZ7QsHFZRGS6numQay3WtPL8yXkTCQ8jxrYoHaxVzC2aDQFnmE8VkLHQCsec3ISb+341grokqk4AbMi032OsXx0a7yKU2Hcz7+yY+xkGvWbnuZLbsEShCETYKoMvScKvmLTpgpy\/R5C2WcRw9A1xM6xZc2r4snnBgBqYCig7icJZP5\/ZJ0tPgzqe1o+hailRAVnU+pPGd6Sc\/box1iEP2uXGb57RvCKOiaQeSwJa292UY997blllBOLl5eOfuULmhA6B0CCAur6ffL0GHrLPxWocpXbYU6\/lAUhBuDFJ22U64cLwLpwsfiFNw9Yg6qOKz+oEAUjnQlW6uSsD5kKy4wr5w6CSpOeKBzyABuV+1hxQ7tPA4hmXZiqQu6nRw0i2Se94pbbMcxQimIo9ixq7ZnxaLpZE+MxapdKMVx2r7XagvGedtNnXVu+Vk76XN9CaeqYTGluqp0LHxNibiED1fa7Die7z0Tct2UdYvdxzUUFO74RURJzHUh4c9eKgA==",
+                "iv": "3t7EONiUO4CWHLS9WE1wnQ=="
+            }
+        }
+    },
+    "[响应]": "<br \/>\n<b>Warning<\/b>:  rmdir(log\/2017-07-09): No such file or directory in <b>\/opt\/lampp\/htdocs\/mina_auth\/system\/log\/log.php<\/b> on line <b>341<\/b><br \/>\n{\"returnCode\":0,\"returnMessage\":\"UPDATE_SESSION_SUCCESS\",\"returnData\":{\"id\":\"ca13f685c10d66144cdcb13e2fa99845\",\"skey\":\"919badeadc19f4c69ab477ecaf6b35fe\",\"user_info\":{\"openId\":\"oPicY0SvPjtHZjpqqDXGZWQ-SbpQ\",\"nickName\":\"Call me Jack\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"\",\"province\":\"\",\"country\":\"North Korea\",\"avatarUrl\":\"https:\\\/\\\/wx.qlogo.cn\\\/mmopen\\\/vi_32\\\/eiapvzPCRoO0cPLSx1DsHCrHick6Blr7dGu5IswUtOhHPxhfx9ozgGTuFb1QPJhM1g5aUzuC2L4jh0fxjVouySCQ\\\/0\",\"unionId\":\"oU11PxLJe4jbda758ojqZcs-sV7o\",\"watermark\":{\"timestamp\":1500029963,\"appid\":\"wx3c13313f866a541a\"}},\"duration\":7200},\"version\":1,\"componentName\":\"MA\"}",
+    "[耗时]": "829ms"
+}
+
+[2017-07-14 18:59:24][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "鉴权服务器响应格式错误，无法解析 JSON 字符串"
+}
+
+LDSF - 2017-07-14 18:59:25 --> >>> User->addressbookisempty()
+LDSF - 2017-07-14 18:59:25 --> openid=oPicY0SvPjtHZjpqqDXGZWQ-SbpQ
+ERROR - 2017-07-14 18:59:25 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-07-14 18:59:25 --> >>> User->loginrecord()
+LDSF - 2017-07-14 18:59:25 --> openid=oPicY0SvPjtHZjpqqDXGZWQ-SbpQ
+ERROR - 2017-07-14 18:59:31 --> 
+ERROR - 2017-07-14 18:59:39 --> 
+ERROR - 2017-07-14 21:08:19 --> 404 Page Not Found: Cache/global

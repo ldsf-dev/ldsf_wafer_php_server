@@ -1,0 +1,103 @@
+ERROR - 2017-02-14 00:50:11 --> 404 Page Not Found: CFIDE/administrator
+ERROR - 2017-02-14 01:22:27 --> notify start
+ERROR - 2017-02-14 01:22:27 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 01:22:41 --> notify start
+ERROR - 2017-02-14 01:22:41 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 01:22:57 --> notify start
+ERROR - 2017-02-14 01:22:57 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 01:23:31 --> notify start
+ERROR - 2017-02-14 01:23:31 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 01:26:33 --> notify start
+ERROR - 2017-02-14 01:26:33 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 01:29:48 --> notify start
+ERROR - 2017-02-14 01:29:48 --> notify end, id:20170214012943569708 wx_id:4002512001201702149849205924
+ERROR - 2017-02-14 01:33:58 --> notify start
+ERROR - 2017-02-14 01:33:58 --> notify end, id:20170214013352735862 wx_id:4002512001201702149846297993
+ERROR - 2017-02-14 01:35:22 --> notify start
+ERROR - 2017-02-14 01:35:22 --> notify end, id:20170214013515245897 wx_id:4002512001201702149847452915
+ERROR - 2017-02-14 01:51:29 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-14 01:55:48 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-14 01:56:35 --> notify start
+ERROR - 2017-02-14 01:56:35 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 02:01:49 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-14 02:02:30 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-02-14 02:26:38 --> notify start
+ERROR - 2017-02-14 02:26:38 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 02:56:41 --> notify start
+ERROR - 2017-02-14 02:56:41 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 03:26:45 --> notify start
+ERROR - 2017-02-14 03:26:45 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 04:26:47 --> notify start
+ERROR - 2017-02-14 04:26:47 --> notify end, id:20170214012217572308 wx_id:4002512001201702149847391828
+ERROR - 2017-02-14 04:47:48 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-14 05:17:36 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-14 06:00:27 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-02-14 08:02:50 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-14 08:02:59 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-14 08:28:19 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-14 10:22:24 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-14 11:14:11 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-14 11:14:20 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-14 12:03:55 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-14 12:54:16 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-14 13:35:02 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-14 14:29:33 --> 404 Page Not Found: Admin/index
+ERROR - 2017-02-14 16:26:03 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-14 16:26:19 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-14 18:08:30 --> 404 Page Not Found: Recordings/LICENSE.txt
+ERROR - 2017-02-14 18:59:11 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-14 18:59:20 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-14 19:14:21 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-14 19:21:00 --> 1 2
+ERROR - 2017-02-14 19:21:00 --> 2 0
+[2017-02-14 19:21:00][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021UeSoa0fGtAu12lMna0Aczoa0UeSoj",
+                "encrypt_data": "OVPzcZsIBgV3+lMg0CNqHucbPHFNfBnoqvIFQKQOBmA1eIx28scliy2sOsVLLLZrJwJAledfvD48aiGD8LQAb331JKIjZpEUXxJRYDRkDmjRmc\/5Q8RDtH9IHNZi9zhwbabex7Cnz\/b7ooW\/mvfke+xNqcHk7P9K9yQm2ywrJJUWjr1C\/ZfwJSLNFhbK9k7uPkyCDtCwDwN\/iZkdp1MfGD3LOB6cPu8z6zznkwStcuv6fqgai5f1Sv3TYAYZ8Ovd2vSsJTpBeG\/kGphJz6VUbKuK2ZXTH7zyGPjzPf3N+LklyWYuZhYSM\/3JthLIZzg4U59BYQw40LuW8CX2R6c46PGHw3ErOkSpK0y3DgzjYMI2M8+91O8CI6fhjmZybSmxxBBGE1kl0pIMMWO9qFdRLrIQ39aC4+pRQWH53RAdIstmqBOdKd+shp2OIEfAlG7S0EUIWTkx2eFxzvyzMK+bZgFdfBzNlHy6PurFGr53uhs=",
+                "iv": "dHLBeZIn8eYZMXfNGSdtpw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "a21d565882c9f9a94b68714b16c62dd6",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1487071259,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "89ms"
+}
+
+[2017-02-14 19:21:00][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "a21d565882c9f9a94b68714b16c62dd6",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+

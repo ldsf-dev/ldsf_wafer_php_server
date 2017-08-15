@@ -1,0 +1,248 @@
+ERROR - 2017-01-22 00:43:52 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-01-22 00:44:05 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-01-22 01:35:14 --> 1 2
+ERROR - 2017-01-22 01:35:14 --> 2 0
+[2017-01-22 01:35:14][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "00195BI102kg3D1MojL105HEI1095BIE",
+                "encrypt_data": "W8CflGiAjT3idrG4AkNx\/DxpbcDWYZk3eo534PTBH9RFCSvvSa5dq83v2Zbf++r+iGDmNj22si38kFsi1s0AkTAPIwKcIWFRWUDc1sQKL7Z\/sCu0OrTK\/e0Gp9Tckoj3zLSAB5t2fSEYOKkBclFCNKPMMQZHjX6iXLwnlQBgm0X7fRlwVJw3lxmpMZ8O9eoHverBt3Z3c0qQDFJ413G4CJijyTNrYpT23CvAagBxSelGMumCHVw79IcF4kErVz0kueUe0+s83Nh0Ra4i3uFOmzFMEAb5IEhd8CTFnL+bYpEQFJqFmpLwzcmcBRp6D5XZDfONGfRHDKK\/bVYCHTe2xX6fKAcBo5IoQgW3g3dVWbJ35rFUSsklf3PPl\/\/RIQ1S5KkKFX9SbjunS6Rq8AaCBGQ5fNENVUlZCzVRLxLLT491dyCP0UPYvCqJadnAl6tyWUK0cU3FBJ2JZwb2+WscAw==",
+                "iv": "bf5tLtdxzX3k0xIIo18N0Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d05e8a5d1e21733666c6fb59fa29218",
+            "skey": "97b7868550f574d7d86e76c2f69ad349",
+            "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "watermark": {
+                    "timestamp": 1485020114,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "191ms"
+}
+
+[2017-01-22 01:35:14][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d05e8a5d1e21733666c6fb59fa29218",
+        "skey": "97b7868550f574d7d86e76c2f69ad349",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI"
+    }
+}
+
+ERROR - 2017-01-22 01:35:49 --> notify start
+ERROR - 2017-01-22 01:35:49 --> notify end, id:20170122013540920734 wx_id:4001792001201701227136046571
+ERROR - 2017-01-22 03:02:16 --> 404 Page Not Found: Cgi-sys/helpdesk.cgi
+ERROR - 2017-01-22 03:02:28 --> 404 Page Not Found: Cgi-sys/helpdesk.cgi
+ERROR - 2017-01-22 03:12:08 --> 404 Page Not Found: Cgi-bin/about_us.cgi
+ERROR - 2017-01-22 03:12:08 --> 404 Page Not Found: Cgi-sys/php5
+ERROR - 2017-01-22 03:12:08 --> 404 Page Not Found: Cgi-bin/test.sh
+ERROR - 2017-01-22 03:12:17 --> 404 Page Not Found: Cgi-sys/php5
+ERROR - 2017-01-22 03:12:27 --> 404 Page Not Found: Cgi-sys/php5
+ERROR - 2017-01-22 03:20:58 --> 404 Page Not Found: Cgi-bin/Count.cgi
+ERROR - 2017-01-22 03:20:59 --> 404 Page Not Found: Cgi-bin/reboot.cgi
+ERROR - 2017-01-22 03:20:59 --> 404 Page Not Found: Cgi-bin/php4
+ERROR - 2017-01-22 03:20:59 --> 404 Page Not Found: Phppath/php
+ERROR - 2017-01-22 03:21:08 --> 404 Page Not Found: Cgi-sys/entropysearch.cgi
+ERROR - 2017-01-22 03:21:08 --> 404 Page Not Found: Phppath/php
+ERROR - 2017-01-22 03:21:18 --> 404 Page Not Found: Phppath/php
+ERROR - 2017-01-22 03:21:20 --> 404 Page Not Found: Cgi-sys/entropysearch.cgi
+ERROR - 2017-01-22 03:22:46 --> 404 Page Not Found: Cgi-bin/defaultwebpage.cgi
+ERROR - 2017-01-22 03:22:46 --> 404 Page Not Found: Cgi-bin/status.cgi
+ERROR - 2017-01-22 03:22:47 --> 404 Page Not Found: Cgi-bin/test.cgi
+ERROR - 2017-01-22 03:22:56 --> 404 Page Not Found: Cgi-sys/signup.cgi
+ERROR - 2017-01-22 03:23:07 --> 404 Page Not Found: Cgi-sys/signup.cgi
+ERROR - 2017-01-22 03:23:49 --> 404 Page Not Found: Administratorcgi/index
+ERROR - 2017-01-22 03:23:50 --> 404 Page Not Found: Cgi-bin/light_board.cgi
+ERROR - 2017-01-22 03:23:59 --> 404 Page Not Found: Administratorcgi/index
+ERROR - 2017-01-22 03:24:10 --> 404 Page Not Found: Administratorcgi/index
+ERROR - 2017-01-22 03:31:00 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-01-22 03:39:38 --> 404 Page Not Found: Cgi-bin/concept.cgi
+ERROR - 2017-01-22 03:39:47 --> 404 Page Not Found: Infocgi/index
+ERROR - 2017-01-22 03:40:30 --> 404 Page Not Found: Cgi-bin/search.cgi
+ERROR - 2017-01-22 03:40:30 --> 404 Page Not Found: Cgi-bin/welcome.cgi
+ERROR - 2017-01-22 03:40:30 --> 404 Page Not Found: Indexcgi/index
+ERROR - 2017-01-22 03:49:32 --> 404 Page Not Found: Cgi-sys/defaultwebpage.cgi
+ERROR - 2017-01-22 03:53:49 --> 404 Page Not Found: Cgi-bin/main.cgi
+ERROR - 2017-01-22 03:53:49 --> 404 Page Not Found: Maincgi/index
+ERROR - 2017-01-22 03:53:58 --> 404 Page Not Found: Maincgi/index
+ERROR - 2017-01-22 03:54:09 --> 404 Page Not Found: Maincgi/index
+ERROR - 2017-01-22 04:03:03 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-01-22 04:38:18 --> 404 Page Not Found: Search/index
+ERROR - 2017-01-22 04:38:18 --> 404 Page Not Found: 273/index
+ERROR - 2017-01-22 04:42:31 --> 404 Page Not Found: Cgi-bin/php5
+ERROR - 2017-01-22 04:42:40 --> 404 Page Not Found: Phppath/cgi_wrapper
+ERROR - 2017-01-22 04:43:08 --> 404 Page Not Found: Cgi-bin/profile.cgi
+ERROR - 2017-01-22 04:50:49 --> 404 Page Not Found: Cgi-bin/formmail.cgi
+ERROR - 2017-01-22 05:07:55 --> 404 Page Not Found: Admin/index
+ERROR - 2017-01-22 06:14:32 --> 404 Page Not Found: Indexcgi/index
+ERROR - 2017-01-22 06:20:49 --> 404 Page Not Found: Cgi-sys/signup.cgi
+ERROR - 2017-01-22 06:41:59 --> 404 Page Not Found: Engine/log.txt
+ERROR - 2017-01-22 09:37:47 --> 1 2
+ERROR - 2017-01-22 09:37:47 --> 2 0
+[2017-01-22 09:37:47][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0113nypH14hrU40E3FpH17sypH13nypS",
+                "encrypt_data": "63EMEZKqcesJwQJPle7spEKCtLaaTfEJT5WNalZ1lt9j8i60ynuy9nmefoX\/ZOzciE8LiE2ZMuvjV2LSFguWI7n8Yn0BARvThqvlccUxMCI+QoZzghVYVK6lVARrQfueiBUq2TiUVIXA0nSQcNosOlpM2IFU\/FRwOwFzMEQ6FRYgOI2HZkhJaoV5emd+zykDx8RfCIo09JwOkrVerihhiYfsxN\/ktwwxgxK3owfOnDS2UvZ2l9q8ljQ75tW1PiquNtFEH8olBK\/p+g\/OKBtJ0yvOsCyE\/GbO+dSLyuNsMkKtmq4jd5DT8PhIRkJWXzuhptRW\/rLWFseSK6ofaIsnjCDB9P4Xj4FP8n4+9wuwi715eJN0nBi6ibnO8c8Orit3pLYyMpMldIirUFSBO7jEcJpVnATluG02FmdktoLwOwvcStIM+7TqPx9nWLkxY9wJcVtVsmJmMs+YbnbxPdyl\/qA9dEJDoC2uAxfjLmRMs6I=",
+                "iv": "FJknTMgyhqUzVlHjBbXw9Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "36c2d5b1e4a6b0c6ea15c13d94198b30",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1485049067,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "96ms"
+}
+
+[2017-01-22 09:37:47][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "36c2d5b1e4a6b0c6ea15c13d94198b30",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-22 09:51:49 --> 404 Page Not Found: Cgi-bin/formmail.cgi
+ERROR - 2017-01-22 13:57:15 --> 1 2
+ERROR - 2017-01-22 13:57:15 --> 2 0
+[2017-01-22 13:57:15][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051C7bmJ0W4PIk2drCnJ0gTomJ0C7bmM",
+                "encrypt_data": "iJi41vkfzXBFgm8NLCN9FxXuFWu0\/uuay5RraJqwSRVuSR5bM2t0KeoC07bO8bGgkLZOVM\/8DUe8ZASQKdSebWnLCg3b2b9GwGBG7W5n\/mhMj6nvuRNSZi\/L91MkjuQTheEzNbPCWC6djxjYonfN+FanG0LV91klptcpCl4R4oRNt\/h4oIsy7jHrxnI6ZYoHjgRSZMJEHJ9AGdcEO0JDTnRQDFysf1eHUrN7K+79VWnGpU4rqyvM4SH7zvb47btlank39iGzIRJIOt5enH2sJM9KJF6r60AMTcuzdBIMxMQpWLJvatNMstkzgVpT\/GqA+STtOzTqypxZOlqQjJOZm6UgIXSHoISBDMYedEyU5duZXAu4fUUKFhS3vWjnC\/VSetF5cU6zTza92hkDezJvwfLTLjrXvW7XEWy8tpgQkiCqtv9lDvgMInHX4Eguq6j5vJP5QcpAok\/r7u0zIw\/PIw5GG0oeVuqChwE3vWdDsR0=",
+                "iv": "VH1EqydnoZ9pOznTd\/GKog=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "5f3b4e2f9a06188760c0da8d7af023b2",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1485064634,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "86ms"
+}
+
+[2017-01-22 13:57:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "5f3b4e2f9a06188760c0da8d7af023b2",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-22 14:49:15 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-22 15:29:52 --> 404 Page Not Found: Admin/index
+ERROR - 2017-01-22 17:09:56 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-01-22 17:09:56 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2017-01-22 18:13:04 --> 404 Page Not Found: Good/goodlist
+ERROR - 2017-01-22 18:15:07 --> Severity: Notice --> Undefined property: Order::$load /data/release/php-weapp-demo/application/controllers/Order.php 23
+ERROR - 2017-01-22 18:15:07 --> Severity: Error --> Call to a member function model() on null /data/release/php-weapp-demo/application/controllers/Order.php 23
+ERROR - 2017-01-22 18:25:00 --> 404 Page Not Found: Order/20170120192542163927
+ERROR - 2017-01-22 18:25:44 --> Severity: Notice --> Undefined index: HTTP_OPENID /data/release/php-weapp-demo/application/models/Order_model.php 33
+ERROR - 2017-01-22 18:27:21 --> Severity: Notice --> Undefined index: HTTP_OPENID /data/release/php-weapp-demo/application/models/Order_model.php 33
+ERROR - 2017-01-22 18:27:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-22 18:28:51 --> Severity: Notice --> Undefined variable: openid /data/release/php-weapp-demo/application/models/Order_model.php 40
+ERROR - 2017-01-22 18:35:07 --> 20170120192542163927
+ERROR - 2017-01-22 18:35:49 --> Query error: Column 'order_id' in where clause is ambiguous - Invalid query: SELECT *
+FROM `t_order`
+JOIN `t_order_goodsinfo` ON `t_order`.`order_id` = `t_order_goodsinfo`.`order_id`
+JOIN `t_good` ON `t_order_goodsinfo`.`order_good_id` = `t_good`.`good_id`
+JOIN `t_order_status` ON `t_order`.`order_status` = `t_order_status`.`order_status`
+WHERE `order_id` = '20170120192542163927'
+ERROR - 2017-01-22 18:42:21 --> 404 Page Not Found: Manager/html
+ERROR - 2017-01-22 18:42:50 --> Query error: Unknown column 't_good_spec.good_spec_id' in 'on clause' - Invalid query: SELECT *
+FROM `t_order`
+JOIN `t_order_goodsinfo` ON `t_order`.`order_id` = `t_order_goodsinfo`.`order_id`
+JOIN `t_good` ON `t_order_goodsinfo`.`order_good_id` = `t_good`.`good_id`
+JOIN `t_good_spec` ON `t_order_goodsinfo`.`order_good_spec_id` = `t_good_spec`.`good_spec_id`
+JOIN `t_order_status` ON `t_order`.`order_status` = `t_order_status`.`order_status`
+WHERE `t_order`.`order_id` = '20170120192542163927'
+ERROR - 2017-01-22 20:32:38 --> notify start
+ERROR - 2017-01-22 20:32:38 --> notify end, id:20170122203208581647 wx_id:4002512001201701227221793313
+ERROR - 2017-01-22 20:33:54 --> notify start
+ERROR - 2017-01-22 20:33:54 --> notify end, id:20170122203338306942 wx_id:4002512001201701227225776576
+ERROR - 2017-01-22 20:37:39 --> notify start
+ERROR - 2017-01-22 20:37:39 --> notify end, id:20170122203716243795 wx_id:4002512001201701227225897175
+ERROR - 2017-01-22 20:38:07 --> notify start
+ERROR - 2017-01-22 20:38:07 --> notify end, id:20170122203755819235 wx_id:4002512001201701227221943072
+ERROR - 2017-01-22 21:02:42 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-01-22 22:13:12 --> Severity: Warning --> Missing argument 2 for Good::ordergoodinfo() /data/release/php-weapp-demo/application/controllers/Good.php 27
+ERROR - 2017-01-22 22:13:12 --> Severity: Notice --> Undefined variable: goodspecseq /data/release/php-weapp-demo/application/controllers/Good.php 31

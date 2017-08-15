@@ -1,0 +1,1565 @@
+ERROR - 2017-08-10 01:10:21 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-08-10 01:56:30 --> 404 Page Not Found: Check_proxy/index
+ERROR - 2017-08-10 05:07:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 05:07:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 05:07:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 05:07:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 05:08:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 05:13:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 07:02:23 --> 404 Page Not Found: Proxyhtml/index
+LDSF - 2017-08-10 07:32:38 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 07:32:38 --> openid=oPicY0bdlpD6_s84DIEV6lSLJWGI
+LDSF - 2017-08-10 07:32:38 --> >>> User->loginrecord()
+LDSF - 2017-08-10 07:32:38 --> openid=oPicY0bdlpD6_s84DIEV6lSLJWGI
+LDSF - 2017-08-10 07:32:41 --> >>> User->profile()
+LDSF - 2017-08-10 07:32:41 --> openid=oPicY0bdlpD6_s84DIEV6lSLJWGI
+LDSF - 2017-08-10 07:32:55 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 07:32:55 --> openid=oPicY0bdlpD6_s84DIEV6lSLJWGI
+LDSF - 2017-08-10 07:33:09 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 07:33:09 --> openid=oPicY0bdlpD6_s84DIEV6lSLJWGI
+LDSF - 2017-08-10 07:33:10 --> >>> User->loginrecord()
+LDSF - 2017-08-10 07:33:10 --> openid=oPicY0bdlpD6_s84DIEV6lSLJWGI
+LDSF - 2017-08-10 07:33:17 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 07:33:17 --> openid=oPicY0bdlpD6_s84DIEV6lSLJWGI
+ERROR - 2017-08-10 07:33:55 --> 
+ERROR - 2017-08-10 07:34:00 --> 
+ERROR - 2017-08-10 07:34:02 --> 
+ERROR - 2017-08-10 07:46:01 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-08-10 07:46:02 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-08-10 07:46:02 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-08-10 07:46:03 --> 404 Page Not Found: Static/js
+ERROR - 2017-08-10 07:46:03 --> 404 Page Not Found: Include/js
+ERROR - 2017-08-10 07:46:03 --> 404 Page Not Found: Include/js
+ERROR - 2017-08-10 07:46:04 --> 404 Page Not Found: Include/js
+ERROR - 2017-08-10 07:46:04 --> 404 Page Not Found: Res/js
+ERROR - 2017-08-10 07:46:05 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-08-10 07:46:05 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-08-10 07:46:05 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-08-10 07:46:06 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-08-10 07:46:06 --> 404 Page Not Found: Template/default
+ERROR - 2017-08-10 07:46:07 --> 404 Page Not Found: Static/js
+ERROR - 2017-08-10 07:46:07 --> 404 Page Not Found: Images/js
+ERROR - 2017-08-10 07:46:07 --> 404 Page Not Found: Templets/style
+ERROR - 2017-08-10 07:46:08 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-08-10 07:46:08 --> 404 Page Not Found: Images/default
+ERROR - 2017-08-10 07:46:09 --> 404 Page Not Found: Js/lang
+ERROR - 2017-08-10 07:46:09 --> 404 Page Not Found: Js/lang
+ERROR - 2017-08-10 07:46:09 --> 404 Page Not Found: D/js
+ERROR - 2017-08-10 07:46:10 --> 404 Page Not Found: Skin/default
+ERROR - 2017-08-10 07:46:10 --> 404 Page Not Found: Media/system
+ERROR - 2017-08-10 07:46:11 --> 404 Page Not Found: Media/system
+ERROR - 2017-08-10 07:46:11 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-08-10 07:46:11 --> 404 Page Not Found: Style/default
+ERROR - 2017-08-10 07:46:12 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-08-10 07:46:12 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-08-10 07:46:12 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-08-10 07:46:13 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-08-10 07:46:13 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-08-10 07:46:14 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-08-10 07:46:14 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-08-10 07:56:15 --> 1 2
+ERROR - 2017-08-10 07:56:15 --> 2 0
+[2017-08-10 07:56:15][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081qfHEk2tZXbI0xemEk2DVwEk2qfHET",
+                "encrypt_data": "+DXImopjbd5SAqX\/nc4pK8J97ZGNBpRXd8mVAHuSwYSzZl3NMRg9h5\/Zc7YFt5phqKsE5lZmtrh2QHrwGJV9NknAAVPMXAb6LvdExm6XH5PR2YU1q1FsR315fM+mxGND7eCZLTn4Z606h1WICdJ6x6oEWdHcf5GHbvB4u+crgOEN7UBZM6NUbRzlsbMAfs7onUeBfF6Nyq6SrPEevf\/rGVbXeokvd7xyoJb+nxhlRIj5NVRCp04nGoULH4kqJD81klLwiHwdkrRD8VmvZ+5jnv5nu67Os+SJCO8lquygweu5tOrVU\/he2Ccb1YNc0JcCVN53BT41LOFk2ZqzLonwaKCMr+OwmCCblApDZ5ajevtRCLYF6wMwRwJvyBgf0xqSOoY\/eOwneDL+Brb\/SIcr0W\/cMUQGmOBWfA\/Py47D1nxwPLAjr6Zz4uaNXwahMrKLTHAWee1XtWfPkzV+b8tLHob6hktYdsGZUMswbrlWoyvWX6Vwm9irnoZPZLkxXdRH8J1p77IFeCIG7XZ8AVIXoiWJxQDCMvLW9+loT7m53KU=",
+                "iv": "0bX4TsNoYnadnSGZ7\/iDUw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "284cc298219a5d814b0f72ff53bf71d9",
+            "skey": "6a1310ec054bd25c843d50ab817ec101",
+            "user_info": {
+                "openId": "oPicY0TLeZWK1RD6DQVzERB5l-cg",
+                "nickName": "但看人生路",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLvA8jB3BSroStXosJcWymn0m3SzH7C05Mj02xkpBTibpq2Cic3uXBibulCyeGOquXtpwhynWDxqtiaiaA\/0",
+                "unionId": "oU11PxM7OQACdTUJ68sbmP4-9MQA",
+                "watermark": {
+                    "timestamp": 1502322975,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "126ms"
+}
+
+[2017-08-10 07:56:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "284cc298219a5d814b0f72ff53bf71d9",
+        "skey": "6a1310ec054bd25c843d50ab817ec101",
+        "openid": "oPicY0TLeZWK1RD6DQVzERB5l-cg",
+        "unionid": "oU11PxM7OQACdTUJ68sbmP4-9MQA"
+    }
+}
+
+ERROR - 2017-08-10 07:56:15 --> 1 2
+ERROR - 2017-08-10 07:56:15 --> 2 0
+[2017-08-10 07:56:15][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061YvuoB1ha3Uf07U7oB1BIIoB1YvuoZ",
+                "encrypt_data": "TuyCELLGSIPgDgt22uoHAcnlEyEGQEJXZEE7FA1nc4vo7c7nORqTNj2A1Sw3jWpWn7YfDLWP+lqiZjPmcq5mQdB5\/xaLXeGdmi9Y2lBpyCEvBKNiS\/8pv0AQ9GlSbtKUyt9lZmifTR6+WodJUV5BnFJQP0cVRdarQKJslI8gZSgsLt6ogXvNS0xUz\/uWi7qEBG3TP6kXNG6eox0VcNZKA28F3DViE3fG4TEfAr6eNAQ2cE\/udyhMC424oFjnVX9l0cP54FO+Bv78L+AFumAMP71AAFDwkUF0Ui\/9ug448IpD2N\/Cob3DKsT9kXkQ2+7Q33E9gBN3H198aoNk6YZ6urgdEl33K+BGkLE0dbpkF049WcPJKA2lGRRkby+voTsOwPX02znhruShJJa4+4faytiO15ewzpM66kdw83Z2cy7Aipdm9dTMiFfJAZBzYiH1Yve2okqAjA0aEsut\/4toiqV1gyaSVj8CtYb05P55kKCq970cYTpM\/BVkbFSraztB7us2\/uZ9aIPqdJHiaM18TtgyFbIVcPrKAOeyVAZKr1I=",
+                "iv": "A2M5aJpse4+Mf8bu5mMiYg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "284cc298219a5d814b0f72ff53bf71d9",
+            "skey": "f833a6943735fd930665e7060a62fb70",
+            "user_info": {
+                "openId": "oPicY0TLeZWK1RD6DQVzERB5l-cg",
+                "nickName": "但看人生路",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLvA8jB3BSroStXosJcWymn0m3SzH7C05Mj02xkpBTibpq2Cic3uXBibulCyeGOquXtpwhynWDxqtiaiaA\/0",
+                "unionId": "oU11PxM7OQACdTUJ68sbmP4-9MQA",
+                "watermark": {
+                    "timestamp": 1502322975,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "102ms"
+}
+
+[2017-08-10 07:56:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "284cc298219a5d814b0f72ff53bf71d9",
+        "skey": "f833a6943735fd930665e7060a62fb70",
+        "openid": "oPicY0TLeZWK1RD6DQVzERB5l-cg",
+        "unionid": "oU11PxM7OQACdTUJ68sbmP4-9MQA"
+    }
+}
+
+LDSF - 2017-08-10 07:56:16 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 07:56:16 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:56:16 --> >>> User->loginrecord()
+LDSF - 2017-08-10 07:56:16 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:57:00 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 07:57:00 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:57:00 --> >>> User->loginrecord()
+LDSF - 2017-08-10 07:57:00 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+ERROR - 2017-08-10 07:57:06 --> 
+LDSF - 2017-08-10 07:57:17 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 07:57:17 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:58:26 --> >>> User->addressmodify() insupd=i addressid=
+LDSF - 2017-08-10 07:58:26 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:58:26 --> userid=105
+LDSF - 2017-08-10 07:58:26 --> level1=江苏
+LDSF - 2017-08-10 07:58:26 --> level2=苏州
+LDSF - 2017-08-10 07:58:26 --> level3=吴中区
+LDSF - 2017-08-10 07:58:26 --> detail=苏苑二村9幢405室
+LDSF - 2017-08-10 07:58:26 --> name=李叡
+LDSF - 2017-08-10 07:58:26 --> tel=13915410397
+LDSF - 2017-08-10 07:58:26 --> default=
+LDSF - 2017-08-10 07:58:28 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 07:58:28 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+ERROR - 2017-08-10 07:58:32 --> 
+LDSF - 2017-08-10 07:58:38 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 07:58:38 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:59:18 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 07:59:18 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:59:18 --> >>> User->loginrecord()
+LDSF - 2017-08-10 07:59:18 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:59:22 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 07:59:22 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 07:59:23 --> >>> User->loginrecord()
+LDSF - 2017-08-10 07:59:23 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+ERROR - 2017-08-10 07:59:24 --> 
+ERROR - 2017-08-10 07:59:28 --> 
+ERROR - 2017-08-10 07:59:29 --> 
+ERROR - 2017-08-10 07:59:41 --> 
+LDSF - 2017-08-10 08:01:04 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:01:04 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:01:05 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:01:05 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+ERROR - 2017-08-10 08:01:19 --> 
+LDSF - 2017-08-10 08:01:26 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 08:01:26 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:01:52 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:01:52 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:01:53 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:01:53 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:02:07 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:02:07 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:02:07 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:02:07 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+ERROR - 2017-08-10 08:02:09 --> 
+ERROR - 2017-08-10 08:02:55 --> 
+LDSF - 2017-08-10 08:03:04 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:03:04 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:03:04 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:03:04 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:04:26 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:04:26 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:04:26 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:04:26 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:04:36 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:04:36 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:04:36 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:04:36 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+ERROR - 2017-08-10 08:04:45 --> 
+LDSF - 2017-08-10 08:05:22 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 08:05:22 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:06:08 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:06:08 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+LDSF - 2017-08-10 08:06:08 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:06:08 --> openid=oPicY0TLeZWK1RD6DQVzERB5l-cg
+ERROR - 2017-08-10 08:29:14 --> 1 2
+ERROR - 2017-08-10 08:29:14 --> 2 0
+[2017-08-10 08:29:14][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081Ar2MA0tpIpe2st9NA0oaLLA0Ar2MQ",
+                "encrypt_data": "M1nW\/56wel+QQA1DwvwJCQnJdwj41AEXWbkVsY\/mnMhtkR1h8eQDm\/C3jvhRiM0oJ3SEwWYFBWUyUAS4eggcpOJ8BeNhagAHE6DDbGNfjiHkdXAilhNMaCAksTg0xD0mMUsKUPb0RwXckAJD6oDEnOM5izleceAPC+X6avt1zM8tNlJdAmzBOQkfAlBxgLU3U00A6mJuRJCI0l\/kaLjx6yOI1tfa69gRFEFlD5LXQ1MwYCAPHB1Ot9wxG1LJwrOx0fmbYwy5HqMyr9\/lBYSsv3SXw7XfSSCskYRueb6yfA6cCp8fwE+bpiJtKUrcWupwOAXJryP6\/B5L\/UQuagkbEyys2EFtZ8dJkaCgHqmEmhQdD5s9L57+ikfxFmI9pTLnwr9VchP\/vXfpqAEit7pe1TXGtGvmpWXM7\/wGOIaJ43\/AIe1+nJ+rcRrDJ9I\/C1nnIDydeYR4SComC0+vWx\/5qWUanlI9EME11\/3u0yJgBuS1y0Cxi9E7edaefmnOVNWJVbCAznZw\/BNoQXiKmoibFsbVsc3NPXWf3bqbi88sEmicFv5xonFpDhvRxmkSA6QP",
+                "iv": "PYEwKHSbeplg52cQU\/03xA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "08c91b7f20729c2480806f59d9e4b113",
+            "skey": "2c036a1cbf5049086ed8601807ca1360",
+            "user_info": {
+                "openId": "oPicY0cDOuTszpCYFA3iCuAnwim4",
+                "nickName": "梦梦梦梦梦梦梦梦梦😘",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "Dubai",
+                "country": "United Arab Emirates",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEKazia6PVIlTXxt82CqDZQt0pC6x46gcMkg4BgdnsDTJiae8xyKK1JhVuyEdhibL9wgOtcOgGOBbOTcw\/0",
+                "unionId": "oU11PxIRr4ewtVrwD-mNDKDZFYNQ",
+                "watermark": {
+                    "timestamp": 1502324954,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "119ms"
+}
+
+[2017-08-10 08:29:14][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "08c91b7f20729c2480806f59d9e4b113",
+        "skey": "2c036a1cbf5049086ed8601807ca1360",
+        "openid": "oPicY0cDOuTszpCYFA3iCuAnwim4",
+        "unionid": "oU11PxIRr4ewtVrwD-mNDKDZFYNQ"
+    }
+}
+
+ERROR - 2017-08-10 08:29:14 --> 1 2
+ERROR - 2017-08-10 08:29:14 --> 2 0
+[2017-08-10 08:29:14][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061rZTsQ04AxXb2pQ3sQ08cSsQ0rZTsu",
+                "encrypt_data": "fZN0h+VoJam3IEJnQh3MWELzRst84hM5qXC+l1wCt8qKF5JEVYszbHSer6bK7l9vM8UybAZAjejo13Z0P2E3l7rsH\/+0Pb0hHEuv377wlEqQT8y89aUeMEOYXu7DUAG4Hqvw1kiDUESSK11oBJGnsfinrwClS0JyDvCdwl+FKfk+uBdN5Wx1qcCn2JCqHeB8UfCx5dVcAnIixSrnc7q5iz\/oNwFfR1TGaavTgI10MiS22IBW\/EPDCgACmlfoV8cHjS\/OxZg037ZXX9Bb\/cotf0JvujLPAkFwcCuxWO0LyTdj0Mm5W7yk5nTb4p8VxBvw0MWStESXH2\/ozABanHsZZ8dz72bgsQhYdSTpYsMFBNLNNNIlRTWd5IR1osaFuMCD93oeJJwjPTQb7rEQ4Tpu1YPUuAdoOM96nr9JUVdu4XBLboj4iOgc2u8RhZ6oH67xpcQyP2hDDw0lLdBMLhitOTYw4M+8I4vlwUUlgjDhxMH1FrfuvGLyZ0lfqBi0UwKXyW5\/2RM6+gBiatJSW447hpJ2i5g5cs4SJ6uFE01daWKEPdF883bupNh8J9KOHQx3",
+                "iv": "GPhFWsmtdco91rObL3wFGg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "08c91b7f20729c2480806f59d9e4b113",
+            "skey": "5ccd6075fea77a50c207eab3af70f65b",
+            "user_info": {
+                "openId": "oPicY0cDOuTszpCYFA3iCuAnwim4",
+                "nickName": "梦梦梦梦梦梦梦梦梦😘",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "Dubai",
+                "country": "United Arab Emirates",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEKazia6PVIlTXxt82CqDZQt0pC6x46gcMkg4BgdnsDTJiae8xyKK1JhVuyEdhibL9wgOtcOgGOBbOTcw\/0",
+                "unionId": "oU11PxIRr4ewtVrwD-mNDKDZFYNQ",
+                "watermark": {
+                    "timestamp": 1502324954,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "125ms"
+}
+
+[2017-08-10 08:29:14][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "08c91b7f20729c2480806f59d9e4b113",
+        "skey": "5ccd6075fea77a50c207eab3af70f65b",
+        "openid": "oPicY0cDOuTszpCYFA3iCuAnwim4",
+        "unionid": "oU11PxIRr4ewtVrwD-mNDKDZFYNQ"
+    }
+}
+
+LDSF - 2017-08-10 08:29:15 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:29:15 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+ERROR - 2017-08-10 08:29:15 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-08-10 08:29:15 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:29:15 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:31:16 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 08:31:16 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:31:34 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 08:31:34 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:33:57 --> >>> Card->makedelivery()
+LDSF - 2017-08-10 08:33:57 --> post={"validatestr":"XyVZZrlbDdpFOUj9NzjKbUKHCfVfQvKea9Y6uihFh8M","cardno":"9750613284","openid":"oPicY0cDOuTszpCYFA3iCuAnwim4","contactname":"石梦怡","contacttel":"13402507592","contactaddress":"江苏 苏州 虎丘区 狮山路65号中国农业银行12楼","expectdate":"2017-08-14","remark":""}
+LDSF - 2017-08-10 08:34:03 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 08:34:03 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:34:15 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:34:15 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:34:15 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:34:15 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+ERROR - 2017-08-10 08:34:27 --> 
+ERROR - 2017-08-10 08:34:39 --> 
+ERROR - 2017-08-10 08:34:42 --> 
+LDSF - 2017-08-10 08:34:49 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 08:34:49 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+ERROR - 2017-08-10 08:35:02 --> 
+LDSF - 2017-08-10 08:35:08 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 08:35:08 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:35:08 --> >>> User->loginrecord()
+LDSF - 2017-08-10 08:35:08 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:35:10 --> >>> User->profile()
+LDSF - 2017-08-10 08:35:10 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+LDSF - 2017-08-10 08:35:16 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 08:35:16 --> openid=oPicY0cDOuTszpCYFA3iCuAnwim4
+ERROR - 2017-08-10 10:14:00 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-08-10 11:09:05 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-08-10 11:30:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 11:31:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 11:44:45 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-08-10 11:58:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 12:37:17 --> 1 2
+ERROR - 2017-08-10 12:37:17 --> 2 0
+[2017-08-10 12:37:17][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "01366odP0ztBl82wUtaP0MpndP066odt",
+                "encrypt_data": "MrJXQkivMrh3NiGolOs\/Y3vG1uno033YHqYLzOl+R5NcOsKYHgaylSjNZJ9GcGXx6GHhNU1xo5NbuLoOl++nSQRucTpcsIqeSoFuJmN6ENJIZB5w00NMpeDqcUDnmMhFgearhPlFVe\/wBVk2YaQAidF9bk6CKlg9Q4p+Vut9xWlr\/aunJzg36121QuURrW0pQnw+4V0Ta99D4BP45JoXYSdOUTFP+86RKq1FIOXOa\/9D7FC\/wXvCmtTZ1NgQwTteWCdZJiDdtrYqTii0PG6G+CywZkbm6a\/xDnBb4g+FNd7X+RbJp2xiUrhY7GTPQXJE5a3Rp42dygvStK8+qPr\/babClxysjY2CeR6+g47TJoPZOVU\/kogvsBfbREqH7jtPIVFOfwYw+AZKkF7KLW\/rd53QOLiIa2sUtObU7WImKdxBFrSOQQcVMn7r8P2ky6j0ydvxzIbjGBf2ISggMZS6vrOMVBsEwQAhBf0EHeVzw2rMMF5UCNU8XJGYQjHlG\/bRs1t4z\/zpVSRyUpq7xKA0Wk0kSoK\/spIC03JtJgtXTfU=",
+                "iv": "XOl0jOc2BxkfRTN49Z0L6g=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "21f1ae16e629f20e82339b8743570acb",
+            "skey": "20d58d7db184810b0fef4b31f397a413",
+            "user_info": {
+                "openId": "oPicY0SjzkJcsOepTBkXLUQZ1Erc",
+                "nickName": "绿色心情",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/V8WPGLBtuT0RRkHD2a2EpVcy9WfvPM8XTss2MSVxchaqGP4diajoswCdjTFJYgtiaric9VxPlicAfl0PAzTgdia7nRA\/0",
+                "unionId": "oU11PxMLe3xYF4qQZYJtwafIIkiQ",
+                "watermark": {
+                    "timestamp": 1502339836,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "177ms"
+}
+
+[2017-08-10 12:37:17][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "21f1ae16e629f20e82339b8743570acb",
+        "skey": "20d58d7db184810b0fef4b31f397a413",
+        "openid": "oPicY0SjzkJcsOepTBkXLUQZ1Erc",
+        "unionid": "oU11PxMLe3xYF4qQZYJtwafIIkiQ"
+    }
+}
+
+ERROR - 2017-08-10 12:37:17 --> 1 2
+ERROR - 2017-08-10 12:37:17 --> 2 0
+[2017-08-10 12:37:17][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "003FqPTI0FoU3j2ntETI07ENTI0FqPTo",
+                "encrypt_data": "462WFFdPTfq5IshdvMtyd9fR7Mmj8J0bn009q4zC399JpZnvZH6qP3wU4MIgI6J29h9fLcFIlQWcLRwLeREpNIglIV60bRpHptNWELUhqB\/uhGDNAu0XoFZIrwrfoEnpEZo8qAinoEq98I\/vorsefWUQ9IkM\/PN6Ch\/Gn5AdQOcf4MmM2OS8VJugDZGuqkyDHObImv\/tIOdN8vikzfAsqTnc9NXsAh2Y5M\/ivxXf\/ywY\/ujUkwG2S0QP\/\/jSZOAHr71NchzCQF8rhby0Mi5lV6qKOzTOygDsw2zryx8e2qviflrOtYqDIWkQZDTBfXZJpcbginsFWUHULXvXaJ14+Q+kxiPNk5daZHkBL9VX1qZzCwym\/abzGkLdOYMRXRH6pAuFFUYNKKLW5yHS0TqZJfGdNEWL\/KfaZzeC0a1VQVbLC+50115DC0MG0jlD\/ANkTQgNA1iINIPQCUXxNvzRArLAKJMC0Y1+dcGr66LYEaP1uXUdep31ZVnSR4XCYpgCRrCFnUUVEPX8\/vEHlg2A7TjzdJ8iX9\/PmvZrVYLRtkc=",
+                "iv": "c9StXN7YQezYkugcZ7GmAg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "21f1ae16e629f20e82339b8743570acb",
+            "skey": "c75925bdf9b0755877d9ae471a50b00e",
+            "user_info": {
+                "openId": "oPicY0SjzkJcsOepTBkXLUQZ1Erc",
+                "nickName": "绿色心情",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/V8WPGLBtuT0RRkHD2a2EpVcy9WfvPM8XTss2MSVxchaqGP4diajoswCdjTFJYgtiaric9VxPlicAfl0PAzTgdia7nRA\/0",
+                "unionId": "oU11PxMLe3xYF4qQZYJtwafIIkiQ",
+                "watermark": {
+                    "timestamp": 1502339836,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "167ms"
+}
+
+[2017-08-10 12:37:17][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "21f1ae16e629f20e82339b8743570acb",
+        "skey": "c75925bdf9b0755877d9ae471a50b00e",
+        "openid": "oPicY0SjzkJcsOepTBkXLUQZ1Erc",
+        "unionid": "oU11PxMLe3xYF4qQZYJtwafIIkiQ"
+    }
+}
+
+LDSF - 2017-08-10 12:37:18 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 12:37:18 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+ERROR - 2017-08-10 12:37:18 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-08-10 12:37:18 --> >>> User->loginrecord()
+LDSF - 2017-08-10 12:37:18 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+ERROR - 2017-08-10 12:37:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 12:37:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 12:37:46 --> 
+ERROR - 2017-08-10 12:38:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 12:38:04 --> 404 Page Not Found: Faviconico/index
+LDSF - 2017-08-10 12:40:33 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 12:40:33 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:40:34 --> >>> User->loginrecord()
+LDSF - 2017-08-10 12:40:34 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+ERROR - 2017-08-10 12:41:12 --> 
+ERROR - 2017-08-10 12:41:33 --> 
+ERROR - 2017-08-10 12:41:42 --> 
+ERROR - 2017-08-10 12:41:45 --> 
+LDSF - 2017-08-10 12:42:26 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 12:42:26 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+ERROR - 2017-08-10 12:42:39 --> 
+ERROR - 2017-08-10 12:42:43 --> 
+LDSF - 2017-08-10 12:42:59 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 12:42:59 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:43:31 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 12:43:31 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:43:31 --> >>> User->loginrecord()
+LDSF - 2017-08-10 12:43:31 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+ERROR - 2017-08-10 12:43:37 --> 
+LDSF - 2017-08-10 12:44:00 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 12:44:00 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:45:20 --> >>> User->addressmodify() insupd=i addressid=
+LDSF - 2017-08-10 12:45:20 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:45:20 --> userid=131
+LDSF - 2017-08-10 12:45:20 --> level1=江苏
+LDSF - 2017-08-10 12:45:20 --> level2=苏州
+LDSF - 2017-08-10 12:45:20 --> level3=虎丘区
+LDSF - 2017-08-10 12:45:20 --> detail=长江路819号理想家园5-504
+LDSF - 2017-08-10 12:45:20 --> name=唐冬芳
+LDSF - 2017-08-10 12:45:20 --> tel=18951106356
+LDSF - 2017-08-10 12:45:20 --> default=
+LDSF - 2017-08-10 12:45:22 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 12:45:22 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:45:45 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 12:45:45 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:45:45 --> >>> User->loginrecord()
+LDSF - 2017-08-10 12:45:45 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+ERROR - 2017-08-10 12:46:36 --> 
+LDSF - 2017-08-10 12:46:52 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 12:46:52 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:47:42 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 12:47:42 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:47:42 --> >>> User->loginrecord()
+LDSF - 2017-08-10 12:47:42 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:50:00 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 12:50:00 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 12:50:01 --> >>> User->loginrecord()
+LDSF - 2017-08-10 12:50:01 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+ERROR - 2017-08-10 12:53:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 12:54:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 12:54:03 --> 404 Page Not Found: Faviconico/index
+LDSF - 2017-08-10 12:58:11 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 12:58:11 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-08-10 12:58:12 --> >>> User->loginrecord()
+LDSF - 2017-08-10 12:58:12 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-08-10 13:01:23 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 13:01:23 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 13:01:23 --> >>> User->loginrecord()
+LDSF - 2017-08-10 13:01:23 --> openid=oPicY0SjzkJcsOepTBkXLUQZ1Erc
+LDSF - 2017-08-10 13:20:51 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 13:20:51 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-08-10 13:20:51 --> >>> User->loginrecord()
+LDSF - 2017-08-10 13:20:51 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-08-10 13:22:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 15:06:34 --> 1 2
+ERROR - 2017-08-10 15:06:34 --> 2 0
+[2017-08-10 15:06:34][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021O0Eur0pZ9Dc1YTMvr0UNCur0O0EuD",
+                "encrypt_data": "OLfBsz8OJQor2oPET3zS9YPIPTzLPqO4Zwb5OGGY8IbzlMMufAWB+kiFGAgkJZw1qtdFYxW7fb5qMlKhlinYImfRLXB\/pw0GVBMsQlgXQKmrLeBe4TyGjnVzBmaSM3vrFwWx3esEsGSpSeeezXGqq\/a7auGZcvOatFJ18BT2gzlx1ya6\/mr2yJ0SiMtSWlUQ8htn0sGydzuHzjt9yURZPzprIN5t16bBgoeN3qEyCSCz3tj6OQE43JnnfUepTsOv6iewV\/WLQwNXNGnkWyE\/4HD8tOOZY6NcKfGx6u2Ew4nF1znzGsOR8Lo84BdIc95ZbnHe+\/6RsdQOCSPOqbZWnKaSJYF0br1DNAX6MQosnRPTpdTdYP09ZEOUBDOjb1AO38sBPJgwr48g2\/lBZndRns\/6OjXEux7uaisbQPpdOLgpzjRDMh7p1dlz3oFm7pZHvDJ7zrPx\/8PwbRVFNDaDqB8qOPZmIqJWrmE4js8ZvBahaALWwRB5JPmIl4AOHgwX6oqb0ECfWsks1uAMpQU7AtxHFfv8gEoh\/iLPzWZTfLc=",
+                "iv": "kEWqo8sY7OEi3WyfV3b2Ig=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "324388128ed77a380adae8d4ac79b56f",
+            "skey": "ce5f74ee0a944d66e510515730118956",
+            "user_info": {
+                "openId": "oPicY0ZVrsGi8N--Jq345t8dKQDs",
+                "nickName": "Never walk alone",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTIM4iamRcx1aawxVlBV233qIRRAxEaFGwFVt90CR6ZYiaQy9Nnx44xmenY7qMNAv5JRmNSM6riaPwC7A\/0",
+                "unionId": "oU11PxN6L9AZqUyTaR_SwlpXnctg",
+                "watermark": {
+                    "timestamp": 1502348794,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "109ms"
+}
+
+[2017-08-10 15:06:34][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "324388128ed77a380adae8d4ac79b56f",
+        "skey": "ce5f74ee0a944d66e510515730118956",
+        "openid": "oPicY0ZVrsGi8N--Jq345t8dKQDs",
+        "unionid": "oU11PxN6L9AZqUyTaR_SwlpXnctg"
+    }
+}
+
+ERROR - 2017-08-10 15:06:34 --> 1 2
+ERROR - 2017-08-10 15:06:34 --> 2 0
+[2017-08-10 15:06:34][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081cWQKd1fz8Tu0LzfKd14IOKd1cWQKY",
+                "encrypt_data": "bdOclVw35b\/5TZ2\/tExx0IqBmCBLVhB5sfepwupuAZj2LE3Zo5hLYILUWqTKZHVw2c7jPSMB7xrbqCBj0h0xGT0Tvad7GEDfk6qsvKdA3uiFJDRvG7v26f\/dwu\/coM+RYbVNGLHlVlrUa3agNVPKJZyNZelriKJRR\/GHHdDsHIsNtWuO4nrrKLdUNsEELRzA53JwuEpOC4xwtaAGL0+FqFxET7qGrLqPZxOVGqpaUlNH5jilrl8AzeoZyjq7RnvHTlQUwytSRycngljTqjXVypNjbVB4XNdZj7YzAXRKusA4CNBBe44MsERgeBZ9wbkkJqF2uHhHfGKR0xgy4dDR2zanXUt+26e4ubwsemJjqAt0BksOcg3PA7POf9nGtiq7C0sJFw0NimL2A9A83h8eA8i7xczocuCy9537gKoe7I1vfYWSQRW+vAiBJESJwiztNq872hArfzFacPMZRG\/IJTsdGE1n7R7glNWzyL5cLpXwc+2a4m967F7E0FdB1S3LJTta3eI3+fqJmhcpxLdO1WY3Ox14rDAvzTb9Uf8eDIQ=",
+                "iv": "Byxd0RTLXFUZHw65uCgUGg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "324388128ed77a380adae8d4ac79b56f",
+            "skey": "d311b0639cd1effe816cdf3fb14e70a0",
+            "user_info": {
+                "openId": "oPicY0ZVrsGi8N--Jq345t8dKQDs",
+                "nickName": "Never walk alone",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTIM4iamRcx1aawxVlBV233qIRRAxEaFGwFVt90CR6ZYiaQy9Nnx44xmenY7qMNAv5JRmNSM6riaPwC7A\/0",
+                "unionId": "oU11PxN6L9AZqUyTaR_SwlpXnctg",
+                "watermark": {
+                    "timestamp": 1502348794,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "81ms"
+}
+
+[2017-08-10 15:06:34][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "324388128ed77a380adae8d4ac79b56f",
+        "skey": "d311b0639cd1effe816cdf3fb14e70a0",
+        "openid": "oPicY0ZVrsGi8N--Jq345t8dKQDs",
+        "unionid": "oU11PxN6L9AZqUyTaR_SwlpXnctg"
+    }
+}
+
+LDSF - 2017-08-10 15:06:34 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 15:06:34 --> openid=oPicY0ZVrsGi8N--Jq345t8dKQDs
+LDSF - 2017-08-10 15:06:34 --> >>> User->loginrecord()
+LDSF - 2017-08-10 15:06:34 --> openid=oPicY0ZVrsGi8N--Jq345t8dKQDs
+LDSF - 2017-08-10 15:06:50 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 15:06:50 --> openid=oPicY0ZVrsGi8N--Jq345t8dKQDs
+LDSF - 2017-08-10 15:08:37 --> >>> Card->makedelivery()
+LDSF - 2017-08-10 15:08:37 --> post={"validatestr":"VyBXMbhcBY9FOUjyMDnPakGNCPVcQvKea9YxyihP5cM","cardno":"6045129387","openid":"oPicY0ZVrsGi8N--Jq345t8dKQDs","contactname":"曹琦斌","contacttel":"13771767574","contactaddress":"江苏 苏州 吴中区 横泾街道新路社区7组","expectdate":"2017-08-11","remark":"请送货上门"}
+ERROR - 2017-08-10 15:34:26 --> 1 2
+ERROR - 2017-08-10 15:34:26 --> 2 0
+[2017-08-10 15:34:26][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061OY84h1Eb10w0Dzs5h1XLX3h1OY84T",
+                "encrypt_data": "Yqt7+7Hy2cXQ+Z7laVd7mzxysQPM5GUKUB\/szQcPqv8ihwxyh\/vYoiJoamhnaIjrxK6KFE3O2blkpbOwQVurOFgwPemzfdHysFrYDrpLP04AKi47CuTQEX9WsnTG5aPD5nqNuoJPm3syXqcUugpW7Jpb9O9BClNLotW4IKV2iwOwahAtw9xk9ndnDzcRh+hjHRf73QsTMQN8PX8AlICRxLHo6Wn7C8dUxQVAX6CuWRJ2EM\/OLyi2uCm0VNvxyQqi9u4luSDOTKQuDWxtXWiWSh2CyJdnHbOOVDX9sWxtr5BLQ2IH5AXoXwNYyDRJzzaWp0nB88\/WT5ZgZa0yeLqclqHLnl\/k2tkT1\/iV7a1LPWXbN0X2C\/iMhx7bZrKBBGYhKaUQ+tJMKnvYqVNYRiUXpCDagJF3VfVjfBfXOebAw5J1JwYIdXEkIqMrX8vxj\/Jhib1sv\/aDfGrU6nlMBZ5Ln\/G0ZytKlRzra8veQXZ3cSMQ+NUYRt3C2On8mKGteTrlWMA\/hIlrtro3ajejN2f3bw==",
+                "iv": "ZcsCQSsSQtz1kxQLDHoZsw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "7af5c6b0edcb9a4cadcdba55e1f26743",
+            "skey": "cd05dda40b6bd9772364bf94a2e02055",
+            "user_info": {
+                "openId": "oPicY0WwblEvMsfQpGLLaqvBCcGQ",
+                "nickName": "蛮蛮",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTIyGhWqGJqgabibExHLPwp8IlQNl684IT2wlA5UmNqaN7PjianqZLXVTYNegmU8xyHtPOL245Kyo0gg\/0",
+                "unionId": "oU11PxIcSFu0fdNKWz0bp4i-dBfk",
+                "watermark": {
+                    "timestamp": 1502350465,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "107ms"
+}
+
+[2017-08-10 15:34:26][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "7af5c6b0edcb9a4cadcdba55e1f26743",
+        "skey": "cd05dda40b6bd9772364bf94a2e02055",
+        "openid": "oPicY0WwblEvMsfQpGLLaqvBCcGQ",
+        "unionid": "oU11PxIcSFu0fdNKWz0bp4i-dBfk"
+    }
+}
+
+ERROR - 2017-08-10 15:34:26 --> 1 2
+ERROR - 2017-08-10 15:34:26 --> 2 0
+[2017-08-10 15:34:26][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0015yGfy027Zlj1fsOdy0OEQfy05yGfy",
+                "encrypt_data": "xiwU9Q\/d0SLNAvDvGLVrdeLCSJvhS2aPWMuMXAMRI99QZLxmgOxrbA25fZBiTEOCTzdN+cawXeXm\/3Xn82IY2EnWGHdJUerk7MQObcbSS69XpC783YXIfGGeEcDGsbblhbNVximp\/Likyt\/5o6sh1mo5E6rMl162I9yByuAGaZsGzOsX+tiY9FYIWwmy69OP24jK\/fBZVciy2qqYx15aETeKo8CkzfzHrEWXyEnjgYJCcPyHKfUIhFuru0JmTkkjH6wBtqb6LmYlljkQihQ2u1ozd2cAKe3JmVpI4zecHm7ONYtVHqJgjtG7fzewWC5DQoVjc2S5MvY9yOdybm9q\/VrCQmb6UpAcYrzdS7rSarJW473zLMoROPqLBhHqmSNoxYE+JDan9MtcFqRPdsxhlXuH4gjy+riiQ2UatJXucJ0nyqModInXEvMyLFBe7dJ087t6EfdVUFG1JthDlHjLkMaaZAldBrGDJhLr95vpyfShdZ8CojSWQHRNkw4\/dm7pQ5y89I2mAE8GCXY8OmzAag==",
+                "iv": "XzytxwXJ9N2IViI\/iaKOGw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "7af5c6b0edcb9a4cadcdba55e1f26743",
+            "skey": "8027346a9b72a935cb7d539ceb0d3af3",
+            "user_info": {
+                "openId": "oPicY0WwblEvMsfQpGLLaqvBCcGQ",
+                "nickName": "蛮蛮",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTIyGhWqGJqgabibExHLPwp8IlQNl684IT2wlA5UmNqaN7PjianqZLXVTYNegmU8xyHtPOL245Kyo0gg\/0",
+                "unionId": "oU11PxIcSFu0fdNKWz0bp4i-dBfk",
+                "watermark": {
+                    "timestamp": 1502350466,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "101ms"
+}
+
+[2017-08-10 15:34:26][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "7af5c6b0edcb9a4cadcdba55e1f26743",
+        "skey": "8027346a9b72a935cb7d539ceb0d3af3",
+        "openid": "oPicY0WwblEvMsfQpGLLaqvBCcGQ",
+        "unionid": "oU11PxIcSFu0fdNKWz0bp4i-dBfk"
+    }
+}
+
+LDSF - 2017-08-10 15:34:26 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 15:34:26 --> openid=oPicY0WwblEvMsfQpGLLaqvBCcGQ
+ERROR - 2017-08-10 15:34:26 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-08-10 15:34:26 --> >>> User->loginrecord()
+LDSF - 2017-08-10 15:34:26 --> openid=oPicY0WwblEvMsfQpGLLaqvBCcGQ
+ERROR - 2017-08-10 15:34:33 --> 
+ERROR - 2017-08-10 15:34:45 --> 
+ERROR - 2017-08-10 15:45:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OUTER JOIN `t_user_profile` ON `t_user_profile`.`user_openid` = `t_card`.`card_u' at line 3 - Invalid query: SELECT `t_card`.`card_serialno`, `t_card`.`card_no`, `t_card`.`card_password`, `t_card`.`card_status`, `t_card`.`card_goodremark`, `t_card`.`card_expire_starttime`, `t_card`.`card_expire_endtime`, `t_card`.`card_remark`, `t_user_profile`.`user_nickname`, `t_good`.`good_name`, `t_good_spec`.`good_spec_name`
+FROM `t_card`
+OUTER JOIN `t_user_profile` ON `t_user_profile`.`user_openid` = `t_card`.`card_user`
+JOIN `t_good` ON `t_good`.`good_id` = `t_card`.`card_goodid`
+JOIN `t_good_spec` ON `t_good_spec`.`good_id` = `t_good`.`good_id` and `t_good_spec`.`good_spec_seq` = `t_card`.`card_goodspecid`
+ LIMIT 1570, 10
+ERROR - 2017-08-10 15:52:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 15:53:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-08-10 15:55:13 --> 1 2
+ERROR - 2017-08-10 15:55:13 --> 2 0
+[2017-08-10 15:55:13][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021kqenO0w6ZL92C9HnO00benO0kqene",
+                "encrypt_data": "kbARd2SdPbFAwfonIV4LrHiZheTP4lkaIRnZl913X57hANBpK2VaB5Uy6t7VyDerAOmSCFklwHaBkVfcUuo3ZcLw+9J54FlUSs3snH0iiitT6\/JRPqgHvnztUtRN0ZKTOw0II9b4ygNgBkA+wJ63j0EVVg0CZxACTEQWm\/2awVHxcyzQoVWaPW402HBdlkw5mw7FgEOFc9SF\/\/I8XMc6ngP3QrLCllgejetj0HZrd1Z9II8yeEj9zZFJRkjVEo5akzfvWMQMlwJhhMMpqlhHiC3zQhb\/IKB1bBMksz4WC9pRR0WZYKUz6XtT\/0Ia5Os55uJyUs+PVwiCidd3hRzXv0n86RfvSjenaF28jLL2weIpz7d2v4CaY6R9tvwgQimlNNhOxhz7SfDjmquvkNY+DYAkyINRLw7qzB+9eoPJ2Az9eigrE0xYZsMqr6gyKGr5ONlhC8mALaRyB3TOMQke9KzdnovvMqdxtay27q2tWAnF9a0A12p27JejLKe+q0dgk7CMN2w3GDo2AJaleAx+WkH\/1jizEGeGYS8375Or7ac=",
+                "iv": "xci8\/degCsy2KSFQST68hQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "b15277dd158a86972beaddaf2b658f61",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoMlhulSGjIzKwaqj945YIMicQ\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1502351713,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "158ms"
+}
+
+[2017-08-10 15:55:13][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "b15277dd158a86972beaddaf2b658f61",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+LDSF - 2017-08-10 15:55:13 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 15:55:13 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-08-10 15:55:13 --> >>> User->loginrecord()
+LDSF - 2017-08-10 15:55:13 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-08-10 16:42:52 --> 1 2
+ERROR - 2017-08-10 16:42:52 --> 2 0
+[2017-08-10 16:42:52][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061I3LmH0Hrs2l2fTkmH0qvvmH0I3Lm9",
+                "encrypt_data": "hm70sFQRtlKXRlzj\/JEBoJg8D8aRc9dVit7sdu37x\/QU9HSq67m+RsqVQ3fdxnwXW6lIHhJldoBvda9gWjcwyUm87Flfd6gIbo6X7DfzytPWzUHo42SF+4xUbQJgGkEZmyira3mA+qALGCNCoRjotxPD5QYjVXVkNY0VJmxA7EtgWyhzzzWvmb+RDomR7sDU4uN5MxnvOjhgcQtp31q7WichF4Oon2hVOrPJ21MPksf4x8B0OroBXnxBtinfVakSEdeoxogwFRNbMleM5WoAfYITxtyhESncoAZJ80Lkc2qSt9FGg1BnDZeSEoC6miYnZmyftByM+NUlKJCkPJbtM2EhcL+1w\/E+sWZxxV00M3RpVISVU5zrF21H2VRaaLkCn5RyPWbQ5GfcEbj14\/DLgkAY+iW29lIBiXLjHtFA\/u70+BVKEbWcZh+X85C0xc\/AStoge5+f\/c5vPJK1RvfLeVfa\/hu5cUr+5sDpGp7foZ3qMqGYIkJaqyQVRbvWWKYP9Bf9LMq0kMtJKBxGTw\/ZnA==",
+                "iv": "Xtc0zg3qyf8gBy2vdnorHA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "3ecea54a6de732b6a233111b6e6606a1",
+            "skey": "0ea5aecbda492d14a86c5bcae6e79b29",
+            "user_info": {
+                "openId": "oPicY0efemhzuRoEEEigbLIG9SHY",
+                "nickName": "潇潇",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqciaaaGFHibib8iabVCbO3twtFibYvKFia3MNV9oZXIowkjMC1aKz3E89U2KoXjCx94xkMhibCHo2sbe72g\/0",
+                "unionId": "oU11PxGzNMEp6QuKvKKGuL8S9-cA",
+                "watermark": {
+                    "timestamp": 1502354567,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "117ms"
+}
+
+[2017-08-10 16:42:52][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "3ecea54a6de732b6a233111b6e6606a1",
+        "skey": "0ea5aecbda492d14a86c5bcae6e79b29",
+        "openid": "oPicY0efemhzuRoEEEigbLIG9SHY",
+        "unionid": "oU11PxGzNMEp6QuKvKKGuL8S9-cA"
+    }
+}
+
+ERROR - 2017-08-10 16:42:52 --> 1 2
+ERROR - 2017-08-10 16:42:52 --> 2 0
+[2017-08-10 16:42:52][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001JAF4Z0fs6WY1oth3Z0YSG4Z0JAF4V",
+                "encrypt_data": "iLp+zxuUHA724iCdp74zxJDARvo+fFxfK9\/0+gPho14CAsRIz4ZN+\/xB8FtXeSsZtNpI2QLF1WlDO6zen6F9sRJ0sJ\/8jSVvlH+030Ynxy+3CQ5MgSuN\/NU\/AWJ5EUplQrK0t4dusFlFpv+Eu592U3+vE8TUlim8f8\/h3EL\/MShoJI8mmjmLzsjoPiSgtd7OD6loJd5uOLtuAl331cDZOd1peyuXrSdXDDu7A3gLufEUoZlwv0B+7ZNMJh6yE67cZaN8yKyISvKZR5cIlyL0VmFjg6v8YiBo9z3Tt3tv7gOUkkhXISLQWXDEJIfncflM08Pv8jO21MEzZvdYBKNJFd4B5mhLHGh6butocuVA8YSYLx4twafaOqkOQfoabtNLwUkoz66Sfb1U+DfynqymFDwnkWUf0q6I\/XWAKKAvKl5jMv+kx0oE6iglrrMWau4pmwexJ3Wjvp1QYRC3eBFXafIwKS61mIJyFyONV2NDMJ2WDzQwH+TtesbScuLXgfPKoxi6iUjCv3BCd8\/+VMGvQg==",
+                "iv": "wVxZqtmxxHDkGA\/y+NlVSw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "3ecea54a6de732b6a233111b6e6606a1",
+            "skey": "bc8b3a86aac704d6afd98f6325813caa",
+            "user_info": {
+                "openId": "oPicY0efemhzuRoEEEigbLIG9SHY",
+                "nickName": "潇潇",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqciaaaGFHibib8iabVCbO3twtFibYvKFia3MNV9oZXIowkjMC1aKz3E89U2KoXjCx94xkMhibCHo2sbe72g\/0",
+                "unionId": "oU11PxGzNMEp6QuKvKKGuL8S9-cA",
+                "watermark": {
+                    "timestamp": 1502354567,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "132ms"
+}
+
+[2017-08-10 16:42:52][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "3ecea54a6de732b6a233111b6e6606a1",
+        "skey": "bc8b3a86aac704d6afd98f6325813caa",
+        "openid": "oPicY0efemhzuRoEEEigbLIG9SHY",
+        "unionid": "oU11PxGzNMEp6QuKvKKGuL8S9-cA"
+    }
+}
+
+LDSF - 2017-08-10 16:42:52 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 16:42:52 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:42:52 --> >>> User->loginrecord()
+LDSF - 2017-08-10 16:42:52 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:43:39 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 16:43:39 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:43:39 --> >>> User->loginrecord()
+LDSF - 2017-08-10 16:43:39 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+ERROR - 2017-08-10 16:43:47 --> 
+ERROR - 2017-08-10 16:43:53 --> 
+LDSF - 2017-08-10 16:46:30 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 16:46:30 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:46:31 --> >>> User->loginrecord()
+LDSF - 2017-08-10 16:46:31 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+ERROR - 2017-08-10 16:46:33 --> 
+LDSF - 2017-08-10 16:46:40 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 16:46:40 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:47:28 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 16:47:28 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:47:28 --> >>> User->loginrecord()
+LDSF - 2017-08-10 16:47:28 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+ERROR - 2017-08-10 16:47:46 --> 
+LDSF - 2017-08-10 16:48:00 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 16:48:00 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:48:00 --> >>> User->loginrecord()
+LDSF - 2017-08-10 16:48:00 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:48:24 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 16:48:24 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+LDSF - 2017-08-10 16:48:24 --> >>> User->loginrecord()
+LDSF - 2017-08-10 16:48:24 --> openid=oPicY0efemhzuRoEEEigbLIG9SHY
+ERROR - 2017-08-10 18:11:23 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-08-10 18:12:19 --> 1 2
+ERROR - 2017-08-10 18:12:19 --> 2 0
+[2017-08-10 18:12:19][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021JewR30q3heF1wQxR30DrxR30JewRG",
+                "encrypt_data": "k1oqhOhwVsmcB95qr0OoDimZORJyuW4oGIMu0qPA25UP+jcqg8cfGITEYoktNoMJq7rLgixA7DkCJ+ZDRNjrs4wF6msPVXPzBMnCDAIIVJX60igJZHEdLcfLCvTaAnXy7FFC8BiDIjBW1nNLFgoynQ3j1QxXRAIKt+SPkILUl6g5BfFKmx\/pHrtXwPx0NGoORsQGsBHR4rWbqLdsMLlpAw7x5bn4MsT7yTMuGO+kvUQs1P+zD75isxAuYOD30tfMFsJ2NRmh\/XvgxpCe6OkKtDpNkFajBcSLW3CTrA7upUrs+9yxVUSP0uyBIbLsF6aeK3dkaYB+2RZX2U9CaQ6qz3M9Kcx+h6AQnvHuhOlS\/Yq7SQ8ocLnWnI9BI7sSqYWUmNW09l9BkTlSMbjacRq2w3vphfXYJ9rs4HfdpB1kp086Zh9hEcIsi\/A2E2REqoOOjL341FEaTLdHKLfWr0vtHHLR5Z1Tz4hylbp6c92mtNxZVmPqnzLt+I6UDlTwkYN2pwf3QjC1UKcyK3ynd1rMCQ==",
+                "iv": "laGAfMfRBw6QvjH0\/DJVCA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "b0d6ed647ac5d15fe1ad6f59612e9221",
+            "skey": "5ff552b1ad07b8fd6e1c13dc80a8600c",
+            "user_info": {
+                "openId": "oPicY0SSEf7fHy_Pj0WSPO9IGfI8",
+                "nickName": "怕瓦落地",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "Greece",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTJ0m9STsRgnbKkhzGNqnIYzw2lYadY0Ts9licxQ0jd254aUJ2PHDOmZzt9ehDSqsQmjIWLpIRUEhpA\/0",
+                "unionId": "oU11PxLGs1GMj-X7ZvprYzVklEQw",
+                "watermark": {
+                    "timestamp": 1502359939,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "100ms"
+}
+
+[2017-08-10 18:12:19][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "b0d6ed647ac5d15fe1ad6f59612e9221",
+        "skey": "5ff552b1ad07b8fd6e1c13dc80a8600c",
+        "openid": "oPicY0SSEf7fHy_Pj0WSPO9IGfI8",
+        "unionid": "oU11PxLGs1GMj-X7ZvprYzVklEQw"
+    }
+}
+
+ERROR - 2017-08-10 18:12:19 --> 1 2
+ERROR - 2017-08-10 18:12:19 --> 2 0
+[2017-08-10 18:12:19][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001HE90w08Lh4h1zGGZv0Nr80w0HE90G",
+                "encrypt_data": "b3r+EWWdiotd7l1JDWijGGrxbQq+baYyvd++4UAc53b1D+XwC66SKcB\/i\/J+3Bl8QrJU9LGOP9lV\/zLodoKafKu1IUq7sp6NC22Rl0ujJtTeYkyUr0ptmhkTu6tAXBdhX0WQrI08jKW24OnWIZ9eFU2rNueZ4JMIZ0RKn4OmZDTB+Pk4W30kpZ3HAFtGTN2eSMDGEjROu6Nu83jiaFzJ9ssaA0PZQEOK260txQcpRT1S865X3wUhl49CF151orUAB\/K+tbK+P6rmOtiO07gH\/5i63xj9AFEQq4fLLiOXD9baJ\/pfzTFxfT7hxetgP3Kzh2vIJZ7oRVqTnVDY5Nyy1JwgcMo9Gf8S7HPnjqJvgFZ27Bt\/smZosf5LHVJgpqKes892iMtloqc8seCLLB5SdQ5fLx5xY1rZlRDMXNggS2G6vKlKnMOGxbwF7pcTsXQiR0jBTsctJoewAUnbD7qFJjrBMuEjeRVNKGJzBhHnmnDoNg86R7JO8gRl6YL4\/DiTYBr+b1C8PWWO+S\/bazAYlg==",
+                "iv": "+OtF1Hmix00XBR9mm9\/h+g=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "b0d6ed647ac5d15fe1ad6f59612e9221",
+            "skey": "6f9b7f7a362cbd573993839312e9ecf9",
+            "user_info": {
+                "openId": "oPicY0SSEf7fHy_Pj0WSPO9IGfI8",
+                "nickName": "怕瓦落地",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "Greece",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTJ0m9STsRgnbKkhzGNqnIYzw2lYadY0Ts9licxQ0jd254aUJ2PHDOmZzt9ehDSqsQmjIWLpIRUEhpA\/0",
+                "unionId": "oU11PxLGs1GMj-X7ZvprYzVklEQw",
+                "watermark": {
+                    "timestamp": 1502359939,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "101ms"
+}
+
+[2017-08-10 18:12:19][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "b0d6ed647ac5d15fe1ad6f59612e9221",
+        "skey": "6f9b7f7a362cbd573993839312e9ecf9",
+        "openid": "oPicY0SSEf7fHy_Pj0WSPO9IGfI8",
+        "unionid": "oU11PxLGs1GMj-X7ZvprYzVklEQw"
+    }
+}
+
+LDSF - 2017-08-10 18:12:19 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:12:19 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+ERROR - 2017-08-10 18:12:19 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-08-10 18:12:20 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:12:20 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+ERROR - 2017-08-10 18:12:21 --> 
+LDSF - 2017-08-10 18:12:35 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 18:12:35 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+LDSF - 2017-08-10 18:12:51 --> >>> User->addressbook() opt=all
+LDSF - 2017-08-10 18:12:51 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+ERROR - 2017-08-10 18:14:40 --> 404 Page Not Found: Cgi-bin/test-cgi
+LDSF - 2017-08-10 18:16:55 --> >>> Card->makedelivery()
+LDSF - 2017-08-10 18:16:55 --> post={"validatestr":"UndVNLgKXd5FOUj0MzTOakaGDfpTQvKea9ZKul4v48s","cardno":"0394152678","openid":"oPicY0SSEf7fHy_Pj0WSPO9IGfI8","contactname":"汪潇","contacttel":"15995730331","contactaddress":"江苏 苏州 吴中区 苏街198号A楼","expectdate":"2017-08-13","remark":""}
+LDSF - 2017-08-10 18:17:00 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 18:17:00 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+ERROR - 2017-08-10 18:18:32 --> 1 2
+ERROR - 2017-08-10 18:18:32 --> 2 0
+[2017-08-10 18:18:32][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011oElTZ0RJY522zB4WZ05dlTZ0oElTJ",
+                "encrypt_data": "sV1rDd4T1RUYE1ZAjHnpKMN8aWqi9yxP5NZl5nZm4YlYzPBM6bFNi0PXVbWrnb+ae5hlBmT2b4IX07zRNOv16Q91NtVvwuCIu+zz+MLyw5mZQmfVxPadThwxrlsIbvGXTya1j3dzZW8YFpCwGhqblKSkEOdn4yqR7Poe077Q2WN6gbGHvrOwQTdtpQJE64O\/ayNEUmkXerU4gnyidt3yuolO1+27hLmuEYBWc5CBs1Eql6QksvWOTpCk3qFxDcSK6RRTujJzgQJcNtKMuSMocXvkMx2\/T5zTqL8bT\/TbZYu\/PfbBXw1mvV6I+aWux5v0LO4Dpvd0PkKCD9wYQd2Rb66bnUPLi6YyY9Wyyb\/M052Pj2ro90zkZ\/xvBXv3stvvJAH8f4iLl2ozbXh2li6Q6YdghkcN8OtAPV0UBOMgQzMXqqfv14f7TOBhLEM7TbcWCG0+AmdtcPsXuApUEXE7HYMEkjHuddKraTrnu81wHWqGCco9xsYwUUg6Fb6QeAMlYYPoZJcDzmJk6bNFC85sXA==",
+                "iv": "wSeZAWnhKP+oghQqRYYPJg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "8f0522210d8d99e87d711f51b10dd9c2",
+            "skey": "eb9ffed0ee43855a71a07eab649bfc51",
+            "user_info": {
+                "openId": "oPicY0c5C4-cF8MLX-G3A6R5x6yM",
+                "nickName": "徐琼",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83er0LicwdDN8T6Te3ITJ1ibTtK9Ld7opaPwX6e3K4T4x7qlqia2YA2KYiaYHCfiaeckHkoZShzn8dsKXZsA\/0",
+                "unionId": "oU11PxLAiYhTuxj4-wXDe-wq_Dts",
+                "watermark": {
+                    "timestamp": 1502360312,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "112ms"
+}
+
+[2017-08-10 18:18:32][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "8f0522210d8d99e87d711f51b10dd9c2",
+        "skey": "eb9ffed0ee43855a71a07eab649bfc51",
+        "openid": "oPicY0c5C4-cF8MLX-G3A6R5x6yM",
+        "unionid": "oU11PxLAiYhTuxj4-wXDe-wq_Dts"
+    }
+}
+
+ERROR - 2017-08-10 18:18:32 --> 1 2
+ERROR - 2017-08-10 18:18:32 --> 2 0
+[2017-08-10 18:18:32][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0013SwR91PUZGS1P3iR91YsIR913SwRt",
+                "encrypt_data": "mx0q4LJmWYaUxSZv65ZqzIecRP9PNM5rgANTAMzqjZgAKR8NgwtMAs25EQkaQt42eMHwDz8XxQso+I5xmxyGfFx5ifMCRRPu63cyaXlJtHagH2nKJEAKd7V6AVY+xaUl8ykLu5fiTHN+MBT5EsH7\/kTuDqTWprWy1kcDaxrBtUrN3CkHGT7UtIHeisgTcjUGVL5c+cMFh4veTu08Deg9ya37roYMFvE\/AJjLnOizrQqfGAKCWQg6k5N8WDOpZIC2XUWNGgLcBG0Ho5c1Ekkyhp3NT5O2x2N7mSC7wfcYeH+\/K2DMXEbnXh5yy3o23\/ylU7+NIewDrNifiJfkrVvN+OE+ryhFyi5u0JWyXXViqv8FrJYyBqAYi1X8QIEC0QE5to2rJWD\/4g0Re4CPxl3popaPUb9JsvbrPiKoxBf5jstrBB5eftwSTTlf7tRffa1GX4RRGVi0dd8MajpaRwAquX\/\/rxtwA0G04xZQm6Fn2795Tmxo5NMePLdH\/KB7tnWls6U13tNN33ReJMA50\/z8nQ==",
+                "iv": "fNw7RksKk78uQEHFS\/vvwg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "8f0522210d8d99e87d711f51b10dd9c2",
+            "skey": "2a345537b5d19fc979f0580fa05545c2",
+            "user_info": {
+                "openId": "oPicY0c5C4-cF8MLX-G3A6R5x6yM",
+                "nickName": "徐琼",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83er0LicwdDN8T6Te3ITJ1ibTtK9Ld7opaPwX6e3K4T4x7qlqia2YA2KYiaYHCfiaeckHkoZShzn8dsKXZsA\/0",
+                "unionId": "oU11PxLAiYhTuxj4-wXDe-wq_Dts",
+                "watermark": {
+                    "timestamp": 1502360312,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "89ms"
+}
+
+[2017-08-10 18:18:32][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "8f0522210d8d99e87d711f51b10dd9c2",
+        "skey": "2a345537b5d19fc979f0580fa05545c2",
+        "openid": "oPicY0c5C4-cF8MLX-G3A6R5x6yM",
+        "unionid": "oU11PxLAiYhTuxj4-wXDe-wq_Dts"
+    }
+}
+
+LDSF - 2017-08-10 18:18:32 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:18:32 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:18:33 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:18:33 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:20:42 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:20:42 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:20:42 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:20:42 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+ERROR - 2017-08-10 18:20:45 --> 
+LDSF - 2017-08-10 18:20:50 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:20:50 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:20:51 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:20:51 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+ERROR - 2017-08-10 18:20:54 --> 
+LDSF - 2017-08-10 18:20:59 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:20:59 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:20:59 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:20:59 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+ERROR - 2017-08-10 18:21:08 --> 
+ERROR - 2017-08-10 18:21:12 --> 
+ERROR - 2017-08-10 18:21:13 --> 
+LDSF - 2017-08-10 18:21:19 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:21:19 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:21:19 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:21:19 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:21:21 --> >>> User->profile()
+LDSF - 2017-08-10 18:21:21 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:21:35 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:21:35 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:21:35 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:21:35 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+ERROR - 2017-08-10 18:21:43 --> 
+LDSF - 2017-08-10 18:21:58 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:21:58 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:21:58 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:21:58 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+ERROR - 2017-08-10 18:22:54 --> 1 2
+ERROR - 2017-08-10 18:22:54 --> 2 0
+[2017-08-10 18:22:54][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061BxMac1uP2fs0CUXcc1MRAac1BxMai",
+                "encrypt_data": "CTt6VBcLonx8CfMs7BDjNTT3oDF\/uqMp86uNAPPIBZ12kZh8+hFlg15WqbMzv25Q84seEHfjZBFQpmg5IQ1Z5kCWXf\/K+eY43vUgzL\/hVPTzU87u\/3KEB3jDtQM9xUPQXxV+RUujuCE3ssJQj1smEa7JObgvHc5ijpi0BWVxpBw1jacG0u2phIt10JA3BbStRuIewJPIguUV7Fvae8lC5BPH1E1m9KOhOHvpvB2gFNp+AIxDfAKB4Bfm2MyLW2HohDgoTHtHubxCdkbRW9j84y2oxMJ80kRu0be5wEFwbwelUecB1cy97HTG1F1EZe4pPLLd9nskWOdtj2P346ZrOlUmzuaOr27HrrZThHWuMPW+tA8cqmFD\/17lnA9nI9G+lxp6WYHzsrrjgYTAkIxva6Vik3l\/2KpM\/Q1HbsAyfokM2zNgqMRYl9oDnGs7BfnwRTIIOBC6OyUnZ4CUzETfCBFuj0CtG38+rGr+SJKgZhEnE7HoS7fKjxhlArUoti9SILqqVuOdSYnSUNMCawEAwxOzdmoppLYdPGXkVCrtWxI=",
+                "iv": "gbriOjxbQ6QcxzogjXFbyg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "f2ea3988d068d1643aa002375bfca58f",
+            "skey": "333bcea9f42de50a5a98bc40cc34cb58",
+            "user_info": {
+                "openId": "oPicY0Qvii-Df9MrPM-z_0u_vgaA",
+                "nickName": "忙忙忙死的落叶",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqJPSNEFGJ2yC05AeePmGxbEWvdzxCzaXn2srkw8ibcxs8OfJb2CJMOjH7TiaAcBeg4YLZw2LlMHeuA\/0",
+                "unionId": "oU11PxFgegyCvGOFpRZVsxnQE6J4",
+                "watermark": {
+                    "timestamp": 1502360573,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "125ms"
+}
+
+[2017-08-10 18:22:54][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "f2ea3988d068d1643aa002375bfca58f",
+        "skey": "333bcea9f42de50a5a98bc40cc34cb58",
+        "openid": "oPicY0Qvii-Df9MrPM-z_0u_vgaA",
+        "unionid": "oU11PxFgegyCvGOFpRZVsxnQE6J4"
+    }
+}
+
+ERROR - 2017-08-10 18:22:54 --> 1 2
+ERROR - 2017-08-10 18:22:54 --> 2 0
+[2017-08-10 18:22:54][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081grQH82hISzP0L0QJ824LUH82grQHW",
+                "encrypt_data": "z51ZYhdyWd2XNstXLo\/fCsVeDvGUDUImU9tD+POBufw28Ph9KUApso5TBTFWQrSGKesO2Tm8URHGHMI5YGYPm94Z4xaW+4BRiJ9P6aApJVYroSbJeaVGxqFwQvh4GVu7opXP0XXHyMb5jFK6Yt1VezRR+w5wvl4aWr8MA5b25WvX82ZHjCH9iIHXkO8Wmg5eWms1GwaUM3POUixAq5PSX9iyTNIokVc4b59Q6AyKqy2+fZKYp6hsoJ+Sz6J9pXH+OtGUDE1+XbTf1En662aljNlVcgMep79WAVotEhUS+MpUpKi6IrLFgF1CXGrI8Th5CnNdvAsLm75HAoKeiHZMHGuHzJQXgTg7Vxc4gjOsNEbewlRM6ru1hBRwRbL8LV5xJmjedF3C5uo1U5ex4FjNE9CogYK5Nt+n6hUAMavYIe9Man8EdYCslCtgxnw7CQ3iN5RyJUSfhfKGu2tUbl91NSAdifei+ZXbWmtOQcZEm2kgfSnjoWNON4YMO4NAu5CW54m2hbGgZy1fM3VEmETgnKdFz\/J1pMGz3j0gxbuww2Y=",
+                "iv": "bKuCoD73J27PpFLeAq1z0Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "f2ea3988d068d1643aa002375bfca58f",
+            "skey": "6fd3e8b932bee0794182945680079076",
+            "user_info": {
+                "openId": "oPicY0Qvii-Df9MrPM-z_0u_vgaA",
+                "nickName": "忙忙忙死的落叶",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqJPSNEFGJ2yC05AeePmGxbEWvdzxCzaXn2srkw8ibcxs8OfJb2CJMOjH7TiaAcBeg4YLZw2LlMHeuA\/0",
+                "unionId": "oU11PxFgegyCvGOFpRZVsxnQE6J4",
+                "watermark": {
+                    "timestamp": 1502360573,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "97ms"
+}
+
+[2017-08-10 18:22:54][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "f2ea3988d068d1643aa002375bfca58f",
+        "skey": "6fd3e8b932bee0794182945680079076",
+        "openid": "oPicY0Qvii-Df9MrPM-z_0u_vgaA",
+        "unionid": "oU11PxFgegyCvGOFpRZVsxnQE6J4"
+    }
+}
+
+LDSF - 2017-08-10 18:22:54 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:22:54 --> openid=oPicY0Qvii-Df9MrPM-z_0u_vgaA
+ERROR - 2017-08-10 18:22:54 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-08-10 18:22:54 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:22:54 --> openid=oPicY0Qvii-Df9MrPM-z_0u_vgaA
+LDSF - 2017-08-10 18:23:43 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:23:43 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+LDSF - 2017-08-10 18:23:43 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:23:43 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+ERROR - 2017-08-10 18:23:50 --> 
+ERROR - 2017-08-10 18:23:57 --> 
+ERROR - 2017-08-10 18:23:58 --> 
+ERROR - 2017-08-10 18:24:00 --> 
+LDSF - 2017-08-10 18:24:06 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:24:06 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+LDSF - 2017-08-10 18:24:06 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:24:06 --> openid=oPicY0SSEf7fHy_Pj0WSPO9IGfI8
+LDSF - 2017-08-10 18:24:31 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:24:31 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:24:31 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:24:31 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:25:22 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:25:22 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:25:23 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:25:23 --> openid=oPicY0c5C4-cF8MLX-G3A6R5x6yM
+LDSF - 2017-08-10 18:31:49 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:31:49 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-08-10 18:31:49 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:31:49 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-08-10 18:52:23 --> 1 2
+ERROR - 2017-08-10 18:52:23 --> 2 0
+[2017-08-10 18:52:23][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "013RUE9W0Pix9X1vlH7W0tBX9W0RUE9w",
+                "encrypt_data": "z31i8H9q0VYaBkHejoI\/UX1M93D3I8nArPD5aBRbwcoI36wdvD3Zi0X1EDXBmF9pVQzmpGq0tCSwQhWhXIZHTuwgXrORpAsKldJzQt2+65i\/miAv++wGBKwToHr4g\/hEviw2M5Aoj4CjA3DIUDxdAllihTKAzvVxgHWCa4FkOfM7SzdHHdSRTCU+7vSg5GsyPJiCf68UtcFLbgW0NH4ujbNSUQ68A2nOsT29dp7x2\/EpgkgxiUQ0V6Zu2Qd9neUHaUd17SqZ4PZXEwBrbuDXAMgeEhG06WECGxVKv20w6ZFNHweDkkTaWeWQfgvKXL2XYzZT6H+jexT1CMU6cPFvxqt9rq8DJ5GhDF+LkxE44uW+At2smDocxwH2Al3LtKO9xu7FCAV1oFPdcsVb2ZmhQCy774UU2rKMXcVTdscr8mJRZfZKnobQ\/\/Caa5KCcfoVEgemWOmdh\/F5KkJDLAU\/8A8ZOnNVMSS+Dn+5mG7RMKD4C8SGOXf435wQF6bdDiC\/",
+                "iv": "aXMlXXe2LYjAQt9jvSNDBg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2d2d7014073d5c0a1ae6294ddb21179a",
+            "skey": "58e5997a2403bbada5535e25763d37c6",
+            "user_info": {
+                "openId": "oPicY0QA7PGguQRU_owxx4Pf7IqY",
+                "nickName": "凤凤英",
+                "gender": 0,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/EibemxicfpUGx5ycXRMQnoBS2ZHKbGnE5QNOEkRwuiap3aO55y6Xzsc5DxH1AlMuUnQ8QcRLG1yoSDEwApC4e3U2w\/0",
+                "unionId": "oU11PxIWsm3BSrqLT0-b_xjeSgA4",
+                "watermark": {
+                    "timestamp": 1502362343,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "182ms"
+}
+
+[2017-08-10 18:52:23][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2d2d7014073d5c0a1ae6294ddb21179a",
+        "skey": "58e5997a2403bbada5535e25763d37c6",
+        "openid": "oPicY0QA7PGguQRU_owxx4Pf7IqY",
+        "unionid": "oU11PxIWsm3BSrqLT0-b_xjeSgA4"
+    }
+}
+
+ERROR - 2017-08-10 18:52:24 --> 1 2
+ERROR - 2017-08-10 18:52:24 --> 2 0
+[2017-08-10 18:52:24][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "003AR8jd1zZfEv0Y1Sid1HiTid1AR8ju",
+                "encrypt_data": "qAKq1CpdLVcbS+trhvHfPPyqWTYL\/YVOlLtZbG4fkGvD5ymAFznWJFGdyU9jYH7XRC6I86eh7QtyeDdWJgqgaT2X2ppltQk5JXNkRQTxvHOcSr1tFdHigWphVdq5yJj5I5DXb8KGgNEpxULWIGJNIQaknlQ0WeJLQibRMYrh3esiIYE9OlTttgQ3+NOzgltbD6QW5QvmWj8ItVfJt84JWu+\/zwS9ALgekYQe2g1VbP6MduPIkyz1FaqkpSp8UsGenDD5N1VfXuKqjqZaBnxRYy77+ijrjQv\/YA4JO6hzONOz79\/ymnpH3QSHwGCk7TnjhG0utPu65dSrqyviBh8YV95xY95IqlNed4XIt+865UJTpRfz+2vyAj1t+AXRmuS0xIzO52LA\/PYrlpHqfnwyUzwwpJrZer+B3q+MA3ia4McyzS4KOiI5YwFlXgY148dbnmg4Dd0TqkQ8EOkILuNxcpnSd0Ad2aYu4+2heByNtTKhoOQYrykkR6FbQbYcfjcV",
+                "iv": "CPzv\/HhFVXIeiaAXuFlzkQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2d2d7014073d5c0a1ae6294ddb21179a",
+            "skey": "6a765b9df0166ddd97c5293939cdefe3",
+            "user_info": {
+                "openId": "oPicY0QA7PGguQRU_owxx4Pf7IqY",
+                "nickName": "凤凤英",
+                "gender": 0,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/EibemxicfpUGx5ycXRMQnoBS2ZHKbGnE5QNOEkRwuiap3aO55y6Xzsc5DxH1AlMuUnQ8QcRLG1yoSDEwApC4e3U2w\/0",
+                "unionId": "oU11PxIWsm3BSrqLT0-b_xjeSgA4",
+                "watermark": {
+                    "timestamp": 1502362343,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "165ms"
+}
+
+[2017-08-10 18:52:24][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2d2d7014073d5c0a1ae6294ddb21179a",
+        "skey": "6a765b9df0166ddd97c5293939cdefe3",
+        "openid": "oPicY0QA7PGguQRU_owxx4Pf7IqY",
+        "unionid": "oU11PxIWsm3BSrqLT0-b_xjeSgA4"
+    }
+}
+
+LDSF - 2017-08-10 18:52:24 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:52:24 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:52:25 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:52:25 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+ERROR - 2017-08-10 18:52:29 --> 
+LDSF - 2017-08-10 18:52:36 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:52:36 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:52:36 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:52:36 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+ERROR - 2017-08-10 18:52:50 --> 
+LDSF - 2017-08-10 18:53:26 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:53:26 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:53:27 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:53:27 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+ERROR - 2017-08-10 18:53:42 --> 
+ERROR - 2017-08-10 18:53:42 --> 
+LDSF - 2017-08-10 18:53:53 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:53:53 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:53:53 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:53:53 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:54:33 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 18:54:33 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:54:33 --> >>> User->loginrecord()
+LDSF - 2017-08-10 18:54:33 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:55:28 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 18:55:28 --> openid=oPicY0QA7PGguQRU_owxx4Pf7IqY
+LDSF - 2017-08-10 18:59:01 --> >>> Card->makedelivery()
+LDSF - 2017-08-10 18:59:01 --> post={"validatestr":"VnNSaulbWNhFOUjyOT/LaEOMDvpfQvKea9ZKqU0l9ss","cardno":"6921308574","openid":"oPicY0QA7PGguQRU_owxx4Pf7IqY","contactname":"蒋琦","contacttel":"13862081900","contactaddress":"江苏 苏州 姑苏区 新元新村东区27幢302","expectdate":"2017-08-11","remark":""}
+LDSF - 2017-08-10 20:08:15 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 20:08:15 --> >>> User->loginrecord()
+LDSF - 2017-08-10 20:08:15 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+LDSF - 2017-08-10 20:08:15 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+LDSF - 2017-08-10 20:08:18 --> >>> User->profile()
+LDSF - 2017-08-10 20:08:18 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+LDSF - 2017-08-10 20:08:23 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 20:08:23 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+ERROR - 2017-08-10 20:24:43 --> 
+ERROR - 2017-08-10 21:10:37 --> 404 Page Not Found: Proxyhtml/index
+LDSF - 2017-08-10 21:18:31 --> >>> User->addressbookisempty()
+LDSF - 2017-08-10 21:18:31 --> openid=oPicY0ViVHa_9HhZaRkPjAVwQiI0
+LDSF - 2017-08-10 21:18:31 --> >>> User->loginrecord()
+LDSF - 2017-08-10 21:18:31 --> openid=oPicY0ViVHa_9HhZaRkPjAVwQiI0
+LDSF - 2017-08-10 21:18:33 --> >>> User->profile()
+LDSF - 2017-08-10 21:18:33 --> openid=oPicY0ViVHa_9HhZaRkPjAVwQiI0
+LDSF - 2017-08-10 21:18:37 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 21:18:37 --> openid=oPicY0ViVHa_9HhZaRkPjAVwQiI0
+LDSF - 2017-08-10 21:18:54 --> >>> User->addressbook() opt=default
+LDSF - 2017-08-10 21:18:54 --> openid=oPicY0ViVHa_9HhZaRkPjAVwQiI0
+ERROR - 2017-08-10 22:06:50 --> 404 Page Not Found: Faviconico/index

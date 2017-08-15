@@ -1,0 +1,134 @@
+ERROR - 2017-03-21 00:34:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-21 00:35:08 --> 1 2
+ERROR - 2017-03-21 00:35:08 --> 2 0
+[2017-03-21 00:35:08][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001X0qta1cW2YS1aXyva1Lrpta1X0qtB",
+                "encrypt_data": "e3X\/Zv8K2bYZtV+C+A0mC52Abo4\/1pMKabcwCD81SlFKyabysDHQt+yWz3Retz\/eo\/n6zj6lkKIPuCHD1DaH+zAnXRC3N54UnZ4r0lK14a0pLqrnWnlVMAjxbSl\/yM6zbLO\/Aeov4xeXymdEfYszHduyLNRDx0VkYjR8iV44q0Zz3hJPvJYYJsoDeTZF0R8maKalCJeJ4+keb25HMARBvxSa4hYYzhjLmgCRa3yyF6hUpKTLJDfx9EoltlWIzVKXSEqcN7WduXnV9aVjo5+zZePT3t+vb8fBxukxLHOrLMRC3VTALTPGpdE5JzBU7F4KRECL\/dCo3JJxD\/xHEGJdVazmIpaFh963y4Sa\/rg572z9QrHkJYOi4doB2x4CGRzN+bWy5h3YKjAnVBHd+ACH4n4BeDef+reNfFpWujM0gOvxXuXbunHlfw+6PbYNR9co1xKDE0F8yJYXuqu418PEmTJ6QjHeGb\/JVGa5356D6lvHfBQre2iybE51HWenBzOpzc9C7cI\/pdf8U5h04wePJA==",
+                "iv": "kjkV\/dNkqd5Han1oUjtSpg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "de3b69fbb4c1f0e13f3a0be1569fc0d1",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1490027707,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "109ms"
+}
+
+[2017-03-21 00:35:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "de3b69fbb4c1f0e13f3a0be1569fc0d1",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-21 00:35:08 --> 1 2
+ERROR - 2017-03-21 00:35:08 --> 2 0
+[2017-03-21 00:35:08][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031DWQc82QwzFO08YCf82NlNc82DWQc6",
+                "encrypt_data": "qBmyKzLPJIAn+NlWuUz\/bZL5ThQ08l1r6z\/wf64A1YPbVc1p6K7bdWWY0p8KTvPe7zLQQ7q1hx21hrc\/KmuHFJ9LwR3AyUptYIZEhIk122VsiWYk5drkNHK9x+N8k0zs62Tvk3NzSSebAB+niRgKi7+ee5ymCLUVCknOFFpknwB270VN9BBs2aXDMOjyR7I\/UV7bqCisxcFe3+uVLV7q7+feP5H7ug\/3vrmEs\/UrSRi6nN4\/c1PzMVcINW9RjquYGwMiS0vl0SoNSkuSMNleDORqBPygesbJH5EMyT5w94Khf9HJkfDztQFm2jQ2hxy3UTqPHHxIUo1AHAXIdIj1XM1\/RTJBVPfxKnNV8\/aqy+EUdYiD3blbofWo35qfaY9\/J1JR5mBm4S1l7sdNQdSNAsDJRStII+54xu0YD1JE3djHnEtMl61Hit6IRfYpLIivZW21YuakZaV9nw0XDTlmlcwQFqvjgRF6m3q4ZfDeE0ZA7zOAeNdgZ\/XqXSs+9Da2V1WjdAFXxXCzK7PlI1LLNg==",
+                "iv": "xyrjmPbQH1cenorcFkH\/yQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "1623bdc54cf7bf8bbe7b4e1ba23783dd",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1490027707,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "107ms"
+}
+
+[2017-03-21 00:35:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "1623bdc54cf7bf8bbe7b4e1ba23783dd",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-21 00:35:11 --> 
+ERROR - 2017-03-21 00:35:15 --> 
+ERROR - 2017-03-21 05:14:06 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-21 06:31:50 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-03-21 07:27:03 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-21 07:27:04 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-21 08:12:48 --> 404 Page Not Found: Systemini/index
+ERROR - 2017-03-21 08:12:48 --> 404 Page Not Found: Systemini/index
+ERROR - 2017-03-21 08:12:48 --> 404 Page Not Found: Systemini/index
+ERROR - 2017-03-21 08:12:48 --> 404 Page Not Found: Systemini/index
+ERROR - 2017-03-21 08:12:58 --> 404 Page Not Found: Cache/global
+ERROR - 2017-03-21 09:44:14 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-21 09:55:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-21 09:55:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-21 09:55:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-21 11:58:04 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-21 13:39:19 --> 404 Page Not Found: Cache/global
+ERROR - 2017-03-21 15:29:25 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-21 15:33:33 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-21 18:04:47 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-21 18:04:56 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-21 20:33:20 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-21 23:32:35 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-21 23:32:44 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-21 23:53:15 --> 404 Page Not Found: Phpmyadmin/index

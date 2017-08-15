@@ -1,0 +1,256 @@
+ERROR - 2017-03-01 01:42:38 --> Severity: Error --> Call to undefined function getCardByCardno() /data/release/php-weapp-demo/application/controllers/Card.php 116
+ERROR - 2017-03-01 02:13:18 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-01 03:08:51 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-03-01 03:08:52 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2017-03-01 05:18:52 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-01 06:27:27 --> 404 Page Not Found: Cache/global
+ERROR - 2017-03-01 06:54:50 --> 404 Page Not Found: Search/index
+ERROR - 2017-03-01 06:54:51 --> 404 Page Not Found: 273/index
+ERROR - 2017-03-01 08:31:24 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-01 08:46:39 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-01 08:46:39 --> 1 2
+ERROR - 2017-03-01 08:46:39 --> 2 0
+[2017-03-01 08:46:39][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011Ixb9b25Sq9S0V7lbb2hv39b2Ixb93",
+                "encrypt_data": "zdcnItAw\/Vx61xlXPR\/F8bpg\/5ukBJ7te0HzeA4S2I\/LW83emPRysh8uR7EjLvkfzonH7sE\/0psQueBtFpaa4ts3\/SgrAW82UvMTiW3W4Z0Gu3lZRhJ1nMTToSnDv3FB7eVq9SAK2NYZIE3ksuO6VHXToe9dKKyB\/piYlE4B+OhR20jUr\/oQ\/HWUD\/SSpSPbo3XRp+0xf8EWdngcKryDUt\/XMKNeT1SSlfwR2+fcR1uclbSHGRfby7bgNHNQXe5bAYiJm65Z1w941ai7uD6zWNwYMhzqEiXVYrczYTU0VinZQxSUdAhTm+8KE5i473TyYzrs4X2cauaxly9LP7+0bGlz4kEi9K9Xfp2M7CYy1SAk2D9yA+o3HrxV1hFMpWj+R4Vy0K8KJHxst7j8FxB7wUhyjJizGh1jIwbGVn7mdCLi8OpdYqDlsdJEVC9nQA\/ohIOezeO8pvbR6utnXc+Zlxmyw9Mw2slNjGKn+uVwBBg=",
+                "iv": "uRIcUwCWdSlQtq+CJngc8w=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "898f5454b534e7033d335e254871e3a4",
+            "skey": "ad62d9c026031ebb383d39d1aa50a67d",
+            "openid": "oPicY0ToNtf9fq1RstociWzt3lxE",
+            "user_info": {
+                "openId": "oPicY0ToNtf9fq1RstociWzt3lxE",
+                "nickName": "桃林小仙",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqoVR2GZu8Dq0VAX9MGFrfXqCCX4Pglk1fDyI7kClTxvDia7tD3ic5ibmjicHVe78dPcH7XiaXbibuIaiarg\/0",
+                "watermark": {
+                    "timestamp": 1488329191,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "117ms"
+}
+
+[2017-03-01 08:46:39][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "898f5454b534e7033d335e254871e3a4",
+        "skey": "ad62d9c026031ebb383d39d1aa50a67d",
+        "openid": "oPicY0ToNtf9fq1RstociWzt3lxE"
+    }
+}
+
+ERROR - 2017-03-01 08:46:41 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-01 08:49:25 --> 404 Page Not Found: Antanistaticmap/stats
+ERROR - 2017-03-01 11:00:51 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-03-01 13:03:04 --> 1 2
+ERROR - 2017-03-01 13:03:04 --> 2 0
+[2017-03-01 13:03:04][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031vlDS80M98jK1niIU80mCCS80vlDS-",
+                "encrypt_data": "n3mLPcID2dDeXemJwd2jV56IXdjegTxN9u6G7EYy5nvjkBtqjS006BvlmLHqP9ACPWTgtOxN2LeqioIwOvhfm0UhJiFENCHc20EPOOzwsixRmLku6RstFM7VaKLrMRoNrY9YnXRcMET0lbdV8xgTjE\/mjO\/jZcv1zbXziBgtlrwuI1hbWiK7QWam9zLAGElSmCkaZclVa3TJOGntPKmrQfLeRdpWD7Waerxw6d\/YIB0TjgQYqx6lx5bXucLNf+g+V\/kSZBn2iP+tnohbAb8Osk0EWpdEu9LBQd0caCewvDg9t2R+q60ntOUCpl17VC6rAsf9v7Ng0E0krRKJOuKxb6jUHRUqcwAtx7Ip9wGdOfTEIzvbot0SygFpvpiztHa4jD1ZV9v1Q4gZfUcvLRGdlYSeCnarJOBeBrERYM\/Exrqcq4\/kN1LX7efzUMK1\/edrp4tFf95QN1u7idDSN\/3wmZl+yW3EEJniYhGJwG8Cges=",
+                "iv": "CM6zh5hYa\/59X3ey2kTO\/Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "92b4be6d7c4af0aafba3e989ac26a591",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1488344583,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "95ms"
+}
+
+[2017-03-01 13:03:04][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "92b4be6d7c4af0aafba3e989ac26a591",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-03-01 16:58:41 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-01 16:59:52 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-01 17:01:30 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-01 17:02:00 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-01 17:44:05 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-01 21:04:08 --> 1 2
+ERROR - 2017-03-01 21:04:08 --> 2 0
+[2017-03-01 21:04:08][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051tLbwV06ybuW1DGowV0CBZvV0tLbwm",
+                "encrypt_data": "zEX0cQBKvgvmQckv0ZNxGqbhZ29w2r10Cj0tgn\/E0pxSs91wv6RcZe\/u7fRJqLH2fMZga6BPwDsnU1qShRng2qPO5AgFxWlBMux1idD2im\/62HWPZxBWzkzOEiNLcW6Vf9szk6aB2JzX2BtCdOcAXtH+4QI94SnjHatGw8bGOslrIJh4kzqP1m0\/Eh\/wTCtyMsxunV8F\/N7pjz3fiZ2NkK1NqtFI6e9RLnftDYEf2xxCa7kkbibE1fZ1DqzvqQqiahq+0DDB6JOLB\/bdglSVupBPHgBmQ8qWjyTmSsWePPAKkUhNh+qlN\/6RSBeJV8MzQWbTeNu8HUjRe87hEK+iddU5WEQQWb+0Cn+Cb0eREFt+gKotvQHKZdcoBjjc\/1KpGWVGNhg9OOWEF17yX\/bUGPoCmIOqOK\/0VoxxBfQ4bcdy1olDLjq4NSfe+Unv4QIOpLUUVIsETAYyvGY0rNCbLGC7F5zsfAnwewom335F66g=",
+                "iv": "E30YJC88HT+u9MLLEeypLg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "87de7c66068d05742dcbe77085196e78",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1488373447,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "90ms"
+}
+
+[2017-03-01 21:04:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "87de7c66068d05742dcbe77085196e78",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-03-01 21:04:11 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-03-01 21:04:31 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-03-01 21:04:58 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-03-01 21:05:06 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-03-01 21:10:03 --> 1 2
+ERROR - 2017-03-01 21:10:03 --> 2 0
+[2017-03-01 21:10:03][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021sRiBG0nmC9i2LWyBG0sYlBG0sRiB5",
+                "encrypt_data": "RikMy7tXarCX1EyNUAARAjy64XFJuHPRcluYzc6\/coaRiBrrL9fxXil+jZSnHIl\/GZmBFwq3GmXINmm8bNNx89gvPOj3GXeWdun4ALTYwNH6OatfQ2SQ5Uvgv3\/OLWYpw9jvFzqWp6Wn7iWpawRRIQVjde8NISv2+bxN+Rcy16FkhVWqGjM+AfhlwIWc5dWr7szUxUBFd75MyGPZolwmcDXEZh4Tq\/jXGG+9qXEDb6kQlHmGvl+7nan78\/2GPMmHl\/uy\/ygypqbaOD4HhR1uMaOxukzuIdFCsetnmchlLxEPE76A4TCCxJa2Cksb2C3fbn2rAP6LEBAKB50O6I5gnTItbyVLoK9Znxd0h6w95ORK4VBlXNOxL1SEKzcm7CeSa5dh\/gMfun4A8moLByvIwsNgRDjyn5SS2eyrjDqbIHBVYEwGBIoSmDFPhF5p9fogcWdc0+dSZ+UeiJdq1pdapayTDGgxeffhow\/bGJDYGyo=",
+                "iv": "mCWCkI208LeZ1PTUwgsDRQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "846d9613ddf7b505be0d0d02a1d4d033",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1488373803,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "102ms"
+}
+
+[2017-03-01 21:10:03][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "846d9613ddf7b505be0d0d02a1d4d033",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-03-01 21:10:10 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-03-01 21:10:10 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-03-01 21:10:10 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-03-01 21:10:12 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-03-01 21:10:12 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-03-01 21:10:12 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-03-01 21:10:28 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-03-01 21:10:28 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-03-01 21:10:28 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-03-01 21:10:34 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-03-01 21:10:34 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-03-01 21:10:34 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-03-01 21:11:56 --> Severity: Warning --> Missing argument 1 for User::addressbook() /data/release/php-weapp-demo/application/controllers/User.php 40
+ERROR - 2017-03-01 21:11:56 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 48
+ERROR - 2017-03-01 21:11:56 --> Severity: Notice --> Undefined variable: opt /data/release/php-weapp-demo/application/controllers/User.php 50
+ERROR - 2017-03-01 21:20:26 --> 180000
+ERROR - 2017-03-01 21:27:08 --> Severity: Warning --> Missing argument 1 for User::address() /data/release/php-weapp-demo/application/controllers/User.php 56
+ERROR - 2017-03-01 21:27:08 --> Severity: Notice --> Undefined variable: addressid /data/release/php-weapp-demo/application/controllers/User.php 60
+ERROR - 2017-03-01 21:27:28 --> Severity: Warning --> Missing argument 1 for User::address() /data/release/php-weapp-demo/application/controllers/User.php 56
+ERROR - 2017-03-01 21:27:28 --> Severity: Notice --> Undefined variable: addressid /data/release/php-weapp-demo/application/controllers/User.php 60
+ERROR - 2017-03-01 21:51:54 --> 404 Page Not Found: Good/null
+ERROR - 2017-03-01 23:31:47 --> 404 Page Not Found: Admin/index

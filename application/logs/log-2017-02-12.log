@@ -1,0 +1,238 @@
+ERROR - 2017-02-12 00:06:04 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 00:06:12 --> 404 Page Not Found: INSTALL/index
+ERROR - 2017-02-12 00:06:12 --> 404 Page Not Found: INSTALL/index
+ERROR - 2017-02-12 00:06:12 --> 404 Page Not Found: INSTALL/index
+ERROR - 2017-02-12 00:06:12 --> 404 Page Not Found: INSTALL/index
+ERROR - 2017-02-12 01:28:23 --> 404 Page Not Found: BUGS/index
+ERROR - 2017-02-12 01:28:29 --> 404 Page Not Found: Notexist_path404notfound/index
+ERROR - 2017-02-12 01:40:50 --> 404 Page Not Found: CREDITS/index
+ERROR - 2017-02-12 01:41:03 --> 404 Page Not Found: CREDITS/index
+ERROR - 2017-02-12 01:49:10 --> 404 Page Not Found: API/index
+ERROR - 2017-02-12 03:12:05 --> 404 Page Not Found: PhpMyAdmin/ChangeLog
+ERROR - 2017-02-12 03:12:15 --> 404 Page Not Found: Ckeditor/CHANGES.md
+ERROR - 2017-02-12 03:12:15 --> 404 Page Not Found: Phpmyadmin/README
+ERROR - 2017-02-12 03:12:15 --> 404 Page Not Found: PhpMyAdmin/ChangeLog
+ERROR - 2017-02-12 03:12:15 --> 404 Page Not Found: PhpMyAdmin/README
+ERROR - 2017-02-12 03:12:26 --> 404 Page Not Found: Phpmyadmin/README
+ERROR - 2017-02-12 03:12:26 --> 404 Page Not Found: PhpMyAdmin/README
+ERROR - 2017-02-12 03:18:32 --> 404 Page Not Found: Notexist_pathhtaccess/index
+ERROR - 2017-02-12 03:18:41 --> 404 Page Not Found: Notexist_pathhtaccess/index
+ERROR - 2017-02-12 03:18:41 --> 404 Page Not Found: Phpmyadmin/notexist_path
+ERROR - 2017-02-12 03:18:41 --> 404 Page Not Found: Phpmyadmin/doc
+ERROR - 2017-02-12 03:25:41 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 03:25:53 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 04:10:19 --> 404 Page Not Found: BUGS/index
+ERROR - 2017-02-12 04:12:55 --> 404 Page Not Found: Admin/index
+ERROR - 2017-02-12 06:17:25 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 06:17:33 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 06:17:45 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 06:39:13 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-12 08:41:13 --> 404 Page Not Found: Admin/images
+ERROR - 2017-02-12 11:10:05 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 11:10:13 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 11:10:26 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 13:02:47 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-02-12 14:50:13 --> 404 Page Not Found: Admin/index
+ERROR - 2017-02-12 15:36:02 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 16:16:58 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-12 16:37:19 --> 1 2
+ERROR - 2017-02-12 16:37:19 --> 2 0
+[2017-02-12 16:37:19][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031TR9Pa1GEJPr0CwxPa1aGPOa1TR9PF",
+                "encrypt_data": "neAMsIN00wdvKYEyQx+6A5meim8YFYUiHaE33ygwsATjbGTCj5KivxhVT3jkp2w5Xav6O1s+XctI9VaorpwFJGeC44wO\/kcc+4BfO54mz3A0KWLYF8NJj7ahO5fV2Uu7vr9I8WrctUJfU5idbXRyXQEO0E\/2LzIHM18Qc9t7TfvPG177Er3FONxHaQNC8ugBXLaAzGxiM4xUMI6Ufsjs2J6AV+DDs6R2ESodbSqetr0crG2znclXeZ7SPT1xJXJgT43mnBfUk3AEVK9VhsYrPboEg\/09LrRB47mCZ4K+oy5OZFis\/AQzdhkRIr5qwmCu1OmzmIlyuYN0W\/GnIEk\/q0XLVKPi8NIZQpqasiSj5mabthOyGXHs6\/nxccnhqv1FpqtxXBTlT6UyfKR0etchLS2r\/ui8iuixpem0Q3Ev4+8q+equCcS32yUCqoD2isqECJTlDse+zUpFzmwow+bwOsj6EliQazY6hv+vENRRlQw=",
+                "iv": "EVInyjGz5S6oUOzAuBSd7w=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "a820f76a895da017cc840496d5706750",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1486888639,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "102ms"
+}
+
+[2017-02-12 16:37:19][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "a820f76a895da017cc840496d5706750",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-12 16:37:19 --> 1 2
+ERROR - 2017-02-12 16:37:19 --> 2 0
+[2017-02-12 16:37:19][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021bwaIz0KFoyj1FaJHz0rOcIz0bwaIO",
+                "encrypt_data": "k4EvdXNRErTSnKiVC81fadan9JRGwAU6G709vbPfV4BwzMUKCEq4h091PamWEG4NLFEL7MTcttOoGWBwFuYi3aC6L\/lfIi+13jgdByxbC6+0VVXYBvEtndPKQhsTENePd6B9ob3lkKXadkxvKxxrsgniO3udcc83NcLhruC8thzQjdF738v1PGOGdSYCD92Sq54aSb2dIBRkRSBz\/MHjlaUehu7SPIGdFibhky9\/KQnAvvqgrt80MWM8p5QTDvJk\/93AYwA5L1JQJ2f8eguazYTZOyxb7JZQ5brxYDVk+NN0ehIOGjBlthEtLFoAqI\/ZxS9WQ0J6w9MYPVxi+1Fw9kBY3dnQe3OocmZpR90z\/MA9L2OSuihjWxyofNOVHjg9JFPtFhZkI2RlysyCaQqq3BQvx4JnNwX6LyWbp6csprEf7+0jtlcBX6szNPqcAnjgLZKtfi2qCc76ouV9CZ47Q9ezJIToZ\/km1y2CvMXcQXs=",
+                "iv": "RjzV8BHnnqAOfe7HCL0RyQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "b6f52682b3f11d857d472b9edd3c1957",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1486888639,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "122ms"
+}
+
+[2017-02-12 16:37:19][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "b6f52682b3f11d857d472b9edd3c1957",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-12 18:21:38 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 19:29:13 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-12 21:23:40 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 21:23:50 --> 404 Page Not Found: Indexphp/index
+ERROR - 2017-02-12 21:57:53 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-12 21:58:03 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-12 22:28:15 --> Severity: Error --> Call to undefined function getUserIdFromOpenId() /data/release/php-weapp-demo/application/models/User_model.php 102
+ERROR - 2017-02-12 22:30:43 --> Severity: Notice --> Use of undefined constant this - assumed 'this' /data/release/php-weapp-demo/application/models/User_model.php 107
+ERROR - 2017-02-12 22:30:43 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /data/release/php-weapp-demo/application/models/User_model.php:107) /data/release/php-weapp-demo/system/core/Common.php 573
+ERROR - 2017-02-12 22:30:43 --> Severity: Error --> Call to undefined function getUserIdFromOpenId() /data/release/php-weapp-demo/application/models/User_model.php 107
+ERROR - 2017-02-12 22:31:35 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-12 22:31:35 --> Severity: Notice --> Undefined index: PARAMDEFAULT /data/release/php-weapp-demo/application/models/User_model.php 111
+ERROR - 2017-02-12 22:32:59 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-12 22:32:59 --> Severity: Notice --> Undefined index: PARAMDEFAULT /data/release/php-weapp-demo/application/models/User_model.php 111
+ERROR - 2017-02-12 22:38:48 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-12 22:39:54 --> $openid:
+ERROR - 2017-02-12 22:39:54 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 31
+ERROR - 2017-02-12 22:41:27 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 22:41:56 --> $openid:
+ERROR - 2017-02-12 22:41:56 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 31
+ERROR - 2017-02-12 22:46:20 --> $openid:
+ERROR - 2017-02-12 22:46:20 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 31
+ERROR - 2017-02-12 22:47:29 --> Severity: Notice --> Undefined index: PARAMOPENID /data/release/php-weapp-demo/application/controllers/User.php 52
+ERROR - 2017-02-12 22:47:29 --> $openid:
+ERROR - 2017-02-12 22:47:29 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-12 22:48:26 --> Severity: Notice --> Undefined index: PARAMOPENID /data/release/php-weapp-demo/application/controllers/User.php 52
+ERROR - 2017-02-12 22:48:26 --> $openid:
+ERROR - 2017-02-12 22:48:26 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-12 22:49:14 --> Severity: Notice --> Undefined index: PARAMTEL /data/release/php-weapp-demo/application/controllers/User.php 52
+ERROR - 2017-02-12 22:49:14 --> $tel:
+ERROR - 2017-02-12 22:49:14 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-12 22:50:59 --> Severity: Notice --> Undefined index: PARAMTEL /data/release/php-weapp-demo/application/controllers/User.php 52
+ERROR - 2017-02-12 22:50:59 --> $tel:
+ERROR - 2017-02-12 22:51:25 --> $tel:18913158288
+ERROR - 2017-02-12 22:54:05 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 22:54:05 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 22:54:05 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 22:54:05 --> $tel:18913158288
+ERROR - 2017-02-12 22:54:05 --> $default:1
+ERROR - 2017-02-12 22:54:05 --> $userid:1
+ERROR - 2017-02-12 22:54:17 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 22:54:17 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 22:54:17 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 22:54:17 --> $tel:18913158288
+ERROR - 2017-02-12 22:54:17 --> $default:1
+ERROR - 2017-02-12 22:54:17 --> $userid:1
+ERROR - 2017-02-12 22:55:09 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 22:55:09 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 22:55:09 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 22:55:09 --> $tel:18913158288
+ERROR - 2017-02-12 22:55:09 --> $default:0
+ERROR - 2017-02-12 22:55:09 --> $userid:1
+ERROR - 2017-02-12 22:55:38 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 22:55:38 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 22:55:38 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 22:55:38 --> $tel:18913158288
+ERROR - 2017-02-12 22:55:38 --> $default:1
+ERROR - 2017-02-12 22:55:38 --> $userid:1
+ERROR - 2017-02-12 22:56:30 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 22:56:30 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 22:56:30 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 22:56:30 --> $tel:18913158288
+ERROR - 2017-02-12 22:56:30 --> $default:1
+ERROR - 2017-02-12 22:56:30 --> $userid:1
+ERROR - 2017-02-12 23:16:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-02-12 23:16:32 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 23:16:32 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 23:16:32 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 23:16:32 --> $tel:18913158288
+ERROR - 2017-02-12 23:16:32 --> $default:1
+ERROR - 2017-02-12 23:16:32 --> $userid:1
+ERROR - 2017-02-12 23:16:49 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 23:16:49 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 23:16:49 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 23:16:49 --> $tel:18913158288
+ERROR - 2017-02-12 23:16:49 --> $default:1
+ERROR - 2017-02-12 23:16:49 --> $userid:1
+ERROR - 2017-02-12 23:17:09 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 23:17:09 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 23:17:09 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 23:17:09 --> $tel:18913158288
+ERROR - 2017-02-12 23:17:09 --> $default:1
+ERROR - 2017-02-12 23:17:09 --> $userid:1
+ERROR - 2017-02-12 23:17:14 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 23:17:14 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 23:17:14 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 23:17:14 --> $tel:18913158288
+ERROR - 2017-02-12 23:17:14 --> $default:0
+ERROR - 2017-02-12 23:17:14 --> $userid:1
+ERROR - 2017-02-12 23:17:18 --> $openid:oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-02-12 23:17:18 --> $detail:%E6%B1%9F%E8%8B%8F%E7%9C%81%E8%8B%8F%E5%B7%9E%E5%B8%82%E5%A7%91%E8%8B%8F%E5%8C%BA%E8%A7%82%E5%89%8D%E8%A1%97999%E5%8F%B7
+ERROR - 2017-02-12 23:17:18 --> $name:%E5%86%AF%E8%81%AA
+ERROR - 2017-02-12 23:17:18 --> $tel:18913158288
+ERROR - 2017-02-12 23:17:18 --> $default:1
+ERROR - 2017-02-12 23:17:18 --> $userid:1

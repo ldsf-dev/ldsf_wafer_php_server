@@ -1,0 +1,451 @@
+ERROR - 2017-03-19 00:11:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 00:45:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 00:45:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 00:45:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 00:47:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 01:46:22 --> 404 Page Not Found: Search/index
+ERROR - 2017-03-19 01:46:22 --> 404 Page Not Found: 273/index
+ERROR - 2017-03-19 02:03:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 02:03:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 02:03:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 02:04:27 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 02:04:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 02:04:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 02:05:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 02:18:52 --> 1 2
+ERROR - 2017-03-19 02:18:52 --> 2 0
+[2017-03-19 02:18:52][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0412TMKI03clWk2jBcII0GXJKI02TMKg",
+                "encrypt_data": "rLSmO8teYf\/RCmP98DQLm6edMDKIxak5J3pRCOqJjeIaee+s1fw+l22jYrTAzcHZ\/LivqTrVMD+iX\/7SdaJYFY8M2fGBNvtR9NNkTmUwunc5I9kmTyGEP1paVbLAXFNy\/u9tk6BS6qucSejsQiLXXvm\/sEVXonA7N0kxd5IO6ZdSxoy1cBvTMpP1GcdYhPDfgAeZsc1dAy5NajKzMdYuFcLKqy7WK+pMk9csW7MoaA2BwLa1t4ZiSErRwM2zgmXnjkLQHsZKNUugHFLmLM8QyLGv7oO45QB7ZZwEr5G84fKBuOrIIpfwwGy5vBNxT1G47LHQ0V4WiPHJsX9esMgFTxVfL+D9Y0kVrSoVCoJikl9C4ru257prFykllDqNUszsTCYbryLx08qFjBjC7NODdwMoKamD1kRlxV24rYWSzRX8y5Ahm8zfXj9PrP\/ajZIpOCRxJW2O7fLDA3KHR1UsjjCuBI6RnClbgy0vhgICVROJjMMzb7ApWZXRAfAG6DkSda3NahgJoUjsxz0Nchv+bQ==",
+                "iv": "UQvzkmbxT2Bi8HopcdEINw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "c8e32cf6846c074bdfe486c8b97a4a7d",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1489861132,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "89ms"
+}
+
+[2017-03-19 02:18:52][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "c8e32cf6846c074bdfe486c8b97a4a7d",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-19 02:18:52 --> 1 2
+ERROR - 2017-03-19 02:18:52 --> 2 0
+[2017-03-19 02:18:52][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021Yrx6X0rnluZ1OvC3X0p3N6X0Yrx6A",
+                "encrypt_data": "mMPLBWGvTp9BbD71scgXhGINJJrDTCXh3h45SK6aX0U6zKqKfmkK8JxxU6nfQJ7PZQPOEo3MfxzyHtpYFv9iENM+rCD9TsU0xwm9JJISdoj02yoIlhqHsduDXdwrLsLFs7smJAdDOTx5fF8uDFkIhn3AqvFXCGsT6sZKxMBBPaZ0OhwcswKUJ25R\/7b3GqM9puTrPeq8A3N\/PmvDIVGiVyKEv1n8pfp5OzBeipejka6FFZRaBSK+tQ9u100agEPdkJI6UC0LJtdmpvR11jGNwObqgnfMOeYHmzQ58ckdAixwzQshRYAO1aW2AJ6BsSd0kSAMJ7EjhS8hSBUYn+SkiiMBTNv\/6hblb+u3kuB4HLxfAxtUui+hJRyS8uLWrXRYOOT8ibmzJMX7NA1gP\/dYr8IzB+3HWaXNXldLVPLAO6Mv0u3zRyVMei\/6TAuqvhQGBZjj68BIA7K91XPMoOGWWOljGBKRASz7lzwaNx3dNCZ58rVKD2VUO7l49nocvDYUvJWXuSfJ6edKNZts9LAYHw==",
+                "iv": "moTpkemSjtCxaASkL4SESQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "5ce9e20d3a4927feb35818d7eb010c04",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1489861132,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "105ms"
+}
+
+[2017-03-19 02:18:52][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "5ce9e20d3a4927feb35818d7eb010c04",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-19 03:48:09 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-19 04:07:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 04:07:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 04:07:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 04:08:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 10:50:49 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-19 11:56:15 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-19 12:54:22 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-19 13:07:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 13:07:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 13:07:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 13:07:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 13:07:59 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 13:08:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 13:08:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 13:45:29 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-19 15:10:55 --> 404 Page Not Found: Login/login.action
+ERROR - 2017-03-19 15:27:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 15:35:07 --> 404 Page Not Found: Admin/index.js.map
+ERROR - 2017-03-19 15:36:03 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 166
+ERROR - 2017-03-19 15:36:03 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 166
+ERROR - 2017-03-19 15:36:06 --> Severity: Warning --> Illegal string offset 'good_id' /data/release/php-weapp-demo/application/controllers/Admin.php 77
+ERROR - 2017-03-19 15:36:06 --> Severity: Warning --> Illegal string offset 'good_cat_id' /data/release/php-weapp-demo/application/controllers/Admin.php 78
+ERROR - 2017-03-19 15:36:06 --> Severity: Warning --> Illegal string offset 'good_cat_inner_seq' /data/release/php-weapp-demo/application/controllers/Admin.php 79
+ERROR - 2017-03-19 15:36:06 --> Severity: Warning --> Illegal string offset 'good_type' /data/release/php-weapp-demo/application/controllers/Admin.php 80
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_name' /data/release/php-weapp-demo/application/controllers/Admin.php 81
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_desc' /data/release/php-weapp-demo/application/controllers/Admin.php 82
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_price' /data/release/php-weapp-demo/application/controllers/Admin.php 83
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_onsale_datetime' /data/release/php-weapp-demo/application/controllers/Admin.php 84
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_offsale_datetime' /data/release/php-weapp-demo/application/controllers/Admin.php 85
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_thumbnail' /data/release/php-weapp-demo/application/controllers/Admin.php 86
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_class_1' /data/release/php-weapp-demo/application/controllers/Admin.php 87
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_class_2' /data/release/php-weapp-demo/application/controllers/Admin.php 88
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_class_3' /data/release/php-weapp-demo/application/controllers/Admin.php 89
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_class_4' /data/release/php-weapp-demo/application/controllers/Admin.php 90
+ERROR - 2017-03-19 15:36:07 --> Severity: Warning --> Illegal string offset 'good_class_5' /data/release/php-weapp-demo/application/controllers/Admin.php 91
+ERROR - 2017-03-19 15:40:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 15:40:58 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 15:41:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 15:41:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 15:50:39 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-03-19 15:50:40 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-03-19 15:50:41 --> 404 Page Not Found: Systemini/index
+ERROR - 2017-03-19 15:52:08 --> 404 Page Not Found: Admin/index.js.map
+ERROR - 2017-03-19 15:52:10 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 166
+ERROR - 2017-03-19 15:52:14 --> 404 Page Not Found: Admin/index.js.map
+ERROR - 2017-03-19 16:10:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:10:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:10:47 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:10:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:11:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:11:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:11:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:11:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:11:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:11:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 16:16:52 --> 404 Page Not Found: Admin/index.js.map
+ERROR - 2017-03-19 16:16:53 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 167
+ERROR - 2017-03-19 16:17:18 --> 404 Page Not Found: Admin/index.js.map
+ERROR - 2017-03-19 16:17:19 --> 404 Page Not Found: Admin/index.js.map
+ERROR - 2017-03-19 16:17:20 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 167
+ERROR - 2017-03-19 16:17:29 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 167
+ERROR - 2017-03-19 16:18:56 --> 404 Page Not Found: Admin/index.js.map
+ERROR - 2017-03-19 16:18:58 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 167
+ERROR - 2017-03-19 16:35:56 --> 404 Page Not Found: Cache/global
+ERROR - 2017-03-19 16:37:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 17:23:39 --> Severity: Notice --> Undefined index: good_cat_id /data/release/php-weapp-demo/application/controllers/Admin.php 88
+ERROR - 2017-03-19 17:23:39 --> Severity: Notice --> Undefined index: good_id /data/release/php-weapp-demo/application/models/Admin_model.php 103
+ERROR - 2017-03-19 17:24:15 --> Severity: Notice --> Undefined index: good_cat_id /data/release/php-weapp-demo/application/controllers/Admin.php 88
+ERROR - 2017-03-19 17:26:16 --> Severity: Notice --> Undefined index: good_id /data/release/php-weapp-demo/application/models/Admin_model.php 103
+ERROR - 2017-03-19 17:43:56 --> 1 2
+ERROR - 2017-03-19 17:43:56 --> 2 0
+[2017-03-19 17:43:56][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0418s6d60BLRoI1ICAb60Pjfd608s6dw",
+                "encrypt_data": "OoTrjYYp6X2rFzIgUPY2Ovt2MydHxcXCQdoFkgUDLm\/u+41uJ8l1ZM3WrwBex8KI5oqhhjA+5xd6EkHiOzWDxe6LwwmhUzOZgFYcCdDrEFfb4oP2u2\/KYHdL\/SQTTSHibf\/SOpvVv\/lJkYo8ZBD+Y3VuphkunHt4FRlHbiqt\/6GvKIgUvno7uCsdN09hvf6zAgHfJB2dUPBMYtOE+FvZNbdwZEM6crw1c8mnFeDWb5Tl6bRsIy\/cr1AIOCXGUlcwXyjvmSM2WXX9jx3AMhWQWQitCGKeCXmkBu\/S6FbYSk02WfkCONGX5KFuAwMm3QcRyg4sBklOoP0ENS83Ol2T5+TWwvHOv0RN6d6YtJvVfUBcMxI9ZTSeZvnRX9tU+NsskzZwXhCD2Wwjtld8jEMjYAyGxP06jfJmRd+2SW6jdYxdtUn76LcHkkhb69tCfeLiS5WndWn3O+3ecTu\/XEZC399Y00jvKl9QCwqTYP9cBhnQn\/PiVnOAP88ebnqJN2nLhbcJl8fZ59O9i6GiZH1Rew==",
+                "iv": "ZR3TBK\/\/gcOsO+Sm7mkn\/Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "caf583403500de4ad472e7fe3b3d9618",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1489916636,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "125ms"
+}
+
+[2017-03-19 17:43:56][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "caf583403500de4ad472e7fe3b3d9618",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-19 17:43:56 --> 1 2
+ERROR - 2017-03-19 17:43:56 --> 2 0
+[2017-03-19 17:43:56][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051qq9aI1bBG160ZPvdI1h2aaI1qq9aT",
+                "encrypt_data": "W99abTLRbSrXROBo861EPRMhzo5PJnbDoLP\/p+uOibOUWxIr\/5AZ\/VPFBoULHI7F\/DQIUWyqRcdNvP5H260spMXh5ZaihaTUCIGKjNv4kBcXzfHGpDLqvXKP6HUCXqGu6jLQ8J1cO9UTEoG3+YG0fTnzpmcDVcnKY2mNh43w0yqEVl+D+txGh8nHel84FB\/7jFT\/wBE9JEyu0C2CFQcGhLkWT5rUKI9\/NuU+Unj6oTB5pu8UIPy68pjjgV9DupXBPTm4AvZgQd357OAaRCVoPwJh4mscI1GBWhJLNtMSnnw6K\/ZShMSF6HiwtbUCipEzA06qtga9HwL3nxBlDydlmYoFWi25rCj2kJF8L2oe2rIcqxjpjhkS3BUpX+LznMfLbNksXTwzWK1hE8YQxHXin57BR15B7PJsbs40eg1K7XbXYYmNafK1NbKouNUXZsx6nug547+b8cJnVOYjfI9RxQmBUUyjJPyoD03MSWgq+D3PDWQWMJNq0uWdLc\/KqcUUGR8VXde6V2km0ntXto\/7RA==",
+                "iv": "aTjYRJrTFz9m9haNwCx2qw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "7860f92f6799e772a4dd5f25baa8230c",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1489916636,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "91ms"
+}
+
+[2017-03-19 17:43:56][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "7860f92f6799e772a4dd5f25baa8230c",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-19 17:43:58 --> 
+ERROR - 2017-03-19 17:43:59 --> 
+ERROR - 2017-03-19 17:44:18 --> 
+ERROR - 2017-03-19 17:44:22 --> 
+ERROR - 2017-03-19 17:44:24 --> 
+ERROR - 2017-03-19 17:47:22 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-03-19 17:56:33 --> 
+ERROR - 2017-03-19 17:56:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 17:57:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 17:57:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 17:59:47 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-03-19 17:59:56 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-03-19 18:17:56 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 18:19:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 18:19:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 18:19:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 18:19:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 19:17:04 --> 404 Page Not Found: Systemini/index
+ERROR - 2017-03-19 20:25:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 20:25:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 20:25:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 20:25:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 20:25:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 20:50:52 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:02:51 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:07:16 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 177
+ERROR - 2017-03-19 21:15:53 --> 404 Page Not Found: Admin/getgooddetail
+ERROR - 2017-03-19 21:16:08 --> 404 Page Not Found: Admin/getgooddetail
+ERROR - 2017-03-19 21:16:18 --> 404 Page Not Found: Admin/getgooddetail
+ERROR - 2017-03-19 21:17:00 --> 404 Page Not Found: Admin/getallgoods
+ERROR - 2017-03-19 21:17:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 21:17:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 21:17:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 21:17:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 21:17:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-19 22:10:57 --> 404 Page Not Found: Systemini/index
+ERROR - 2017-03-19 22:24:39 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-19 22:24:41 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2017-03-19 22:24:42 --> 404 Page Not Found: PMA/index
+ERROR - 2017-03-19 22:24:43 --> 404 Page Not Found: Pma/index
+ERROR - 2017-03-19 22:24:46 --> 404 Page Not Found: Dbadmin/index
+ERROR - 2017-03-19 22:24:47 --> 404 Page Not Found: Mysql/index
+ERROR - 2017-03-19 22:24:49 --> 404 Page Not Found: Myadmin/index
+ERROR - 2017-03-19 22:24:50 --> 404 Page Not Found: Openserver/phpmyadmin
+ERROR - 2017-03-19 22:24:51 --> 404 Page Not Found: Phpmyadmin2/index
+ERROR - 2017-03-19 22:24:53 --> 404 Page Not Found: PhpMyAdmin2/index
+ERROR - 2017-03-19 22:24:57 --> 404 Page Not Found: PhpMyAdmin-2/index
+ERROR - 2017-03-19 22:24:58 --> 404 Page Not Found: Php-my-admin/index
+ERROR - 2017-03-19 22:24:59 --> 404 Page Not Found: PhpMyAdmin-223/index
+ERROR - 2017-03-19 22:25:01 --> 404 Page Not Found: PhpMyAdmin-226/index
+ERROR - 2017-03-19 22:25:02 --> 404 Page Not Found: PhpMyAdmin-251/index
+ERROR - 2017-03-19 22:25:04 --> 404 Page Not Found: PhpMyAdmin-254/index
+ERROR - 2017-03-19 22:25:05 --> 404 Page Not Found: PhpMyAdmin-255-rc1/index
+ERROR - 2017-03-19 22:25:07 --> 404 Page Not Found: PhpMyAdmin-255-rc2/index
+ERROR - 2017-03-19 22:25:08 --> 404 Page Not Found: PhpMyAdmin-255/index
+ERROR - 2017-03-19 22:25:19 --> 404 Page Not Found: PhpMyAdmin-255-pl1/index
+ERROR - 2017-03-19 22:25:20 --> 404 Page Not Found: PhpMyAdmin-256-rc1/index
+ERROR - 2017-03-19 22:25:22 --> 404 Page Not Found: PhpMyAdmin-256-rc2/index
+ERROR - 2017-03-19 22:25:23 --> 404 Page Not Found: PhpMyAdmin-256/index
+ERROR - 2017-03-19 22:25:25 --> 404 Page Not Found: PhpMyAdmin-257/index
+ERROR - 2017-03-19 22:25:26 --> 404 Page Not Found: PhpMyAdmin-257-pl1/index
+ERROR - 2017-03-19 22:25:28 --> 404 Page Not Found: PhpMyAdmin-260-alpha/index
+ERROR - 2017-03-19 22:25:30 --> 404 Page Not Found: PhpMyAdmin-260-alpha2/index
+ERROR - 2017-03-19 22:25:31 --> 404 Page Not Found: PhpMyAdmin-260-beta1/index
+ERROR - 2017-03-19 22:25:32 --> 404 Page Not Found: PhpMyAdmin-260-beta2/index
+ERROR - 2017-03-19 22:25:34 --> 404 Page Not Found: PhpMyAdmin-260-rc1/index
+ERROR - 2017-03-19 22:25:36 --> 404 Page Not Found: PhpMyAdmin-260-rc2/index
+ERROR - 2017-03-19 22:25:37 --> 404 Page Not Found: PhpMyAdmin-260-rc3/index
+ERROR - 2017-03-19 22:25:39 --> 404 Page Not Found: PhpMyAdmin-260/index
+ERROR - 2017-03-19 22:25:41 --> 404 Page Not Found: PhpMyAdmin-260-pl1/index
+ERROR - 2017-03-19 22:25:43 --> 404 Page Not Found: PhpMyAdmin-260-pl2/index
+ERROR - 2017-03-19 22:25:44 --> 404 Page Not Found: PhpMyAdmin-260-pl3/index
+ERROR - 2017-03-19 22:25:46 --> 404 Page Not Found: PhpMyAdmin-261-rc1/index
+ERROR - 2017-03-19 22:25:48 --> 404 Page Not Found: PhpMyAdmin-261-rc2/index
+ERROR - 2017-03-19 22:25:49 --> 404 Page Not Found: PhpMyAdmin-261/index
+ERROR - 2017-03-19 22:25:51 --> 404 Page Not Found: PhpMyAdmin-261-pl1/index
+ERROR - 2017-03-19 22:25:52 --> 404 Page Not Found: PhpMyAdmin-261-pl2/index
+ERROR - 2017-03-19 22:25:54 --> 404 Page Not Found: PhpMyAdmin-261-pl3/index
+ERROR - 2017-03-19 22:25:56 --> 404 Page Not Found: PhpMyAdmin-262-rc1/index
+ERROR - 2017-03-19 22:25:57 --> 404 Page Not Found: PhpMyAdmin-262-beta1/index
+ERROR - 2017-03-19 22:25:59 --> 404 Page Not Found: PhpMyAdmin-262-rc1/index
+ERROR - 2017-03-19 22:26:00 --> 404 Page Not Found: PhpMyAdmin-262/index
+ERROR - 2017-03-19 22:26:02 --> 404 Page Not Found: PhpMyAdmin-262-pl1/index
+ERROR - 2017-03-19 22:26:04 --> 404 Page Not Found: PhpMyAdmin-263/index
+ERROR - 2017-03-19 22:26:05 --> 404 Page Not Found: PhpMyAdmin-263-rc1/index
+ERROR - 2017-03-19 22:26:07 --> 404 Page Not Found: PhpMyAdmin-263/index
+ERROR - 2017-03-19 22:26:09 --> 404 Page Not Found: PhpMyAdmin-263-pl1/index
+ERROR - 2017-03-19 22:26:10 --> 404 Page Not Found: PhpMyAdmin-264-rc1/index
+ERROR - 2017-03-19 22:26:12 --> 404 Page Not Found: PhpMyAdmin-264-pl1/index
+ERROR - 2017-03-19 22:26:13 --> 404 Page Not Found: PhpMyAdmin-264-pl2/index
+ERROR - 2017-03-19 22:26:15 --> 404 Page Not Found: PhpMyAdmin-264-pl3/index
+ERROR - 2017-03-19 22:26:17 --> 404 Page Not Found: PhpMyAdmin-264-pl4/index
+ERROR - 2017-03-19 22:26:19 --> 404 Page Not Found: PhpMyAdmin-264/index
+ERROR - 2017-03-19 22:26:21 --> 404 Page Not Found: PhpMyAdmin-270-beta1/index
+ERROR - 2017-03-19 22:26:22 --> 404 Page Not Found: PhpMyAdmin-270-rc1/index
+ERROR - 2017-03-19 22:26:24 --> 404 Page Not Found: PhpMyAdmin-270-pl1/index
+ERROR - 2017-03-19 22:26:25 --> 404 Page Not Found: PhpMyAdmin-270-pl2/index
+ERROR - 2017-03-19 22:26:27 --> 404 Page Not Found: PhpMyAdmin-270/index
+ERROR - 2017-03-19 22:26:29 --> 404 Page Not Found: PhpMyAdmin-280-beta1/index
+ERROR - 2017-03-19 22:26:30 --> 404 Page Not Found: PhpMyAdmin-280-rc1/index
+ERROR - 2017-03-19 22:26:32 --> 404 Page Not Found: PhpMyAdmin-280-rc2/index
+ERROR - 2017-03-19 22:26:34 --> 404 Page Not Found: PhpMyAdmin-280/index
+ERROR - 2017-03-19 22:26:35 --> 404 Page Not Found: PhpMyAdmin-2801/index
+ERROR - 2017-03-19 22:26:37 --> 404 Page Not Found: PhpMyAdmin-2802/index
+ERROR - 2017-03-19 22:26:39 --> 404 Page Not Found: PhpMyAdmin-2803/index
+ERROR - 2017-03-19 22:26:40 --> 404 Page Not Found: PhpMyAdmin-2804/index
+ERROR - 2017-03-19 22:26:42 --> 404 Page Not Found: PhpMyAdmin-281-rc1/index
+ERROR - 2017-03-19 22:26:43 --> 404 Page Not Found: PhpMyAdmin-281/index
+ERROR - 2017-03-19 22:26:48 --> 404 Page Not Found: PhpMyAdmin-282/index
+ERROR - 2017-03-19 22:26:50 --> 404 Page Not Found: Sqlmanager/index
+ERROR - 2017-03-19 22:26:51 --> 404 Page Not Found: Mysqlmanager/index
+ERROR - 2017-03-19 22:26:53 --> 404 Page Not Found: P/m
+ERROR - 2017-03-19 22:26:55 --> 404 Page Not Found: PMA2005/index
+ERROR - 2017-03-19 22:26:56 --> 404 Page Not Found: Pma2005/index
+ERROR - 2017-03-19 22:26:58 --> 404 Page Not Found: Phpmanager/index
+ERROR - 2017-03-19 22:27:00 --> 404 Page Not Found: Php-myadmin/index
+ERROR - 2017-03-19 22:27:01 --> 404 Page Not Found: Phpmy-admin/index
+ERROR - 2017-03-19 22:27:03 --> 404 Page Not Found: Webadmin/index
+ERROR - 2017-03-19 22:27:04 --> 404 Page Not Found: Sqlweb/index
+ERROR - 2017-03-19 22:27:06 --> 404 Page Not Found: Websql/index
+ERROR - 2017-03-19 22:27:07 --> 404 Page Not Found: Webdb/index
+ERROR - 2017-03-19 22:27:09 --> 404 Page Not Found: Mysqladmin/index
+ERROR - 2017-03-19 22:27:10 --> 404 Page Not Found: Mysql-admin/index

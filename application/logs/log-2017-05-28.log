@@ -1,0 +1,694 @@
+ERROR - 2017-05-28 00:00:22 --> 404 Page Not Found: Current_config/Account1
+ERROR - 2017-05-28 02:35:32 --> 404 Page Not Found: Search/index
+ERROR - 2017-05-28 02:35:32 --> 404 Page Not Found: 273/index
+ERROR - 2017-05-28 03:01:12 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-05-28 08:32:53 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-05-28 09:19:41 --> 404 Page Not Found: Cache/global
+ERROR - 2017-05-28 09:35:25 --> 404 Page Not Found: Manager/html
+ERROR - 2017-05-28 09:49:28 --> 404 Page Not Found: Cache/global
+ERROR - 2017-05-28 10:54:44 --> 404 Page Not Found: Manager/html
+ERROR - 2017-05-28 13:13:43 --> 1 2
+ERROR - 2017-05-28 13:13:43 --> 2 0
+[2017-05-28 13:13:43][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051eo12C1WPCl10q9h1C1EY22C1eo12y",
+                "encrypt_data": "e0vuNZpGX\/3Dg9Rd\/nGb0bhdZKXdkJ9vyzWnlwQpmI8FUtuuitL31+tiLEH7Hs0Goh11jCaU\/5j3Ui\/z+PKc8gzrIyVwZw9H\/un9l1B2xdIoSSvB0lPG+Bve3EZTzUNDRgrEfaq72mua6uoBaFI9Ry51dKP+bxGxbv1dXwnpWp4j4pqTnFYVC\/LdLGcUhLaMjqxIo1Xs8YyrGIZPz6fjozOGqiV7Ts8g6PalCbI0AI8DI26ZNoZMqkcj\/9j1EYZbmym3fMLfW2UOuivXuw3004rFQI4hL04Q5gp6LYZKYgAFyQp9is52w8ZJex2PO\/U6uwdM1OiStfaSFcpPoPvysvjPNLZAApZSHel8f4pNAam0mGNtjZ+WLtnvEltATjjhLd\/4usWl8KU1D\/v3gUW6CU7ds3J258U2uDMxxLjyl2XAQTNIR4Ss3JveaCq2qiZf391aDP0fDjSVscTxqtCtci4+m0y8sdMRg4cCTtlfQc4D\/u8lOV1nFyd6Va9cqPGr\/17I6uJBZ2L1gkWh9qWtNQ==",
+                "iv": "J\/RoXXNsi\/MhLtE0L9hoTA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "06772920403301457eeeda866c57eafc",
+            "skey": "a011375ebb9a19d7efee6bcabc7d2907",
+            "user_info": {
+                "openId": "oPicY0b_i0DtUjTxHWFUwzBiW0HE",
+                "nickName": "刘晓喻",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Nantong",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83epvhgOW5TyCHv00TlTUGKP0MlgElJPSiaF4JbiauFLsoB20ONkxPdFdxfPiaBA9a22NJMx7FaLBww3Sg\/0",
+                "unionId": "oU11PxBfBWESJPKDxbJoTwUYerrw",
+                "watermark": {
+                    "timestamp": 1495948423,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "105ms"
+}
+
+[2017-05-28 13:13:43][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "06772920403301457eeeda866c57eafc",
+        "skey": "a011375ebb9a19d7efee6bcabc7d2907",
+        "openid": "oPicY0b_i0DtUjTxHWFUwzBiW0HE",
+        "unionid": "oU11PxBfBWESJPKDxbJoTwUYerrw"
+    }
+}
+
+ERROR - 2017-05-28 13:13:43 --> 1 2
+ERROR - 2017-05-28 13:13:43 --> 2 0
+[2017-05-28 13:13:43][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061Yb78727NI4M01pU772eDQ772Yb78X",
+                "encrypt_data": "SzHK99eXXOB0S3tkEUdQSkGAYPNCAOJ7FQ3DhjsHWB2vqglRFCiK51B\/r4OTScqPcpkPjJq\/D7e8NoF1q7P01rIklHV7sQiZKxOwWMPJAAKaaiWz1Um0liVVHB9o9eU6\/ATPP0rNP9HTkzZAUUMgYIo5HVATBlvtuNadx+xeKuGJcaqTo77r4YFxWymByU\/4unFGim7e1CU55nYx8LPvOpHyhkUxkL1k9t2C1v5FUgsnWxQs9ceLeqUB46TMjItsYn0iYVuNp7H6G7jh1i\/kP321FJuL4b2eEdXtPpyJD2HEs5JNY5n3gXIus+2LFdqz2sq1YAFS4Wlysb7MGYmLm+bG4r2o\/D71Pz9uvbyrOoxJwIWqEkWFWnrYTamBiPrNgxaEVKrYs+FTAca+1bptvkA2392W4taHi5x8rs9LBE5uHokXRAQgVoFaOpHWZyvMBU4FiF8otqKyNsZbOLVfd+j9yHxa34VbJLsDhV1x5Q1zBjpX2teldrJOsattHuoI2JR71sxunEQcu76nDlQiDg==",
+                "iv": "D74nlc5r9AABa8OgW90tlg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "06772920403301457eeeda866c57eafc",
+            "skey": "1d54be5b330210832e2d5291f148f555",
+            "user_info": {
+                "openId": "oPicY0b_i0DtUjTxHWFUwzBiW0HE",
+                "nickName": "刘晓喻",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Nantong",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83epvhgOW5TyCHv00TlTUGKP0MlgElJPSiaF4JbiauFLsoB20ONkxPdFdxfPiaBA9a22NJMx7FaLBww3Sg\/0",
+                "unionId": "oU11PxBfBWESJPKDxbJoTwUYerrw",
+                "watermark": {
+                    "timestamp": 1495948423,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "95ms"
+}
+
+[2017-05-28 13:13:43][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "06772920403301457eeeda866c57eafc",
+        "skey": "1d54be5b330210832e2d5291f148f555",
+        "openid": "oPicY0b_i0DtUjTxHWFUwzBiW0HE",
+        "unionid": "oU11PxBfBWESJPKDxbJoTwUYerrw"
+    }
+}
+
+ERROR - 2017-05-28 13:13:51 --> 
+ERROR - 2017-05-28 13:13:55 --> 
+ERROR - 2017-05-28 13:14:01 --> 
+ERROR - 2017-05-28 13:14:08 --> 
+ERROR - 2017-05-28 13:14:10 --> 
+ERROR - 2017-05-28 13:14:12 --> 
+ERROR - 2017-05-28 13:14:19 --> 
+ERROR - 2017-05-28 13:14:28 --> 
+ERROR - 2017-05-28 13:14:31 --> 
+ERROR - 2017-05-28 13:14:40 --> 
+ERROR - 2017-05-28 14:01:15 --> 1 2
+ERROR - 2017-05-28 14:01:15 --> 2 0
+[2017-05-28 14:01:15][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0135qF8i1HJT2A0vZZai1DEt8i15qF8g",
+                "encrypt_data": "BUXXA9IqeJ1HA8i9DrrX6hyedy4L8K\/g+zQGgynEmp8J7UvjbzQQSYx\/H4BeAYUMQL6Gqi4Ld01xRKKKCrC7spfls5\/Z3vpaxs7E4uCQZl8QZTnbJ8Z4o2ZZCqO+D\/VvOAlv5YfJfSXAsrsugFsOhOiG+KR1yTjHZ0TrqyJBMzZ3Uia7ZaB8tCtmp7oBQQVzSTiFWzIkbegeepZsbFDxxDIPFMPmkIll4dTQRbjxGJjciIuhAz4ILqR6TJwgx6RWRKo6eaidUm1Iqj2jQqnsL2Q7B8dPy4Wx\/o4kBugqCQtfTTuuN8X9xLp\/nBKfzEspQcf7+4WgIDm5TPMXwOD5aoqh0IIATB\/Kk0KynoikFdvjXDlzZ7cl3Bdlev6B0ubzbJBoI6T1ZOgwEZPBW43ckJNYJEEatPyNDzRmdetBkVXuscitRAOnHIkRQ2AylBN7g7V5sL9vM1lo\/lpLCyG77rAzn6P5FbebmAC9t0Wy0oTSw4QqR\/STxKNiR6MSMusgwcg9tG5N8AtERlrsYD3cXg==",
+                "iv": "0HAORM9KlrcJ8qDQD1T2xQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "f7899d47c7385808d1d6b5450d33661b",
+            "skey": "930cd486ddee0df57a6a7c191083f746",
+            "user_info": {
+                "openId": "oPicY0S0ug7ciem0FGYWtKx2kmWs",
+                "nickName": "郑策",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Panjin",
+                "province": "Liaoning",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/EjkFziczku4xLCdynbZICYvtxG4FqkCicOf5AAVFsKcp64FDgQ1ibQqw9B0Mw5FBjF8k9mlKicqsehMoibtYNyQNoNQ\/0",
+                "unionId": "oU11PxH_Wb-dktF7u4uwERWBOTjs",
+                "watermark": {
+                    "timestamp": 1495951275,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "163ms"
+}
+
+[2017-05-28 14:01:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "f7899d47c7385808d1d6b5450d33661b",
+        "skey": "930cd486ddee0df57a6a7c191083f746",
+        "openid": "oPicY0S0ug7ciem0FGYWtKx2kmWs",
+        "unionid": "oU11PxH_Wb-dktF7u4uwERWBOTjs"
+    }
+}
+
+ERROR - 2017-05-28 14:01:16 --> 1 2
+ERROR - 2017-05-28 14:01:16 --> 2 0
+[2017-05-28 14:01:16][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "003n7qc906Kebu1nBEa90eJpc90n7qcM",
+                "encrypt_data": "qfz9aGnm\/7KOWOKNNkLL0YxOV8+U5cKCmwjXwg3koKbQnkT3Q3O3hurzw9nYZPMdumwsC86AGNDObLlU1zE+jM4CFNqxcEWH\/htQ5HGwuUIuosmfnBy\/YchD6\/tqXAbpZfRgoo1k7uerrb5Aofc6SkYNQCPqcyyQuiqjHIBxV7dUxr\/QUFIR6qIjwQPIrU0EUHZSt4\/ncD0soqoJ2GYFaCxJL5by2ZMNW+d3A4W3J55j57U5VLnXM67IsFtPjR7eKBzv9Eea4Yr2QgHhMVe7TBIDaI+cq8FzQoAh7GLi3nZMSnx8CujgPDUgq7a2C1IMz2w3hxMMOQ9oMawgBG1vxYCh0MG+l0cZD17E1WK0tQZkLf39FzKUmKKIT4j4nk\/a5VVM038TfBh+LjBMw6D8qhl0t7u7wSnTR2+oROIzM9XDZ4ufAij7n+QMLUwsEw2W1tr4ak0ko9vwbHxrQTq5HFsgCFdfDxZb2HennAC+HXJiLDm\/aWpOtk54phD6xfSNFJfOGA69+UjntHjCbBhFLg==",
+                "iv": "oUtBEzvuorXxVcYKBnlPaQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "f7899d47c7385808d1d6b5450d33661b",
+            "skey": "60360db729224e5dbf3281b8f9604aa0",
+            "user_info": {
+                "openId": "oPicY0S0ug7ciem0FGYWtKx2kmWs",
+                "nickName": "郑策",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Panjin",
+                "province": "Liaoning",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/EjkFziczku4xLCdynbZICYvtxG4FqkCicOf5AAVFsKcp64FDgQ1ibQqw9B0Mw5FBjF8k9mlKicqsehMoibtYNyQNoNQ\/0",
+                "unionId": "oU11PxH_Wb-dktF7u4uwERWBOTjs",
+                "watermark": {
+                    "timestamp": 1495951276,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "120ms"
+}
+
+[2017-05-28 14:01:16][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "f7899d47c7385808d1d6b5450d33661b",
+        "skey": "60360db729224e5dbf3281b8f9604aa0",
+        "openid": "oPicY0S0ug7ciem0FGYWtKx2kmWs",
+        "unionid": "oU11PxH_Wb-dktF7u4uwERWBOTjs"
+    }
+}
+
+ERROR - 2017-05-28 14:01:16 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-05-28 14:03:51 --> 4637591802
+ERROR - 2017-05-28 15:00:18 --> 
+ERROR - 2017-05-28 15:01:08 --> 
+ERROR - 2017-05-28 15:01:21 --> 
+ERROR - 2017-05-28 15:50:17 --> 404 Page Not Found: Current_config/Account1
+ERROR - 2017-05-28 16:09:11 --> 1 2
+ERROR - 2017-05-28 16:09:11 --> 2 0
+[2017-05-28 16:09:11][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "003yDK5N0j1fx52JNp3N0Vd16N0yDK5t",
+                "encrypt_data": "m68Jcx\/\/zp69BeQRJku3SMPWSMPsB\/6FKrzC\/+HnOFNm612qNk+tn6ZGsQbmsztHU6FydMwUyDu7LcwWB8NTUXHIL1zxvSf1yYVqnLmkRbrMuo3nKKmwCLxILYNOflC\/PsOylXc8SDX7iziXIQF58AAV\/f+C8EzPLYzQvOW5mID5oeas9hjmrumTiOVfCPXDpixW0qrCG+z5I9GOi8+11HkiQCpAFa\/rw0dcL8dPRZV5TgtFHPIfluklgpj3TPPahTfnnmeGgsARcR3oZ4x483avv8BdrjYX1cADjQ\/EWrxU9zv8nvbF8GYDX4C+GE0YreH00zfP86\/gnGXmPmBSKYnS6nZlBqkDKYKrnnHlCi7UFQvD2D0WlcJippfohe2v8nDwYOgyruHgBdE6yShC+uTqgePXsRy3X5qEliYlgHW1GF+yEBui3frgmITZe6CBKXzDMxeo7o7U3rMcW2ja+2ZszPU4yjiYqJp0PSMhJ\/jEH7CY8vFbCCEIop+X4vfUwW61euv2yJrYHMt0JjLG1A==",
+                "iv": "yspTTjcmw6UJXjKR6qxfLQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "e9c62a9ea1912182249b6b0361360488",
+            "skey": "ac398020a61e4dfda5b48ab206b231b4",
+            "user_info": {
+                "openId": "oPicY0bscjYe_dVps-xNhHFQimho",
+                "nickName": "兰风散人",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Od3AOao6Y9BhYJr4Yu8J96pLiaQPwDSfiahTDiciaLPibZVW3eNa7CWWHibC9hgX8brCTxS8icc9gOBezgjd5EQBB0eYw\/0",
+                "unionId": "oU11PxDnRNMzM_HH-hG3360mZjdY",
+                "watermark": {
+                    "timestamp": 1495958951,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "118ms"
+}
+
+[2017-05-28 16:09:11][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "e9c62a9ea1912182249b6b0361360488",
+        "skey": "ac398020a61e4dfda5b48ab206b231b4",
+        "openid": "oPicY0bscjYe_dVps-xNhHFQimho",
+        "unionid": "oU11PxDnRNMzM_HH-hG3360mZjdY"
+    }
+}
+
+ERROR - 2017-05-28 16:09:11 --> 1 2
+ERROR - 2017-05-28 16:09:11 --> 2 0
+[2017-05-28 16:09:11][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "003cdR9R0Mq8ec25GR9R0QRy9R0cdR98",
+                "encrypt_data": "pMJk\/OJidfroioH71h83oGQBWMGe59xXPbBg+mIs\/pgBwnweGyEITbDbLMYGoc4wR\/4WznCazXzU1cFHbj2SQXz8Tn7uiEl9NOeG4NSri+LMuNTlnPsNxGYYh2IeSZWHGgpdw7N4B+ekUoCyHHel\/ja06pUWRskSMbJxYJDGpZdVl5galj9fl+JZsnXuq58slEiTauJuuUnyeVj9Iwnr+pl4GJ251C+SeJSCQDVaPeARFj2Htj4IIZ6NlAKOSjqCHIEexn2nInV2fseLKZNfeTvjv7g1BZtuwhM7W4TJC2b4mA3EZAyvEqa+kaQqsdQOiIlZJCPGZotZevmMIE7xnDlfkXIpV1lOi9DAnrAL+zU1F3pDCkH7rn5mE5RBr\/xhJPwPb358MD5eV6UvQWVqIbACj2jYCN4NIfdGT2Z15W95DCIkvg8qHenV6cbsTMHpwNBpTz05d5Vz3lzplrbTi3svFa9GeGc0hHFKpnia7HZZIeTK7Sk\/KbEYsS1+paPjERTUq\/vxJHK0+QheXAoaDQ==",
+                "iv": "9XesQGPIjyZVspCuM4tfNg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "e9c62a9ea1912182249b6b0361360488",
+            "skey": "c4947e204f12efec2c409b53fec0937f",
+            "user_info": {
+                "openId": "oPicY0bscjYe_dVps-xNhHFQimho",
+                "nickName": "兰风散人",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Od3AOao6Y9BhYJr4Yu8J96pLiaQPwDSfiahTDiciaLPibZVW3eNa7CWWHibC9hgX8brCTxS8icc9gOBezgjd5EQBB0eYw\/0",
+                "unionId": "oU11PxDnRNMzM_HH-hG3360mZjdY",
+                "watermark": {
+                    "timestamp": 1495958951,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "140ms"
+}
+
+[2017-05-28 16:09:11][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "e9c62a9ea1912182249b6b0361360488",
+        "skey": "c4947e204f12efec2c409b53fec0937f",
+        "openid": "oPicY0bscjYe_dVps-xNhHFQimho",
+        "unionid": "oU11PxDnRNMzM_HH-hG3360mZjdY"
+    }
+}
+
+ERROR - 2017-05-28 16:09:12 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-05-28 16:21:12 --> 2586940137
+DEBUG - 2017-05-28 17:16:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:28 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:28 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:28 --> Total execution time: 0.0122
+DEBUG - 2017-05-28 17:16:28 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:28 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:28 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:28 --> Total execution time: 0.0178
+DEBUG - 2017-05-28 17:16:30 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:30 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:30 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:30 --> Total execution time: 0.0160
+DEBUG - 2017-05-28 17:16:31 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:31 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:31 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:31 --> Total execution time: 0.0738
+DEBUG - 2017-05-28 17:16:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:33 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:33 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:33 --> Total execution time: 0.0157
+DEBUG - 2017-05-28 17:16:33 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:33 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:33 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:33 --> Total execution time: 0.0130
+DEBUG - 2017-05-28 17:16:35 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:35 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:35 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:35 --> Total execution time: 0.0134
+DEBUG - 2017-05-28 17:16:36 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:36 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:36 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:36 --> Total execution time: 0.0098
+DEBUG - 2017-05-28 17:16:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:38 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:38 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:38 --> Total execution time: 0.0171
+DEBUG - 2017-05-28 17:16:38 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:38 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:38 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:38 --> Total execution time: 0.0121
+DEBUG - 2017-05-28 17:16:40 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:40 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:40 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:40 --> Total execution time: 0.0208
+DEBUG - 2017-05-28 17:16:41 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:41 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:41 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:41 --> Total execution time: 0.0119
+DEBUG - 2017-05-28 17:16:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:43 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:43 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:43 --> Total execution time: 0.0119
+DEBUG - 2017-05-28 17:16:43 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:43 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:43 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:43 --> Total execution time: 0.0116
+DEBUG - 2017-05-28 17:16:45 --> UTF-8 Support Enabled
+DEBUG - 2017-05-28 17:16:45 --> No URI present. Default controller set.
+DEBUG - 2017-05-28 17:16:45 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-05-28 17:16:45 --> Total execution time: 0.0100
+INFO - 2017-05-28 17:17:01 --> Config Class Initialized
+INFO - 2017-05-28 17:17:01 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:01 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:01 --> URI Class Initialized
+INFO - 2017-05-28 17:17:01 --> Router Class Initialized
+INFO - 2017-05-28 17:17:01 --> Output Class Initialized
+INFO - 2017-05-28 17:17:01 --> Security Class Initialized
+INFO - 2017-05-28 17:17:01 --> Input Class Initialized
+INFO - 2017-05-28 17:17:01 --> Language Class Initialized
+INFO - 2017-05-28 17:17:01 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:01 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:01 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:01 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:01 --> Final output sent to browser
+INFO - 2017-05-28 17:17:03 --> Config Class Initialized
+INFO - 2017-05-28 17:17:03 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:03 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:03 --> URI Class Initialized
+INFO - 2017-05-28 17:17:03 --> Router Class Initialized
+INFO - 2017-05-28 17:17:03 --> Output Class Initialized
+INFO - 2017-05-28 17:17:03 --> Security Class Initialized
+INFO - 2017-05-28 17:17:03 --> Input Class Initialized
+INFO - 2017-05-28 17:17:03 --> Language Class Initialized
+INFO - 2017-05-28 17:17:03 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:03 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:03 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:03 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:03 --> Final output sent to browser
+INFO - 2017-05-28 17:17:03 --> Config Class Initialized
+INFO - 2017-05-28 17:17:03 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:03 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:03 --> URI Class Initialized
+INFO - 2017-05-28 17:17:03 --> Router Class Initialized
+INFO - 2017-05-28 17:17:03 --> Output Class Initialized
+INFO - 2017-05-28 17:17:03 --> Security Class Initialized
+INFO - 2017-05-28 17:17:03 --> Input Class Initialized
+INFO - 2017-05-28 17:17:03 --> Language Class Initialized
+INFO - 2017-05-28 17:17:03 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:03 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:03 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:03 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:03 --> Final output sent to browser
+INFO - 2017-05-28 17:17:05 --> Config Class Initialized
+INFO - 2017-05-28 17:17:05 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:05 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:05 --> URI Class Initialized
+INFO - 2017-05-28 17:17:05 --> Router Class Initialized
+INFO - 2017-05-28 17:17:05 --> Output Class Initialized
+INFO - 2017-05-28 17:17:05 --> Security Class Initialized
+INFO - 2017-05-28 17:17:05 --> Input Class Initialized
+INFO - 2017-05-28 17:17:05 --> Language Class Initialized
+INFO - 2017-05-28 17:17:05 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:05 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:05 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:05 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:05 --> Final output sent to browser
+INFO - 2017-05-28 17:17:06 --> Config Class Initialized
+INFO - 2017-05-28 17:17:06 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:06 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:06 --> URI Class Initialized
+INFO - 2017-05-28 17:17:06 --> Router Class Initialized
+INFO - 2017-05-28 17:17:06 --> Output Class Initialized
+INFO - 2017-05-28 17:17:06 --> Security Class Initialized
+INFO - 2017-05-28 17:17:06 --> Input Class Initialized
+INFO - 2017-05-28 17:17:06 --> Language Class Initialized
+INFO - 2017-05-28 17:17:06 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:06 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:06 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:06 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:06 --> Final output sent to browser
+INFO - 2017-05-28 17:17:08 --> Config Class Initialized
+INFO - 2017-05-28 17:17:08 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:08 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:08 --> URI Class Initialized
+INFO - 2017-05-28 17:17:08 --> Router Class Initialized
+INFO - 2017-05-28 17:17:08 --> Output Class Initialized
+INFO - 2017-05-28 17:17:08 --> Security Class Initialized
+INFO - 2017-05-28 17:17:08 --> Input Class Initialized
+INFO - 2017-05-28 17:17:08 --> Language Class Initialized
+INFO - 2017-05-28 17:17:08 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:08 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:08 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:08 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:08 --> Final output sent to browser
+INFO - 2017-05-28 17:17:08 --> Config Class Initialized
+INFO - 2017-05-28 17:17:08 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:08 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:08 --> URI Class Initialized
+INFO - 2017-05-28 17:17:08 --> Router Class Initialized
+INFO - 2017-05-28 17:17:08 --> Output Class Initialized
+INFO - 2017-05-28 17:17:08 --> Security Class Initialized
+INFO - 2017-05-28 17:17:08 --> Input Class Initialized
+INFO - 2017-05-28 17:17:08 --> Language Class Initialized
+INFO - 2017-05-28 17:17:08 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:08 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:08 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:08 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:08 --> Final output sent to browser
+INFO - 2017-05-28 17:17:10 --> Config Class Initialized
+INFO - 2017-05-28 17:17:10 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:10 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:10 --> URI Class Initialized
+INFO - 2017-05-28 17:17:10 --> Router Class Initialized
+INFO - 2017-05-28 17:17:10 --> Output Class Initialized
+INFO - 2017-05-28 17:17:10 --> Security Class Initialized
+INFO - 2017-05-28 17:17:10 --> Input Class Initialized
+INFO - 2017-05-28 17:17:10 --> Language Class Initialized
+INFO - 2017-05-28 17:17:10 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:10 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:10 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:10 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:10 --> Final output sent to browser
+INFO - 2017-05-28 17:17:11 --> Config Class Initialized
+INFO - 2017-05-28 17:17:11 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:11 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:11 --> URI Class Initialized
+INFO - 2017-05-28 17:17:11 --> Router Class Initialized
+INFO - 2017-05-28 17:17:11 --> Output Class Initialized
+INFO - 2017-05-28 17:17:11 --> Security Class Initialized
+INFO - 2017-05-28 17:17:11 --> Input Class Initialized
+INFO - 2017-05-28 17:17:11 --> Language Class Initialized
+INFO - 2017-05-28 17:17:11 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:11 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:11 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:11 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:11 --> Final output sent to browser
+INFO - 2017-05-28 17:17:13 --> Config Class Initialized
+INFO - 2017-05-28 17:17:13 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:13 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:13 --> URI Class Initialized
+INFO - 2017-05-28 17:17:13 --> Router Class Initialized
+INFO - 2017-05-28 17:17:13 --> Output Class Initialized
+INFO - 2017-05-28 17:17:13 --> Security Class Initialized
+INFO - 2017-05-28 17:17:13 --> Input Class Initialized
+INFO - 2017-05-28 17:17:13 --> Language Class Initialized
+INFO - 2017-05-28 17:17:13 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:13 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:13 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:13 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:13 --> Final output sent to browser
+INFO - 2017-05-28 17:17:13 --> Config Class Initialized
+INFO - 2017-05-28 17:17:13 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:13 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:13 --> URI Class Initialized
+INFO - 2017-05-28 17:17:13 --> Router Class Initialized
+INFO - 2017-05-28 17:17:13 --> Output Class Initialized
+INFO - 2017-05-28 17:17:13 --> Security Class Initialized
+INFO - 2017-05-28 17:17:13 --> Input Class Initialized
+INFO - 2017-05-28 17:17:13 --> Language Class Initialized
+INFO - 2017-05-28 17:17:13 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:13 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:13 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:13 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:13 --> Final output sent to browser
+INFO - 2017-05-28 17:17:15 --> Config Class Initialized
+INFO - 2017-05-28 17:17:15 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:15 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:15 --> URI Class Initialized
+INFO - 2017-05-28 17:17:15 --> Router Class Initialized
+INFO - 2017-05-28 17:17:15 --> Output Class Initialized
+INFO - 2017-05-28 17:17:15 --> Security Class Initialized
+INFO - 2017-05-28 17:17:15 --> Input Class Initialized
+INFO - 2017-05-28 17:17:15 --> Language Class Initialized
+INFO - 2017-05-28 17:17:15 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:15 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:15 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:15 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:15 --> Final output sent to browser
+INFO - 2017-05-28 17:17:16 --> Config Class Initialized
+INFO - 2017-05-28 17:17:16 --> Hooks Class Initialized
+INFO - 2017-05-28 17:17:16 --> Utf8 Class Initialized
+INFO - 2017-05-28 17:17:16 --> URI Class Initialized
+INFO - 2017-05-28 17:17:16 --> Router Class Initialized
+INFO - 2017-05-28 17:17:16 --> Output Class Initialized
+INFO - 2017-05-28 17:17:16 --> Security Class Initialized
+INFO - 2017-05-28 17:17:16 --> Input Class Initialized
+INFO - 2017-05-28 17:17:16 --> Language Class Initialized
+INFO - 2017-05-28 17:17:16 --> Loader Class Initialized
+INFO - 2017-05-28 17:17:16 --> Helper loaded: general_helper
+INFO - 2017-05-28 17:17:16 --> Controller Class Initialized
+INFO - 2017-05-28 17:17:16 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-05-28 17:17:16 --> Final output sent to browser
+LDSF - 2017-05-28 17:22:33 --> show ldsf message
+LDSF - 2017-05-28 17:24:10 --> show ldsf message
+LDSF - 2017-05-28 17:24:36 --> User->profile()
+LDSF - 2017-05-28 17:24:36 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:32:34 --> User->addressbook() opt=all
+LDSF - 2017-05-28 17:32:34 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:32:43 --> User->address() addressid=71
+LDSF - 2017-05-28 17:32:47 --> User->addressmodify() insupd=u addressid=71
+LDSF - 2017-05-28 17:32:47 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:32:47 --> userid=1
+LDSF - 2017-05-28 17:32:47 --> level1=江苏
+LDSF - 2017-05-28 17:32:47 --> level2=苏州
+LDSF - 2017-05-28 17:32:47 --> level3=姑苏区
+LDSF - 2017-05-28 17:32:47 --> detail=皮市街打线里17幢西201室
+LDSF - 2017-05-28 17:32:47 --> name=冯聪
+LDSF - 2017-05-28 17:32:47 --> tel=18913158288
+LDSF - 2017-05-28 17:32:47 --> default=1
+LDSF - 2017-05-28 17:32:48 --> User->addressbook() opt=all
+LDSF - 2017-05-28 17:32:48 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:32:53 --> User->address() addressid=84
+LDSF - 2017-05-28 17:32:54 --> User->addressmodify() insupd=u addressid=84
+LDSF - 2017-05-28 17:32:54 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:32:54 --> userid=1
+LDSF - 2017-05-28 17:32:54 --> level1=江苏
+LDSF - 2017-05-28 17:32:54 --> level2=苏州
+LDSF - 2017-05-28 17:32:54 --> level3=苏州工业园区
+LDSF - 2017-05-28 17:32:54 --> detail=一斗山路娄门下塘43-1号2幢1单元402室（东港新村内）
+LDSF - 2017-05-28 17:32:54 --> name=冯聪
+LDSF - 2017-05-28 17:32:54 --> tel=15151543680
+LDSF - 2017-05-28 17:32:54 --> default=0
+LDSF - 2017-05-28 17:32:55 --> User->addressbook() opt=all
+LDSF - 2017-05-28 17:32:55 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:34:10 --> >>>User->addressbook() opt=all
+LDSF - 2017-05-28 17:34:10 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:34:19 --> >>>User->address() addressid=84
+LDSF - 2017-05-28 17:34:54 --> >>> User->addressmodify() insupd=u addressid=84
+LDSF - 2017-05-28 17:34:54 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:34:54 --> userid=1
+LDSF - 2017-05-28 17:34:54 --> level1=江苏
+LDSF - 2017-05-28 17:34:54 --> level2=苏州
+LDSF - 2017-05-28 17:34:54 --> level3=苏州工业园区
+LDSF - 2017-05-28 17:34:54 --> detail=一斗山路娄门下塘43-1号2幢1单元402室（东港新村内）
+LDSF - 2017-05-28 17:34:54 --> name=冯聪
+LDSF - 2017-05-28 17:34:54 --> tel=15151543680
+LDSF - 2017-05-28 17:34:54 --> default=0
+LDSF - 2017-05-28 17:34:54 --> >>> User->addressbook() opt=all
+LDSF - 2017-05-28 17:34:54 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:35:31 --> >>> User->addressbookisempty()
+LDSF - 2017-05-28 17:35:31 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:35:31 --> >>> User->loginrecord()
+LDSF - 2017-05-28 17:35:31 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:37:56 --> >>> User->addressbookisempty()
+LDSF - 2017-05-28 17:37:56 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:37:56 --> >>> User->loginrecord()
+LDSF - 2017-05-28 17:37:56 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:38:12 --> >>> User->profile()
+LDSF - 2017-05-28 17:38:12 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:41:37 --> >>> User->addressbookisempty()
+LDSF - 2017-05-28 17:41:37 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:41:37 --> >>> User->loginrecord()
+LDSF - 2017-05-28 17:41:37 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:41:39 --> >>> User->profile()
+LDSF - 2017-05-28 17:41:39 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-05-28 17:41:40 --> 404 Page Not Found: Faviconico/index
+LDSF - 2017-05-28 17:42:09 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 17:42:09 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:44:02 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 17:44:02 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:44:30 --> >>> Card->makedelivery()
+ERROR - 2017-05-28 17:44:30 --> Severity: Notice --> Array to string conversion /data/release/php-weapp-demo/application/controllers/Card.php 226
+LDSF - 2017-05-28 17:44:30 --> post=Array
+ERROR - 2017-05-28 17:44:30 --> 2586940137
+LDSF - 2017-05-28 17:46:11 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 17:46:11 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:46:56 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 17:46:56 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-28 17:47:07 --> >>> Card->makedelivery()
+LDSF - 2017-05-28 17:47:07 --> post={"cardno":"2586940137","openid":"oPicY0cBD5ZB89KieBFSH-PNddIE","contactname":"冯聪","contacttel":"18913158288","contactaddress":"江苏 苏州 姑苏区 皮市街打线里17幢西201室","expectdate":"2017-05-29","remark":"在这里"}
+ERROR - 2017-05-28 17:47:07 --> 2586940137
+LDSF - 2017-05-28 19:07:44 --> >>> User->addressbookisempty()
+LDSF - 2017-05-28 19:07:44 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+LDSF - 2017-05-28 19:07:44 --> >>> User->loginrecord()
+LDSF - 2017-05-28 19:07:44 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+ERROR - 2017-05-28 19:07:46 --> 
+ERROR - 2017-05-28 19:07:51 --> 
+ERROR - 2017-05-28 19:07:58 --> 
+LDSF - 2017-05-28 19:08:01 --> >>> User->profile()
+LDSF - 2017-05-28 19:08:01 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+LDSF - 2017-05-28 19:08:04 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 19:08:04 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+LDSF - 2017-05-28 19:08:13 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 19:08:13 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+LDSF - 2017-05-28 19:08:17 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 19:08:17 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+LDSF - 2017-05-28 19:08:25 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 19:08:25 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+LDSF - 2017-05-28 19:08:30 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 19:08:30 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+LDSF - 2017-05-28 19:08:58 --> >>> User->addressbook() opt=default
+LDSF - 2017-05-28 19:08:58 --> openid=oPicY0fJEUGIPbuUPx3hHLnrK4oM
+ERROR - 2017-05-28 20:09:27 --> 404 Page Not Found: Faviconico/index

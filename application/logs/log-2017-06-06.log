@@ -1,0 +1,126 @@
+ERROR - 2017-06-06 01:16:53 --> 404 Page Not Found: Cache/global
+ERROR - 2017-06-06 03:55:36 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-06-06 03:56:55 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-06-06 03:56:56 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2017-06-06 05:54:30 --> 1 2
+ERROR - 2017-06-06 05:54:30 --> 2 0
+[2017-06-06 05:54:30][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061sSeyh1amvmz0v0czh1b9lyh1sSeyu",
+                "encrypt_data": "xaM+Jyt4uFLb+06qZT90Bma9srU7fwGTvIeO2jFxembKuL4MO0+Nw\/xI9J0j2mjKyVXj98AgtRhhyQ8tGTlI15ekdtjE20GoG60Tt8XntVmCoKYlUHxCztn\/3jn5BQScRdldU9PJfLwkgNfraz0jieZ9AM\/R9X8PCBXYt15Cb5Es99PMpAS6trHBy5egxwTr+NELXM7VsCIWECp4wUtokfTyIc2ccOhf4\/CWdPphNMclqLcXPa+SovsChIIDaB1asYqDeQYCUigJmMDI43FthWcoTCjFdfiA8100i74BMm3RHJIqy6txxbwQnqEB\/JxDfUK2jeZj0HOdmgVJeEkk8tbvE+ZOdUJ9eIzOVYtb25TZPwase3LOox5bdqqnAU6h+6cvME92ALbSzYGSUVp9QXN6VD4T18bA9vpYD8c\/XME0YqJM5PFU7ylW8ZV8i7nqWSvB2WkP\/opRnk5FbDz74YxNGeUwRHkyRaTLAXw7ZFuEEvMqzIsvSBWh6yrm+N7LXbfuyavB4W9L9ZpOoSKgTg==",
+                "iv": "BmQGDIf3HaMoHJPx4gjyJw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "efdf94deae6e33c178d3082bf85e8643",
+            "skey": "f260252aadd29a6e6ab4d7041b3c4dac",
+            "user_info": {
+                "openId": "oPicY0eWJd_JbeqfaCiju36GI9Vg",
+                "nickName": "-米口-",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Wuxi",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTJVMzaflj5200JN4YXGoyiafoxZrJBDuKU51BBCOVJ5C0RibsGC7SibXeR2HmD3RNJ8nBEaP62jvXDRg\/0",
+                "unionId": "oU11PxGHnZJg2hoA1P7a8905fBUs",
+                "watermark": {
+                    "timestamp": 1496699669,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "443ms"
+}
+
+[2017-06-06 05:54:30][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "efdf94deae6e33c178d3082bf85e8643",
+        "skey": "f260252aadd29a6e6ab4d7041b3c4dac",
+        "openid": "oPicY0eWJd_JbeqfaCiju36GI9Vg",
+        "unionid": "oU11PxGHnZJg2hoA1P7a8905fBUs"
+    }
+}
+
+ERROR - 2017-06-06 05:54:30 --> 1 2
+ERROR - 2017-06-06 05:54:30 --> 2 0
+[2017-06-06 05:54:30][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081kc0Dc2OWwTB0K1qCc2JASCc2kc0D7",
+                "encrypt_data": "i3ehb6nqdWjY1n9EWfagZcjTTZk2A4MNLZBNF726GY5dioYz5+k159rWjJKD6EqnpB6cy6m2pwdW7oSxdWHqj\/GcmLdj4Dqul3ASNBbsutNoZ\/6q+7sVBTmqZbeW6qKa797WZ0f4H73KC070lYfMnswsswySAHJBmphwaTK2bDHoTtBuA2wo09NbB++HcDVuAB65zysy5FLOZ5x8vBsLZLZHV+Q\/Rjrug8B8JRu7iJho5oOemmgckiF0ERsuzF5iBfnxNCIYZcuXw7yL2L0L\/gADez7jicosgOXQRsDADrGwWEF5JR8ZvX2pFAjiJIhiYLYBd47X+XXx\/vGx+7Ystumt\/1qgpaFaU8g92vrupcUFPY1+8\/yE0mnF8Fw\/hUsjvisBgpuOaq2iOY9NspnOcP6C5oazxdA9TJlcXqkNzteOyLSxOvvrHqNqkhEBIszD6GbL+jlum+jQZyviZPzhAZ8Up+kkNZaJGL+pf2jR+Tjaon8v6b7bTmANB1Jp3gHYtsYL+hvggm62MFl6yRZcvA==",
+                "iv": "i9lNIAgV8QMTG7RwzMPZWQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "efdf94deae6e33c178d3082bf85e8643",
+            "skey": "f88304de596d0fda72334f132ecb5580",
+            "user_info": {
+                "openId": "oPicY0eWJd_JbeqfaCiju36GI9Vg",
+                "nickName": "-米口-",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Wuxi",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTJVMzaflj5200JN4YXGoyiafoxZrJBDuKU51BBCOVJ5C0RibsGC7SibXeR2HmD3RNJ8nBEaP62jvXDRg\/0",
+                "unionId": "oU11PxGHnZJg2hoA1P7a8905fBUs",
+                "watermark": {
+                    "timestamp": 1496699669,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "440ms"
+}
+
+[2017-06-06 05:54:30][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "efdf94deae6e33c178d3082bf85e8643",
+        "skey": "f88304de596d0fda72334f132ecb5580",
+        "openid": "oPicY0eWJd_JbeqfaCiju36GI9Vg",
+        "unionid": "oU11PxGHnZJg2hoA1P7a8905fBUs"
+    }
+}
+
+LDSF - 2017-06-06 05:54:31 --> >>> User->addressbookisempty()
+LDSF - 2017-06-06 05:54:31 --> openid=oPicY0eWJd_JbeqfaCiju36GI9Vg
+ERROR - 2017-06-06 05:54:31 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-06-06 05:54:31 --> >>> User->loginrecord()
+LDSF - 2017-06-06 05:54:31 --> openid=oPicY0eWJd_JbeqfaCiju36GI9Vg
+ERROR - 2017-06-06 05:55:04 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-06-06 05:55:05 --> 404 Page Not Found: Stssyshtm/index
+LDSF - 2017-06-06 05:55:37 --> >>> User->addressbook() opt=default
+LDSF - 2017-06-06 05:55:37 --> openid=oPicY0eWJd_JbeqfaCiju36GI9Vg
+ERROR - 2017-06-06 07:41:40 --> 404 Page Not Found: Manager/html
+ERROR - 2017-06-06 08:47:08 --> 404 Page Not Found: Manager/html
+ERROR - 2017-06-06 08:49:25 --> 404 Page Not Found: Cache/global
+ERROR - 2017-06-06 09:14:16 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-06-06 19:28:24 --> 404 Page Not Found: 404/search_children.js

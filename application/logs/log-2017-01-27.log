@@ -1,0 +1,57 @@
+ERROR - 2017-01-27 00:53:01 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-27 10:42:02 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-27 12:03:00 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-01-27 16:59:12 --> 1 2
+ERROR - 2017-01-27 16:59:12 --> 2 0
+[2017-01-27 16:59:12][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041jFqJ01I5NV22vyZJ01QGpJ01jFqJB",
+                "encrypt_data": "IM3cVa45nQsX0RpF8vKS9bn9z9KnTFnopHxTvvVajBnx4K0x5HM0FudUyMPuBw0WYX5hEoCOJfI3XRufYQYFxPZdGdaEj22s1k4OJhALskBQH74463PxTaBkOwJ5hsY1vGmpZvbBvHTsFVZ8IGQxIDgvitqHiSc7+BYPZfYdSIq+A4YvXeYzNsAOfOy5MSsRDM8Pq1srcfxOAfFE9SI4ju\/lXKunGrOoenISzD1tHBEQwLymRCi\/B1pREHBoyKaMw78YefL3OWoYDU2Ehhd+DLFXGmWrO\/lt58z0nsdulQOL8ozOWva36PGoie28bthaDs2XZxfYJozK0A+X+4XmkpQ79kS7nvVS4yMSSbVkSXRC3j+w4EQ3sGExIoKzYyoVur6h4ZwKNnyaJvaKhXx2MCRCuvdIgN9utSCpsu5pxnz8C02rSZuBQkIU34xRik37upqV+YtS5hkfE5ocW34uddtyN5bGReWDKtd3QHnFmC0=",
+                "iv": "gmMyH62Zm2s+kYs03ExU0Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "45e74eda0971380fc28819f3d13519cf",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1485507551,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "149ms"
+}
+
+[2017-01-27 16:59:12][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "45e74eda0971380fc28819f3d13519cf",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-27 19:17:25 --> 404 Page Not Found: Cache/global

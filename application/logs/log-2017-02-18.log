@@ -1,0 +1,538 @@
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'pixelRatio' /data/release/php-weapp-demo/application/models/User_model.php 176
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'windowWidth' /data/release/php-weapp-demo/application/models/User_model.php 177
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'windowHeight' /data/release/php-weapp-demo/application/models/User_model.php 178
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'language' /data/release/php-weapp-demo/application/models/User_model.php 179
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'version' /data/release/php-weapp-demo/application/models/User_model.php 180
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'system' /data/release/php-weapp-demo/application/models/User_model.php 181
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'platform' /data/release/php-weapp-demo/application/models/User_model.php 182
+ERROR - 2017-02-18 00:03:21 --> Severity: Warning --> Illegal string offset 'errMsg' /data/release/php-weapp-demo/application/models/User_model.php 183
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'pixelRatio' /data/release/php-weapp-demo/application/models/User_model.php 176
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'windowWidth' /data/release/php-weapp-demo/application/models/User_model.php 177
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'windowHeight' /data/release/php-weapp-demo/application/models/User_model.php 178
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'language' /data/release/php-weapp-demo/application/models/User_model.php 179
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'version' /data/release/php-weapp-demo/application/models/User_model.php 180
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'system' /data/release/php-weapp-demo/application/models/User_model.php 181
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'platform' /data/release/php-weapp-demo/application/models/User_model.php 182
+ERROR - 2017-02-18 00:04:36 --> Severity: Warning --> Illegal string offset 'errMsg' /data/release/php-weapp-demo/application/models/User_model.php 183
+ERROR - 2017-02-18 00:06:30 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:06:30 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /data/release/php-weapp-demo/application/models/User_model.php:176) /data/release/php-weapp-demo/system/core/Common.php 573
+ERROR - 2017-02-18 00:06:30 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/models/User_model.php 176
+ERROR - 2017-02-18 00:07:41 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:07:58 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-02-18 00:09:14 --> 
+ERROR - 2017-02-18 00:09:14 --> 
+ERROR - 2017-02-18 00:09:14 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 178
+ERROR - 2017-02-18 00:11:49 --> 
+ERROR - 2017-02-18 00:11:49 --> 
+ERROR - 2017-02-18 00:11:49 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 178
+ERROR - 2017-02-18 00:12:09 --> 
+ERROR - 2017-02-18 00:12:09 --> 
+ERROR - 2017-02-18 00:12:09 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 178
+ERROR - 2017-02-18 00:13:37 --> 
+ERROR - 2017-02-18 00:13:37 --> 
+ERROR - 2017-02-18 00:13:37 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 178
+ERROR - 2017-02-18 00:15:33 --> [object Undefined]
+ERROR - 2017-02-18 00:15:33 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:15:33 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:17:45 --> [object Undefined]
+ERROR - 2017-02-18 00:17:45 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:17:45 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:17:54 --> [object Undefined]
+ERROR - 2017-02-18 00:17:54 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:17:54 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:18:16 --> [object Undefined]
+ERROR - 2017-02-18 00:18:16 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:18:16 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:20:19 --> [object Undefined]
+ERROR - 2017-02-18 00:20:19 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:20:19 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:20:53 --> [object Undefined]
+ERROR - 2017-02-18 00:20:53 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:20:53 --> http://wx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw/0
+ERROR - 2017-02-18 00:20:53 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:22:32 --> undefined
+ERROR - 2017-02-18 00:22:32 --> %7B%22errMsg%22:%22getSystemInfo:ok%22,%22model%22:%22iPhone%206%22,%22pixelRatio%22:3,%22windowWidth%22:414,%22windowHeight%22:696,%22system%22:%22iOS%2010.0.1%22,%22language%22:%22zh_CN%22,%22version%22:%226.3.9%22,%22platform%22:%22devtools%22%7D
+ERROR - 2017-02-18 00:22:32 --> Severity: Notice --> Undefined index: HTTP_TEST /data/release/php-weapp-demo/application/controllers/User.php 96
+ERROR - 2017-02-18 00:22:32 --> 
+ERROR - 2017-02-18 00:22:32 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:23:52 --> undefined
+ERROR - 2017-02-18 00:23:52 --> %7B%22errMsg%22:%22getSystemInfo:ok%22,%22model%22:%22iPhone%206%22,%22pixelRatio%22:3,%22windowWidth%22:414,%22windowHeight%22:696,%22system%22:%22iOS%2010.0.1%22,%22language%22:%22zh_CN%22,%22version%22:%226.3.9%22,%22platform%22:%22devtools%22%7D
+ERROR - 2017-02-18 00:23:52 --> Severity: Notice --> Undefined index: HTTP_TEST /data/release/php-weapp-demo/application/controllers/User.php 96
+ERROR - 2017-02-18 00:23:52 --> 
+ERROR - 2017-02-18 00:23:52 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:24:01 --> undefined
+ERROR - 2017-02-18 00:24:01 --> %7B%22errMsg%22:%22getSystemInfo:ok%22,%22model%22:%22iPhone%206%22,%22pixelRatio%22:3,%22windowWidth%22:414,%22windowHeight%22:696,%22system%22:%22iOS%2010.0.1%22,%22language%22:%22zh_CN%22,%22version%22:%226.3.9%22,%22platform%22:%22devtools%22%7D
+ERROR - 2017-02-18 00:24:01 --> Severity: Notice --> Undefined index: HTTP_TEST /data/release/php-weapp-demo/application/controllers/User.php 96
+ERROR - 2017-02-18 00:24:01 --> 
+ERROR - 2017-02-18 00:24:02 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:28:16 --> undefined
+ERROR - 2017-02-18 00:28:16 --> %7B%22errMsg%22:%22getSystemInfo:ok%22,%22model%22:%22iPhone%206%22,%22pixelRatio%22:3,%22windowWidth%22:414,%22windowHeight%22:696,%22system%22:%22iOS%2010.0.1%22,%22language%22:%22zh_CN%22,%22version%22:%226.3.9%22,%22platform%22:%22devtools%22%7D
+ERROR - 2017-02-18 00:28:16 --> Severity: Notice --> Undefined index: HTTP_TEST /data/release/php-weapp-demo/application/controllers/User.php 96
+ERROR - 2017-02-18 00:28:16 --> 
+ERROR - 2017-02-18 00:28:16 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:28:27 --> undefined
+ERROR - 2017-02-18 00:28:27 --> %7B%22errMsg%22:%22getSystemInfo:ok%22,%22model%22:%22iPhone%206%22,%22pixelRatio%22:3,%22windowWidth%22:414,%22windowHeight%22:696,%22system%22:%22iOS%2010.0.1%22,%22language%22:%22zh_CN%22,%22version%22:%226.3.9%22,%22platform%22:%22devtools%22%7D
+ERROR - 2017-02-18 00:28:27 --> Severity: Notice --> Undefined index: HTTP_TEST /data/release/php-weapp-demo/application/controllers/User.php 96
+ERROR - 2017-02-18 00:28:27 --> 
+ERROR - 2017-02-18 00:28:27 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:29:50 --> undefined
+ERROR - 2017-02-18 00:29:50 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:29:50 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:30:44 --> undefined
+ERROR - 2017-02-18 00:30:44 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:30:44 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:33:08 --> encodeURI(userinfo)
+ERROR - 2017-02-18 00:33:08 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:33:08 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:33:11 --> undefined
+ERROR - 2017-02-18 00:33:11 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:33:11 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:38:27 --> undefined
+ERROR - 2017-02-18 00:38:27 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:38:28 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:42:49 --> 
+ERROR - 2017-02-18 00:42:49 --> 
+ERROR - 2017-02-18 00:42:49 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:42:49 --> Severity: Notice --> Uninitialized string offset: 0 /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:43:19 --> undefined
+ERROR - 2017-02-18 00:43:19 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:43:19 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 00:43:51 --> undefined
+ERROR - 2017-02-18 00:43:51 --> {"errMsg":"getSystemInfo:ok","model":"iPhone 6","pixelRatio":3,"windowWidth":414,"windowHeight":696,"system":"iOS 10.0.1","language":"zh_CN","version":"6.3.9","platform":"devtools"}
+ERROR - 2017-02-18 00:43:51 --> Severity: Warning --> Illegal string offset 'model' /data/release/php-weapp-demo/application/models/User_model.php 175
+ERROR - 2017-02-18 01:05:38 --> 404 Page Not Found: Pleasereadthis/index
+ERROR - 2017-02-18 01:19:45 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-02-18 01:19:54 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-02-18 01:19:54 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-18 01:20:05 --> undefined
+ERROR - 2017-02-18 01:20:08 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-18 01:22:39 --> undefined
+ERROR - 2017-02-18 01:23:02 --> undefined
+ERROR - 2017-02-18 01:24:35 --> 
+ERROR - 2017-02-18 01:24:46 --> [object Undefined]
+ERROR - 2017-02-18 01:26:11 --> [object Undefined]
+ERROR - 2017-02-18 01:26:47 --> undefined
+ERROR - 2017-02-18 01:26:57 --> 
+ERROR - 2017-02-18 01:32:22 --> 
+ERROR - 2017-02-18 01:35:22 --> 
+ERROR - 2017-02-18 01:35:37 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-02-18 01:35:52 --> 
+ERROR - 2017-02-18 01:36:26 --> 
+ERROR - 2017-02-18 01:36:36 --> 
+ERROR - 2017-02-18 01:37:48 --> 
+ERROR - 2017-02-18 01:39:02 --> 
+ERROR - 2017-02-18 01:39:10 --> 
+ERROR - 2017-02-18 01:40:36 --> undefined
+ERROR - 2017-02-18 01:40:46 --> undefined
+ERROR - 2017-02-18 01:41:44 --> undefined
+ERROR - 2017-02-18 01:42:13 --> undefined
+ERROR - 2017-02-18 01:45:23 --> undefined
+ERROR - 2017-02-18 01:46:09 --> undefined
+ERROR - 2017-02-18 01:46:23 --> undefined
+ERROR - 2017-02-18 01:46:59 --> undefined
+ERROR - 2017-02-18 01:53:17 --> undefined
+ERROR - 2017-02-18 01:53:22 --> undefined
+ERROR - 2017-02-18 01:56:02 --> undefined
+ERROR - 2017-02-18 01:56:42 --> 404 Page Not Found: User/reg
+ERROR - 2017-02-18 01:57:35 --> undefined
+ERROR - 2017-02-18 01:58:17 --> undefined
+ERROR - 2017-02-18 01:58:33 --> undefined
+ERROR - 2017-02-18 01:59:02 --> undefined
+ERROR - 2017-02-18 02:01:10 --> 普通话君
+ERROR - 2017-02-18 02:01:33 --> 普通话君
+ERROR - 2017-02-18 02:03:07 --> 普通话君
+ERROR - 2017-02-18 02:04:41 --> 
+ERROR - 2017-02-18 02:07:36 --> 普通话君
+ERROR - 2017-02-18 02:09:43 --> 1 2
+ERROR - 2017-02-18 02:09:43 --> 2 0
+[2017-02-18 02:09:43][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051FM4WE0ol0yh2SPjVE0JiKVE0FM4WI",
+                "encrypt_data": "KCsYLSDK8gPnVm2w1dgeuDyhnbJ8TIBFRUHckOc\/F2fUu0jyERhuJyF7b\/10AIn75A2QSSinNasEafGPBQhSyuvSktxRotk6EJorgVYMJz1SVRGfPT0fKPCLWaN5HhJtUWekgB8lpKxbZaDTqNc5KssMmO6yGfA2VXpbSH3xXuZ3tpaCD4cLKn\/mgkcrHvS6joxD8\/onxih70qEyGPTPOqlhKUr6NbfarJuv+TC8MCGUqynHY22L4RPoW9d5z8WBqq2wbw6UvNy\/+NCAX2TCfjInuSPe4nLhBxarBCpKtpq\/5BVCH2OyskzZeCr5HPp3pf18dypvrGzEW5CC2nxmyU0eU6YSdxD7lOMHZT7wAnxYrJRrHM1+whsV5SCQSKjGW\/W7cAEkJ89UM9ZmINWJgy2R78jUMpLr0XHQtT7p67AFxitOljC8W7CODxQDyEIFKXFPSX\/jArQDeWxir4RTJA==",
+                "iv": "H2DSV\/xNkU\/z3zR2jTIQUw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d05e8a5d1e21733666c6fb59fa29218",
+            "skey": "f9dcfd1514d3350dc226b73b864f87d6",
+            "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "watermark": {
+                    "timestamp": 1487354983,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "76ms"
+}
+
+[2017-02-18 02:09:43][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d05e8a5d1e21733666c6fb59fa29218",
+        "skey": "f9dcfd1514d3350dc226b73b864f87d6",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI"
+    }
+}
+
+ERROR - 2017-02-18 02:11:06 --> 礼待四方
+ERROR - 2017-02-18 02:11:40 --> 礼待四方
+ERROR - 2017-02-18 02:13:52 --> 礼待四方
+ERROR - 2017-02-18 02:14:22 --> 礼待四方
+ERROR - 2017-02-18 02:14:55 --> 礼待四方
+ERROR - 2017-02-18 02:15:55 --> 礼待四方
+ERROR - 2017-02-18 02:16:29 --> 礼待四方
+ERROR - 2017-02-18 02:18:44 --> 礼待四方
+ERROR - 2017-02-18 02:22:42 --> 普通话君
+ERROR - 2017-02-18 02:24:04 --> 普通话君
+ERROR - 2017-02-18 02:25:43 --> 普通话君
+ERROR - 2017-02-18 02:26:47 --> 普通话君
+ERROR - 2017-02-18 02:31:07 --> 普通话君
+ERROR - 2017-02-18 02:31:38 --> 普通话君
+ERROR - 2017-02-18 02:32:31 --> 普通话君
+ERROR - 2017-02-18 02:33:17 --> 404 Page Not Found: Warning/index
+ERROR - 2017-02-18 02:38:01 --> 普通话君
+ERROR - 2017-02-18 02:40:14 --> 普通话君
+ERROR - 2017-02-18 02:41:37 --> 普通话君
+ERROR - 2017-02-18 02:51:11 --> 普通话君
+ERROR - 2017-02-18 02:53:18 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-18 02:55:02 --> 普通话君
+ERROR - 2017-02-18 02:55:15 --> 普通话君
+ERROR - 2017-02-18 02:55:28 --> 普通话君
+ERROR - 2017-02-18 02:55:40 --> 普通话君
+ERROR - 2017-02-18 02:56:23 --> 普通话君
+ERROR - 2017-02-18 02:56:52 --> 普通话君
+ERROR - 2017-02-18 02:57:18 --> 普通话君
+ERROR - 2017-02-18 02:58:14 --> 普通话君
+ERROR - 2017-02-18 02:58:21 --> 普通话君
+ERROR - 2017-02-18 02:58:31 --> 普通话君
+ERROR - 2017-02-18 02:58:48 --> 普通话君
+ERROR - 2017-02-18 02:59:31 --> 普通话君
+ERROR - 2017-02-18 02:59:41 --> 普通话君
+ERROR - 2017-02-18 03:00:40 --> 普通话君
+ERROR - 2017-02-18 03:00:49 --> 普通话君
+ERROR - 2017-02-18 03:01:08 --> 普通话君
+ERROR - 2017-02-18 03:01:16 --> 普通话君
+ERROR - 2017-02-18 03:01:59 --> 普通话君
+ERROR - 2017-02-18 03:02:09 --> 普通话君
+ERROR - 2017-02-18 03:03:16 --> 普通话君
+ERROR - 2017-02-18 03:03:26 --> 普通话君
+ERROR - 2017-02-18 03:05:09 --> 普通话君
+ERROR - 2017-02-18 03:05:29 --> 普通话君
+ERROR - 2017-02-18 03:06:17 --> 普通话君
+ERROR - 2017-02-18 03:06:22 --> 普通话君
+ERROR - 2017-02-18 03:06:34 --> 普通话君
+ERROR - 2017-02-18 03:08:16 --> 普通话君
+ERROR - 2017-02-18 03:13:16 --> 普通话君
+ERROR - 2017-02-18 03:15:32 --> 普通话君
+ERROR - 2017-02-18 03:15:48 --> 普通话君
+ERROR - 2017-02-18 03:17:48 --> 普通话君
+ERROR - 2017-02-18 03:31:30 --> 普通话君
+ERROR - 2017-02-18 03:31:59 --> 普通话君
+ERROR - 2017-02-18 03:36:27 --> 普通话君
+ERROR - 2017-02-18 03:37:02 --> 普通话君
+ERROR - 2017-02-18 03:38:34 --> 普通话君
+ERROR - 2017-02-18 03:38:47 --> 普通话君
+ERROR - 2017-02-18 03:41:10 --> 普通话君
+ERROR - 2017-02-18 03:41:11 --> 普通话君
+ERROR - 2017-02-18 03:41:44 --> 普通话君
+ERROR - 2017-02-18 03:41:44 --> 普通话君
+ERROR - 2017-02-18 03:42:18 --> 普通话君
+ERROR - 2017-02-18 03:42:35 --> 普通话君
+ERROR - 2017-02-18 03:45:29 --> 普通话君
+ERROR - 2017-02-18 03:45:42 --> 普通话君
+ERROR - 2017-02-18 03:45:54 --> 普通话君
+ERROR - 2017-02-18 03:46:22 --> 普通话君
+ERROR - 2017-02-18 03:46:51 --> 普通话君
+ERROR - 2017-02-18 03:47:15 --> 普通话君
+ERROR - 2017-02-18 03:47:35 --> 普通话君
+ERROR - 2017-02-18 03:47:47 --> 普通话君
+ERROR - 2017-02-18 03:48:17 --> 普通话君
+ERROR - 2017-02-18 03:48:27 --> 普通话君
+ERROR - 2017-02-18 03:48:49 --> 普通话君
+ERROR - 2017-02-18 03:49:05 --> 普通话君
+ERROR - 2017-02-18 03:58:03 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-18 04:17:35 --> 礼待四方
+ERROR - 2017-02-18 04:18:07 --> 普通话君
+ERROR - 2017-02-18 04:18:52 --> 普通话君
+ERROR - 2017-02-18 04:20:15 --> 1
+ERROR - 2017-02-18 04:21:02 --> newcomment
+ERROR - 2017-02-18 04:21:26 --> 1
+ERROR - 2017-02-18 04:21:31 --> notify start
+ERROR - 2017-02-18 04:21:31 --> notify end, id:20170218042126937461 wx_id:4002512001201702180343832809
+ERROR - 2017-02-18 04:25:48 --> 普通话君
+ERROR - 2017-02-18 09:27:10 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-18 13:31:39 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-18 13:45:28 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-18 14:17:48 --> 1 2
+ERROR - 2017-02-18 14:17:48 --> 2 0
+[2017-02-18 14:17:48][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0015Ufij2kHBNH0tzRhj2vArij25Ufiu",
+                "encrypt_data": "bFdRpQVikiBOJ3nNUZKU35qJMeWJGP4QwBBATYtP8alVp4E6AS0Xn1xVK3vcAtF6fALucJ0Z7Vytek6GX4GWLc5MSipnmEEoIW91nfbTSp8S9UCbJhmWyGiYNxvi4HAW\/29I4\/c2sebHfyzWHqZBKSgjBP+HoMgYyhkvaLXKFJe5i4jd5RK\/MrHfhkyHX8ByucXfTvRDxzkg3b0vBspk99rEzMfSGb70sQXW\/KpVClZ7LypIfhD6Un\/GwgMzCtWDfA2aQBSezpo8iOPAcP9gFxTo4jf1AMYYRtlDv9HLuD9v+psjfnzJx\/X6qIkBHok0xsHOAYRsL\/3xf5foGadFNdN9fowRnUsw5PNn\/bhbWEC52DPAuy93BeqOLDGzi4XYRHcfJoMHmPh0lx3cx\/ayyox\/yqMBGAUzkE\/Nab97QCBwFY0VkzsaJHM0PIRpCEJYEBLesE96i67a\/EnbmJxbLiY8YFgj3k3Ywl3eh1qJ+7A=",
+                "iv": "uNCN6JLUJBmEakZ394VEqg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "e56d530ac39b1d643949dae2748121da",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1487398667,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "96ms"
+}
+
+[2017-02-18 14:17:48][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "e56d530ac39b1d643949dae2748121da",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-18 15:52:16 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-02-18 16:24:51 --> Severity: Warning --> Missing argument 2 for Good::ordergoodinfo() /data/release/php-weapp-demo/application/controllers/Good.php 27
+ERROR - 2017-02-18 16:24:51 --> Severity: Notice --> Undefined variable: goodspecseq /data/release/php-weapp-demo/application/controllers/Good.php 31
+ERROR - 2017-02-18 16:27:35 --> 180000
+ERROR - 2017-02-18 16:51:33 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-18 17:27:31 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-02-18 17:44:54 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-18 17:45:03 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-18 19:02:50 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-02-18 20:57:16 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-18 20:57:16 --> 1 2
+ERROR - 2017-02-18 20:57:16 --> 2 0
+[2017-02-18 20:57:16][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021lKLBP1rlGR61nShBP1Q8MBP1lKLBG",
+                "encrypt_data": "wfFT5Qr+MIMI4XTX3GlTnxzY+Do59hTxXi71x\/d1VA+1ky5BAdEDZ7MwLCqaHsNdUxCR4d94hFwgDzydXWB1ig7PpazcoQJ6FYPF++cbY06iWF3FPgI0iC1J6ZXsJ9adtgetefLKzYOGFplwOnkA\/d7KwioPCh+6knAJAx2ytnMu1AV3kICgwBn4NET+8howMa45HUPWD2GJKb2z5FuOtz7q3aMM8vbMuyYtrieukLMwwyxdEJ7dLySsA7\/o4K2JkcGphBhgpWbR3GblWzkoUYue1IphZIycYEKIAdI0BM\/zYnZ4fF6RgHvjSFFixcO5+SJ78gOdaJFq\/XqbBW3Qm7lzVQtH2DkxLX7yY+mf4svYP4kqBdIOjMoPxb3RV4+Zno0E6nUnuOmP+QCNXGHNsj2yWpZFgQ\/aPjlVkKAb4Ok1KoqLQNAjmBbYrsELsK5zrmJwlIQBjW\/gKpeECMeSUKMOTsRIoRgE4lkwLHVrCys=",
+                "iv": "hKOqKjCfhWrNDnZWXMajKw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "4c51fd7e7fbc07848175bf11ea772eb0",
+            "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "watermark": {
+                    "timestamp": 1487422636,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "81ms"
+}
+
+[2017-02-18 20:57:16][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "4c51fd7e7fbc07848175bf11ea772eb0",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8"
+    }
+}
+
+ERROR - 2017-02-18 20:57:17 --> 1 2
+ERROR - 2017-02-18 20:57:17 --> 2 0
+[2017-02-18 20:57:17][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031HHm3I14v5B60gLf1I1rPe3I1HHm3x",
+                "encrypt_data": "tcPWkoaD\/VNzd707qoKD0JeDClCdT993pMZ0nb8W9EcIF14I9hxWvqkYqkuPMVNnyaCKJSvS46MI+J3CrM1Sy2W0tmX6031+lQp8+sVO3dZnBZLzlgMQRK\/zr1kI59Jcg4GehrG8hZb8uThyxf6jBzdUSAzqp444hxXjhOGhJdhuylKawy8KAr\/rDePomUXJ4TCh3r33CoZ766KbcYNa+agNvknScHdDeBT+oegXv5NlTUUcIbeOcqhLEcWVS49YMLUwmjBLGrfZDKE8s9vRi1IJkjj1Cf8G3Sap\/Q5ZIJgR50O2TwNb9CWfd1HMA+gDqNBN7eZpG4WV3QbgQ\/KibPolY3x7khBO29udmkiVUZgGB+nvyEz4671Uh+m00M\/ZgIcVfC+bcukxeWm8dYsTq+e8WcFwikhwKIGIWqzrwR7YXrzoHXzk+ccOMjYXPsvCU33B4N4fmTkM0063po\/iLi6UsLK1VxCKg9pvuppL5y4=",
+                "iv": "1pdD40RCIZyATEdOG18u6Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "4a48598bd55d826e5b12dc5218f911a2",
+            "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "watermark": {
+                    "timestamp": 1487422631,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "112ms"
+}
+
+[2017-02-18 20:57:17][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "4a48598bd55d826e5b12dc5218f911a2",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8"
+    }
+}
+
+ERROR - 2017-02-18 21:54:40 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-02-18 21:54:40 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-02-18 21:54:41 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-02-18 21:54:41 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-18 21:54:42 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-18 21:54:42 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-18 21:54:42 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-18 21:54:43 --> 404 Page Not Found: Res/js
+ERROR - 2017-02-18 21:54:43 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-02-18 21:54:43 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-18 21:54:44 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-18 21:54:44 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-02-18 21:54:45 --> 404 Page Not Found: Template/default
+ERROR - 2017-02-18 21:54:45 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-18 21:54:45 --> 404 Page Not Found: Images/js
+ERROR - 2017-02-18 21:54:46 --> 404 Page Not Found: Templets/style
+ERROR - 2017-02-18 21:54:46 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-02-18 21:54:46 --> 404 Page Not Found: Images/default
+ERROR - 2017-02-18 21:54:47 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-18 21:54:47 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-18 21:54:48 --> 404 Page Not Found: D/js
+ERROR - 2017-02-18 21:54:48 --> 404 Page Not Found: Skin/default
+ERROR - 2017-02-18 21:54:48 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-18 21:54:49 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-18 21:54:49 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-18 21:54:50 --> 404 Page Not Found: Style/default
+ERROR - 2017-02-18 21:54:50 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-18 21:54:50 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-02-18 21:54:51 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-18 21:54:51 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-02-18 21:54:51 --> 404 Page Not Found: Please_read/_search
+ERROR - 2017-02-18 21:54:52 --> 404 Page Not Found: Pleasereadthis/index
+ERROR - 2017-02-18 21:54:52 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-02-18 21:54:53 --> 404 Page Not Found: Warning/index
+ERROR - 2017-02-18 21:54:53 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-02-18 21:54:53 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-02-18 21:55:58 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-02-18 21:55:58 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-02-18 21:55:58 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-02-18 21:55:59 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-18 21:55:59 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-18 21:56:00 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-18 21:56:00 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-18 21:56:00 --> 404 Page Not Found: Res/js
+ERROR - 2017-02-18 21:56:01 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-02-18 21:56:01 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-18 21:56:01 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-18 21:56:02 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-02-18 21:56:02 --> 404 Page Not Found: Template/default
+ERROR - 2017-02-18 21:56:03 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-18 21:56:03 --> 404 Page Not Found: Images/js
+ERROR - 2017-02-18 21:56:03 --> 404 Page Not Found: Templets/style
+ERROR - 2017-02-18 21:56:04 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-02-18 21:56:04 --> 404 Page Not Found: Images/default
+ERROR - 2017-02-18 21:56:05 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-18 21:56:05 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-18 21:56:05 --> 404 Page Not Found: D/js
+ERROR - 2017-02-18 21:56:06 --> 404 Page Not Found: Skin/default
+ERROR - 2017-02-18 21:56:06 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-18 21:56:06 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-18 21:56:07 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-18 21:56:07 --> 404 Page Not Found: Style/default
+ERROR - 2017-02-18 21:56:08 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-18 21:56:08 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-02-18 21:56:08 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-18 21:56:09 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-02-18 21:56:09 --> 404 Page Not Found: Please_read/_search
+ERROR - 2017-02-18 21:56:10 --> 404 Page Not Found: Pleasereadthis/index
+ERROR - 2017-02-18 21:56:10 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-02-18 21:56:10 --> 404 Page Not Found: Warning/index
+ERROR - 2017-02-18 21:56:11 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-02-18 21:56:11 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-02-18 22:42:03 --> 404 Page Not Found: Recordings/index
+ERROR - 2017-02-18 22:49:47 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-18 23:02:07 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-18 23:05:14 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-18 23:18:38 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-02-18 23:31:58 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-02-18 23:32:07 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-02-18 23:44:48 --> 404 Page Not Found: Pleasereadthis/index

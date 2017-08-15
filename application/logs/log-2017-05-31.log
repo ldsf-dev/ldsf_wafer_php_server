@@ -1,0 +1,225 @@
+ERROR - 2017-05-31 01:13:41 --> 404 Page Not Found: Faviconico/index
+LDSF - 2017-05-31 01:14:52 --> >>> User->addressbookisempty()
+LDSF - 2017-05-31 01:14:52 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-05-31 01:14:53 --> >>> User->loginrecord()
+LDSF - 2017-05-31 01:14:53 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-05-31 03:00:10 --> 404 Page Not Found: Cache/global
+ERROR - 2017-05-31 03:50:22 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-05-31 05:03:08 --> 404 Page Not Found: Cache/global
+ERROR - 2017-05-31 05:47:43 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-05-31 05:47:44 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-05-31 07:40:57 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-05-31 08:20:12 --> 404 Page Not Found: Search/index
+ERROR - 2017-05-31 08:20:12 --> 404 Page Not Found: 273/index
+ERROR - 2017-05-31 14:04:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-31 21:02:44 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-05-31 21:43:48 --> 404 Page Not Found: Manager/html
+ERROR - 2017-05-31 21:47:14 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-05-31 21:48:37 --> 404 Page Not Found: PMA2012/index
+ERROR - 2017-05-31 21:48:38 --> 404 Page Not Found: Pma2012/index
+ERROR - 2017-05-31 21:48:39 --> 404 Page Not Found: PMA2011/index
+ERROR - 2017-05-31 21:48:39 --> 404 Page Not Found: Pma2011/index
+ERROR - 2017-05-31 21:48:40 --> 404 Page Not Found: Phpmyadmin2/index
+ERROR - 2017-05-31 21:48:41 --> 404 Page Not Found: Phpmyadmin3/index
+ERROR - 2017-05-31 21:48:51 --> 404 Page Not Found: Mysqladmin/index
+ERROR - 2017-05-31 21:48:53 --> 404 Page Not Found: Mysql/index
+ERROR - 2017-05-31 21:48:56 --> 404 Page Not Found: Myadmin/index
+ERROR - 2017-05-31 21:48:59 --> 404 Page Not Found: Mysql/admin
+ERROR - 2017-05-31 21:49:01 --> 404 Page Not Found: Mysql/dbadmin
+ERROR - 2017-05-31 21:49:05 --> 404 Page Not Found: PhpMyadmin/index
+ERROR - 2017-05-31 21:49:14 --> 404 Page Not Found: PhpmyAdmin/index
+ERROR - 2017-05-31 21:49:16 --> 404 Page Not Found: Phpmyadmin2/index
+ERROR - 2017-05-31 21:49:18 --> 404 Page Not Found: Phpmyadmin3/index
+ERROR - 2017-05-31 21:49:27 --> 404 Page Not Found: 2phpmyadmin/index
+ERROR - 2017-05-31 21:49:30 --> 404 Page Not Found: Phppma/index
+ERROR - 2017-05-31 21:49:32 --> 404 Page Not Found: Myadmin/index
+ERROR - 2017-05-31 21:49:34 --> 404 Page Not Found: Shopdb/index
+ERROR - 2017-05-31 21:49:36 --> 404 Page Not Found: MyAdmin/index
+ERROR - 2017-05-31 21:49:39 --> 404 Page Not Found: Program/index
+ERROR - 2017-05-31 21:49:40 --> 404 Page Not Found: PMA/index
+ERROR - 2017-05-31 21:49:40 --> 404 Page Not Found: Dbadmin/index
+ERROR - 2017-05-31 21:49:41 --> 404 Page Not Found: Pma/index
+ERROR - 2017-05-31 21:49:42 --> 404 Page Not Found: Db/index
+ERROR - 2017-05-31 21:49:44 --> 404 Page Not Found: Mysql/index
+ERROR - 2017-05-31 21:49:45 --> 404 Page Not Found: Database/index
+ERROR - 2017-05-31 21:49:46 --> 404 Page Not Found: Db/phpmyadmin
+ERROR - 2017-05-31 21:49:49 --> 404 Page Not Found: Db/phpMyAdmin
+ERROR - 2017-05-31 21:49:51 --> 404 Page Not Found: Sqlmanager/index
+ERROR - 2017-05-31 21:49:51 --> 404 Page Not Found: Mysqlmanager/index
+ERROR - 2017-05-31 21:49:52 --> 404 Page Not Found: Php-myadmin/index
+ERROR - 2017-05-31 21:49:53 --> 404 Page Not Found: Phpmy-admin/index
+ERROR - 2017-05-31 21:50:01 --> 404 Page Not Found: Mysql-admin/index
+ERROR - 2017-05-31 21:50:03 --> 404 Page Not Found: Admin/phpmyadmin
+ERROR - 2017-05-31 21:50:05 --> 404 Page Not Found: Admin/phpMyAdmin
+ERROR - 2017-05-31 21:50:06 --> 404 Page Not Found: Admin/sysadmin
+ERROR - 2017-05-31 21:50:07 --> 404 Page Not Found: Mysqladmin/index
+ERROR - 2017-05-31 21:50:07 --> 404 Page Not Found: Admin/sqladmin
+ERROR - 2017-05-31 21:50:12 --> 404 Page Not Found: Admin/db
+ERROR - 2017-05-31 21:50:12 --> 404 Page Not Found: Admin/web
+ERROR - 2017-05-31 21:50:15 --> 404 Page Not Found: Admin/pMA
+ERROR - 2017-05-31 21:50:18 --> 404 Page Not Found: Mysql/pma
+ERROR - 2017-05-31 21:50:23 --> 404 Page Not Found: Mysql/db
+ERROR - 2017-05-31 21:50:24 --> 404 Page Not Found: Mysql/web
+ERROR - 2017-05-31 21:50:25 --> 404 Page Not Found: Mysql/pMA
+ERROR - 2017-05-31 21:50:27 --> 404 Page Not Found: Sql/phpmanager
+ERROR - 2017-05-31 21:50:28 --> 404 Page Not Found: Sql/php-myadmin
+ERROR - 2017-05-31 21:50:33 --> 404 Page Not Found: Sql/phpmy-admin
+ERROR - 2017-05-31 21:50:37 --> 404 Page Not Found: Sql/myadmin
+ERROR - 2017-05-31 21:50:40 --> 404 Page Not Found: Sql/webadmin
+ERROR - 2017-05-31 21:50:44 --> 404 Page Not Found: Sql/websql
+ERROR - 2017-05-31 21:50:45 --> 404 Page Not Found: Sql/webdb
+ERROR - 2017-05-31 21:50:50 --> 404 Page Not Found: Sql/sqladmin
+ERROR - 2017-05-31 21:50:51 --> 404 Page Not Found: Sql/sql-admin
+ERROR - 2017-05-31 21:50:53 --> 404 Page Not Found: Sql/phpmyadmin2
+ERROR - 2017-05-31 21:50:55 --> 404 Page Not Found: Sql/phpMyAdmin2
+ERROR - 2017-05-31 21:51:01 --> 404 Page Not Found: Sql/phpMyAdmin
+ERROR - 2017-05-31 21:51:03 --> 404 Page Not Found: Db/myadmin
+ERROR - 2017-05-31 21:51:04 --> 404 Page Not Found: Db/webadmin
+ERROR - 2017-05-31 21:51:06 --> 404 Page Not Found: Db/dbweb
+ERROR - 2017-05-31 21:51:08 --> 404 Page Not Found: Db/websql
+ERROR - 2017-05-31 21:51:09 --> 404 Page Not Found: Db/webdb
+ERROR - 2017-05-31 21:51:10 --> 404 Page Not Found: Db/dbadmin
+ERROR - 2017-05-31 21:51:12 --> 404 Page Not Found: Db/db-admin
+ERROR - 2017-05-31 21:51:13 --> 404 Page Not Found: Db/phpmyadmin3
+ERROR - 2017-05-31 21:51:14 --> 404 Page Not Found: Db/phpMyAdmin3
+ERROR - 2017-05-31 21:51:15 --> 404 Page Not Found: Db/phpMyAdmin-3
+ERROR - 2017-05-31 21:51:16 --> 404 Page Not Found: Administrator/phpmyadmin
+ERROR - 2017-05-31 21:51:17 --> 404 Page Not Found: Administrator/phpMyAdmin
+ERROR - 2017-05-31 21:51:18 --> 404 Page Not Found: Administrator/db
+ERROR - 2017-05-31 21:51:22 --> 404 Page Not Found: Administrator/pma
+ERROR - 2017-05-31 21:51:23 --> 404 Page Not Found: Administrator/PMA
+ERROR - 2017-05-31 21:51:25 --> 404 Page Not Found: Administrator/admin
+ERROR - 2017-05-31 21:51:26 --> 404 Page Not Found: PhpMyAdmin2/index
+ERROR - 2017-05-31 21:51:35 --> 404 Page Not Found: PhpMyAdmin3/index
+ERROR - 2017-05-31 21:51:35 --> 404 Page Not Found: PhpMyAdmin4/index
+ERROR - 2017-05-31 21:51:37 --> 404 Page Not Found: PhpMyAdmin-3/index
+ERROR - 2017-05-31 21:51:38 --> 404 Page Not Found: Php-my-admin/index
+ERROR - 2017-05-31 21:51:39 --> 404 Page Not Found: PMA2012/index
+ERROR - 2017-05-31 21:51:41 --> 404 Page Not Found: Pma2012/index
+ERROR - 2017-05-31 21:51:45 --> 404 Page Not Found: Pma2011/index
+ERROR - 2017-05-31 21:51:47 --> 404 Page Not Found: Phpmanager/index
+ERROR - 2017-05-31 21:51:48 --> 404 Page Not Found: Administrator/phpMyAdmin
+ERROR - 2017-05-31 21:52:18 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-05-31 21:52:19 --> 404 Page Not Found: Cgi/index
+ERROR - 2017-05-31 21:52:20 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-05-31 21:52:27 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-05-31 21:52:29 --> 404 Page Not Found: Manager/html
+ERROR - 2017-05-31 21:52:31 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-05-31 21:52:31 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-05-31 21:52:36 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-05-31 21:52:40 --> 404 Page Not Found: CFIDE/administrator
+ERROR - 2017-05-31 21:52:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-31 21:52:42 --> 404 Page Not Found: Current_config/Account1
+ERROR - 2017-05-31 21:54:26 --> 1 2
+ERROR - 2017-05-31 21:54:26 --> 2 0
+[2017-05-31 21:54:26][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011vgamW1FzR6W01KBoW15TmmW1vgamo",
+                "encrypt_data": "IAv4r9sxj27oVNx17WMKYRvE3tjqhW9goJTPWsMiSP2vefMCOf965PoPxI2+MMfv+dF\/Zl\/moEVJzSxm0u1ceQkXPaCj4\/v6a64a+fAnIZScuEPX2ZkZqY3bJSmOiNmbm\/Vcmxu+LLAsvJvc6OjcNuJCOQo1Ta7VdImOFQE+9F5NjkWcmoD7b4m3ONOCFsgjC8BCoeh4uwM\/NaplPQ4qwNFxuR546H1mT6MrVYiZeLtQYZp8ko0wgydrfSLBrq3EYf09OWPhBv3Qs9hZJf+3KHJutQQ4jsi4eV+a3DtfdZ9NFRymmCtM8pyl4+PYJzDX30DygBLyM8xvw3cfjPxwx1uQK1\/EPG\/kG5knZYcgBes4Qt\/ngENeXYCg8f+JB4GcL0KIjgWCrdS7zv93f5H2Tucqjk\/WGyTBrsKDOwpSbkfxqM\/BYm+h9bmWYATJ\/8stYNsWDiU3ml58yPAG\/w6aFF4lOX+dVMzDdlh\/+yRBE2Wdnrcfd51b2XIEEQ\/ptRHhBblw7qI+ihCGpREFfCDjQA==",
+                "iv": "+s2NPa\/wSzq+2d\/z9e8yEw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+            "skey": "bf529da4b5cf49064c81905872cb5cd8",
+            "user_info": {
+                "openId": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+                "nickName": "小惠",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqYgM5ALODOGva2ZrZLghgB5RlAbzW14jjUmghOodVcsuS5WPl0YLtZKAiaUIOBUCgeOaKd4IBwHuQ\/0",
+                "unionId": "oU11PxL_dgOT3hlFIxnGMMiEaMgw",
+                "watermark": {
+                    "timestamp": 1496238865,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "140ms"
+}
+
+[2017-05-31 21:54:26][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+        "skey": "bf529da4b5cf49064c81905872cb5cd8",
+        "openid": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+        "unionid": "oU11PxL_dgOT3hlFIxnGMMiEaMgw"
+    }
+}
+
+ERROR - 2017-05-31 21:54:26 --> 1 2
+ERROR - 2017-05-31 21:54:26 --> 2 0
+[2017-05-31 21:54:26][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081Y3kX42o5OfK0Bj7052kC5X42Y3kXY",
+                "encrypt_data": "HfPaGubyRPISvBk2plB1mIIDTzd\/B09UpN7Z9Xufhcel39e+7K92FtObj\/wauNyoZVWgvxLQ06WDP2kkxPXJPnuLnr+4fvMIjRAuYlMhLduQoQ0Y5MWDggz+VL3kb6inB94jViP31MiNGe7Vy61+lIqTPAAqJM9jWwpD39qIHpBWv\/XJlAF1Zs72c9Q66YY7XEzIKkC7D7n3PKs685Hjmj0MvwSvmekKTSAhzN0kznHzxLZ+UBbKD3ZNmxZOu4yMaHbViCnRu5a6BXt3i09I0LzvAUOM4ekLf7LjN1Q34unV8sJUBrInafwxcjosQi79DEdZBLmh2L9vMWc7NYMcKkrWf7msNfnLahp6fzngbcXSBcwTOEtWO1jExQ9mfJ5lzYfplHrkUlQm1nDTZOypXcUj0mljJRW6J798GVQo7MUCUidHRTyJlNPiEw043+LBRDVe17TVL5kJAyCFSudUWC2zr4IFBgL9jo0nQ+GGhR888By6gkNaFWJTG21YffciA6KfOWBcazYXghoV3mSiRQ==",
+                "iv": "8ccCvVZ238092xJ\/QsRe1A=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+            "skey": "fc60e67c52f41a873026f66d8913446a",
+            "user_info": {
+                "openId": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+                "nickName": "小惠",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqYgM5ALODOGva2ZrZLghgB5RlAbzW14jjUmghOodVcsuS5WPl0YLtZKAiaUIOBUCgeOaKd4IBwHuQ\/0",
+                "unionId": "oU11PxL_dgOT3hlFIxnGMMiEaMgw",
+                "watermark": {
+                    "timestamp": 1496238865,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "94ms"
+}
+
+[2017-05-31 21:54:26][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+        "skey": "fc60e67c52f41a873026f66d8913446a",
+        "openid": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+        "unionid": "oU11PxL_dgOT3hlFIxnGMMiEaMgw"
+    }
+}
+
+LDSF - 2017-05-31 21:54:27 --> >>> User->addressbookisempty()
+LDSF - 2017-05-31 21:54:27 --> openid=oPicY0aLfcmWwl9MARbMUMpScmEY
+LDSF - 2017-05-31 21:54:27 --> >>> User->loginrecord()
+LDSF - 2017-05-31 21:54:27 --> openid=oPicY0aLfcmWwl9MARbMUMpScmEY
+ERROR - 2017-05-31 23:54:09 --> 404 Page Not Found: Pmd/index

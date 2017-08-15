@@ -1,0 +1,223 @@
+ERROR - 2017-03-18 00:01:59 --> 404 Page Not Found: LoginActionaction/index
+ERROR - 2017-03-18 03:23:34 --> 404 Page Not Found: LoginActionaction/index
+ERROR - 2017-03-18 03:23:43 --> 404 Page Not Found: LoginActionaction/index
+ERROR - 2017-03-18 05:25:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 05:25:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 05:25:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 12:01:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 12:01:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 12:01:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 13:58:19 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-18 14:48:23 --> 404 Page Not Found: Cache/global
+ERROR - 2017-03-18 15:18:02 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-18 15:18:12 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-18 15:35:38 --> 1 2
+ERROR - 2017-03-18 15:35:38 --> 2 0
+[2017-03-18 15:35:38][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041S8w7m0704Yn1BTr8m07Hs7m0S8w77",
+                "encrypt_data": "\/DQzk2uFDTwh\/zJNVeTqRJA2cOpUqobieIqlO8Mo+NtVyDkZqXq5SnEwY+H1uCnrdKGB8qFNPCVMPn8AcCBwAp1nveYHh\/JGxCg98BGHajtT88yMo\/KdlQEiGiDbrbFSzFFg\/ZnObtG5m+FGzk9OZa8d449YD3cI1GoYhOmxwD0jcP7p59Pjluv4+tKHq9xJoeV15fKO5xgE+4p91b36VfKA3\/7Nfq3mRvwol+himYYIXjjA8f+d5WGbl\/pbh8lHahTnJ8qn4QHiDDw7Ybf079L+RsK+hQpmtwU+5EXBVbivstNnqc9SiKqfmyT9u9sLCWxYem81s8xSpgSqRb3m9t3oVc1VsC8pSBnH7D9tS2y3TENoh2TNRT3OAwwS19Y49VyaoAPn5b0qgY\/X2T\/r9uWUczeJ6TwmlpkTfoU+m8N1\/aGptSRWi5zEPhL2nWvLy9i8JytSxT+DEt8U+MX1kUSd9HikcYb6RdDS8uVK8xM76GNw+Ae5eoDJwKrAuHbhcyTnTejVuvdAVqHi9JjwKw==",
+                "iv": "DCGng8fK1nK2xXUUR8phQw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "7972032782ba35a01e18a728c72ca930",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1489822537,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "182ms"
+}
+
+[2017-03-18 15:35:38][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "7972032782ba35a01e18a728c72ca930",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-18 15:35:38 --> 1 2
+ERROR - 2017-03-18 15:35:38 --> 2 0
+[2017-03-18 15:35:38][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021DECpZ0IDuR12i6uoZ077LpZ0DECps",
+                "encrypt_data": "6WQXmqiA6V\/2yYWWK7kiK86DOuM632tNlH8LeYns+csivfo7MH2PQ\/xPRrvpfbzrNz7bIWXj7dsg\/XtQFP5cELXk08zwtbhyojEy2KwppaZIbv3DVAfzhaC+GESOsLbIIKgtFKH4YXg8bYkTLhBZMpjFl0Vgt2O7jyWga6sodTntfDrlbkiGczCFLIvnp2vP4iK13uXAUag\/iepx1DWJk919eIEOh4olKSitaLlu+BmCDO+bbyGjHyhrfCS43lcnYRgUAIwK\/IryqlbbEtpSu\/9FB3+GHNkvYihNNqS0CLR2EXbQYMRqyRD5jxYSYbDGgLFd\/lKS8THwK2G8Ws2NDSgZU9WcWZkhfJrj7MW9cZhVaQABO4sSiWTGlqXNwqDYnBu8YaqnzUkuwa6ztQilZn5f7W2xQ+Nyu3mRdxj1wMWEfP1hrb6n\/LPYHFmfPmg7RHLPFaLRZG9vmvogDaVFJCGA+n2EMbW6RgFt4YRqYwbIQLA+OksV0UCfjhJWCAqT1vfv0kOXUnTU8ppK5XpiUQ==",
+                "iv": "AfD5JRVMXrLCeaBXCENj3A=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "2f05c4b8c3e6fcbc704b501af613c11a",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1489822537,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "205ms"
+}
+
+[2017-03-18 15:35:38][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "2f05c4b8c3e6fcbc704b501af613c11a",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-18 15:39:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 15:39:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 15:40:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 16:15:32 --> 404 Page Not Found: Manager/html
+ERROR - 2017-03-18 17:16:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:18:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:18:13 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:18:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:18:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:21:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:22:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:23:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:24:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:24:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:24:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:24:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:27:57 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-18 17:41:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:41:20 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 17:55:08 --> 404 Page Not Found: Admin/admin_gooddetail
+ERROR - 2017-03-18 17:55:50 --> 404 Page Not Found: Admin/admin_gooddetail
+ERROR - 2017-03-18 17:56:09 --> Severity: Notice --> Undefined offset: 0 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 145
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> array_keys() expects parameter 1 to be array, null given /data/release/php-weapp-demo/application/views/admin_gooddetail.php 145
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 145
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:09 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Notice --> Undefined offset: 0 /data/release/php-weapp-demo/application/views/admin_gooddetail.php 145
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> array_keys() expects parameter 1 to be array, null given /data/release/php-weapp-demo/application/views/admin_gooddetail.php 145
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 145
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 17:56:19 --> Severity: Warning --> Invalid argument supplied for foreach() /data/release/php-weapp-demo/application/views/admin_gooddetail.php 155
+ERROR - 2017-03-18 18:03:42 --> Severity: Notice --> Undefined variable: col /data/release/php-weapp-demo/application/views/admin_gooddetail.php 162
+ERROR - 2017-03-18 18:04:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 18:04:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 18:04:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 18:04:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 18:04:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 18:15:12 --> 404 Page Not Found: Cache/global
+ERROR - 2017-03-18 18:26:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:27:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:27:33 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:27:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:28:34 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:29:28 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:29:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:29:40 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 19:53:23 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-18 20:48:14 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-18 21:20:04 --> 404 Page Not Found: Admin/%E5%BE%AE%E4%BF%A1%E5%A4%B4%E5%83%8F
+ERROR - 2017-03-18 21:28:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 21:29:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 21:29:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 21:29:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:41:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:41:48 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:41:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:43:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:43:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:44:05 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:55:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:55:16 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:55:42 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:56:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:56:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:56:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-18 23:59:06 --> 404 Page Not Found: Faviconico/index

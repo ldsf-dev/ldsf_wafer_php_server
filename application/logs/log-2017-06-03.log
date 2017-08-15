@@ -1,0 +1,135 @@
+ERROR - 2017-06-03 00:05:21 --> 404 Page Not Found: Userlogin/login.aspix
+ERROR - 2017-06-03 02:22:30 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-06-03 02:45:28 --> 404 Page Not Found: Current_config/Account1
+ERROR - 2017-06-03 05:07:04 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-06-03 08:57:41 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-06-03 10:43:19 --> 404 Page Not Found: Manager/html
+ERROR - 2017-06-03 13:22:18 --> 404 Page Not Found: Cache/global
+ERROR - 2017-06-03 13:58:58 --> 1 2
+ERROR - 2017-06-03 13:58:58 --> 2 0
+[2017-06-03 13:58:58][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "013kfGZE0qqM6i2DiD0F0Z8OZE0kfGZf",
+                "encrypt_data": "1hI9\/kIdVhAqmaAeMn3WO9EeYNq494jbamkubjqyroTiiDgQgpM3+bsfSbkaQft0709yFHyAR8mIMwkn2d7yHmyrTa1pvnX5HAGexDlWMJ8EwkvngtXCVbv81TDZFXSuSKEcVxwtAgDxHrbklf\/PZDB\/HRDUu+mGzogoNy10eNfn25Kl9GrbbU4M2hJrg5P\/duXuFCRdHlvM43PKL9O11zmxXL55m1vPQmw7Oppdyq2jf910Tdau7Jvn7toaDMlLWnmqe229FTl2HFIXLXWaPLVWnvdKoVOws5GuofiT\/UtetyEN4KfINDcs+9aYj9mOPOgPv1zg2UCrcljVHQ74Gbj54r2RGsvX\/QxEneeCpGK3dt4O+ly4EGVu3bgEmpLLDLi9xBHlWAEnovMcUFxO\/XpCv7ZyajDG6rY9C0mu+jefygyF4+Z\/CoWyl5Q3aSfhNwNvR3Q\/yP644pFrSI1ARFvPRx4McuoRAXIkBPXEe7msjMk\/38IAHgISDntXcj9Oj5Yi7vYNomoZFXj2zhT6Ag==",
+                "iv": "2F6XRUnx\/6Rq\/XYeAHwQfg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "9e251e19e92e7a71741373fd96bb9361",
+            "skey": "28fa312c2739dba9a477f69fe636de08",
+            "user_info": {
+                "openId": "oPicY0Th2VGGd4vpSfEUfAeWQYXs",
+                "nickName": "赵舒森",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/207SGpo7UicuHicvenB1Q9XKz6uxnGI5mLSVPnBBzxEplMe853K88qGeFml13I75w8mZnjrbREx78wVmFVbhIrvA\/0",
+                "unionId": "oU11PxImaSD1cJ1kGNih_u1HF9e0",
+                "watermark": {
+                    "timestamp": 1496469536,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "778ms"
+}
+
+[2017-06-03 13:58:58][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "9e251e19e92e7a71741373fd96bb9361",
+        "skey": "28fa312c2739dba9a477f69fe636de08",
+        "openid": "oPicY0Th2VGGd4vpSfEUfAeWQYXs",
+        "unionid": "oU11PxImaSD1cJ1kGNih_u1HF9e0"
+    }
+}
+
+ERROR - 2017-06-03 13:58:58 --> 1 2
+ERROR - 2017-06-03 13:58:58 --> 2 0
+[2017-06-03 13:58:58][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "003m400p1UV2Co0zOHZo13KOZo1m400F",
+                "encrypt_data": "xo6S2U+fM9T4h\/ZWIAbdSOw4oYPqBAz0jRFLE64GYszwgq9EgkUxhwux9gg5WV6kI129GUy8ZfHVznxMixpzWeyqjkRRzcv\/PeHMUFU6gn2ZiHhBZKqkmRkGj0JmzLWrNa21DpqUX+C9dxy549o25GiXNhaeVZIQD94nbh0l1MmNR6Mg\/38PDlbbajFNbi7fsalGDC0W7CRPSyp0X7ko16MiTgA5FsFsPpsMGKP+fHhnghSgH3H9Ni+jXkK+lvuQ168Es\/8LJwU1v+LODFG2X\/jlUWCoA\/V16XxLrcx1MNVfwxc6JvwqZvH\/E3TE11kLoQqZq3Yk\/6eD1ndk8Gm3bdAL0L5jfqzZysecdM5ChaDi4GHWz1dNmVGHjROIADdfCdmtwreEUhGe6xSpqpsmA2Dz59Gj\/sBXXu5v3UmuHMkGMh0Hfi6SgH1hM3DwR1+i5pCvl5xZ4f8uy7YOiYJTPft7Jf0\/CMg2CDiNjRQSBaQSSJHxOP+4ZINDxOqdUOa\/2sBwUjJUgjKuYJhsPPjchw==",
+                "iv": "ygjmq34dwC\/9ZSYCw6KJeg=="
+            }
+        }
+    },
+    "[响应]": "<br \/>\n<b>Warning<\/b>:  mkdir(): File exists in <b>\/opt\/lampp\/htdocs\/mina_auth\/system\/log\/log.php<\/b> on line <b>241<\/b><br \/>\n{\"returnCode\":0,\"returnMessage\":\"UPDATE_SESSION_SUCCESS\",\"returnData\":{\"id\":\"9e251e19e92e7a71741373fd96bb9361\",\"skey\":\"0571aaa1c20c081ae49663c5d181e8b0\",\"user_info\":{\"openId\":\"oPicY0Th2VGGd4vpSfEUfAeWQYXs\",\"nickName\":\"\\u8d75\\u8212\\u68ee\",\"gender\":1,\"language\":\"zh_CN\",\"city\":\"Suzhou\",\"province\":\"Jiangsu\",\"country\":\"CN\",\"avatarUrl\":\"http:\\\/\\\/wx.qlogo.cn\\\/mmopen\\\/vi_32\\\/207SGpo7UicuHicvenB1Q9XKz6uxnGI5mLSVPnBBzxEplMe853K88qGeFml13I75w8mZnjrbREx78wVmFVbhIrvA\\\/0\",\"unionId\":\"oU11PxImaSD1cJ1kGNih_u1HF9e0\",\"watermark\":{\"timestamp\":1496469536,\"appid\":\"wx3c13313f866a541a\"}},\"duration\":7200},\"version\":1,\"componentName\":\"MA\"}",
+    "[耗时]": "1008ms"
+}
+
+[2017-06-03 13:58:58][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "鉴权服务器响应格式错误，无法解析 JSON 字符串"
+}
+
+LDSF - 2017-06-03 13:58:59 --> >>> User->addressbookisempty()
+LDSF - 2017-06-03 13:58:59 --> >>> User->loginrecord()
+LDSF - 2017-06-03 13:58:59 --> openid=oPicY0Th2VGGd4vpSfEUfAeWQYXs
+LDSF - 2017-06-03 13:58:59 --> openid=oPicY0Th2VGGd4vpSfEUfAeWQYXs
+ERROR - 2017-06-03 16:21:49 --> 404 Page Not Found: Userlogin/login.aspx
+ERROR - 2017-06-03 17:42:21 --> 404 Page Not Found: Manager/html
+ERROR - 2017-06-03 17:56:47 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-06-03 17:56:48 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-06-03 17:56:48 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-06-03 17:56:49 --> 404 Page Not Found: Static/js
+ERROR - 2017-06-03 17:56:49 --> 404 Page Not Found: Include/js
+ERROR - 2017-06-03 17:56:49 --> 404 Page Not Found: Include/js
+ERROR - 2017-06-03 17:56:50 --> 404 Page Not Found: Include/js
+ERROR - 2017-06-03 17:56:50 --> 404 Page Not Found: Res/js
+ERROR - 2017-06-03 17:56:50 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-06-03 17:56:51 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-06-03 17:56:51 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-06-03 17:56:52 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-06-03 17:56:52 --> 404 Page Not Found: Template/default
+ERROR - 2017-06-03 17:56:52 --> 404 Page Not Found: Static/js
+ERROR - 2017-06-03 17:56:53 --> 404 Page Not Found: Images/js
+ERROR - 2017-06-03 17:56:53 --> 404 Page Not Found: Templets/style
+ERROR - 2017-06-03 17:56:53 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-06-03 17:56:54 --> 404 Page Not Found: Images/default
+ERROR - 2017-06-03 17:56:54 --> 404 Page Not Found: Js/lang
+ERROR - 2017-06-03 17:56:55 --> 404 Page Not Found: Js/lang
+ERROR - 2017-06-03 17:56:55 --> 404 Page Not Found: D/js
+ERROR - 2017-06-03 17:56:55 --> 404 Page Not Found: Skin/default
+ERROR - 2017-06-03 17:56:56 --> 404 Page Not Found: Media/system
+ERROR - 2017-06-03 17:56:56 --> 404 Page Not Found: Media/system
+ERROR - 2017-06-03 17:56:56 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-06-03 17:56:57 --> 404 Page Not Found: Style/default
+ERROR - 2017-06-03 17:56:57 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-06-03 17:56:57 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-06-03 17:56:58 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-06-03 17:56:58 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-06-03 17:56:59 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-06-03 17:56:59 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-06-03 17:56:59 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-06-03 18:36:46 --> 404 Page Not Found: Manager/html
+ERROR - 2017-06-03 19:15:59 --> 404 Page Not Found: Cache/global
+ERROR - 2017-06-03 19:30:23 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-06-03 20:02:01 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-06-03 20:23:42 --> 404 Page Not Found: Manager/html
+ERROR - 2017-06-03 20:38:11 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-06-03 22:29:15 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-06-03 22:29:16 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-06-03 23:55:12 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-06-03 23:55:13 --> 404 Page Not Found: TmUnblockcgi/index

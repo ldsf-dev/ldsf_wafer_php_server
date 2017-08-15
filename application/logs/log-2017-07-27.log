@@ -1,0 +1,306 @@
+ERROR - 2017-07-27 00:06:03 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-27 00:38:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 06:39:40 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-27 07:52:29 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-07-27 07:52:30 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-07-27 07:52:30 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-07-27 07:52:30 --> 404 Page Not Found: Static/js
+ERROR - 2017-07-27 07:52:31 --> 404 Page Not Found: Include/js
+ERROR - 2017-07-27 07:52:31 --> 404 Page Not Found: Include/js
+ERROR - 2017-07-27 07:52:31 --> 404 Page Not Found: Include/js
+ERROR - 2017-07-27 07:52:32 --> 404 Page Not Found: Res/js
+ERROR - 2017-07-27 07:52:32 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-07-27 07:52:33 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-07-27 07:52:33 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-07-27 07:52:33 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-07-27 07:52:34 --> 404 Page Not Found: Template/default
+ERROR - 2017-07-27 07:52:34 --> 404 Page Not Found: Static/js
+ERROR - 2017-07-27 07:52:35 --> 404 Page Not Found: Images/js
+ERROR - 2017-07-27 07:52:35 --> 404 Page Not Found: Templets/style
+ERROR - 2017-07-27 07:52:35 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-07-27 07:52:36 --> 404 Page Not Found: Images/default
+ERROR - 2017-07-27 07:52:36 --> 404 Page Not Found: Js/lang
+ERROR - 2017-07-27 07:52:36 --> 404 Page Not Found: Js/lang
+ERROR - 2017-07-27 07:52:37 --> 404 Page Not Found: D/js
+ERROR - 2017-07-27 07:52:37 --> 404 Page Not Found: Skin/default
+ERROR - 2017-07-27 07:52:38 --> 404 Page Not Found: Media/system
+ERROR - 2017-07-27 07:52:38 --> 404 Page Not Found: Media/system
+ERROR - 2017-07-27 07:52:38 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-07-27 07:52:39 --> 404 Page Not Found: Style/default
+ERROR - 2017-07-27 07:52:39 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-07-27 07:52:40 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-07-27 07:52:40 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-07-27 07:52:40 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-07-27 07:52:41 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-07-27 07:52:41 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-07-27 07:52:42 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-07-27 08:27:00 --> 1 2
+ERROR - 2017-07-27 08:27:00 --> 2 0
+[2017-07-27 08:27:00][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0615whPd11Rvrv0UJXNd1sPjPd15whPT",
+                "encrypt_data": "UmZUXspMkMsknJqC+r\/g7GelTneK014o1VJUreyzFqZ3wxk2a3CVVfbNSowsrCwnv6ZUWzpNMk8aqujjzilAguPpBBWC6c46bBuAdjeBOK+QlO87kQexHrEU0UszHBCn0tGpLSjZOnjYTxIf2hToAPLZHOBeDw+I8Rl29gvRqy4wkbHpzd+ArOI+w5kokidtkPZlSyUsWbGIauQ56vPi3clTuNARsLfGZlzxaJxUVOQofcM80zazFWdGnAr4PIXun6eNH3dPkbTYzOzTPTpLD92omEutIc3JgeQsMg6srDjTwB1nH4lhVPZiZHJdqZ\/CCDmiPJNApGznjMbJ3B8\/wz50FpOhJVdF8kgfqFx5RgoC2THxys5TdK5PS7T+50mC+51wdh91tLWWy7Nq9gFqGaRi\/7m5P7xhCse084R38KZP\/0ZqVwCN9rLGcaZwmy+OZLkkqGDJ67XJzNGqIZjupkNgB3EJj0QuDXDoUm7Xmse0y0w8BwCvH4zHa1IG6GptimdVC5IPAHSqzcvgMAW4aA==",
+                "iv": "ogzlm1m24\/I2uerRDTBEqg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "6698133cdd88d652cd7d21f689b81c38",
+            "skey": "e88a727e3ebbe3f2b4450fafee58c028",
+            "user_info": {
+                "openId": "oPicY0X76LaoH0MaLxIRrbj-gZss",
+                "nickName": "美~美",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Nanjing",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLZASwgBFRFPct2EsgXdYsoibJSmOPoJIeYOdgpP0dSzApQqZM18m17VFNOCwBqkmNWUZIITrr1B2g\/0",
+                "unionId": "oU11PxMCAf9Oli-jSQS7QAHr-7cs",
+                "watermark": {
+                    "timestamp": 1501115219,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "1262ms"
+}
+
+[2017-07-27 08:27:00][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "6698133cdd88d652cd7d21f689b81c38",
+        "skey": "e88a727e3ebbe3f2b4450fafee58c028",
+        "openid": "oPicY0X76LaoH0MaLxIRrbj-gZss",
+        "unionid": "oU11PxMCAf9Oli-jSQS7QAHr-7cs"
+    }
+}
+
+ERROR - 2017-07-27 08:27:01 --> 1 2
+ERROR - 2017-07-27 08:27:01 --> 2 0
+[2017-07-27 08:27:01][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031foNJ12LXuk117edG123f5K12foNJF",
+                "encrypt_data": "7PBbJHqAT3xcaZ+e5LBNVVjWXc+uxePQd+8QRqrRdojvdYOnilzJeQDfhI\/ErOy89REnaQ3n2RUEXE9\/N5tsOU1fB7OfUEbdXegnYGTuSmQyuvIV7QOcvuyOu3VSpHG4jXwcAxYPGoT5O+9GDQNd3zQRaLYrhIlgauTxknE7ZxwIuXkUAnw+gftKI4+kOJVG\/t6kij66HdMZPuYY+H49N1bFDtYZWxfOvMrgc8ntSAzmaQGGLeszfTiai7WElcNJEe1s3q\/Mhvf1u5n5AnY+Df5VhrbfOH39GyneeIfdLPpAywBPuIBtBfspqoJPjcqCk5cD3ulrDwUTiDFiezY528WLBFTDTAC+QIUUTZANGsqISiIkJx+5qCPrO2shmU2dkMiGOw\/Srn1A7\/LolPQYz9RzwrzVJIxpfZNL0CD8PWetmR1rKvv2DRLY0CD1vRTx1BcT+pDHRSooPVgZz9TPAGDd4ZEQSFSHHT4E1LYPAUmMvV6bfaSoKzbgxpmqlqyXQv0stVncag7Nk0aZDs0hJQ==",
+                "iv": "SDhPqGmWVodtXqOvDVyWtQ=="
+            }
+        }
+    },
+    "[响应]": "<br \/>\n<b>Warning<\/b>:  rmdir(log\/2017-07-22): No such file or directory in <b>\/opt\/lampp\/htdocs\/mina_auth\/system\/log\/log.php<\/b> on line <b>341<\/b><br \/>\n{\"returnCode\":0,\"returnMessage\":\"UPDATE_SESSION_SUCCESS\",\"returnData\":{\"id\":\"6698133cdd88d652cd7d21f689b81c38\",\"skey\":\"6fd69cae09a2f849020d85b3de399f0a\",\"user_info\":{\"openId\":\"oPicY0X76LaoH0MaLxIRrbj-gZss\",\"nickName\":\"\\u7f8e~\\u7f8e\",\"gender\":2,\"language\":\"zh_CN\",\"city\":\"Nanjing\",\"province\":\"Jiangsu\",\"country\":\"China\",\"avatarUrl\":\"https:\\\/\\\/wx.qlogo.cn\\\/mmopen\\\/vi_32\\\/Q0j4TwGTfTLZASwgBFRFPct2EsgXdYsoibJSmOPoJIeYOdgpP0dSzApQqZM18m17VFNOCwBqkmNWUZIITrr1B2g\\\/0\",\"unionId\":\"oU11PxMCAf9Oli-jSQS7QAHr-7cs\",\"watermark\":{\"timestamp\":1501115219,\"appid\":\"wx3c13313f866a541a\"}},\"duration\":7200},\"version\":1,\"componentName\":\"MA\"}",
+    "[耗时]": "1672ms"
+}
+
+[2017-07-27 08:27:01][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "鉴权服务器响应格式错误，无法解析 JSON 字符串"
+}
+
+LDSF - 2017-07-27 08:27:58 --> >>> User->loginrecord()
+LDSF - 2017-07-27 08:27:58 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+LDSF - 2017-07-27 08:27:58 --> >>> User->addressbookisempty()
+LDSF - 2017-07-27 08:27:58 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+LDSF - 2017-07-27 08:28:24 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-27 08:28:24 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+LDSF - 2017-07-27 08:31:14 --> >>> Card->makedelivery()
+LDSF - 2017-07-27 08:31:14 --> post={"validatestr":"VnIHYb5XWY9FOUjxNzzKY0WACf5SQvKea9Y9oU1W9sA","cardno":"5710864239","openid":"oPicY0X76LaoH0MaLxIRrbj-gZss","contactname":"张成俊","contacttel":"13851899512","contactaddress":"江苏 南京 玄武区 前线文工团驾驶班","expectdate":"2017-07-28","remark":""}
+ERROR - 2017-07-27 09:39:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 09:39:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 09:40:43 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-27 09:41:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 09:48:25 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-07-27 10:10:22 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-07-27 10:17:57 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-07-27 10:34:06 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 10:34:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 10:34:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 10:39:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 10:39:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 10:45:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 10:45:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 11:26:38 --> 1 2
+ERROR - 2017-07-27 11:26:38 --> 2 0
+[2017-07-27 11:26:38][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001Uu0mv1dGuMc0Nb1mv1g33mv1Uu0m-",
+                "encrypt_data": "Uj6BxqJEjm2Ggq2S9OufecpHc9224WQZzJcjWAOfzrzAezv2Fqyf\/zmGBgmws5zSnpIq2ZaY8zehq51\/n6QCWOdZHwS9OFA+SrLc2pYC45TP2C+7QA\/d\/S41bDdJTxH64Xr13A8SHImFawzlFlyfB6PDAElIK59mOZSzAoPF1zj9VKapvE0EDofjEEgJSo6FkbjE9Xe7IQFIfZNMT\/QcdlGe99bXnIU3aI5uSbT9h8Q6GyAnqcMEK5Imv6yS5xFAdUFCuf3P6ioDRcfeoajD5XRYv7fyNQxMiGosOu\/uP5T16m6WXZGUl5eN3h3+xmuE5DayMEOFfJnzFx\/EKlgjvoQmr46xIzdMg+t3fZPpi8qwV2Cy5dZtWiVrgY6H4i7qbleErevn+Vl+Vq+mxcZVNzf2tqlCgeQB+feI7Gkxdqi3yxdiBtDeSTVI9MafjeFCSfjoUfUU6L4haotlqslLHCu4CwmTdZSHcY7cU3huWM8Ozx7i1wvq3nvfYIojDOuKfCUKfzNdatDWIMhDDkadrgNfnbNN6aN10K3usUG66KeDYS1snk6MCtNpOWGLXzjj",
+                "iv": "Bzo+DG9lLqovSnqPTfFDMg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "9b78449cd04656b7cfcc2a97c99b6d8d",
+            "skey": "e24fd6b76e574564fc04f05f3fdd7a00",
+            "user_info": {
+                "openId": "oPicY0fc_b_R22Fdp5uvZPH0twRc",
+                "nickName": "A广交会服务-陈生13539900097",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Guangzhou",
+                "province": "Guangdong",
+                "country": "CN",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eo6QC8HT3Faywn4QIibCibAtUibG4wZb1CJcC8xH8BGDgscibRNibEyS8lXOoU7ibKT0mqvRnzLJC5NibibJQ\/0",
+                "unionId": "oU11PxHuFuZ3BlHxZgpmWtezFZio",
+                "watermark": {
+                    "timestamp": 1501125998,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "130ms"
+}
+
+[2017-07-27 11:26:38][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "9b78449cd04656b7cfcc2a97c99b6d8d",
+        "skey": "e24fd6b76e574564fc04f05f3fdd7a00",
+        "openid": "oPicY0fc_b_R22Fdp5uvZPH0twRc",
+        "unionid": "oU11PxHuFuZ3BlHxZgpmWtezFZio"
+    }
+}
+
+ERROR - 2017-07-27 11:26:38 --> 1 2
+ERROR - 2017-07-27 11:26:38 --> 2 0
+[2017-07-27 11:26:38][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011VPmVc2WKYsC0iG2Wc2oMEVc2VPmVC",
+                "encrypt_data": "TX2T0kMNdtcmgoY43wdRFoSdDI1Kk6QEA9Rh3XVvJikLMLl5jz3mD86F4fuMLlvOnzqQUgppYTgg3x8DnLybLcjwj7JLmhPOp4YKMYhfSVbCbF4pxPh0VPqc2KyeB1UrFEfear6Ma2tYTTILUeq75+gQdPlLFsE98lu7TW6gFsux7NPrSIE6F7UHHQKFtr3IlYKN\/rLChiInfZr9S4u35qltZQ7uHqCjk1\/JC+kEYMLmQwaqVRVeuSmPWCYHKwKhgqDtpw5RQMGNSKOe9khqSf3X3gKQpH36az835GVZ5\/wBVb\/c+Pj1N1+ytJcpJXj\/3crkXc6DAc7snHzhnUMSopdsG3xFQio57yHXo6gKaAYzJr47EQtmfXwzlbvZu0isz1qVJ9c0krVqSeTfUWJWa2q0IdYxDpSz7sMQ+QXXfQ4J0sT2yGmO5k0zkoKG2K448ICM7yoZd9Ow08DGK7zCUZwuGkb3WTVbQtMhX7L5xWnlu851EluvNAmldLhcptcl6hJiTuL\/4uo3\/stL\/Zp4tUeUZmTWZcXg0a1sTQHEskYN5C3PXiC5QH8Y+EXle659",
+                "iv": "XZ8iNk7GtC221OhqQ1DdUQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "9b78449cd04656b7cfcc2a97c99b6d8d",
+            "skey": "947e78baca76757336f7d1a242d6dae7",
+            "user_info": {
+                "openId": "oPicY0fc_b_R22Fdp5uvZPH0twRc",
+                "nickName": "A广交会服务-陈生13539900097",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Guangzhou",
+                "province": "Guangdong",
+                "country": "CN",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eo6QC8HT3Faywn4QIibCibAtUibG4wZb1CJcC8xH8BGDgscibRNibEyS8lXOoU7ibKT0mqvRnzLJC5NibibJQ\/0",
+                "unionId": "oU11PxHuFuZ3BlHxZgpmWtezFZio",
+                "watermark": {
+                    "timestamp": 1501125998,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "135ms"
+}
+
+[2017-07-27 11:26:38][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "9b78449cd04656b7cfcc2a97c99b6d8d",
+        "skey": "947e78baca76757336f7d1a242d6dae7",
+        "openid": "oPicY0fc_b_R22Fdp5uvZPH0twRc",
+        "unionid": "oU11PxHuFuZ3BlHxZgpmWtezFZio"
+    }
+}
+
+LDSF - 2017-07-27 11:26:39 --> >>> User->addressbookisempty()
+LDSF - 2017-07-27 11:26:39 --> openid=oPicY0fc_b_R22Fdp5uvZPH0twRc
+ERROR - 2017-07-27 11:26:39 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-07-27 11:26:40 --> >>> User->loginrecord()
+LDSF - 2017-07-27 11:26:40 --> openid=oPicY0fc_b_R22Fdp5uvZPH0twRc
+ERROR - 2017-07-27 12:27:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 12:28:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 12:28:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 12:57:13 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-27 13:15:56 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-07-27 13:20:01 --> 404 Page Not Found: Phpmyadmin/index
+LDSF - 2017-07-27 13:23:27 --> >>> User->addressbookisempty()
+LDSF - 2017-07-27 13:23:27 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-27 13:23:27 --> >>> User->loginrecord()
+LDSF - 2017-07-27 13:23:27 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-27 13:23:30 --> 
+LDSF - 2017-07-27 13:23:35 --> >>> User->profile()
+LDSF - 2017-07-27 13:23:35 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-27 13:23:39 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-27 13:23:39 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-27 13:23:47 --> >>> User->addressbook() opt=all
+LDSF - 2017-07-27 13:23:47 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-27 13:25:48 --> >>> User->addressbookisempty()
+LDSF - 2017-07-27 13:25:48 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-27 13:25:48 --> >>> User->loginrecord()
+LDSF - 2017-07-27 13:25:48 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-27 13:31:08 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-27 13:31:08 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-27 13:31:32 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-27 13:31:32 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-27 15:18:29 --> 404 Page Not Found: Cache/global
+ERROR - 2017-07-27 18:34:40 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-07-27 19:14:40 --> 404 Page Not Found: Manager/html
+LDSF - 2017-07-27 21:39:00 --> >>> User->addressbookisempty()
+LDSF - 2017-07-27 21:39:00 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+LDSF - 2017-07-27 21:39:01 --> >>> User->loginrecord()
+LDSF - 2017-07-27 21:39:01 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+ERROR - 2017-07-27 21:39:08 --> 
+LDSF - 2017-07-27 21:39:28 --> >>> User->addressbookisempty()
+LDSF - 2017-07-27 21:39:28 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+LDSF - 2017-07-27 21:39:28 --> >>> User->loginrecord()
+LDSF - 2017-07-27 21:39:28 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+ERROR - 2017-07-27 21:39:29 --> 
+ERROR - 2017-07-27 21:39:37 --> 
+ERROR - 2017-07-27 21:39:43 --> 
+ERROR - 2017-07-27 21:39:44 --> 
+ERROR - 2017-07-27 21:39:47 --> 
+LDSF - 2017-07-27 21:39:51 --> >>> User->addressbookisempty()
+LDSF - 2017-07-27 21:39:51 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+LDSF - 2017-07-27 21:39:51 --> >>> User->loginrecord()
+LDSF - 2017-07-27 21:39:51 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+ERROR - 2017-07-27 21:39:53 --> 
+ERROR - 2017-07-27 21:39:56 --> 
+ERROR - 2017-07-27 21:40:10 --> 
+LDSF - 2017-07-27 21:40:13 --> >>> User->profile()
+LDSF - 2017-07-27 21:40:13 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+LDSF - 2017-07-27 21:40:25 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-27 21:40:25 --> openid=oPicY0X76LaoH0MaLxIRrbj-gZss
+ERROR - 2017-07-27 21:56:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-27 21:56:46 --> 404 Page Not Found: Stats/index
+ERROR - 2017-07-27 23:05:42 --> 404 Page Not Found: A2billing/common

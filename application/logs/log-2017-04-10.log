@@ -1,0 +1,203 @@
+ERROR - 2017-04-10 00:50:57 --> 404 Page Not Found: Indexaction/index
+ERROR - 2017-04-10 00:50:58 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-10 00:51:00 --> 404 Page Not Found: Indexaction/index
+ERROR - 2017-04-10 00:51:00 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-10 02:47:36 --> 404 Page Not Found: Map_portshtml/index
+ERROR - 2017-04-10 02:47:36 --> 404 Page Not Found: Current_config/Account1
+ERROR - 2017-04-10 02:47:36 --> 404 Page Not Found: Current_config/passwd
+ERROR - 2017-04-10 03:34:43 --> 404 Page Not Found: Indexaction/index
+ERROR - 2017-04-10 04:58:49 --> 404 Page Not Found: Current_config/Account1
+ERROR - 2017-04-10 05:20:22 --> 404 Page Not Found: Search/index
+ERROR - 2017-04-10 05:20:22 --> 404 Page Not Found: 273/index
+ERROR - 2017-04-10 05:40:58 --> 404 Page Not Found: Map_portshtml/index
+ERROR - 2017-04-10 05:41:09 --> 404 Page Not Found: Map_portshtml/index
+ERROR - 2017-04-10 05:44:35 --> 404 Page Not Found: Current_config/passwd
+ERROR - 2017-04-10 05:44:44 --> 404 Page Not Found: Current_config/passwd
+ERROR - 2017-04-10 06:17:22 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-10 06:17:31 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-10 06:38:29 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-04-10 06:38:31 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2017-04-10 07:40:44 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-04-10 07:40:53 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-04-10 08:50:10 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-04-10 10:36:10 --> 404 Page Not Found: MainActionaction/index
+ERROR - 2017-04-10 11:31:35 --> 404 Page Not Found: Cache/global
+ERROR - 2017-04-10 15:00:10 --> 404 Page Not Found: Cache/global
+ERROR - 2017-04-10 15:17:22 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-10 16:50:54 --> 1 2
+ERROR - 2017-04-10 16:50:54 --> 2 0
+[2017-04-10 16:50:54][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011D4qcM0Ah8762ae6cM0qJqcM0D4qcv",
+                "encrypt_data": "Gb5QzENYGmFDtI0kI8grN6tD6x9xb98lTZVw78Saf3qIIiGZlPaQUQRY5pkLUP8xELYJzIzpLiaHaruQEsSNN17P2H2U8qSXzIi\/aI1T0wW8nEk89p4mSvba26M\/znpZBmZ6Rq1uQfDIhRzTRBdZAmgN2zcj9Ft4DW2Gml50rma7+EGtAtqjZtnH3Wi6T93YzhMtXd\/Rih1x81OFSLMQxIZ5i3bSP4KKit\/Fcc7PZ5arRfunkW7sZT76StGyhv0oUzEfANin0Gon7R8Y5q9ppFfA0BuqZW\/tRsVKwiQmzzQw10ZrQUy77qZqCo6hvwgGg45hTD9cvQ5Fu\/LCKoGDEe622A8KebZOFewWOzbm7xMfe2oCljeDfaLqAAu40U6U6oOQPb+9gZw\/OS9y4FefzTPMqALbk8swznJ19MZvrMtj\/wPFsHs0cOANbF25wltyP3xN7AauOpxZfEuOh3IkjGwF7u0eCf30RvWvUvfVO7\/aC3XWS7LnLRdU9HwosWvIiaDeGcBeOA9HQDDpBZaPVQ==",
+                "iv": "QSzBuRE80q39sMgZ3qyXOQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "244d34a183b61a698c225456941c1c99",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1491814253,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "585ms"
+}
+
+[2017-04-10 16:50:54][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "244d34a183b61a698c225456941c1c99",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-04-10 16:50:54 --> 1 2
+ERROR - 2017-04-10 16:50:54 --> 2 0
+[2017-04-10 16:50:54][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031zAxyi2rJwsG0yTjyi2UqPyi2zAxyA",
+                "encrypt_data": "0XiQqjbCOqulrUoctCbyWJj6K8wzqKE74wGVP86Ly+u\/cxpQM7Giu1upGUPeAWKZtFx8a3tImoiwRxhI7l7uWGUERXfKghEMAtVmzNaaX\/A1nxAmSlT1g7krTKvrsb7vzKdRAvCmSY9MnSvdNckyNuN+r3SbzJR6ayds4XjMrfSBLfdhxRQsMvInoGB42\/OQVWkVuFEeigVll1Xucl8Rx47U2jxBXHvbLlBhzBoJiJCnnfnac0RIqK9OniTQbHV6V+U8RqTYsuUl7k6T9s\/iIPxE0zruKiXoOAmtbR1WH\/hnre7NjlMhMFA99dyHFjbQG4HLnze0ueQKXq2sZR0D\/4dc\/DcBxEhGPtDemF6kjFqikJD2qyXGYVHNb6QYu8lF7JP2GYO9c2yioRhSjdxA7NEEkrvW8xBRgtaNisdyg1mJp5eKGxe0Scdr1ULiFimAt6Is7Wb62kLbi9Lo56LRFSYI6KiJKr5gRhElNPtNE3+HddCVDhyvSNCSa+S9qs4qw6pcyQSsRemSJdCrQXyOyA==",
+                "iv": "dpBtGDhqdR1x\/ECG4WH37A=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "6e1d2e4ddfb84cb4196b988864d77907",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1491814254,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "81ms"
+}
+
+[2017-04-10 16:50:54][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "6e1d2e4ddfb84cb4196b988864d77907",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-04-10 17:29:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-10 17:29:13 --> 404 Page Not Found: Indexhtml/index
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 36
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:36:18 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 36
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:39:57 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 36
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:10 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:11 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:11 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:11 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:11 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:11 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:40:11 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 36
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 216
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 225
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg_replace() is deprecated /data/release/php-weapp-demo/email.class.php 226
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 17:42:09 --> Severity: 8192 --> Function ereg() is deprecated /data/release/php-weapp-demo/email.class.php 172
+ERROR - 2017-04-10 18:06:39 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-10 18:06:48 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-10 23:04:27 --> 404 Page Not Found: Manager/html

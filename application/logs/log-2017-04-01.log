@@ -1,0 +1,168 @@
+ERROR - 2017-04-01 00:33:43 --> 404 Page Not Found: Cache/global
+ERROR - 2017-04-01 01:42:31 --> 404 Page Not Found: Recordings/theme
+ERROR - 2017-04-01 02:15:42 --> 404 Page Not Found: Map_portshtml/index
+ERROR - 2017-04-01 02:24:10 --> 404 Page Not Found: Map_portshtml/index
+ERROR - 2017-04-01 03:21:24 --> 404 Page Not Found: Search/index
+ERROR - 2017-04-01 03:21:24 --> 404 Page Not Found: 273/index
+ERROR - 2017-04-01 04:51:49 --> 1 2
+ERROR - 2017-04-01 04:51:49 --> 2 0
+[2017-04-01 04:51:49][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001ZgmNj2ceWGH0mviMj2khjNj2ZgmN7",
+                "encrypt_data": "Z+PUwdR6+lfw\/evRRnb1NYX8bGYhudaSrmibi3S5pkgI29fbG9fQe7MU770jHX04kSNEDugMtIiy4S4xidGInhgcWRPg0cHGg4KUqX\/R9ESo1zAI\/vijA3TfbKhpm43GVnvr8Gj\/6E+eFdE1ST85Reuitr1uh+JwD9e0fie81WY7i179xpMJYrlUmQU1ftP9s36qV4DBkECGFjazYeFVwyxfatHl09UWy\/E6sCrtGdyD4sA7sUNrCGv3BWK0Rw59T5P68sYhXPKLqFpfPozzGm7m27RIurGVL8aLiauN4uyxuFug1gS0QBPSnPTQHrqsPJx6vklUyaAkos\/g9h3o1YiMrdUymkB7XTgFbNfT18BEYGHZKZxkrm0rWbvopJsSiomu\/sRz4n5NdagQ\/DbZnElLu\/y1+3FrWH0ls0Mw\/3qw4aoghry21HaD72P7O+vk\/KZGdiFnuhlvhJ6+8skefao0KvazZEsR1dilT\/oqaQDfKBZtAWIpp0uAevWW+x8u5JGHpsx8\/ZAPKZ+StfVoPw==",
+                "iv": "r555i+U9yoxt\/87fPaymPA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "133efb2655a6dc04941abfa06682a9e3",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1490993509,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "74ms"
+}
+
+[2017-04-01 04:51:49][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "133efb2655a6dc04941abfa06682a9e3",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-04-01 04:51:49 --> 1 2
+ERROR - 2017-04-01 04:51:49 --> 2 0
+[2017-04-01 04:51:49][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041BfRZa2eEquQ0AHrYa2xwNZa2BfRZg",
+                "encrypt_data": "Hhiutl7HBUVtQMC\/WAalhEfsztQG5BMz19BqXIBN5a7ZztY2IYBy0oN4GFEfkhh4z4OYg6GqxNW9K8PdJY3\/mAejAImLDRYbkZp3X5fA+Xl32AdG06XLTP3y438nAKN\/GF4LIiXuuKT+ExHShGoGOeRpTR3kXAqSgO6j8wvdpQJ1ZWvC3Jj9V62q4o1OXetEtT4TWUfFIQ7WORWidcQYsPlZjBstWH8CqnXNiTiTjAW1olHF\/eVOMSXX56zifWLSP1cx1EcEzKeeUusSEQT0ZTJwHrc1Oi9YL1giv3z\/cd1sdlV0k\/d4EMu3SZMNGn\/RJYE8JJSNXAplc6d+qetZY7dIkMSWYuQCKW76L2Eq+CXYhaoJlMof+d6lIPbjlAE2HTsk1LfcYd03zBRQWSN6BjD+7CWCKT7RBDNY912wHmUUVovXBb3nnmVfI30cj4mPELSA4X3q7X+l4LQY5\/z2\/cqWL5cbLeEXGBPzvxBPH1InT4FWgZbF32393yKz3s4EwLyHDfqs8t3IF3uZtgXf6g==",
+                "iv": "eaCFMfquigG8xmAjpFyrSg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "296f69d764ea56fdd94bfaf575930e17",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1490993509,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "104ms"
+}
+
+[2017-04-01 04:51:49][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "296f69d764ea56fdd94bfaf575930e17",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-04-01 04:53:22 --> 404 Page Not Found: Onvif/device_service
+ERROR - 2017-04-01 05:05:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 05:05:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 06:34:34 --> 404 Page Not Found: Onvif/device_service
+ERROR - 2017-04-01 07:04:39 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-04-01 10:03:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 10:05:32 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-04-01 10:05:42 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-04-01 14:54:10 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-01 14:57:51 --> 404 Page Not Found: Indexaction/index
+ERROR - 2017-04-01 15:31:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:31:25 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:31:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:31:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:31:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:31:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:32:01 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:32:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:32:17 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:32:50 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:32:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 15:41:44 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-04-01 15:41:45 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-04-01 16:36:20 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-01 17:31:13 --> 404 Page Not Found: Indexaction/index
+ERROR - 2017-04-01 18:02:45 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-04-01 18:02:55 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-04-01 18:39:09 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-04-01 19:36:32 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-01 19:36:41 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-01 19:36:57 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-04-01 20:17:16 --> 404 Page Not Found: CHANGELOGtxt/index
+ERROR - 2017-04-01 20:17:17 --> 404 Page Not Found: Drupal/CHANGELOG.txt
+ERROR - 2017-04-01 20:17:17 --> 404 Page Not Found: Site/CHANGELOG.txt
+ERROR - 2017-04-01 20:17:18 --> 404 Page Not Found: Store/CHANGELOG.txt
+ERROR - 2017-04-01 20:17:19 --> 404 Page Not Found: Test/CHANGELOG.txt
+ERROR - 2017-04-01 20:17:20 --> 404 Page Not Found: Shop/CHANGELOG.txt
+ERROR - 2017-04-01 20:17:21 --> 404 Page Not Found: Forum/CHANGELOG.txt
+ERROR - 2017-04-01 20:17:21 --> 404 Page Not Found: Blog/CHANGELOG.txt
+ERROR - 2017-04-01 20:21:51 --> 404 Page Not Found: Indexaction/index
+ERROR - 2017-04-01 21:11:51 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-04-01 22:16:33 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-04-01 22:19:23 --> 404 Page Not Found: Admin/index.action
+ERROR - 2017-04-01 22:19:26 --> 404 Page Not Found: LoginActionaction/index
+ERROR - 2017-04-01 22:32:46 --> 404 Page Not Found: Cache/global
+ERROR - 2017-04-01 23:03:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-01 23:09:39 --> 404 Page Not Found: CHANGELOGtxt/index
+ERROR - 2017-04-01 23:09:40 --> 404 Page Not Found: Drupal/CHANGELOG.txt
+ERROR - 2017-04-01 23:09:40 --> 404 Page Not Found: Site/CHANGELOG.txt
+ERROR - 2017-04-01 23:09:45 --> 404 Page Not Found: Store/CHANGELOG.txt
+ERROR - 2017-04-01 23:09:45 --> 404 Page Not Found: Test/CHANGELOG.txt
+ERROR - 2017-04-01 23:09:49 --> 404 Page Not Found: Shop/CHANGELOG.txt
+ERROR - 2017-04-01 23:09:50 --> 404 Page Not Found: Forum/CHANGELOG.txt
+ERROR - 2017-04-01 23:09:50 --> 404 Page Not Found: Blog/CHANGELOG.txt

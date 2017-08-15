@@ -1,0 +1,96 @@
+ERROR - 2017-05-14 00:07:44 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-05-14 08:28:00 --> 404 Page Not Found: Cache/global
+ERROR - 2017-05-14 12:47:03 --> 404 Page Not Found: A2billing/common
+ERROR - 2017-05-14 12:47:15 --> 404 Page Not Found: A2billing/common
+ERROR - 2017-05-14 12:47:19 --> 404 Page Not Found: A2billing/common
+ERROR - 2017-05-14 12:47:26 --> 404 Page Not Found: A2billing/common
+ERROR - 2017-05-14 12:48:24 --> 404 Page Not Found: A2billing/common
+ERROR - 2017-05-14 13:52:38 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-05-14 19:10:15 --> 1 2
+ERROR - 2017-05-14 19:10:15 --> 2 0
+[2017-05-14 19:10:15][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051WAW8r1E3RNq0Qc58r1XdI8r1WAW8Y",
+                "encrypt_data": "LCi5SBhCKAEGCo3V2afL2lRgY\/5YpbFWAyJ9J4Axw4H3S0sqXrxDtPHjQHaKzFD3+ikFEyVLaFqpkciT2GrvcS0RtOukySzjKzZ8nYblx3CSsgR3eJm+EVdR9SAssdGQ1WK\/fVXr8VRTAM\/tkFh02Wufow6c48pDMXWS4YPkTYG8R9AXExazLI6ZqVeU0hw1CprcsaQJLimg73gU+gDxI\/R4yLobRGB9vBxwLSvMmC\/aV\/94w4udcNZ1QwS\/N68uL0VkuHUIWgFOpwBrx9NDLZA\/4V1PC8N+bkQGVi5vsn9xnFVofcfBl3HVsSMtdNU242Td3\/TU8sAdcsGO\/LDMoZAFFE0Q2+rhH9NbnbqWaktOXSi84Yqze9aOQNqlBAvbTFuvbKXzQ5XhrL09GSvBxSvlZ862W8llJeIpFo8TcxycYINo9Z\/FT+POZDPuuFQUUBHpVzY3CUxydKrQIqgVapaICyEDpKtp4GBKIlRvnUCs3qXu5XwiUCNoaDmWixpasCpNrawRCafRC4Pa3cWvVw==",
+                "iv": "uoC6Jj2OdfbptQbMiRuncQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "31529f3d3ed319dd562605cf0a17da4b",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "unionId": "oU11PxI5w2BTja9r5Wnjl-9nznPg",
+                "watermark": {
+                    "timestamp": 1494760184,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "96ms"
+}
+
+[2017-05-14 19:10:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "31529f3d3ed319dd562605cf0a17da4b",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+        "unionid": "oU11PxI5w2BTja9r5Wnjl-9nznPg"
+    }
+}
+
+ERROR - 2017-05-14 20:32:42 --> 404 Page Not Found: Manager/html
+ERROR - 2017-05-14 21:23:14 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-05-14 21:23:14 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-05-14 21:23:15 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-05-14 21:23:15 --> 404 Page Not Found: Static/js
+ERROR - 2017-05-14 21:23:15 --> 404 Page Not Found: Include/js
+ERROR - 2017-05-14 21:23:16 --> 404 Page Not Found: Include/js
+ERROR - 2017-05-14 21:23:16 --> 404 Page Not Found: Include/js
+ERROR - 2017-05-14 21:23:17 --> 404 Page Not Found: Res/js
+ERROR - 2017-05-14 21:23:17 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-05-14 21:23:17 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-05-14 21:23:18 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-05-14 21:23:18 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-05-14 21:23:19 --> 404 Page Not Found: Template/default
+ERROR - 2017-05-14 21:23:19 --> 404 Page Not Found: Static/js
+ERROR - 2017-05-14 21:23:19 --> 404 Page Not Found: Images/js
+ERROR - 2017-05-14 21:23:20 --> 404 Page Not Found: Templets/style
+ERROR - 2017-05-14 21:23:20 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-05-14 21:23:20 --> 404 Page Not Found: Images/default
+ERROR - 2017-05-14 21:23:21 --> 404 Page Not Found: Js/lang
+ERROR - 2017-05-14 21:23:21 --> 404 Page Not Found: Js/lang
+ERROR - 2017-05-14 21:23:22 --> 404 Page Not Found: D/js
+ERROR - 2017-05-14 21:23:22 --> 404 Page Not Found: Skin/default
+ERROR - 2017-05-14 21:23:22 --> 404 Page Not Found: Media/system
+ERROR - 2017-05-14 21:23:23 --> 404 Page Not Found: Media/system
+ERROR - 2017-05-14 21:23:23 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-05-14 21:23:23 --> 404 Page Not Found: Style/default
+ERROR - 2017-05-14 21:23:24 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-05-14 21:23:24 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-05-14 21:23:25 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-05-14 21:23:25 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-05-14 21:23:25 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-05-14 21:23:26 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-05-14 21:23:26 --> 404 Page Not Found: Jenkins/index

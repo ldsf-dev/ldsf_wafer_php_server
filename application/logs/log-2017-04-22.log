@@ -1,0 +1,262 @@
+ERROR - 2017-04-22 01:40:18 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-04-22 02:20:25 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-04-22 04:09:23 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-04-22 04:18:17 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-04-22 04:41:09 --> 404 Page Not Found: Search/index
+ERROR - 2017-04-22 04:41:09 --> 404 Page Not Found: 273/index
+ERROR - 2017-04-22 09:18:15 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-04-22 09:28:27 --> 404 Page Not Found: CFIDE/administrator
+ERROR - 2017-04-22 11:14:02 --> 1 2
+ERROR - 2017-04-22 11:14:02 --> 2 0
+[2017-04-22 11:14:02][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0515E4uP1reY151AJoxP18Q6uP15E4uX",
+                "encrypt_data": "TOj1KXmkFj\/ygmunh+ISzQUJWH2tRqmsCiODBfOJmxolxam5lDOxudXji1xCb+OzuytSaeEaieaerTwYRaWRASG24AedJ8R9pJmaxmxD5ZzjmesUbUnqIPSLxM4bzw47Yj6qHQeiMgG01kzI\/y7jWFoBdhnAWkYj0EqTYqdup0cELiDtiw5wkU\/9oJpZv94wKfvKJC2vhGL3DNve79YCC7ybudefX4NSuDt5vss4sO+zkhBCmbSuxtFWnOYD5b2hdWkeIlVBPmsevkGRKudJkDgQwsiRfcUhzL\/QoBGyUnb5F2aMSdjV31PSr32zCl\/QoOF6gv0yupT+xTwJcaYuWTheWyjKV4u8oMtA2W3bmAiLi1OvsbvkNtFqTMnejqN+tddKTfBFy0hpmwVJmdePe4J7HsfL\/tVdMAUW+cmQWYdQV5NAkAZ+ByJ0\/RWc4nqzCbN87NLpINs9UzLj1hQ8m\/uZcNd1S+8BfbfbFY6fTJ8I2wl1dfgmtRJg3uXGxpAkuzEEGP+SsYCoYYaSl2C6cQ==",
+                "iv": "31uyPRPm0gGF3sFzX4FkVQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0169fdc02259476e097a647bae878569",
+            "skey": "0669e05c982dd8ec5bc49fd8aa759f14",
+            "user_info": {
+                "openId": "oPicY0YihbDV-yamaBDZNr06JZGs",
+                "nickName": "张虹岚",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Nanjing",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLYaFfXicp4995zA82FodHTcXAx3mhgRpFyRsKrtbeEg4olozNPATZJmYCa9rgO8ca6k7aaE2Kt9Sg\/0",
+                "unionId": "oU11PxMR57DVoRsbcNyzoBg0oHFQ",
+                "watermark": {
+                    "timestamp": 1492830835,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "109ms"
+}
+
+[2017-04-22 11:14:02][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0169fdc02259476e097a647bae878569",
+        "skey": "0669e05c982dd8ec5bc49fd8aa759f14",
+        "openid": "oPicY0YihbDV-yamaBDZNr06JZGs",
+        "unionid": "oU11PxMR57DVoRsbcNyzoBg0oHFQ"
+    }
+}
+
+ERROR - 2017-04-22 11:14:02 --> 1 2
+ERROR - 2017-04-22 11:14:02 --> 2 0
+[2017-04-22 11:14:02][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0218AoGf2asiRE0ea6Hf2VVDGf28AoGQ",
+                "encrypt_data": "aGkbRoSicAwjnU8ugJY2K\/13KMDfRD0QwBxLl2ftK6utaDXJ14sjUY54cKesi\/qH9UcjCqTs7D6NE7z0P4h6F42DeXMNCm0oS\/QMh\/PrAOLg3OPdPalorSc5pvGHQ+LlZ89zM58HHxurTiWTG1To0tZQPgyFayfYhzo1HtIPyf92V8T\/yBySns2W4BBeuPRKG0Q5kMEQAQDEqagFtb25PAMhD2nCW7arwSJYPIjSyySZ47JX7DAVpNw2dxgjQtyifCGR20aPXSCZC63w8N3CUs4Q7vZrHLaSil9wNMut8evHaQz4lotspqgV194PtgYhsf8pxPYOuDvHI16ts0SF5QVDceVgfWUTDUoQcZuRvK7n4EUEUejrkfvuczPDMkAdoqZ8u3FTDLG\/VB5POyLqjKsUwdx2FtZKjpII3HG11Y4+COlGe2tbjU6GZX2Jo+o2NhXhSzb330ONw6JHlRasdphf\/xKYvei02IyeZ3neV8EMLHBRnNTfzLCIg\/8UoW43LWIP5xmY2XCBIBSdt63geg==",
+                "iv": "oHJzKkQxQPg7NhNZsHfwfA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0169fdc02259476e097a647bae878569",
+            "skey": "1f69b8a0c6f89c52f5478e739cbdc990",
+            "user_info": {
+                "openId": "oPicY0YihbDV-yamaBDZNr06JZGs",
+                "nickName": "张虹岚",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Nanjing",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTLYaFfXicp4995zA82FodHTcXAx3mhgRpFyRsKrtbeEg4olozNPATZJmYCa9rgO8ca6k7aaE2Kt9Sg\/0",
+                "unionId": "oU11PxMR57DVoRsbcNyzoBg0oHFQ",
+                "watermark": {
+                    "timestamp": 1492830835,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "120ms"
+}
+
+[2017-04-22 11:14:02][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0169fdc02259476e097a647bae878569",
+        "skey": "1f69b8a0c6f89c52f5478e739cbdc990",
+        "openid": "oPicY0YihbDV-yamaBDZNr06JZGs",
+        "unionid": "oU11PxMR57DVoRsbcNyzoBg0oHFQ"
+    }
+}
+
+ERROR - 2017-04-22 13:33:28 --> 1 2
+ERROR - 2017-04-22 13:33:28 --> 2 0
+[2017-04-22 13:33:28][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021REzh91ugk2S1NJBj91uWGh91REzh6",
+                "encrypt_data": "pmO7lAk3o8T\/Cg5LxV\/F28HbYLbku6MXyVZDENGl4xsjREtbwgXXvm0XhWFhRoVodXaMI+BuOL2QKp3cY1C3g6RJBjL6yhpsHaNAFYVeASvDnEceLmiLass66jHIOVu4DekrZUGtvT8mlB3t+aExYZG52hs2xn8Sud39Xaw1O\/Y5VeDXLEOOUFwXkBvbTPlDAY4gkKaLp04z2DC\/S73OB2i4sUyj4hLMEsSbkYCkdD5Zi8EFWeSJn5laQkCHYw9a59F6AYr79xCrI081Vayml+Hjhmfv6P3QEuM2wn41k8gax5XuJkKtOAX7oZV4PvaF1AaBgk1OLSeLH+RJf\/tmxTraGhvW8LKq1GukaEilRgBQG4aTxA5dRwOyrjiHZb1UVdn++U7MA18\/6bwYO72l3VEnBlaa8VTBuusOuuIjrZRrUkJu73cudUYsy5uquYKK3pzX8MKsUmGXhBqsuyT6cN3KIU0oZkKnURGYQqlLnCup8V4TSzHslYIZ5vIr2TZKQj0OE\/6dMvXPpxd3Hrl6pA==",
+                "iv": "N0EvLx\/IOEPLisfGHeGRnw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+            "skey": "02e844be65dc13857f58a7a5e0b7df3f",
+            "user_info": {
+                "openId": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+                "nickName": "小惠",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqYgM5ALODOGva2ZrZLghgB5RlAbzW14jjUmghOodVcsuS5WPl0YLtZKAiaUIOBUCgeOaKd4IBwHuQ\/0",
+                "unionId": "oU11PxL_dgOT3hlFIxnGMMiEaMgw",
+                "watermark": {
+                    "timestamp": 1492839207,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "97ms"
+}
+
+[2017-04-22 13:33:28][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+        "skey": "02e844be65dc13857f58a7a5e0b7df3f",
+        "openid": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+        "unionid": "oU11PxL_dgOT3hlFIxnGMMiEaMgw"
+    }
+}
+
+ERROR - 2017-04-22 13:33:28 --> 1 2
+ERROR - 2017-04-22 13:33:28 --> 2 0
+[2017-04-22 13:33:28][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031dD2Td0yntey168VTd0YK4Td0dD2Td",
+                "encrypt_data": "7MGUtQZEL3fba5imDxbIzYEdjDtSix9yaPEfdHBQR1ZWFIMafNsnwe89SYGzyw59b\/k9IMuPVBXOgEgr\/DQgfBFdEJzpCu5wI40tGpJP7GjWZlMFtN18dZ0sHAAIr7R2FGSyELSHsEdZyv5Nyea3og5\/g1nmNcjOBi5HpgEWhtTG5zo6K95mSvBKw0gQLuui+mawfaN8md15zLCExQ4kcGpEkb+ulcPHdkQxz2MZMcZED5lDA7GSxKv0nS\/hPW96H1TPcKrfzV\/ssBo75pANyacEnTItLh3o6ZFvSPo9g8Zcfk+CecZpNer+Xw1DMuZNzzkh+6sSb2AdgRlIR5BbSvlJmag0qwNe1NPC8ENjNuXkjzb3OL9LzgrOR2dc+bfI8r18xNNWpOe9KxPwde7harDtIr6Fxgny+9iRbakrNok7KVUKBMLbTt79quaepad1nTIoP\/v6euJifsWMEeza5mzlHd+yQlF+vc65wI3nf2WxANp7u4fYbPOXAZ3BJNy1eqlPjZeSH9wcwTfjEQsvHg==",
+                "iv": "c\/SA+3jatlMbyv2DSS48qA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+            "skey": "b0e92497d7c5e1738bcd0dec3e2c79dd",
+            "user_info": {
+                "openId": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+                "nickName": "小惠",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqYgM5ALODOGva2ZrZLghgB5RlAbzW14jjUmghOodVcsuS5WPl0YLtZKAiaUIOBUCgeOaKd4IBwHuQ\/0",
+                "unionId": "oU11PxL_dgOT3hlFIxnGMMiEaMgw",
+                "watermark": {
+                    "timestamp": 1492839207,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "98ms"
+}
+
+[2017-04-22 13:33:28][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+        "skey": "b0e92497d7c5e1738bcd0dec3e2c79dd",
+        "openid": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+        "unionid": "oU11PxL_dgOT3hlFIxnGMMiEaMgw"
+    }
+}
+
+ERROR - 2017-04-22 14:38:19 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-04-22 14:38:20 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-04-22 14:38:20 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-04-22 14:38:21 --> 404 Page Not Found: Static/js
+ERROR - 2017-04-22 14:38:21 --> 404 Page Not Found: Include/js
+ERROR - 2017-04-22 14:38:21 --> 404 Page Not Found: Include/js
+ERROR - 2017-04-22 14:38:22 --> 404 Page Not Found: Include/js
+ERROR - 2017-04-22 14:38:22 --> 404 Page Not Found: Res/js
+ERROR - 2017-04-22 14:38:22 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-04-22 14:38:23 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-04-22 14:38:23 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-04-22 14:38:24 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-04-22 14:38:24 --> 404 Page Not Found: Template/default
+ERROR - 2017-04-22 14:38:24 --> 404 Page Not Found: Static/js
+ERROR - 2017-04-22 14:38:25 --> 404 Page Not Found: Images/js
+ERROR - 2017-04-22 14:38:25 --> 404 Page Not Found: Templets/style
+ERROR - 2017-04-22 14:38:25 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-04-22 14:38:26 --> 404 Page Not Found: Images/default
+ERROR - 2017-04-22 14:38:26 --> 404 Page Not Found: Js/lang
+ERROR - 2017-04-22 14:38:27 --> 404 Page Not Found: Js/lang
+ERROR - 2017-04-22 14:38:27 --> 404 Page Not Found: D/js
+ERROR - 2017-04-22 14:38:27 --> 404 Page Not Found: Skin/default
+ERROR - 2017-04-22 14:38:28 --> 404 Page Not Found: Media/system
+ERROR - 2017-04-22 14:38:28 --> 404 Page Not Found: Media/system
+ERROR - 2017-04-22 14:38:28 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-04-22 14:38:29 --> 404 Page Not Found: Style/default
+ERROR - 2017-04-22 14:38:29 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-04-22 14:38:29 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-04-22 14:38:30 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-04-22 14:38:30 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-04-22 14:38:31 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-04-22 14:38:31 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-04-22 14:38:31 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-04-22 15:23:06 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-04-22 15:35:50 --> 404 Page Not Found: Cache/global
+ERROR - 2017-04-22 17:15:44 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-04-22 18:27:32 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-04-22 18:33:23 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index

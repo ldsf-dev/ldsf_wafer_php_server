@@ -1,0 +1,152 @@
+ERROR - 2017-01-19 01:30:04 --> 404 Page Not Found: Search/index
+ERROR - 2017-01-19 01:30:04 --> 404 Page Not Found: 273/index
+ERROR - 2017-01-19 02:13:07 --> 404 Page Not Found: Check_proxy/index
+ERROR - 2017-01-19 03:06:43 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-01-19 03:06:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-19 03:29:30 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-19 03:31:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-19 03:33:02 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:33:34 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:34:03 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:35:08 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:35:27 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:35:38 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:37:53 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:38:07 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:38:21 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 03:39:22 --> Query error: Unknown column 'undefined' in 'where clause' - Invalid query: select * from t_good where good_id = undefined
+ERROR - 2017-01-19 04:36:22 --> 1 2
+ERROR - 2017-01-19 04:36:22 --> 2 0
+[2017-01-19 04:36:22][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021onTJL0He1X52M8JGL0zyxJL0onTJs",
+                "encrypt_data": "GcsEITWdUYRXr0ehAui7FLaCxSSqiSTQG7YCR03Ax+Jql0D3PinbQBG2JFvmjEwkN\/UbwohvMjHnD2i6iLNbIQp17plmNvClqcs\/R7Y0vXQcjPaya5u\/VnMONeTGZNvSqsoWNaaSj1ubRFxFeUxetwaB\/UO27Cd3KpFnbhOOA\/NFGcjj3tTuTmDu+3tsdXwDcXL\/Vz\/9WVsUx\/wGusdTInKkUkbU+m4sOMz1I1wBvVjAX407216Lu62lbr62hgZeMNWISNkQuwkU0G7bH9HjuJ0CaHr7U7eGxE0vVrVojB7lvorgi9ooGke+f897X810GVuY9EdHKgDZKuXMVi4DejzIdvxYdhGnR4BCIVUnpao0Y2gxzDLR\/APPyRFaScBitDu0fBDZP1+Me5YvJCt+\/qas1eYVXGHKt9ZtaUZS3pjy4Fe5RSbzcZG4szzE+NmvHBDs0VNRRDb87Kl90cuPxQ==",
+                "iv": "sw9+eRDLSeIDB956gyjAnw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d05e8a5d1e21733666c6fb59fa29218",
+            "skey": "f10b727744cdbbbb7230111c877eaed0",
+            "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "watermark": {
+                    "timestamp": 1484771781,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "97ms"
+}
+
+[2017-01-19 04:36:22][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d05e8a5d1e21733666c6fb59fa29218",
+        "skey": "f10b727744cdbbbb7230111c877eaed0",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI"
+    }
+}
+
+ERROR - 2017-01-19 04:36:28 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 23
+ERROR - 2017-01-19 04:48:19 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 04:48:51 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 04:49:07 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 04:49:14 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 04:49:35 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 04:49:45 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 04:49:48 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 04:50:06 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 06:24:46 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-01-19 13:17:55 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-19 15:42:28 --> 1 2
+ERROR - 2017-01-19 15:42:28 --> 2 0
+[2017-01-19 15:42:28][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021uWA3k1zdK2j0CtH4k11on3k1uWA35",
+                "encrypt_data": "jHLmCPAbnb+mxJncO6PuviqJ7bisKl8pOaXX1l4hG5XqS4cw4h8ta+cDRVBv1nYPOcd9ZkzDYWW61g6M8AMoENcGB9+MPO1wjic2QVV8YA58YJOiph8eBLUt3tlKcZiMyVEkRKdnei72j5hxYp4Ti0rzEO8jedLHR3WKqqi4VHrtdCbUU1oD3sPSUOjF6zPe5z\/LTOtQcpy8\/lpG5zX2eOdeswPfGT9pFdCRHQhbkhZWXUE7doLXFtDZZG2AlItqy3pqPKOjJhL0wZetLw\/Ml\/Op5Wb\/vC+4UoUAx2OWaoWzB\/Qqh+63XzVmMeHN15pqLJsFzmmdtEJLUTGjx1t1nRZJrQNhzA5nuKP5c2fVePdJDH54tCZwIw8sbYWePof\/NfQ1bHrEatgry9edmIV5FIZ+wRGjtbQYOEGB8Yw0GRdSDXU3nLWxPnZlLJnTKG\/W8P53qTpGEgBQXR5m2Bye1ntYjEokkatCn7jgyS+2vlc=",
+                "iv": "QwPVO2FBeja0BzLBfEyG6g=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "18903dbcb7ad3e3d16785443a85eacee",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484811748,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "128ms"
+}
+
+[2017-01-19 15:42:28][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "18903dbcb7ad3e3d16785443a85eacee",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-19 15:44:35 --> Severity: Error --> Class 'Logger' not found /data/release/php-weapp-demo/application/controllers/Takeorder.php 17
+ERROR - 2017-01-19 15:46:39 --> notify accessed
+ERROR - 2017-01-19 17:27:59 --> 404 Page Not Found: Admin/index
+ERROR - 2017-01-19 19:51:16 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-19 21:41:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-19 21:59:18 --> notify accessed
+ERROR - 2017-01-19 22:29:14 --> Severity: Notice --> Undefined index: HTTP_PARA_BODY /data/release/php-weapp-demo/application/controllers/Takeorder.php 25
+ERROR - 2017-01-19 22:29:14 --> Severity: Notice --> Undefined index: HTTP_PARA_AMOUNT /data/release/php-weapp-demo/application/controllers/Takeorder.php 30
+ERROR - 2017-01-19 22:29:14 --> Severity: Notice --> Undefined index: HTTP_PARA_OPENID /data/release/php-weapp-demo/application/controllers/Takeorder.php 38
+ERROR - 2017-01-19 22:30:29 --> Severity: Notice --> Undefined index: HTTP_PARA_BODY /data/release/php-weapp-demo/application/controllers/Takeorder.php 25
+ERROR - 2017-01-19 22:30:29 --> Severity: Notice --> Undefined index: HTTP_PARA_AMOUNT /data/release/php-weapp-demo/application/controllers/Takeorder.php 30
+ERROR - 2017-01-19 22:30:29 --> Severity: Notice --> Undefined index: HTTP_PARA_OPENID /data/release/php-weapp-demo/application/controllers/Takeorder.php 38
+ERROR - 2017-01-19 22:33:16 --> Severity: Notice --> Undefined index: HTTP_PARA_BODY /data/release/php-weapp-demo/application/controllers/Takeorder.php 25
+ERROR - 2017-01-19 22:33:16 --> Severity: Notice --> Undefined index: HTTP_PARA_AMOUNT /data/release/php-weapp-demo/application/controllers/Takeorder.php 30
+ERROR - 2017-01-19 22:33:16 --> Severity: Notice --> Undefined index: HTTP_PARA_OPENID /data/release/php-weapp-demo/application/controllers/Takeorder.php 38
+ERROR - 2017-01-19 22:46:21 --> Severity: Notice --> Undefined index: HTTP_PARA_BODY /data/release/php-weapp-demo/application/controllers/Takeorder.php 25
+ERROR - 2017-01-19 22:46:21 --> Severity: Notice --> Undefined index: HTTP_PARA_AMOUNT /data/release/php-weapp-demo/application/controllers/Takeorder.php 30
+ERROR - 2017-01-19 22:46:21 --> Severity: Notice --> Undefined index: HTTP_PARA_OPENID /data/release/php-weapp-demo/application/controllers/Takeorder.php 38

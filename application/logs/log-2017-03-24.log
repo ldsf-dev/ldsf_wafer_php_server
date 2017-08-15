@@ -1,0 +1,387 @@
+ERROR - 2017-03-24 00:08:08 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 00:08:09 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 00:10:52 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 00:10:52 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 00:30:41 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 00:30:50 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 00:54:29 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 01:02:02 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 01:02:02 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 01:37:54 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 01:40:31 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 01:40:32 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 01:46:04 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 02:00:30 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-24 02:08:08 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-24 02:13:13 --> 404 Page Not Found: Webservice/proxy
+ERROR - 2017-03-24 02:21:16 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 02:21:17 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 02:37:07 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 02:37:07 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 03:27:36 --> 404 Page Not Found: Info/SYSTEM
+ERROR - 2017-03-24 03:27:36 --> 404 Page Not Found: Info/SYSTEM
+ERROR - 2017-03-24 03:27:36 --> 404 Page Not Found: Ifixwebspace/index
+ERROR - 2017-03-24 03:27:37 --> 404 Page Not Found: Ifixwebspace/index
+ERROR - 2017-03-24 03:27:37 --> 404 Page Not Found: Info/SYSTEM
+ERROR - 2017-03-24 03:27:37 --> 404 Page Not Found: Info/SYSTEM
+ERROR - 2017-03-24 04:13:55 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 04:13:56 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 04:36:45 --> 404 Page Not Found: Webservice/proxy
+ERROR - 2017-03-24 04:52:33 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 04:52:43 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 05:17:17 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-24 05:22:21 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 05:22:22 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 05:41:11 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 05:41:11 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 05:59:08 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 06:45:04 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 07:02:26 --> 404 Page Not Found: Info/SYSTEM
+ERROR - 2017-03-24 07:13:42 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 07:13:43 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 07:38:50 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 07:38:51 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 07:43:37 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-24 07:50:21 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 07:50:22 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 07:59:32 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 07:59:33 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 08:03:48 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 08:03:48 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 08:04:04 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 08:04:04 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 08:14:47 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 08:14:56 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 08:44:53 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 08:44:54 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 08:52:16 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 08:52:17 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 09:21:10 --> 404 Page Not Found: Cache/global
+ERROR - 2017-03-24 09:30:16 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 09:30:17 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 09:33:06 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 09:33:08 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 09:54:50 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 09:54:51 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 10:05:27 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 10:11:17 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 10:11:18 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 10:51:18 --> 404 Page Not Found: Struts2XMLHelloWorld/User
+ERROR - 2017-03-24 10:58:04 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 10:58:49 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-03-24 11:16:09 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 11:59:47 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 11:59:47 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 12:11:05 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 12:11:06 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 12:11:28 --> 404 Page Not Found: Admin/i18n
+ERROR - 2017-03-24 12:12:35 --> 404 Page Not Found: Admin/i18n
+ERROR - 2017-03-24 12:12:46 --> 404 Page Not Found: Admin/i18n
+ERROR - 2017-03-24 12:13:38 --> 404 Page Not Found: Admin/i18n
+ERROR - 2017-03-24 12:13:44 --> 404 Page Not Found: Admin/i18n
+ERROR - 2017-03-24 12:30:53 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 12:30:54 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 12:45:11 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 12:45:12 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 13:48:40 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 13:48:41 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 14:01:02 --> 404 Page Not Found: Shell/index
+ERROR - 2017-03-24 14:02:45 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 14:02:46 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 14:30:54 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 14:30:55 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 14:54:40 --> 404 Page Not Found: Struts2XMLHelloWorld/User
+ERROR - 2017-03-24 16:04:11 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-03-24 16:53:34 --> 404 Page Not Found: Admin/getallprofiles
+ERROR - 2017-03-24 16:53:35 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-03-24 17:31:12 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 19:04:52 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 19:04:52 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 19:25:39 --> 404 Page Not Found: Search/index
+ERROR - 2017-03-24 19:25:40 --> 404 Page Not Found: _gh/index
+ERROR - 2017-03-24 19:41:13 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-03-24 20:50:06 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 20:50:06 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 20:57:14 --> 404 Page Not Found: Frame/first.action
+ERROR - 2017-03-24 20:57:15 --> 404 Page Not Found: Struts2-showcase/login.action
+ERROR - 2017-03-24 21:00:49 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 21:00:50 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-03-24 23:05:16 --> 1 2
+ERROR - 2017-03-24 23:05:16 --> 2 0
+[2017-03-24 23:05:16][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0314XhdT14DZya1FYvaT1PXqdT14XhdQ",
+                "encrypt_data": "V2zOs8olgBXHP8xRPK59AoKjvUd3mPJc70tW2p9Te4IDdIXV4kzGYYXAtCP40046eGR+uzmxyTaNk0HS\/Tjnuw90fqzaJLkf+qtTIoBQtCRv7lKB+OfdSbdwAS+8VPHM3xHS1HYTfydSrXy+ggObs7cxY20X0QrPH+wLo1oY5k2nii6I8Lbe67XqMAepDNlNGEtnwSBMejQpMbMsadDfRZS+tp0hi34zESJTba6FETGhYNQq8SpVtVedc7LXU+5VOxpztgE0pbbu0D5IMSsmxSBXf8huaZm0kTNa\/+Y2t\/\/2i7ErfQ3iuzGH1da\/wJklVjYuR5BWdaMes2QUFAyLNIYzANvXWROBhek9Swnl3FZ\/prd\/tnWfSos\/KBMXIPBqK\/exw0555seD6SFYTvN4tRotXRiiah2+WANvSpQE\/pfteoPnpDwaCbc1yvjNYSJHovlJTcqkYo+\/ZZiNzH6Z8s8wAdZqe6T+dHgFhkycPGajKTyrXEPo30qlitT1UYaN4BlURUbT4T6ecCqF4Fpz9w==",
+                "iv": "8hCzwDvEegkgeB25BJO5XQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "b86203aa92217ebf5575c631d8b6f835",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "unionId": "oU11PxI5w2BTja9r5Wnjl-9nznPg",
+                "watermark": {
+                    "timestamp": 1490367910,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "175ms"
+}
+
+[2017-03-24 23:05:16][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "b86203aa92217ebf5575c631d8b6f835",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+        "unionid": "oU11PxI5w2BTja9r5Wnjl-9nznPg"
+    }
+}
+
+ERROR - 2017-03-24 23:05:16 --> 1 2
+ERROR - 2017-03-24 23:05:16 --> 2 0
+[2017-03-24 23:05:16][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0114Q9QQ0guPoa2hQyOQ0YubQQ04Q9Qu",
+                "encrypt_data": "jYS69soCSdm6C3YOohowlIpHczTBfcqV12ODBD3IKnVxWCJPEtGmD0eOxUtoPyP29euAaCZHS0E42WnS3aaT7ldiL3iwHbnnF4o2AFwksByNfiqoHKR4mHt+Mw6hpkSXgGPbbtUVJeLke0CaLetwg9Ux1\/xJqFGZwrQvTR1\/m2nUmCDsLz1r4zNmHhB5BYsk23HowwlH7ZzxZXXWdsCZPaTrryiiYeXcUPQqLGWgf46FyHUhKeNvP0rEup03Bswec3wSim1E7tWS0AVFSLCrC3VhlUGMrHaPo4u4c6BqLYSybTsfcic76wNmFeDeTjicQVz7Hi7Q0AqAo2h91f714HbHwTVZKX2TVd9gkqDY1HLtPksrw20nUhxc41OOAmwTvJRBtZs2AGyEG4x1VXM\/LQxHu+j\/z9yLHVx5F8gBTocfs+JnlqdL9U4CkucmWuEDhr777GPUA+l83U\/Bz9kikJBoM\/LACo+ueXr3+6IjmDSXI7Y1S1usSNj2v5rZrvb3DNAylBIDYgXG\/q5OkzIeGA==",
+                "iv": "bD3hLZ6tn3tTMCLuqK249Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "0c664f09ee1b82e75068c63791d6bd1b",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "unionId": "oU11PxI5w2BTja9r5Wnjl-9nznPg",
+                "watermark": {
+                    "timestamp": 1490367909,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "224ms"
+}
+
+[2017-03-24 23:05:16][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "0c664f09ee1b82e75068c63791d6bd1b",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+        "unionid": "oU11PxI5w2BTja9r5Wnjl-9nznPg"
+    }
+}
+
+ERROR - 2017-03-24 23:06:01 --> 1 2
+ERROR - 2017-03-24 23:06:01 --> 2 0
+[2017-03-24 23:06:01][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041uSQhd1p3Gcu0Emufd1uYDhd1uSQhn",
+                "encrypt_data": "sfGCCi90Cn8i7kUAsteM0ATdLvTLt4CaLZmtDDX6B+TXdUpj61nszAVdFHy3BqhYWZmI28bZyh9FbFaMbHLQwmMDRE35s5tg2TCQ+DDjQHoN\/5bEBzvPw2KQM+hsudSLX3cF8cs8afFadrTrS6fN+ZN6onlIru363lqWrDkAf+soXp9UDvzBIkAQizCFDJVHvje\/hYR\/ghRYhEoFyGvZkuRH5LTXngqzJjrYhVg\/N6QqNwWa2jYI50+4Xopy7ASNKdAHP7pvG6s1yLb10Ul5GP0qZhKFYJshs39SFHabo9sPxIcEtStnCOfp2L9mIJ4uB+srafiBVJQ\/9xBJf3ApoNhRmfLD6Xyu8OQJjkVOZeIDqSbo5F28ysKIsaX7ZCx0DeMK0+c+5FE92Mpm8zstu4vy0z7d2sbqMhoVWJrN4v2Hkjddh+br+g1l1EDT6Bd3BbhleevFBG6i7AWEpy3hb7Q1WoH9DGBDlmdyQR0knJJ\/RHg1jBn+VSyw8j08GxSqYUUytla+MJetp1pc0qbCAg==",
+                "iv": "OZakAGmjYR5hI1fH0ialDg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "90a8eba92624f3eda7fc5e8c60c65b22",
+            "skey": "0ed8cbe5fd8df13986f668aec5d9f642",
+            "user_info": {
+                "openId": "oPicY0XpVliDqsuib8hRtBuzaWC0",
+                "nickName": "屎盖同学",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/Q0j4TwGTfTJXPiaZFqkBUGkxh1HlY8MhfgtOHpH8NKVAyjHsp5f5dTFCiaq2icfCKVbibvW76lAx42T8CLT9Ryfg9g\/0",
+                "unionId": "oU11PxIEbEvafYFLAlTyFyJFLFJM",
+                "watermark": {
+                    "timestamp": 1490367956,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "142ms"
+}
+
+[2017-03-24 23:06:01][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "90a8eba92624f3eda7fc5e8c60c65b22",
+        "skey": "0ed8cbe5fd8df13986f668aec5d9f642",
+        "openid": "oPicY0XpVliDqsuib8hRtBuzaWC0",
+        "unionid": "oU11PxIEbEvafYFLAlTyFyJFLFJM"
+    }
+}
+
+ERROR - 2017-03-24 23:09:02 --> 1 2
+ERROR - 2017-03-24 23:09:02 --> 2 0
+[2017-03-24 23:09:02][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031Ny8XO0iXDW72eppXO0jPtXO0Ny8XN",
+                "encrypt_data": "Pf7Rvid68B3RjvOcJNHr70i3RgP4IiL0L68q1ZBiyDQGCEjoGE4U7GEBTsEJA7fs4vTLHmyCPiJ\/B+sdYDmSRi8s8h4ndF11mX4EY99\/\/QvitNvYvVlL9FS7zJ\/uW2+75GOCqgNxOTsPcs+R0Rr8Ewa7zH1C3uRF4XJIj5Qcx4Mb\/c2saUKJvWk09eKjOj0ZR\/tnlmz\/Vayant7vjSHtQUEGYv9J8IbjIr03dcpoGkrN7C+c5Sv\/Yh6Dh0aZksIiRuFyBKfA08SN6jB9vCa3mcgMvYY4bqJ71uDRROX2Rdh6LD9crrAHjFLMr6ZiJ9ALtdN0aRzwk3IxERgwAxvbY7dO3u8QMfV96MSRc\/MG9gNb9nMvYJdmj6FTHaW56XbLLPzTmlT4oIqKjlM\/Ogc6fG6Uwx1+ecqP+BJfXSrFA8T2wmDKXuEDw\/pRjIH7CbGktabMFdBHwb0X4mUS16qaWx5DVn6mT7ScUftyRI8vWFwtzXKqG8vkBdUC1fNPnzeosC4cSiDQjLHNJUg+Y764eQ==",
+                "iv": "\/a0ckFHzUqkz+p+6ZF\/ITg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "469f2c4607e712f50e5247323154d0fa",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1490368141,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "153ms"
+}
+
+[2017-03-24 23:09:02][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "469f2c4607e712f50e5247323154d0fa",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-24 23:09:02 --> 1 2
+ERROR - 2017-03-24 23:09:02 --> 2 0
+[2017-03-24 23:09:02][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041kXvM70pbrNI1ygXN70tEQM70kXvMg",
+                "encrypt_data": "x1RFwmoSL4KvUnutqKd\/bhX4NX09Ax4egI4wxzK8ALAXjIMPZv+FSkeRox34mwaN923qCBSOXv0qrcdLxLfwEuHey7typx3upgaZvMDojhfrObX\/rJYzMpqU7mQIyIvQBPeKU5jVhu4BzCiCHdDAmK\/IdX8AFzMjIH6xWgBGEpeoQ1edQNhAvYF5qCDNNeFu8WXJbJJE7436rh7nsFBaYNemK8s8J0vPiyycqib6qT4YXirsnWt0ZwtGLfzfmBV9XWFtJj3RnMzJxQow4fThx7Js39U1XQqqj0HbEoBRkTsJ1vDrXarNxyR5qmUi8SyUptUEpzn44OpYcRrIdqKH9zAXsrtxDZ+nm7iNTqs3u+QIRcFFE7qGVE5UoE2WaAmohJmxA0rNsMrhMDB6plaQcztAXqhh+IoqJp1Jv4mvjXmBXqmklCO2xiQWoRWAszdWB11KHtdPU3lRpuV0ATfcOq6c+hG7ccjCM0++BL2a7o4YgdI88Iwch54XtApLMbHHQWUOLN3pJGbQgXkiRwmafg==",
+                "iv": "C2n77hGNAYQoTSqDXK\/6yw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "179552098c3be9075be3247d80164787",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1490368141,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "148ms"
+}
+
+[2017-03-24 23:09:02][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "179552098c3be9075be3247d80164787",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-03-24 23:09:24 --> 
+ERROR - 2017-03-24 23:09:25 --> 
+ERROR - 2017-03-24 23:09:31 --> 
+ERROR - 2017-03-24 23:09:38 --> 
+ERROR - 2017-03-24 23:10:15 --> 
+ERROR - 2017-03-24 23:10:28 --> 
+ERROR - 2017-03-24 23:12:04 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-03-24 23:42:10 --> 404 Page Not Found: NotFoundaction/index
+ERROR - 2017-03-24 23:42:19 --> 404 Page Not Found: NotFoundaction/index

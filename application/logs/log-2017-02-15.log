@@ -1,0 +1,66 @@
+ERROR - 2017-02-15 11:18:25 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-15 11:52:43 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-15 12:40:16 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-15 14:00:30 --> 404 Page Not Found: Manager/html
+ERROR - 2017-02-15 15:44:25 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-15 16:02:42 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-02-15 16:57:58 --> 1 2
+ERROR - 2017-02-15 16:57:58 --> 2 0
+[2017-02-15 16:57:58][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0214sDk61GeK9Q18Bgk61enNk614sDkW",
+                "encrypt_data": "ETgJzEMB5tyxyduxPTNyaAjbo9a8YTa3WIbesOqfzg2n+2kGqCHhLZ0G9O\/VdvbdLIQGoLrj09GrBF2ff3zqenELed6YIkcXYZVT10JZ1EY1UK0PSVpwQaywBg11m8KjwmsJaOk0gUNP9KyIUwFuhOROImOH+R5WDWnHWgdTjFyKiFoSX1M8aa9LMJy\/hB\/gZzLMbgZyKs7ApuFlFoVyomEnD0P5huUGy\/p9YRMV+fIzug1P4T6xxl2mtfcs90GvwuFzdNTTOzE3E2gJu\/iT52iaK1yaUkZRgBNNXLY5mk8aUieCzz14uhZ5U7hyzFhzqiYpjKLp5SGFE5paUcXkxyekc8s2axTUEfnr0Zqws8O1cyyw7YRSwEpoofcYu3DuCQKxNDLvQofVMl9J4h7XOdR9XNzzaa0oiyC6oituzohS3EuX0207s\/GogsYKhNQ+YODiy\/WBK+BMSTq1MixO3\/PJuoEjpPm5rfAY8tb+CzM=",
+                "iv": "gBRGkUOgwqrfQc1q9wZsrA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "06c197f7136490ed9f065434a3200f75",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1487149078,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "96ms"
+}
+
+[2017-02-15 16:57:58][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "06c197f7136490ed9f065434a3200f75",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-15 17:40:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-02-15 18:22:35 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-15 18:22:45 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-15 18:22:45 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-15 18:22:45 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-15 18:22:45 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-15 23:43:36 --> 404 Page Not Found: Cache/global

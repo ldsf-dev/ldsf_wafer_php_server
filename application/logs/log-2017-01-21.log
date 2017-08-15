@@ -1,0 +1,460 @@
+ERROR - 2017-01-21 00:06:11 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-01-21 00:16:46 --> 404 Page Not Found: Archiver/index
+ERROR - 2017-01-21 00:16:46 --> 404 Page Not Found: Whir_system/login.aspx
+ERROR - 2017-01-21 01:02:21 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-01-21 01:17:43 --> 404 Page Not Found: Test_404_page/index
+ERROR - 2017-01-21 01:43:14 --> 404 Page Not Found: Was/main.html
+ERROR - 2017-01-21 01:44:15 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-21 01:44:27 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-21 03:06:45 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-21 03:06:45 --> 404 Page Not Found: Tools/rss.aspx
+ERROR - 2017-01-21 03:13:09 --> 404 Page Not Found: Siteserver/upgrade
+ERROR - 2017-01-21 03:13:09 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-21 03:13:19 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-21 03:13:19 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-21 03:13:19 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-21 03:13:19 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-21 03:13:30 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-21 03:13:34 --> 404 Page Not Found: Plug/publish
+ERROR - 2017-01-21 03:25:09 --> 404 Page Not Found: Helpnew/faq
+ERROR - 2017-01-21 03:26:39 --> 404 Page Not Found: Forum/index
+ERROR - 2017-01-21 03:26:51 --> 404 Page Not Found: Forum/index
+ERROR - 2017-01-21 03:29:22 --> 1 2
+ERROR - 2017-01-21 03:29:22 --> 2 0
+[2017-01-21 03:29:22][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0518G1b21hcc1L1fCzb21Dlob218G1bS",
+                "encrypt_data": "sb3SIGz8s4AneVoaAVt6kpt8M1o\/VTSyJL4xxWPA0lQ9hzENVf00XrXqNnoAUr6B1mFGU8B0yMSfzu6wi\/IQSrgZcS1ZPdchSNWqdpPMsaUkBQl\/4IXnZu1lyq7Imv\/qIjG1E99LQPJJ9mKUaV6AT1KR+4hvZarjuJT5XUhygxXjTFyPnR3h164Ugkx7j+A2Dt2uno8y3lDwT+fxSBGZo2aHzJ+hcYy9T3xpBllpCffJ0nPf3iKkM2I34ecrKxXWxjer5wqnXhj+FiJ8Y6Cw6pyQwbRGSekvlflXMdlTe3y3Y4GhG\/wn5hjaCUSClXDl2YUGthK7JFDfseVVVR41A0IhAExWtrL6SFZ5EzyGMB85KZaPD5Tt+kQ7Wm57R\/jp80OLbX+o6NW76CpVFVQEyVswQEMy+bmX7++d1PPU46zOJ\/74otnsJPVRn2vNbFOwqhtpk43D4L2rZQnG6JBF3z8LBj0Dp4UrezdzJq3NDOU=",
+                "iv": "YC8Fey0WiB5q2ZMRkKXUUg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "13912ea2463864231bb44ae150a13017",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484940562,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "84ms"
+}
+
+[2017-01-21 03:29:22][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "13912ea2463864231bb44ae150a13017",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-21 03:47:46 --> 404 Page Not Found: Feedasp/index
+ERROR - 2017-01-21 03:47:56 --> 404 Page Not Found: Ntalker/lawfirm.aspx
+ERROR - 2017-01-21 03:47:56 --> 404 Page Not Found: Feedasp/index
+ERROR - 2017-01-21 03:49:23 --> notify start
+ERROR - 2017-01-21 03:49:23 --> notify end, id:20170121034909284063 wx_id:4002512001201701217030819323
+ERROR - 2017-01-21 03:57:56 --> Severity: Warning --> Missing argument 2 for Good::ordergoodinfo() /data/release/php-weapp-demo/application/controllers/Good.php 27
+ERROR - 2017-01-21 03:57:56 --> Severity: Notice --> Undefined variable: goodspecseq /data/release/php-weapp-demo/application/controllers/Good.php 31
+ERROR - 2017-01-21 03:57:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select good_spec_name,good_spec_price from t_good_spec where good_id = 1001002 and good_spec_seq = 
+ERROR - 2017-01-21 03:58:47 --> notify start
+ERROR - 2017-01-21 03:58:47 --> notify end, id:20170121035839370514 wx_id:4002512001201701217028968204
+ERROR - 2017-01-21 04:00:26 --> notify start
+ERROR - 2017-01-21 04:00:26 --> notify end, id:20170121035957081759 wx_id:4002512001201701217028946058
+ERROR - 2017-01-21 04:04:26 --> 404 Page Not Found: Readmehtml/index
+ERROR - 2017-01-21 04:04:35 --> 404 Page Not Found: Forums/list.page
+ERROR - 2017-01-21 04:04:35 --> 404 Page Not Found: Whir_system/module
+ERROR - 2017-01-21 04:04:36 --> 404 Page Not Found: Indexcgi/index
+ERROR - 2017-01-21 04:04:36 --> 404 Page Not Found: Readmehtml/index
+ERROR - 2017-01-21 04:04:46 --> 404 Page Not Found: Indexcgi/index
+ERROR - 2017-01-21 04:07:33 --> 404 Page Not Found: Help/index
+ERROR - 2017-01-21 04:07:33 --> 404 Page Not Found: Weblog/index
+ERROR - 2017-01-21 04:07:42 --> 404 Page Not Found: DeptWebsiteActiondo/index
+ERROR - 2017-01-21 04:07:42 --> 404 Page Not Found: Weblog/index
+ERROR - 2017-01-21 04:07:42 --> 404 Page Not Found: Help/user
+ERROR - 2017-01-21 04:07:42 --> 404 Page Not Found: Help/index
+ERROR - 2017-01-21 04:07:42 --> 404 Page Not Found: Examples/readonly.html
+ERROR - 2017-01-21 04:36:56 --> 404 Page Not Found: Console/include
+ERROR - 2017-01-21 04:36:56 --> 404 Page Not Found: Datacenter/downloadApp
+ERROR - 2017-01-21 04:37:08 --> 404 Page Not Found: Datacenter/downloadApp
+ERROR - 2017-01-21 04:39:01 --> 404 Page Not Found: Examples/file-manager.html
+ERROR - 2017-01-21 04:39:11 --> 404 Page Not Found: Wcm/index
+ERROR - 2017-01-21 04:39:11 --> 404 Page Not Found: Searchhtml/index
+ERROR - 2017-01-21 04:55:57 --> 1 2
+ERROR - 2017-01-21 04:55:57 --> 2 0
+[2017-01-21 04:55:57][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0011LtX40FrYqH1MRRT40saNX401LtX7",
+                "encrypt_data": "EzjyfVHh\/IFCgRQL66nOq\/tdnYhlfcDn+D5HjkrsxXc3gPaUai+4fO+d2OTw2KsoccfF12BE5dKkTwurx0xuTBN0l+VCsZUoDZvECUxD52mA5QJ\/CR6xMgT22MY\/8iaZKhntHVLpB8aDIZmOX2+rpjVjN0HOoXjtjh1HZhYvdczi1jwSUxnD7FOFfBk4JZ3uc6aYlQUoG7QVJBGRKDu+2SlSDD+NP51W6uEUZpmuWaGAXVShCCerlN6rr181cuIqpzfP67KQYC5F06O7ejR860naPh2MLo+8B7SGaWXaPrpChf4c3gjKCUI09RALJvqY4O+IuC+f6w3INXqQMGhvXkInjSVL7hFAkr2Pc3ZMWwkrwyKEJ124imYsfVGqFh9DSJtSsTZaIY7fpcVBPvFYBsnDhARhQwlT0przy8E+fa11FiuoEA5DhnYBq58JjCsMo0FEyKU3B5xo5fbJ3p7hZ8KWEju\/\/0fd5EQyaGjCsa0=",
+                "iv": "e+KHGeDufnP8GC\/Ad2QNsQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "53d5cc2d3fc7bcfaff640dd14bb8e839",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484945757,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "81ms"
+}
+
+[2017-01-21 04:55:57][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "53d5cc2d3fc7bcfaff640dd14bb8e839",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-21 04:56:16 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-21 04:56:28 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-21 05:32:14 --> 404 Page Not Found: Admin/login.aspx
+ERROR - 2017-01-21 05:32:14 --> 404 Page Not Found: Ckeditor/ckfinder
+ERROR - 2017-01-21 05:32:14 --> 404 Page Not Found: Public/about.html
+ERROR - 2017-01-21 05:32:23 --> 404 Page Not Found: System/Login.aspx
+ERROR - 2017-01-21 05:32:23 --> 404 Page Not Found: Public/about.html
+ERROR - 2017-01-21 05:32:23 --> 404 Page Not Found: Ycportal/js
+ERROR - 2017-01-21 05:32:23 --> 404 Page Not Found: Admin/inc
+ERROR - 2017-01-21 05:32:23 --> 404 Page Not Found: Admin/login.aspx
+ERROR - 2017-01-21 05:32:23 --> 404 Page Not Found: Ckeditor/ckfinder
+ERROR - 2017-01-21 06:02:25 --> 404 Page Not Found: Helpnew/faq
+ERROR - 2017-01-21 07:45:59 --> 404 Page Not Found: Readmehtml/index
+ERROR - 2017-01-21 07:53:06 --> 404 Page Not Found: Help/index
+ERROR - 2017-01-21 07:57:15 --> 404 Page Not Found: Whir_system/module
+ERROR - 2017-01-21 08:04:46 --> 404 Page Not Found: DeptWebsiteActiondo/index
+ERROR - 2017-01-21 09:10:40 --> 404 Page Not Found: Rssaspx/index
+ERROR - 2017-01-21 09:10:40 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-21 09:10:40 --> 404 Page Not Found: Jcms/index_jcms.jsp
+ERROR - 2017-01-21 09:10:40 --> 404 Page Not Found: Install/index
+ERROR - 2017-01-21 09:10:40 --> 404 Page Not Found: Help/en
+ERROR - 2017-01-21 09:11:03 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-21 09:13:23 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-21 09:39:11 --> 404 Page Not Found: Admin/inc
+ERROR - 2017-01-21 10:02:10 --> 404 Page Not Found: Inc/Templates
+ERROR - 2017-01-21 10:02:19 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-21 10:02:19 --> 404 Page Not Found: App/login.jsp
+ERROR - 2017-01-21 10:02:20 --> 404 Page Not Found: Inc/Templates
+ERROR - 2017-01-21 10:02:32 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-21 10:07:14 --> 404 Page Not Found: Admin/Login.aspx
+ERROR - 2017-01-21 10:07:14 --> 404 Page Not Found: Blog/index
+ERROR - 2017-01-21 10:07:15 --> 404 Page Not Found: Ckfinder/ckfinder.html
+ERROR - 2017-01-21 10:07:15 --> 404 Page Not Found: Login/Jeecms.do
+ERROR - 2017-01-21 10:07:24 --> 404 Page Not Found: Ckfinder/ckfinder.html
+ERROR - 2017-01-21 10:07:24 --> 404 Page Not Found: Ids/admin
+ERROR - 2017-01-21 10:07:24 --> 404 Page Not Found: Login/Jeecms.do
+ERROR - 2017-01-21 10:07:24 --> 404 Page Not Found: Blog/index
+ERROR - 2017-01-21 10:07:24 --> 404 Page Not Found: System/skins
+ERROR - 2017-01-21 10:07:24 --> 404 Page Not Found: Was5/web
+ERROR - 2017-01-21 10:12:35 --> 404 Page Not Found: Bbs/index
+ERROR - 2017-01-21 10:12:44 --> 404 Page Not Found: Bbs/index
+ERROR - 2017-01-21 10:12:45 --> 404 Page Not Found: Examples/index.html
+ERROR - 2017-01-21 10:12:45 --> 404 Page Not Found: Siteserver/login.aspx
+ERROR - 2017-01-21 10:12:45 --> 404 Page Not Found: Nobody/mobile.htm
+ERROR - 2017-01-21 10:13:00 --> 404 Page Not Found: Examples/index.html
+ERROR - 2017-01-21 11:59:45 --> 404 Page Not Found: DeptWebsiteActiondo/index
+ERROR - 2017-01-21 13:23:02 --> 404 Page Not Found: Nobody/mobile.htm
+ERROR - 2017-01-21 13:23:11 --> 404 Page Not Found: Nobody/mobile.htm
+ERROR - 2017-01-21 13:23:11 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-21 13:57:30 --> 404 Page Not Found: Login/Jeecms.do
+ERROR - 2017-01-21 13:57:30 --> 404 Page Not Found: Inc/Templates
+ERROR - 2017-01-21 14:24:54 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-01-21 15:56:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-21 16:08:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-21 16:10:19 --> 1 2
+ERROR - 2017-01-21 16:10:19 --> 2 0
+[2017-01-21 16:10:19][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 16:10:23 --> 1 2
+ERROR - 2017-01-21 16:10:23 --> 2 0
+[2017-01-21 16:10:23][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 16:11:06 --> 1 2
+ERROR - 2017-01-21 16:11:06 --> 2 0
+[2017-01-21 16:11:06][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 16:11:38 --> 1 2
+ERROR - 2017-01-21 16:11:38 --> 2 0
+[2017-01-21 16:11:38][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 16:11:50 --> 1 2
+ERROR - 2017-01-21 16:11:50 --> 2 0
+[2017-01-21 16:11:50][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 16:12:01 --> 1 2
+ERROR - 2017-01-21 16:12:01 --> 2 0
+[2017-01-21 16:12:01][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 16:43:32 --> 1 2
+ERROR - 2017-01-21 16:43:32 --> 2 0
+[2017-01-21 16:43:32][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011hMcpg1yehyx0mSBlg121ipg1hMcpl",
+                "encrypt_data": "lUislU7tIehS2dARs5CrC++l4Wb1\/gumfPiDNsZ2ni3CLoItboPzDRgcqSZmEz98iZHSfyQhqfnqz78oTY0vZu6v6V1vfUicRHyUnXRAxyXqdvay+LVR6AF2nqvH8kv63eJxXLMJ51d6D0WcY5QxGZux9d0L\/Hy8Yk7XcFfkVrv2\/W8ViuB1wVlo+tx9EkUlUUwPhsUp9m84a\/mpyoj1qjeG3gr+QcQ9YQNhVHvkPzhThJCiYOyffuSfsYrbrd3gP7b11mUaAN2PGuqLkkLZnkJVIUqPMivnmye1Mfx9\/J6dGlADOYIbZXe0QTCLnnbBbVN6rO\/AKk57WePJoLd4KG14yek3si7NAYfsWg62poK16mB65H6bGcM0QL8E1w2MZppBi39\/HTjGIwI6+i5aJQzBaMoU5cGIutBqt5zmVqyY1gsesaWpBEWvsa0TYoiJ0tT9Pgk\/VqynYj7OoFaF4Mxe7h99KQuAgVhDhAqgeCo=",
+                "iv": "EUTPX7kfpgKY8VJTIULDOA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "306eb3e37d502989ad847f7489517918",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484988212,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "104ms"
+}
+
+[2017-01-21 16:43:32][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "306eb3e37d502989ad847f7489517918",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-21 16:43:32 --> 1 2
+ERROR - 2017-01-21 16:43:32 --> 2 0
+[2017-01-21 16:43:32][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011tX9ug2OLjZD0KMysg2j2aug2tX9u4",
+                "encrypt_data": "Ubz82P3kuah2bwNm+H1U2r\/kAReSUvRjLbJ8aST\/CHxwYcme8LrNUonUdSZCHxAWD6WQk6Qy3tKoWNHd91BBU32tqTm93\/3WqJVTS2SQ8EkC2NyszhovRj5ATgnfHRFxmUUIfG8H1R\/StfxYw\/sxgS2JTc5ztHUjJv7qjUR0UjS9Nm45GVs7tgdHkfD2ZJzym86nZDQUK+279AacY8zniTvK0PIlAXH3UsRv8LzKUlJvbs\/4wOQWmDakhyfcrHT27m+42cDNe4L2+q8aL07Gixwz23VwDEjE7x323t3hZGdq0peImGEKMNy2VP7QGXUWb1p7e86MAaW79Lj3FFdMCZ8eX\/3cEDlfW6NIfixC6jKWPzyFyizWAcTti8AN\/4\/fVtHAjf2ycS+ihT2w4J\/jxUBu6Y4JWpg90VXNG6zbGHvfHNdLxV4CXY8\/BQ03wBFjCqHyyVUhBKajMerlkN2dwXgl\/TraV364Go0vqkmN+do=",
+                "iv": "l4NwI\/huG0iJBhcjCW6NSw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "4b2b47ed3eab69224754bdd41c0a982b",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484988212,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "111ms"
+}
+
+[2017-01-21 16:43:32][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "4b2b47ed3eab69224754bdd41c0a982b",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-21 17:08:19 --> $time_start:1484989696177
+ERROR - 2017-01-21 17:08:19 --> $time_expire:1484991496177
+ERROR - 2017-01-21 17:14:05 --> $time_start:1484990042074
+ERROR - 2017-01-21 17:14:05 --> $time_expire:1484991842074
+ERROR - 2017-01-21 17:14:58 --> $time_start:49027061916462
+ERROR - 2017-01-21 17:14:58 --> $time_expire:49027071012462
+ERROR - 2017-01-21 17:22:55 --> Severity: Warning --> Cannot modify header information - headers already sent by (output started at /data/release/php-weapp-demo/application/controllers/Takeorder.php:96) /data/release/php-weapp-demo/system/core/Common.php 573
+ERROR - 2017-01-21 17:22:55 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Takeorder.php 96
+ERROR - 2017-01-21 17:29:31 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-01-21 17:29:41 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-01-21 17:48:38 --> notify start
+ERROR - 2017-01-21 17:48:38 --> notify end, id:20170121174800035864 wx_id:4002512001201701217095351789
+ERROR - 2017-01-21 17:50:00 --> notify start
+ERROR - 2017-01-21 17:50:00 --> notify end, id:20170121174950123064 wx_id:4002512001201701217095450631
+ERROR - 2017-01-21 18:08:44 --> 404 Page Not Found: Inc/Templates
+ERROR - 2017-01-21 18:18:40 --> notify start
+ERROR - 2017-01-21 18:18:40 --> notify end, id:20170121181825981432 wx_id:4002512001201701217096271699
+ERROR - 2017-01-21 19:11:31 --> 1 2
+ERROR - 2017-01-21 19:11:31 --> 2 0
+[2017-01-21 19:11:31][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 19:11:40 --> 1 2
+ERROR - 2017-01-21 19:11:40 --> 2 0
+[2017-01-21 19:11:40][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_CHECK_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Id，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 19:41:08 --> 1 2
+ERROR - 2017-01-21 19:41:08 --> 2 0
+[2017-01-21 19:41:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-21 21:55:37 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-21 23:50:46 --> 404 Page Not Found: Maincgi/index
+ERROR - 2017-01-21 23:50:47 --> 404 Page Not Found: Infocgi/index
+ERROR - 2017-01-21 23:50:49 --> 404 Page Not Found: Indexcgi/index
+ERROR - 2017-01-21 23:50:53 --> 404 Page Not Found: Administratorcgi/index
+ERROR - 2017-01-21 23:50:54 --> 404 Page Not Found: Cgi-bin/report.cgi
+ERROR - 2017-01-21 23:50:56 --> 404 Page Not Found: Cgi-bin/webmap.cgi
+ERROR - 2017-01-21 23:50:56 --> 404 Page Not Found: Cgi-bin/whois.cgi
+ERROR - 2017-01-21 23:50:57 --> 404 Page Not Found: Cgi-sys/helpdesk.cgi
+ERROR - 2017-01-21 23:51:01 --> 404 Page Not Found: Cgi-bin/register.cgi
+ERROR - 2017-01-21 23:51:04 --> 404 Page Not Found: Cgi-bin/download.cgi
+ERROR - 2017-01-21 23:51:06 --> 404 Page Not Found: Cgi-bin/shop.cgi
+ERROR - 2017-01-21 23:51:08 --> 404 Page Not Found: Cgi-sys/signup.cgi
+ERROR - 2017-01-21 23:51:10 --> 404 Page Not Found: Cgi-bin/profile.cgi
+ERROR - 2017-01-21 23:51:13 --> 404 Page Not Found: Cgi-bin/about_us.cgi
+ERROR - 2017-01-21 23:51:15 --> 404 Page Not Found: Cgi-bin/php.fcgi
+ERROR - 2017-01-21 23:51:21 --> 404 Page Not Found: Cgi-bin/calendar.cgi
+ERROR - 2017-01-21 23:51:22 --> 404 Page Not Found: Cgi-bin/download.cgi
+ERROR - 2017-01-21 23:51:22 --> 404 Page Not Found: Cgi-bin/light_board.cgi
+ERROR - 2017-01-21 23:51:24 --> 404 Page Not Found: Cgi-bin/main.cgi
+ERROR - 2017-01-21 23:51:25 --> 404 Page Not Found: Cgi-bin/search.cgi
+ERROR - 2017-01-21 23:51:25 --> 404 Page Not Found: Cgi-bin/test.cgi
+ERROR - 2017-01-21 23:51:31 --> 404 Page Not Found: Cgi-bin/file_up.cgi
+ERROR - 2017-01-21 23:51:36 --> 404 Page Not Found: Cgi-bin/concept.cgi
+ERROR - 2017-01-21 23:51:39 --> 404 Page Not Found: Cgi-bin/query.cgi
+ERROR - 2017-01-21 23:51:40 --> 404 Page Not Found: Cgi-bin/counter.cgi
+ERROR - 2017-01-21 23:51:45 --> 404 Page Not Found: Cgi-bin/backup.cgi
+ERROR - 2017-01-21 23:51:46 --> 404 Page Not Found: Cgi-bin/firewall.cgi
+ERROR - 2017-01-21 23:51:47 --> 404 Page Not Found: Cgi-bin/index.cgi
+ERROR - 2017-01-21 23:51:48 --> 404 Page Not Found: Cgi-bin/index2.cgi
+ERROR - 2017-01-21 23:51:48 --> 404 Page Not Found: Cgi-bin/reboot.cgi
+ERROR - 2017-01-21 23:51:49 --> 404 Page Not Found: Cgi-bin/printenv
+ERROR - 2017-01-21 23:51:50 --> 404 Page Not Found: Cgi-bin/test-cgi
+ERROR - 2017-01-21 23:51:51 --> 404 Page Not Found: Cgi-bin/formmail.cgi
+ERROR - 2017-01-21 23:51:52 --> 404 Page Not Found: Cgi-bin/Count.cgi
+ERROR - 2017-01-21 23:51:57 --> 404 Page Not Found: Cgi-bin/supply.cgi
+ERROR - 2017-01-21 23:51:58 --> 404 Page Not Found: Cgi-bin/test.sh
+ERROR - 2017-01-21 23:51:58 --> 404 Page Not Found: Cgi-bin/upload.cgi
+ERROR - 2017-01-21 23:52:00 --> 404 Page Not Found: Cgi-bin/welcome.cgi
+ERROR - 2017-01-21 23:52:01 --> 404 Page Not Found: Cgi-bin/status.cgi
+ERROR - 2017-01-21 23:52:02 --> 404 Page Not Found: Cgi-bin/uptime.cgi
+ERROR - 2017-01-21 23:52:03 --> 404 Page Not Found: Cgi-bin/test
+ERROR - 2017-01-21 23:52:09 --> 404 Page Not Found: Cgi-bin/defaultwebpage.cgi
+ERROR - 2017-01-21 23:52:10 --> 404 Page Not Found: Cgi-bin/forum.cgi
+ERROR - 2017-01-21 23:52:19 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-01-21 23:52:19 --> 404 Page Not Found: Cgi-bin/php4
+ERROR - 2017-01-21 23:52:21 --> 404 Page Not Found: Cgi-bin/php5
+ERROR - 2017-01-21 23:52:22 --> 404 Page Not Found: Cgi-bin/php5-cli
+ERROR - 2017-01-21 23:52:23 --> 404 Page Not Found: Cgi-sys/defaultwebpage.cgi
+ERROR - 2017-01-21 23:52:25 --> 404 Page Not Found: Cgi-sys/entropysearch.cgi
+ERROR - 2017-01-21 23:52:25 --> 404 Page Not Found: Cgi-sys/php5
+ERROR - 2017-01-21 23:52:27 --> 404 Page Not Found: Phppath/cgi_wrapper
+ERROR - 2017-01-21 23:52:28 --> 404 Page Not Found: Phppath/php

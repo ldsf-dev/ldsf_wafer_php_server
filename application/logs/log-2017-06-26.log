@@ -1,0 +1,127 @@
+ERROR - 2017-06-26 03:19:07 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-06-26 03:19:07 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-06-26 03:19:07 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-06-26 03:19:08 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-06-26 03:19:08 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-06-26 03:19:08 --> 404 Page Not Found: Loginaction/index
+ERROR - 2017-06-26 08:01:12 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-06-26 09:30:59 --> 1 2
+ERROR - 2017-06-26 09:30:59 --> 2 0
+[2017-06-26 09:30:59][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011PDMnw01t6ih1NN7ow0bjQnw0PDMnA",
+                "encrypt_data": "OQpf5Ph0jdaP\/JdcLedL2JxY161JZX5fzRgg5zm6bClpCQXaIDRv1Ct1Q\/oBzmYxNxMukdlqAf8ytts6oyC2ZLlE3O7PpmggI\/H3eosM1QbOjAwvBMP2e2+uFZdplCW8qbrPzDzvOsNFkvFH+rYSF2PvNroIdNrcXTZYu8gSgygmF4VPYNJao6d7Ua2AY\/SsjIlaSIKZa7EaM4gc5duVTmSPT2OhIXgP\/khnEaqC3t1QJRYD4DhARKQcZ0Xa1xKVmMuMrKMp8rFPzNMvnjrFjO5+xTOcbTIRudVbVfl2RSAD2Rwx6oHCZrmfXdYJcCHxSZQ444+X9CfW86xhFkd21UsPy5WT51B9jLqoQCDcSVrytlPwp5UtiEqoSQhFO09FhLCMrQSiOzD1vbup2WVFD0LyQMwxdJo8RZPvfpILTDlb+9w3APUKAVBFwmD3ZcOIl0qp7F+EKAdznR67FqyhCjgHic4ioOCoQbavcX4fOaVstYx2Qa76rpCkPuFJlyNH09TVqNds6lWEVcMwmyzJtg==",
+                "iv": "euB6z6clGdfq6TMto8Yi9w=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "a5be71dec47ff3fa45dda20f89dc1a54",
+            "skey": "eff92746ae7e9451767eb573df75d6e3",
+            "user_info": {
+                "openId": "oPicY0XTR20mmCv8kkGpf6UC0dTs",
+                "nickName": "倪",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "West",
+                "province": "Beijing",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eottzJibUvjql1AkMYBejLmHLsX9px3ibhUtbs4mNSu2EKtmfW1HMJfIMibYCTaib50xyC3NDII2sK7hg\/0",
+                "unionId": "oU11PxGkQRH7zB2FC7yBO_9xqrSc",
+                "watermark": {
+                    "timestamp": 1498440658,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "303ms"
+}
+
+[2017-06-26 09:30:59][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "a5be71dec47ff3fa45dda20f89dc1a54",
+        "skey": "eff92746ae7e9451767eb573df75d6e3",
+        "openid": "oPicY0XTR20mmCv8kkGpf6UC0dTs",
+        "unionid": "oU11PxGkQRH7zB2FC7yBO_9xqrSc"
+    }
+}
+
+ERROR - 2017-06-26 09:30:59 --> 1 2
+ERROR - 2017-06-26 09:30:59 --> 2 0
+[2017-06-26 09:30:59][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081uFcpl0kPQLn1snOpl0a94pl0uFcp5",
+                "encrypt_data": "j41bsGPEnnbj+2Sknv1BFaDfMmN1Q3DXuPmnrihSOnICcYtLnLs36Gql0GxCdzsWgmPuLwE2JA7v4ZnfyO6ffS20HZ+b7hyRmeFFpw0WwpGrdN+OAiDAS4o6w6nlOmZRxlbEaBYY0hlLvRkSqYW87kymYIoWw2GK1cBOd21epB5QcwCGg\/t34GHkv5r6aXLSrw\/H3IZKJ3BJxsO6WPIEzL+8sxDf8hh0+3ejmTyVMqaweFGIqfo0t36NpBTOxI1FHlRZ0Anrh7ezlzNSmatKMsKMdh8RD+DuD8BJZuvXNkKlesm9SAFW3AqnhQqdox\/\/aPjjeTh\/492Rk9yQchuXJcFv5brakaAFfEnNEMJJepRQqbFzQ0eGvEyZUTeRKM1oOHtydzx0vwbY+bFfnEtwWkC8aiFWXgncO0lT5STIOflgg5ZbcnLXBTZevSsIcydt4kWU0Ajcq5nmXAvtkg7foSSkvQerFszps0G94b+0GFEHuP6hiJTCn62XriN66TpRk3b6\/785\/6tRX2cLZ2aYHA==",
+                "iv": "ArJ5kFNHFbqD\/CIFYXErvQ=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "a5be71dec47ff3fa45dda20f89dc1a54",
+            "skey": "85d1c36126e3b895658b5122e70bb33d",
+            "user_info": {
+                "openId": "oPicY0XTR20mmCv8kkGpf6UC0dTs",
+                "nickName": "倪",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "West",
+                "province": "Beijing",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eottzJibUvjql1AkMYBejLmHLsX9px3ibhUtbs4mNSu2EKtmfW1HMJfIMibYCTaib50xyC3NDII2sK7hg\/0",
+                "unionId": "oU11PxGkQRH7zB2FC7yBO_9xqrSc",
+                "watermark": {
+                    "timestamp": 1498440658,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "263ms"
+}
+
+[2017-06-26 09:30:59][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "a5be71dec47ff3fa45dda20f89dc1a54",
+        "skey": "85d1c36126e3b895658b5122e70bb33d",
+        "openid": "oPicY0XTR20mmCv8kkGpf6UC0dTs",
+        "unionid": "oU11PxGkQRH7zB2FC7yBO_9xqrSc"
+    }
+}
+
+LDSF - 2017-06-26 09:30:59 --> >>> User->addressbookisempty()
+LDSF - 2017-06-26 09:31:00 --> >>> User->loginrecord()
+LDSF - 2017-06-26 09:31:00 --> openid=oPicY0XTR20mmCv8kkGpf6UC0dTs
+LDSF - 2017-06-26 09:31:01 --> openid=oPicY0XTR20mmCv8kkGpf6UC0dTs
+ERROR - 2017-06-26 09:48:30 --> 404 Page Not Found: A2billing/customer
+ERROR - 2017-06-26 10:08:00 --> 404 Page Not Found: Cache/global
+ERROR - 2017-06-26 14:35:28 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-06-26 14:35:32 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2017-06-26 17:13:32 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-06-26 17:13:33 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-06-26 18:03:48 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-06-26 20:52:03 --> 404 Page Not Found: A2billing/customer

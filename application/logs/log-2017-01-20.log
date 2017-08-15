@@ -1,0 +1,538 @@
+ERROR - 2017-01-20 00:03:54 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-01-20 00:04:03 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-01-20 00:04:52 --> Severity: Notice --> Undefined index: HTTP_PARAMBODY /data/release/php-weapp-demo/application/controllers/Takeorder.php 25
+ERROR - 2017-01-20 00:04:52 --> Severity: Notice --> Undefined index: HTTP_PARAMAMOUNT /data/release/php-weapp-demo/application/controllers/Takeorder.php 30
+ERROR - 2017-01-20 00:04:52 --> Severity: Notice --> Undefined index: HTTP_PARAMOPENID /data/release/php-weapp-demo/application/controllers/Takeorder.php 38
+ERROR - 2017-01-20 01:00:25 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-20 01:00:34 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-20 01:41:04 --> notify accessed
+ERROR - 2017-01-20 03:04:31 --> notify accessed
+ERROR - 2017-01-20 03:42:34 --> Severity: Warning --> Missing argument 2 for Good::ordergoodinfo() /data/release/php-weapp-demo/application/controllers/Good.php 27
+ERROR - 2017-01-20 03:42:34 --> Severity: Notice --> Undefined variable: goodspecseq /data/release/php-weapp-demo/application/controllers/Good.php 31
+ERROR - 2017-01-20 03:42:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 - Invalid query: select good_spec_name,good_spec_price from t_good_spec where good_id = 1001001 and good_spec_seq = 
+ERROR - 2017-01-20 03:43:15 --> 1 2
+ERROR - 2017-01-20 03:43:15 --> 2 0
+[2017-01-20 03:43:15][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021XQ4nU0c6ioV1cgwmU0oKdnU0XQ4nF",
+                "encrypt_data": "knc3Ml1XQb5cJYGq0TmpDn1ddBzSCN6X4Q0mSzdyNPENLxCZNVZaLY4ZAy5kuZF\/HzGpxKujU1FhEvMyYp42RHAWpn+2p1nVxyyt+n4rrCah6q1vkNZyQBcHvH2fcPzUU5NLw6P3hdTJO2ATuCfc0Mzd+ImokVZGRZP\/3K0ZTz\/\/UQ\/8Tb2li+nZI5dvyF5So\/CPHb5Hl1f2Nv74pcQGrYe4kgp47UJTgkN1Vl\/kum27CsfCTk0tTasMIEXJdOXFX+KCHynoHMa2AHthiVrEQ0b7syE6ImuX8U1brR\/SHwnORhEEQDUArd3m8C7YlX0fIwvtZasw\/uthRcE4qA3XBy7BY1eE33i6hX+oLUnmtLtZ1SZofWCiceR0g0r6X4s7KIAEjl1ck+hTjlmqdUvhhkNz1CoZKwcTVZr7WBt6nEOA\/waQZyJKscpzemNc5yHcLavp\/hdXFm9MoGisMMU8JQ==",
+                "iv": "9vvEU2XiKERkXpWhCynzvA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d05e8a5d1e21733666c6fb59fa29218",
+            "skey": "dd00e2b46e38e511429f8ae9b2e2e8fc",
+            "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "watermark": {
+                    "timestamp": 1484854995,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "87ms"
+}
+
+[2017-01-20 03:43:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d05e8a5d1e21733666c6fb59fa29218",
+        "skey": "dd00e2b46e38e511429f8ae9b2e2e8fc",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI"
+    }
+}
+
+ERROR - 2017-01-20 05:25:31 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2017-01-20 05:34:31 --> 404 Page Not Found: Manager/html
+ERROR - 2017-01-20 09:20:19 --> 404 Page Not Found: PhpMyAdmin/index
+ERROR - 2017-01-20 12:12:10 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-20 15:58:57 --> 1 2
+ERROR - 2017-01-20 15:58:57 --> 2 0
+[2017-01-20 15:58:57][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041IxYYj1xDeYi0gIJ1k1vcZYj1IxYY7",
+                "encrypt_data": "swXTZo+\/F\/zk\/OtqVERnyTY2SDOsauoFF3Wi9uq4ghOL6psBRESXgjJJZj6BJwI1cluk1BiMyXqWYHN0mHXsTCgW2H4JGXu+kod6xwAfFwphMUFt+5X+qVLLI6dMshx+8CVBMVgbv50y5Znea+hpuRth5ExLtXWZb78sItrlaKgYK+TMXLNP32xd36Vznl5viAP4tAmpUnnTPaFJrrP2v0WYDhIuH4d0MjvY23LzjRucdjaDpYeR5g5rGxXl5fLvZZ9l\/OfCeKJZsjGH\/K3fU3lF37bSN+QOERxv7Aui35hvo4IeA9cSf+lW8hy4GdFONjKuZm9wjb9B7BpGSAekJOz34WzrzVRwxNH6rp9QoGID0oZ\/sLG7HsZph9aaAyfhdCffRNoa\/PYMTdq50POV4QfTqXPX911ffYU5+t3C6HZu7o8360+Q2SVxCJL4eSFUD8z4IVLnozPrG7df3a6pQK59UrlsDjkN4u39KoQ42Mw=",
+                "iv": "gxlc\/OD\/ixWsqhL042EGDw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "8db200d0d9030e4d9261c747690b2487",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484899137,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "90ms"
+}
+
+[2017-01-20 15:58:57][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "8db200d0d9030e4d9261c747690b2487",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-20 17:27:34 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-20 17:35:52 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-20 17:35:53 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-20 18:01:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-20 18:44:53 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Takeorder.php 117
+ERROR - 2017-01-20 19:30:41 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-01-20 19:30:41 --> 404 Page Not Found: Test_404_page/index
+ERROR - 2017-01-20 19:30:41 --> 404 Page Not Found: Issmall/index
+ERROR - 2017-01-20 19:30:43 --> 404 Page Not Found: Administrator/manifests
+ERROR - 2017-01-20 19:30:43 --> 404 Page Not Found: Docscss/index
+ERROR - 2017-01-20 19:30:43 --> 404 Page Not Found: Phpmyadmin/themes
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Phpmyadmin/favicon.ico
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Phpmyadmin/docs.css
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Tpl/user
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Images/login
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Images/login
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Tpl/login
+ERROR - 2017-01-20 19:30:44 --> 404 Page Not Found: Images/login
+ERROR - 2017-01-20 19:30:45 --> 404 Page Not Found: Fckeditor/fckconfig.js
+ERROR - 2017-01-20 19:30:45 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2017-01-20 19:30:45 --> 404 Page Not Found: Fckeditor/license.txt
+ERROR - 2017-01-20 19:30:45 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2017-01-20 19:30:46 --> 404 Page Not Found: Fckeditor/fckeditor.js
+ERROR - 2017-01-20 19:30:46 --> 404 Page Not Found: FCK/editor
+ERROR - 2017-01-20 19:30:46 --> 404 Page Not Found: FCK/fckeditor.js
+ERROR - 2017-01-20 19:30:46 --> 404 Page Not Found: Fckeditorjs/index
+ERROR - 2017-01-20 19:30:46 --> 404 Page Not Found: Editor/js
+ERROR - 2017-01-20 19:30:46 --> 404 Page Not Found: New_gb/help
+ERROR - 2017-01-20 19:30:47 --> 404 Page Not Found: Web2/login_template
+ERROR - 2017-01-20 19:30:47 --> 404 Page Not Found: Ckeditor/ckeditor.js
+ERROR - 2017-01-20 19:30:47 --> 404 Page Not Found: Docs/index
+ERROR - 2017-01-20 19:30:47 --> 404 Page Not Found: Licensetxt/index
+ERROR - 2017-01-20 19:30:47 --> 404 Page Not Found: Common/help
+ERROR - 2017-01-20 19:30:48 --> 404 Page Not Found: Common/help
+ERROR - 2017-01-20 19:30:48 --> 404 Page Not Found: Coremail/common
+ERROR - 2017-01-20 19:30:48 --> 404 Page Not Found: Coremail/common
+ERROR - 2017-01-20 19:30:48 --> 404 Page Not Found: E/master
+ERROR - 2017-01-20 19:30:49 --> 404 Page Not Found: Master/login.aspx
+ERROR - 2017-01-20 19:30:49 --> 404 Page Not Found: Images/login
+ERROR - 2017-01-20 19:30:49 --> 404 Page Not Found: Images/login
+ERROR - 2017-01-20 19:30:50 --> 404 Page Not Found: Images/login
+ERROR - 2017-01-20 19:30:50 --> 404 Page Not Found: Next/img
+ERROR - 2017-01-20 19:30:50 --> 404 Page Not Found: Maintloginjsp/index
+ERROR - 2017-01-20 19:30:51 --> 404 Page Not Found: Ckfinder/ckfinder.html
+ERROR - 2017-01-20 19:30:51 --> 404 Page Not Found: Ckfinder/install.txt
+ERROR - 2017-01-20 19:30:51 --> 404 Page Not Found: Ckeditor/ckfinder
+ERROR - 2017-01-20 19:30:51 --> 404 Page Not Found: Ckeditor/ckfinder
+ERROR - 2017-01-20 19:30:51 --> 404 Page Not Found: Admin/index
+ERROR - 2017-01-20 19:30:52 --> 404 Page Not Found: Admin/template
+ERROR - 2017-01-20 19:30:52 --> 404 Page Not Found: Auth/login
+ERROR - 2017-01-20 19:30:53 --> 404 Page Not Found: Admin/inc
+ERROR - 2017-01-20 19:30:54 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-20 19:30:55 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-20 19:30:55 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-20 19:30:55 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-20 19:30:57 --> 404 Page Not Found: Siteserver/upgrade
+ERROR - 2017-01-20 19:30:57 --> 404 Page Not Found: Siteserver/login.aspx
+ERROR - 2017-01-20 19:30:58 --> 404 Page Not Found: UserCenter/css
+ERROR - 2017-01-20 19:30:58 --> 404 Page Not Found: Indexcgi/index
+ERROR - 2017-01-20 19:30:58 --> 404 Page Not Found: Cgi/index.cgi
+ERROR - 2017-01-20 19:30:59 --> 404 Page Not Found: Default/images
+ERROR - 2017-01-20 19:30:59 --> 404 Page Not Found: Extman/default
+ERROR - 2017-01-20 19:30:59 --> 404 Page Not Found: Images/hwem.css
+ERROR - 2017-01-20 19:31:00 --> 404 Page Not Found: Images/default
+ERROR - 2017-01-20 19:31:00 --> 404 Page Not Found: Dialog/dialog.js
+ERROR - 2017-01-20 19:31:01 --> 404 Page Not Found: Editorjs/index
+ERROR - 2017-01-20 19:31:01 --> 404 Page Not Found: Images/2_11.gif
+ERROR - 2017-01-20 19:31:01 --> 404 Page Not Found: Js/buttons.js
+ERROR - 2017-01-20 19:31:01 --> 404 Page Not Found: Admin/js
+ERROR - 2017-01-20 19:31:02 --> 404 Page Not Found: Ids/admin
+ERROR - 2017-01-20 19:31:02 --> 404 Page Not Found: Ids/admin
+ERROR - 2017-01-20 19:31:02 --> 404 Page Not Found: Help/ch_gb
+ERROR - 2017-01-20 19:31:03 --> 404 Page Not Found: Addons/theme
+ERROR - 2017-01-20 19:31:03 --> 404 Page Not Found: Apps/admin
+ERROR - 2017-01-20 19:31:03 --> 404 Page Not Found: Addons/theme
+ERROR - 2017-01-20 19:31:04 --> 404 Page Not Found: Addons/theme
+ERROR - 2017-01-20 19:31:04 --> 404 Page Not Found: App/login.jsp
+ERROR - 2017-01-20 19:31:04 --> 404 Page Not Found: App/js
+ERROR - 2017-01-20 19:31:04 --> 404 Page Not Found: Console/js
+ERROR - 2017-01-20 19:31:05 --> 404 Page Not Found: Console/include
+ERROR - 2017-01-20 19:31:05 --> 404 Page Not Found: Console/auth
+ERROR - 2017-01-20 19:31:05 --> 404 Page Not Found: Console/js
+ERROR - 2017-01-20 19:31:05 --> 404 Page Not Found: App/images
+ERROR - 2017-01-20 19:31:05 --> 404 Page Not Found: App/images
+ERROR - 2017-01-20 19:31:06 --> 404 Page Not Found: Default/css
+ERROR - 2017-01-20 19:31:06 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-20 19:31:06 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-20 19:31:06 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-20 19:31:06 --> 404 Page Not Found: Images/login9
+ERROR - 2017-01-20 19:31:07 --> 404 Page Not Found: App/home
+ERROR - 2017-01-20 19:31:07 --> 404 Page Not Found: Skin/frontend
+ERROR - 2017-01-20 19:31:07 --> 404 Page Not Found: READMEtxt/index
+ERROR - 2017-01-20 19:31:08 --> 404 Page Not Found: Pub/guiedit
+ERROR - 2017-01-20 19:31:08 --> 404 Page Not Found: Pub/skins
+ERROR - 2017-01-20 19:31:08 --> 404 Page Not Found: Docs/DOCUMENTATION.txt
+ERROR - 2017-01-20 19:31:09 --> 404 Page Not Found: Advfile/ad12.js
+ERROR - 2017-01-20 19:31:09 --> 404 Page Not Found: Helpnew/faq
+ERROR - 2017-01-20 19:31:09 --> 404 Page Not Found: Ymail/images
+ERROR - 2017-01-20 19:31:09 --> 404 Page Not Found: Wq_StranJFjs/index
+ERROR - 2017-01-20 19:31:10 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-20 19:31:10 --> 404 Page Not Found: Install/index
+ERROR - 2017-01-20 19:31:10 --> 404 Page Not Found: Admin/login.aspx
+ERROR - 2017-01-20 19:31:10 --> 404 Page Not Found: Erroraspx/index
+ERROR - 2017-01-20 19:31:10 --> 404 Page Not Found: Inc/playerKinds.xml
+ERROR - 2017-01-20 19:31:11 --> 404 Page Not Found: Template/1
+ERROR - 2017-01-20 19:31:11 --> 404 Page Not Found: Back/scripts
+ERROR - 2017-01-20 19:31:12 --> 404 Page Not Found: User/Login.aspx
+ERROR - 2017-01-20 19:31:12 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 19:31:12 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 19:31:12 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 19:31:13 --> 404 Page Not Found: Admin/Common
+ERROR - 2017-01-20 19:31:13 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 19:31:13 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 19:31:13 --> 404 Page Not Found: Admin/Login.aspx
+ERROR - 2017-01-20 19:31:13 --> 404 Page Not Found: Admin/Images
+ERROR - 2017-01-20 19:31:14 --> 404 Page Not Found: Template/Default
+ERROR - 2017-01-20 19:31:14 --> 404 Page Not Found: Prompt/images
+ERROR - 2017-01-20 19:31:14 --> 404 Page Not Found: Admin/Images
+ERROR - 2017-01-20 19:31:14 --> 404 Page Not Found: Scripts/jquery
+ERROR - 2017-01-20 19:31:14 --> 404 Page Not Found: Media/com_hikashop
+ERROR - 2017-01-20 19:31:15 --> 404 Page Not Found: Templates/jsn_glass_pro
+ERROR - 2017-01-20 19:31:15 --> 404 Page Not Found: Forums/list.page
+ERROR - 2017-01-20 19:31:15 --> 404 Page Not Found: App/Tpl
+ERROR - 2017-01-20 19:31:15 --> 404 Page Not Found: Images/logo_product-cml.png
+ERROR - 2017-01-20 19:31:15 --> 404 Page Not Found: Public/js
+ERROR - 2017-01-20 19:31:16 --> 404 Page Not Found: DeptWebsiteActiondo/index
+ERROR - 2017-01-20 19:31:16 --> 404 Page Not Found: Kindeditor-minjs/index
+ERROR - 2017-01-20 19:31:16 --> 404 Page Not Found: Kindeditorjs/index
+ERROR - 2017-01-20 19:31:16 --> 404 Page Not Found: Lang/en.js
+ERROR - 2017-01-20 19:31:16 --> 404 Page Not Found: Themes/default
+ERROR - 2017-01-20 19:31:17 --> 404 Page Not Found: Examples/index.html
+ERROR - 2017-01-20 19:31:17 --> 404 Page Not Found: Examples/file-manager.html
+ERROR - 2017-01-20 19:31:17 --> 404 Page Not Found: Plugins/filemanager
+ERROR - 2017-01-20 19:31:17 --> 404 Page Not Found: Plugins/anchor
+ERROR - 2017-01-20 19:31:17 --> 404 Page Not Found: Aspnet/README.txt
+ERROR - 2017-01-20 19:31:17 --> 404 Page Not Found: Examples/readonly.html
+ERROR - 2017-01-20 19:31:18 --> 404 Page Not Found: Script/valid_formdata.js
+ERROR - 2017-01-20 19:31:18 --> 404 Page Not Found: Whir_system/login.aspx
+ERROR - 2017-01-20 19:31:18 --> 404 Page Not Found: Whir_system/module
+ERROR - 2017-01-20 19:31:18 --> 404 Page Not Found: System/Login.aspx
+ERROR - 2017-01-20 19:31:19 --> 404 Page Not Found: Themes/graphics
+ERROR - 2017-01-20 19:31:19 --> 404 Page Not Found: Themes/default
+ERROR - 2017-01-20 19:31:19 --> 404 Page Not Found: Themes/default
+ERROR - 2017-01-20 19:31:19 --> 404 Page Not Found: Help/user
+ERROR - 2017-01-20 19:31:20 --> 404 Page Not Found: Style/default
+ERROR - 2017-01-20 19:31:20 --> 404 Page Not Found: Stylesheetcss/index
+ERROR - 2017-01-20 19:31:20 --> 404 Page Not Found: Includes/general.js
+ERROR - 2017-01-20 19:31:21 --> 404 Page Not Found: Archiver/index
+ERROR - 2017-01-20 19:31:21 --> 404 Page Not Found: Tools/rss.aspx
+ERROR - 2017-01-20 19:31:22 --> 404 Page Not Found: Ntalker/lawfirm.aspx
+ERROR - 2017-01-20 19:31:22 --> 404 Page Not Found: Searchhtml/index
+ERROR - 2017-01-20 19:31:23 --> 404 Page Not Found: Archive/archive.css
+ERROR - 2017-01-20 19:31:23 --> 404 Page Not Found: Clientscript/vbulletin_ajax_htmlloader.js
+ERROR - 2017-01-20 19:31:23 --> 404 Page Not Found: Feedasp/index
+ERROR - 2017-01-20 19:31:24 --> 404 Page Not Found: Adminsoft/templates
+ERROR - 2017-01-20 19:31:24 --> 404 Page Not Found: Historytxt/index
+ERROR - 2017-01-20 19:31:24 --> 404 Page Not Found: Common/common.js
+ERROR - 2017-01-20 19:31:24 --> 404 Page Not Found: Jcms/index.jsp
+ERROR - 2017-01-20 19:31:25 --> 404 Page Not Found: Jcms/index_jcms.jsp
+ERROR - 2017-01-20 19:31:25 --> 404 Page Not Found: Inc/Templates
+ERROR - 2017-01-20 19:31:26 --> 404 Page Not Found: Ks_inc/ajax.js
+ERROR - 2017-01-20 19:31:26 --> 404 Page Not Found: Api/api_user.xml
+ERROR - 2017-01-20 19:31:26 --> 404 Page Not Found: Ycportal/js
+ERROR - 2017-01-20 19:31:27 --> 404 Page Not Found: Template/home.htm
+ERROR - 2017-01-20 19:31:27 --> 404 Page Not Found: System/skins
+ERROR - 2017-01-20 19:31:28 --> 404 Page Not Found: System/language
+ERROR - 2017-01-20 19:31:28 --> 404 Page Not Found: Static/hgicon.png
+ERROR - 2017-01-20 19:31:29 --> 404 Page Not Found: Js/ajax_x.js
+ERROR - 2017-01-20 19:31:30 --> 404 Page Not Found: Rssaspx/index
+ERROR - 2017-01-20 19:31:30 --> 404 Page Not Found: Max-templates/classic
+ERROR - 2017-01-20 19:31:30 --> 404 Page Not Found: Datacenter/downloadApp
+ERROR - 2017-01-20 19:31:31 --> 404 Page Not Found: Licencetxt/index
+ERROR - 2017-01-20 19:31:32 --> 404 Page Not Found: Images/logo_88x31.gif
+ERROR - 2017-01-20 19:31:32 --> 404 Page Not Found: Images/login_Name.jpg
+ERROR - 2017-01-20 19:31:32 --> 404 Page Not Found: Admin/index
+ERROR - 2017-01-20 19:31:32 --> 404 Page Not Found: Plug/publish
+ERROR - 2017-01-20 19:31:33 --> 404 Page Not Found: Public/about.html
+ERROR - 2017-01-20 19:31:33 --> 404 Page Not Found: Help/en
+ERROR - 2017-01-20 19:31:33 --> 404 Page Not Found: Script/login.js
+ERROR - 2017-01-20 19:31:34 --> 404 Page Not Found: Public/Admin
+ERROR - 2017-01-20 19:31:34 --> 404 Page Not Found: Imagesschool/style1
+ERROR - 2017-01-20 19:31:37 --> 404 Page Not Found: Customdir/images
+ERROR - 2017-01-20 19:31:37 --> 404 Page Not Found: Images/favicon.ico
+ERROR - 2017-01-20 19:31:37 --> 404 Page Not Found: Images/logo-white.png
+ERROR - 2017-01-20 19:31:38 --> 404 Page Not Found: Images/zh-CN
+ERROR - 2017-01-20 19:31:39 --> 404 Page Not Found: Archiver/index
+ERROR - 2017-01-20 19:31:40 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-01-20 19:31:41 --> 404 Page Not Found: Data/admin
+ERROR - 2017-01-20 19:31:42 --> 404 Page Not Found: Plus/sitemap.html
+ERROR - 2017-01-20 19:31:43 --> 404 Page Not Found: Plus/rssmap.html
+ERROR - 2017-01-20 19:31:44 --> 404 Page Not Found: Member/space
+ERROR - 2017-01-20 19:31:44 --> 404 Page Not Found: Help/index
+ERROR - 2017-01-20 19:31:44 --> 404 Page Not Found: Images/branding
+ERROR - 2017-01-20 19:31:45 --> 404 Page Not Found: Install/logo.gif
+ERROR - 2017-01-20 19:31:46 --> 404 Page Not Found: CHANGELOGtxt/index
+ERROR - 2017-01-20 19:31:46 --> 404 Page Not Found: Changelogtxt/index
+ERROR - 2017-01-20 19:31:46 --> 404 Page Not Found: Include/EcsServerApi.js
+ERROR - 2017-01-20 19:31:46 --> 404 Page Not Found: Img/pic
+ERROR - 2017-01-20 19:31:47 --> 404 Page Not Found: Images/Default_bg_002.gif
+ERROR - 2017-01-20 19:31:47 --> 404 Page Not Found: M/index
+ERROR - 2017-01-20 19:31:48 --> 404 Page Not Found: Custom/SkinTemplate
+ERROR - 2017-01-20 19:31:48 --> 404 Page Not Found: Eams/static
+ERROR - 2017-01-20 19:31:49 --> 404 Page Not Found: Login/Jeecms.do
+ERROR - 2017-01-20 19:31:49 --> 404 Page Not Found: Include/install_ocx.aspx
+ERROR - 2017-01-20 19:31:49 --> 404 Page Not Found: Webbuilder/script
+ERROR - 2017-01-20 19:31:50 --> 404 Page Not Found: Nobody/mobile.htm
+ERROR - 2017-01-20 19:31:50 --> 404 Page Not Found: Data/images
+ERROR - 2017-01-20 19:31:51 --> 404 Page Not Found: Static/images
+ERROR - 2017-01-20 19:31:51 --> 404 Page Not Found: System/Update.aspx
+ERROR - 2017-01-20 19:31:51 --> 404 Page Not Found: Site/Pages
+ERROR - 2017-01-20 19:31:52 --> 404 Page Not Found: Site/SystemThemes
+ERROR - 2017-01-20 19:31:52 --> 404 Page Not Found: Wp-content/index
+ERROR - 2017-01-20 19:31:53 --> 404 Page Not Found: Licensetxt/index
+ERROR - 2017-01-20 19:31:53 --> 404 Page Not Found: Readmehtml/index
+ERROR - 2017-01-20 19:31:53 --> 404 Page Not Found: Business/images
+ERROR - 2017-01-20 19:31:54 --> 404 Page Not Found: Logo/logo_jw.png
+ERROR - 2017-01-20 19:31:54 --> 404 Page Not Found: Was/help.jsp
+ERROR - 2017-01-20 19:31:54 --> 404 Page Not Found: Was5/web
+ERROR - 2017-01-20 19:31:55 --> 404 Page Not Found: Was/main.html
+ERROR - 2017-01-20 19:31:55 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-20 19:31:55 --> 404 Page Not Found: Weblog/index
+ERROR - 2017-01-20 19:31:56 --> 404 Page Not Found: Blog/index
+ERROR - 2017-01-20 19:31:56 --> 404 Page Not Found: Forum/index
+ERROR - 2017-01-20 19:31:56 --> 404 Page Not Found: Bbs/index
+ERROR - 2017-01-20 19:31:56 --> 404 Page Not Found: Wcm/index
+ERROR - 2017-01-20 20:49:59 --> 404 Page Not Found: Cgi/common.cgi
+ERROR - 2017-01-20 20:50:02 --> 404 Page Not Found: Stssyshtm/index
+ERROR - 2017-01-20 20:58:07 --> Query error: Duplicate entry '0000-00-00 00:00:00' for key 'PRIMARY' - Invalid query: INSERT INTO `test` (`ts`) VALUES ('null')
+ERROR - 2017-01-20 21:03:02 --> Query error: Column 'str' cannot be null - Invalid query: INSERT INTO `test` (`str`) VALUES (NULL)
+ERROR - 2017-01-20 21:31:49 --> notify accessed
+ERROR - 2017-01-20 22:02:25 --> 404 Page Not Found: Console/auth
+ERROR - 2017-01-20 22:02:25 --> 404 Page Not Found: Forum/index
+ERROR - 2017-01-20 22:02:35 --> 404 Page Not Found: Forum/index
+ERROR - 2017-01-20 22:02:35 --> 404 Page Not Found: Fckeditor/editor
+ERROR - 2017-01-20 22:02:35 --> 404 Page Not Found: Console/auth
+ERROR - 2017-01-20 22:02:35 --> 404 Page Not Found: Plugins/filemanager
+ERROR - 2017-01-20 22:02:35 --> 404 Page Not Found: Wcm/index
+ERROR - 2017-01-20 22:09:41 --> 404 Page Not Found: Examples/file-manager.html
+ERROR - 2017-01-20 22:09:50 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 22:09:50 --> 404 Page Not Found: Erroraspx/index
+ERROR - 2017-01-20 22:09:50 --> 404 Page Not Found: CuteSoft_Client/CuteEditor
+ERROR - 2017-01-20 22:09:50 --> 404 Page Not Found: Site/Pages
+ERROR - 2017-01-20 22:09:50 --> 404 Page Not Found: Examples/file-manager.html
+ERROR - 2017-01-20 22:13:20 --> 404 Page Not Found: Admin/index
+ERROR - 2017-01-20 22:13:30 --> 404 Page Not Found: Admin/index
+ERROR - 2017-01-20 22:13:30 --> 404 Page Not Found: Plus/sitemap.html
+ERROR - 2017-01-20 22:13:30 --> 404 Page Not Found: Admin/SouthidcEditor
+ERROR - 2017-01-20 22:13:30 --> 404 Page Not Found: Include/install_ocx.aspx
+ERROR - 2017-01-20 22:13:30 --> 404 Page Not Found: Ids/admin
+ERROR - 2017-01-20 22:13:41 --> 404 Page Not Found: Ids/admin
+ERROR - 2017-01-20 22:20:09 --> 404 Page Not Found: Plus/sitemap.html
+ERROR - 2017-01-20 22:20:11 --> 404 Page Not Found: Plus/sitemap.html
+ERROR - 2017-01-20 22:20:43 --> 1 2
+ERROR - 2017-01-20 22:20:43 --> 2 0
+[2017-01-20 22:20:43][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041vXRYl0aCK8o1P7LZl0lrWYl0vXRY4",
+                "encrypt_data": "RqTcHmAa11sQ1hxpqW68o9nVowIhQHfC6Sq2Xn41o02phih1+ymhLmGEVfWdRQq6LaxpWmokakzFPbSjGMtPe\/wwczNeJ6XcJ14ykoFvk5qsx9kYuz5m+u9pm3dyzWd4hU7fTDNVVR+ugwQY8IxABxPKWoC65\/eCk7NX+D\/zu3IoQbcMijqqUexihubPEW5XFRgQ1Vi1\/fMY+cSmKOh4jvZC\/bRlpDAV4tlb6SpwgsIyY98uxXA9L3Qg2SJelOkc3uhepViygE+y9QMC1Cw+m+YJJdBK8+WsdGEhCxhSrra6Hvrehs6MAyBawA9tBkKUgPUoOLtTztZIcsFO\/O8Xi\/5h4\/Qg5A3QHmFBdzjajDSZtg3N0kR2XsyxEKykuhpjSOur2PUq5qA2MxkXpFYhy9aXn32QZ0TlM0xByIlzhoagJIZoooV2kMP4G5KlVqUccM\/zlCuJ4yJqld7p3W9caQ==",
+                "iv": "d7GL5\/w2BzcD\/k7K6LNWZA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d05e8a5d1e21733666c6fb59fa29218",
+            "skey": "660ebb26f03750a371a7271d116a9552",
+            "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "watermark": {
+                    "timestamp": 1484922043,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "85ms"
+}
+
+[2017-01-20 22:20:43][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d05e8a5d1e21733666c6fb59fa29218",
+        "skey": "660ebb26f03750a371a7271d116a9552",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI"
+    }
+}
+
+ERROR - 2017-01-20 22:20:53 --> Severity: Notice --> Undefined index: HTTP_PARAMDETAIL /data/release/php-weapp-demo/application/controllers/Takeorder.php 26
+ERROR - 2017-01-20 22:20:53 --> Severity: Notice --> Undefined index: HTTP_PARAMTIMESTAMP /data/release/php-weapp-demo/application/controllers/Takeorder.php 32
+ERROR - 2017-01-20 22:20:53 --> Severity: Notice --> Undefined index: HTTP_PARAMTIMESTAMP /data/release/php-weapp-demo/application/controllers/Takeorder.php 33
+ERROR - 2017-01-20 22:20:53 --> Severity: Notice --> Undefined index: HTTP_PARAMCONTACTNAME /data/release/php-weapp-demo/application/controllers/Takeorder.php 107
+ERROR - 2017-01-20 22:20:53 --> Severity: Notice --> Undefined index: HTTP_PARAMCONTACTTEL /data/release/php-weapp-demo/application/controllers/Takeorder.php 108
+ERROR - 2017-01-20 22:20:53 --> Severity: Notice --> Undefined index: HTTP_PARAMCONTACTADDRESS /data/release/php-weapp-demo/application/controllers/Takeorder.php 109
+ERROR - 2017-01-20 22:20:53 --> Query error: Column 'order_good_id' cannot be null - Invalid query: INSERT INTO `t_order_goodsinfo` (`order_id`, `order_good_id`, `order_good_qty`) VALUES ('20170120222053806524', NULL, NULL)
+ERROR - 2017-01-20 22:21:45 --> 1 2
+ERROR - 2017-01-20 22:21:45 --> 2 0
+[2017-01-20 22:21:45][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011QNjEK0Y5rX42PtnDK0XRpEK0QNjEu",
+                "encrypt_data": "YAT0dtcWIW7KwlU59Sw17rRb1mYPhpKXb+yyq1N3KNRNNYnbORwYCXd0x0e4V0wHewWFGwDE6dsshNFhPDEEMj0lKLjmEJqc7LN8CKB3wFHitGTad\/AosvH9ZekClM2xHZPJ6+oxf8UICw0i\/yGDEoCiIOshMTFwZ89I7emR+nKYJxFuK7Bqa87BO+ryxN95LsjdLHC5f6sUV3EZapNpjE3p8SCQeEeEHKB3LI+P\/48UGLDNpuzGBxAbloTPctygl4UI49v7\/DsKKit8TlrsfXuRsOBM+yF3np5rYHLa1CaoKMzHOkm89qNsrhnVD+x\/EiKXu2hh97kMVFKknhrgy3G7lCE6+KZ1TluuLdO2j5ayhTD58X952gja1tcKs5v3cMJpHn3NGV6\/pl8SX7QG5G3oDOZF6rvO31jskXFf28yV355M0lAnkKqGcvTa4pLKIZPE\/IxsGLpej8mI9O+9qbZZXg\/i8XLHDLn2T+KeIec=",
+                "iv": "Ag8kGxefQMSwx989mR61Ew=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "52a19d5a368ad7a94b2398bf6f374c6b",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484922104,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "97ms"
+}
+
+[2017-01-20 22:21:45][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "52a19d5a368ad7a94b2398bf6f374c6b",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-20 22:22:06 --> notify accessed
+ERROR - 2017-01-20 22:31:24 --> 404 Page Not Found: Admin/login.asp
+ERROR - 2017-01-20 22:31:24 --> 404 Page Not Found: Cgi/index.cgi
+ERROR - 2017-01-20 22:31:24 --> 404 Page Not Found: Helpnew/faq
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Maintloginjsp/index
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Template/home.htm
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Searchhtml/index
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Searchhtml/index
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: System/Update.aspx
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Searchhtml/index
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Was/help.jsp
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Admin/template
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Searchhtml/index
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: Tools/rss.aspx
+ERROR - 2017-01-20 22:34:56 --> 404 Page Not Found: API/DW
+ERROR - 2017-01-20 22:44:04 --> 404 Page Not Found: Test_404_page/index
+ERROR - 2017-01-20 22:44:13 --> 404 Page Not Found: Test_404_page/index
+ERROR - 2017-01-20 22:44:13 --> 404 Page Not Found: E/master
+ERROR - 2017-01-20 22:44:14 --> 404 Page Not Found: Was/main.html
+ERROR - 2017-01-20 22:44:25 --> 404 Page Not Found: Was/main.html
+ERROR - 2017-01-20 22:46:42 --> 404 Page Not Found: Plus/rssmap.html
+ERROR - 2017-01-20 22:46:42 --> 404 Page Not Found: Issmall/index
+ERROR - 2017-01-20 22:46:56 --> 404 Page Not Found: Plug/publish
+ERROR - 2017-01-20 22:46:56 --> 404 Page Not Found: Siteserver/upgrade
+ERROR - 2017-01-20 22:46:56 --> 404 Page Not Found: Wp-content/index
+ERROR - 2017-01-20 22:46:56 --> 404 Page Not Found: M/index
+ERROR - 2017-01-20 23:19:47 --> notify accessed
+ERROR - 2017-01-20 23:19:47 --> Severity: Notice --> Undefined property: Notify::$db /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:19:47 --> Severity: Error --> Call to a member function update() on null /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:20:03 --> notify accessed
+ERROR - 2017-01-20 23:20:03 --> Severity: Notice --> Undefined property: Notify::$db /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:20:03 --> Severity: Error --> Call to a member function update() on null /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:20:23 --> notify accessed
+ERROR - 2017-01-20 23:20:23 --> Severity: Notice --> Undefined property: Notify::$db /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:20:23 --> Severity: Error --> Call to a member function update() on null /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:20:55 --> notify accessed
+ERROR - 2017-01-20 23:20:55 --> Severity: Notice --> Undefined property: Notify::$db /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:20:55 --> Severity: Error --> Call to a member function update() on null /data/release/php-weapp-demo/application/controllers/Notify.php 40
+ERROR - 2017-01-20 23:23:58 --> notify accessed
+ERROR - 2017-01-20 23:23:58 --> Severity: Notice --> Undefined property: Notify::$db /data/release/php-weapp-demo/application/controllers/Notify.php 45
+ERROR - 2017-01-20 23:23:58 --> Severity: Error --> Call to a member function update() on null /data/release/php-weapp-demo/application/controllers/Notify.php 45
+ERROR - 2017-01-20 23:30:07 --> notify accessed
+ERROR - 2017-01-20 23:45:32 --> notify start
+ERROR - 2017-01-20 23:45:32 --> notify end, id:20170120234519458796 wx_id:4002512001201701207019488337
+ERROR - 2017-01-20 23:54:00 --> notify start
+ERROR - 2017-01-20 23:54:00 --> notify end, id:20170120231928614759 wx_id:4002512001201701207019114622

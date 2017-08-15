@@ -1,0 +1,65 @@
+ERROR - 2017-01-31 01:16:02 --> 404 Page Not Found: Order/orderlist1
+ERROR - 2017-01-31 01:40:28 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-01-31 02:13:13 --> 1 2
+ERROR - 2017-01-31 02:13:13 --> 2 0
+[2017-01-31 02:13:13][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051aeFk51n6wgP1NIek51tTwk51aeFkm",
+                "encrypt_data": "6Sz+2WIW7Wg2dnA1ZTZnmDmBwsYv6ffFx38BCUdn2w1YSGTvzx73bTOIhKYjwQ6z1wfGugfHK2h567pTBglsek1yQzq7ahnisAecrJijsQ3WWEdy3dFlfiLeZHXFdENMVXqYgBBy5CjqnkpTf7jxznwR\/LN1jXF4efUB6xTy\/NvxVXDEY+KS9lfPyU\/z\/F3qlv9rStW13cSsmfCRsiyRy2585UHXbLoXBPLwSoTiSsPeA0etlZvN0\/t88epCcLIo6qONA5RpTFGqRGXeSnbfXsRJWQqaV8e0VEysfCO3l4ewVYlIz1RJqp+g\/wuviiIkupO4z5KIfyOh8ty\/pP+tXWoD1FqoIoqprPAsY9dw8ZRvHM3ojSW1H48uv2wynlXpKSg3Rg\/ygo7gjzqdJ6v8GAy\/cKw7UNHW0uva0UC8+84LSvCyaWf6L93rL2xPdAsGcUgozPIYvk4gLanTvbP6usMB0asQs5QJchg9SbN4iAU=",
+                "iv": "F\/qOMQEE3rq4eiWnjUkxJA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "df3ac2d9232e7fefb4bc3fd28b591ea4",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1485799993,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "86ms"
+}
+
+[2017-01-31 02:13:13][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "df3ac2d9232e7fefb4bc3fd28b591ea4",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-31 04:16:53 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-01-31 04:17:06 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-01-31 07:22:46 --> 404 Page Not Found: Search/index
+ERROR - 2017-01-31 07:22:46 --> 404 Page Not Found: 273/index
+ERROR - 2017-01-31 08:41:59 --> 404 Page Not Found: Muieblackcat/index
+ERROR - 2017-01-31 12:43:40 --> 404 Page Not Found: Axis-cgi/jpg
+ERROR - 2017-01-31 14:25:35 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-31 15:02:53 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-01-31 15:18:45 --> 404 Page Not Found: Axis-cgi/jpg
+ERROR - 2017-01-31 18:11:52 --> 404 Page Not Found: Webservice/proxy

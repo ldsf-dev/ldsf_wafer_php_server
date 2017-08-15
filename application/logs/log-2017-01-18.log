@@ -1,0 +1,1058 @@
+ERROR - 2017-01-18 00:01:16 --> notify accessed
+ERROR - 2017-01-18 00:01:23 --> notify accessed
+ERROR - 2017-01-18 00:01:43 --> notify accessed
+ERROR - 2017-01-18 00:01:52 --> notify accessed
+ERROR - 2017-01-18 00:02:40 --> notify accessed
+ERROR - 2017-01-18 00:02:57 --> notify accessed
+ERROR - 2017-01-18 00:03:14 --> notify accessed
+ERROR - 2017-01-18 00:03:46 --> notify accessed
+ERROR - 2017-01-18 00:06:47 --> notify accessed
+ERROR - 2017-01-18 00:09:31 --> notify accessed
+ERROR - 2017-01-18 00:09:44 --> notify accessed
+ERROR - 2017-01-18 00:10:00 --> notify accessed
+ERROR - 2017-01-18 00:10:32 --> notify accessed
+ERROR - 2017-01-18 00:13:35 --> notify accessed
+ERROR - 2017-01-18 00:21:34 --> notify accessed
+ERROR - 2017-01-18 00:24:02 --> notify accessed
+INFO - 2017-01-18 00:24:47 --> Config Class Initialized
+INFO - 2017-01-18 00:24:47 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:47 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:47 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:47 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:47 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:47 --> Router Class Initialized
+INFO - 2017-01-18 00:24:47 --> Output Class Initialized
+INFO - 2017-01-18 00:24:47 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:47 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:47 --> Input Class Initialized
+INFO - 2017-01-18 00:24:47 --> Language Class Initialized
+INFO - 2017-01-18 00:24:47 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:47 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:47 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:47 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:47 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:47 --> Total execution time: 0.0581
+INFO - 2017-01-18 00:24:48 --> Config Class Initialized
+INFO - 2017-01-18 00:24:48 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:48 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:48 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:48 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:48 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:48 --> Router Class Initialized
+INFO - 2017-01-18 00:24:48 --> Output Class Initialized
+INFO - 2017-01-18 00:24:48 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:48 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:48 --> Input Class Initialized
+INFO - 2017-01-18 00:24:48 --> Language Class Initialized
+INFO - 2017-01-18 00:24:48 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:48 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:48 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:48 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:48 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:48 --> Total execution time: 0.0907
+INFO - 2017-01-18 00:24:48 --> Config Class Initialized
+INFO - 2017-01-18 00:24:48 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:48 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:48 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:48 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:48 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:48 --> Router Class Initialized
+INFO - 2017-01-18 00:24:48 --> Output Class Initialized
+INFO - 2017-01-18 00:24:48 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:48 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:48 --> Input Class Initialized
+INFO - 2017-01-18 00:24:48 --> Language Class Initialized
+INFO - 2017-01-18 00:24:48 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:48 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:48 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:48 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:48 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:48 --> Total execution time: 0.0115
+INFO - 2017-01-18 00:24:49 --> Config Class Initialized
+INFO - 2017-01-18 00:24:49 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:49 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:49 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:49 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:49 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:49 --> Router Class Initialized
+INFO - 2017-01-18 00:24:49 --> Output Class Initialized
+INFO - 2017-01-18 00:24:49 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:49 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:49 --> Input Class Initialized
+INFO - 2017-01-18 00:24:49 --> Language Class Initialized
+INFO - 2017-01-18 00:24:49 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:49 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:49 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:49 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:49 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:49 --> Total execution time: 0.0300
+INFO - 2017-01-18 00:24:49 --> Config Class Initialized
+INFO - 2017-01-18 00:24:49 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:49 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:49 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:49 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:49 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:49 --> Router Class Initialized
+INFO - 2017-01-18 00:24:49 --> Output Class Initialized
+INFO - 2017-01-18 00:24:49 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:49 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:49 --> Input Class Initialized
+INFO - 2017-01-18 00:24:49 --> Language Class Initialized
+INFO - 2017-01-18 00:24:49 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:49 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:49 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:49 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:49 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:49 --> Total execution time: 0.0115
+INFO - 2017-01-18 00:24:52 --> Config Class Initialized
+INFO - 2017-01-18 00:24:52 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:52 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:52 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:52 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:52 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:52 --> Router Class Initialized
+INFO - 2017-01-18 00:24:52 --> Output Class Initialized
+INFO - 2017-01-18 00:24:52 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:52 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:52 --> Input Class Initialized
+INFO - 2017-01-18 00:24:52 --> Language Class Initialized
+INFO - 2017-01-18 00:24:52 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:52 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:52 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:52 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:52 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:52 --> Total execution time: 0.0122
+INFO - 2017-01-18 00:24:53 --> Config Class Initialized
+INFO - 2017-01-18 00:24:53 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:53 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:53 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:53 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:53 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:53 --> Router Class Initialized
+INFO - 2017-01-18 00:24:53 --> Output Class Initialized
+INFO - 2017-01-18 00:24:53 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:53 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:53 --> Input Class Initialized
+INFO - 2017-01-18 00:24:53 --> Language Class Initialized
+INFO - 2017-01-18 00:24:53 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:53 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:53 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:53 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:53 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:53 --> Total execution time: 0.0112
+INFO - 2017-01-18 00:24:53 --> Config Class Initialized
+INFO - 2017-01-18 00:24:53 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:53 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:53 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:53 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:53 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:53 --> Router Class Initialized
+INFO - 2017-01-18 00:24:53 --> Output Class Initialized
+INFO - 2017-01-18 00:24:53 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:53 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:53 --> Input Class Initialized
+INFO - 2017-01-18 00:24:53 --> Language Class Initialized
+INFO - 2017-01-18 00:24:53 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:53 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:53 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:53 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:53 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:53 --> Total execution time: 0.0193
+INFO - 2017-01-18 00:24:54 --> Config Class Initialized
+INFO - 2017-01-18 00:24:54 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:54 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:54 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:54 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:54 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:54 --> Router Class Initialized
+INFO - 2017-01-18 00:24:54 --> Output Class Initialized
+INFO - 2017-01-18 00:24:54 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:54 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:54 --> Input Class Initialized
+INFO - 2017-01-18 00:24:54 --> Language Class Initialized
+INFO - 2017-01-18 00:24:54 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:54 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:54 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:54 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:54 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:54 --> Total execution time: 0.0213
+INFO - 2017-01-18 00:24:54 --> Config Class Initialized
+INFO - 2017-01-18 00:24:54 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:54 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:54 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:54 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:54 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:54 --> Router Class Initialized
+INFO - 2017-01-18 00:24:54 --> Output Class Initialized
+INFO - 2017-01-18 00:24:54 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:54 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:54 --> Input Class Initialized
+INFO - 2017-01-18 00:24:54 --> Language Class Initialized
+INFO - 2017-01-18 00:24:54 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:54 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:54 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:54 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:54 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:54 --> Total execution time: 0.0115
+INFO - 2017-01-18 00:24:57 --> Config Class Initialized
+INFO - 2017-01-18 00:24:57 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:57 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:57 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:57 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:57 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:57 --> Router Class Initialized
+INFO - 2017-01-18 00:24:57 --> Output Class Initialized
+INFO - 2017-01-18 00:24:57 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:57 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:57 --> Input Class Initialized
+INFO - 2017-01-18 00:24:57 --> Language Class Initialized
+INFO - 2017-01-18 00:24:57 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:57 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:57 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:57 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:57 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:57 --> Total execution time: 0.0574
+INFO - 2017-01-18 00:24:58 --> Config Class Initialized
+INFO - 2017-01-18 00:24:58 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:58 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:58 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:58 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:58 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:58 --> Router Class Initialized
+INFO - 2017-01-18 00:24:58 --> Output Class Initialized
+INFO - 2017-01-18 00:24:58 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:58 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:58 --> Input Class Initialized
+INFO - 2017-01-18 00:24:58 --> Language Class Initialized
+INFO - 2017-01-18 00:24:58 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:58 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:58 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:58 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:58 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:58 --> Total execution time: 0.0105
+INFO - 2017-01-18 00:24:58 --> Config Class Initialized
+INFO - 2017-01-18 00:24:58 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:58 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:58 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:58 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:58 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:58 --> Router Class Initialized
+INFO - 2017-01-18 00:24:58 --> Output Class Initialized
+INFO - 2017-01-18 00:24:58 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:58 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:58 --> Input Class Initialized
+INFO - 2017-01-18 00:24:58 --> Language Class Initialized
+INFO - 2017-01-18 00:24:58 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:58 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:58 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:58 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:58 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:58 --> Total execution time: 0.0132
+INFO - 2017-01-18 00:24:59 --> Config Class Initialized
+INFO - 2017-01-18 00:24:59 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:59 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:59 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:59 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:59 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:59 --> Router Class Initialized
+INFO - 2017-01-18 00:24:59 --> Output Class Initialized
+INFO - 2017-01-18 00:24:59 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:59 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:59 --> Input Class Initialized
+INFO - 2017-01-18 00:24:59 --> Language Class Initialized
+INFO - 2017-01-18 00:24:59 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:59 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:59 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:59 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:59 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:59 --> Total execution time: 0.0114
+INFO - 2017-01-18 00:24:59 --> Config Class Initialized
+INFO - 2017-01-18 00:24:59 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:24:59 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:24:59 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:24:59 --> URI Class Initialized
+DEBUG - 2017-01-18 00:24:59 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:24:59 --> Router Class Initialized
+INFO - 2017-01-18 00:24:59 --> Output Class Initialized
+INFO - 2017-01-18 00:24:59 --> Security Class Initialized
+DEBUG - 2017-01-18 00:24:59 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:24:59 --> Input Class Initialized
+INFO - 2017-01-18 00:24:59 --> Language Class Initialized
+INFO - 2017-01-18 00:24:59 --> Loader Class Initialized
+INFO - 2017-01-18 00:24:59 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:24:59 --> Controller Class Initialized
+INFO - 2017-01-18 00:24:59 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:24:59 --> Final output sent to browser
+DEBUG - 2017-01-18 00:24:59 --> Total execution time: 0.0290
+INFO - 2017-01-18 00:25:02 --> Config Class Initialized
+INFO - 2017-01-18 00:25:02 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:25:02 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:25:02 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:25:02 --> URI Class Initialized
+DEBUG - 2017-01-18 00:25:02 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:25:02 --> Router Class Initialized
+INFO - 2017-01-18 00:25:02 --> Output Class Initialized
+INFO - 2017-01-18 00:25:02 --> Security Class Initialized
+DEBUG - 2017-01-18 00:25:02 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:25:02 --> Input Class Initialized
+INFO - 2017-01-18 00:25:02 --> Language Class Initialized
+INFO - 2017-01-18 00:25:02 --> Loader Class Initialized
+INFO - 2017-01-18 00:25:02 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:25:02 --> Controller Class Initialized
+INFO - 2017-01-18 00:25:02 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:25:02 --> Final output sent to browser
+DEBUG - 2017-01-18 00:25:02 --> Total execution time: 0.0235
+INFO - 2017-01-18 00:25:03 --> Config Class Initialized
+INFO - 2017-01-18 00:25:03 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:25:03 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:25:03 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:25:03 --> URI Class Initialized
+DEBUG - 2017-01-18 00:25:03 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:25:03 --> Router Class Initialized
+INFO - 2017-01-18 00:25:03 --> Output Class Initialized
+INFO - 2017-01-18 00:25:03 --> Security Class Initialized
+DEBUG - 2017-01-18 00:25:03 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:25:03 --> Input Class Initialized
+INFO - 2017-01-18 00:25:03 --> Language Class Initialized
+INFO - 2017-01-18 00:25:03 --> Loader Class Initialized
+INFO - 2017-01-18 00:25:03 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:25:03 --> Controller Class Initialized
+INFO - 2017-01-18 00:25:03 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:25:03 --> Final output sent to browser
+DEBUG - 2017-01-18 00:25:03 --> Total execution time: 0.0137
+INFO - 2017-01-18 00:25:03 --> Config Class Initialized
+INFO - 2017-01-18 00:25:03 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:25:03 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:25:03 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:25:03 --> URI Class Initialized
+DEBUG - 2017-01-18 00:25:03 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:25:03 --> Router Class Initialized
+INFO - 2017-01-18 00:25:03 --> Output Class Initialized
+INFO - 2017-01-18 00:25:03 --> Security Class Initialized
+DEBUG - 2017-01-18 00:25:03 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:25:03 --> Input Class Initialized
+INFO - 2017-01-18 00:25:03 --> Language Class Initialized
+INFO - 2017-01-18 00:25:03 --> Loader Class Initialized
+INFO - 2017-01-18 00:25:03 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:25:03 --> Controller Class Initialized
+INFO - 2017-01-18 00:25:03 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:25:03 --> Final output sent to browser
+DEBUG - 2017-01-18 00:25:03 --> Total execution time: 0.0166
+INFO - 2017-01-18 00:25:04 --> Config Class Initialized
+INFO - 2017-01-18 00:25:04 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:25:04 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:25:04 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:25:04 --> URI Class Initialized
+DEBUG - 2017-01-18 00:25:04 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:25:04 --> Router Class Initialized
+INFO - 2017-01-18 00:25:04 --> Output Class Initialized
+INFO - 2017-01-18 00:25:04 --> Security Class Initialized
+DEBUG - 2017-01-18 00:25:04 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:25:04 --> Input Class Initialized
+INFO - 2017-01-18 00:25:04 --> Language Class Initialized
+INFO - 2017-01-18 00:25:04 --> Loader Class Initialized
+INFO - 2017-01-18 00:25:04 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:25:04 --> Controller Class Initialized
+INFO - 2017-01-18 00:25:04 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:25:04 --> Final output sent to browser
+DEBUG - 2017-01-18 00:25:04 --> Total execution time: 0.0122
+INFO - 2017-01-18 00:25:04 --> Config Class Initialized
+INFO - 2017-01-18 00:25:04 --> Hooks Class Initialized
+DEBUG - 2017-01-18 00:25:04 --> UTF-8 Support Enabled
+INFO - 2017-01-18 00:25:04 --> Utf8 Class Initialized
+INFO - 2017-01-18 00:25:04 --> URI Class Initialized
+DEBUG - 2017-01-18 00:25:04 --> No URI present. Default controller set._set_routing2
+INFO - 2017-01-18 00:25:04 --> Router Class Initialized
+INFO - 2017-01-18 00:25:04 --> Output Class Initialized
+INFO - 2017-01-18 00:25:04 --> Security Class Initialized
+DEBUG - 2017-01-18 00:25:04 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+INFO - 2017-01-18 00:25:04 --> Input Class Initialized
+INFO - 2017-01-18 00:25:04 --> Language Class Initialized
+INFO - 2017-01-18 00:25:04 --> Loader Class Initialized
+INFO - 2017-01-18 00:25:04 --> Helper loaded: general_helper
+INFO - 2017-01-18 00:25:04 --> Controller Class Initialized
+INFO - 2017-01-18 00:25:04 --> File loaded: /data/release/php-weapp-demo/application/views/welcome_message.php
+INFO - 2017-01-18 00:25:04 --> Final output sent to browser
+DEBUG - 2017-01-18 00:25:04 --> Total execution time: 0.0153
+DEBUG - 2017-01-18 00:25:08 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:08 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:08 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:08 --> Total execution time: 0.0126
+DEBUG - 2017-01-18 00:25:08 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:08 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:08 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:08 --> Total execution time: 0.0156
+DEBUG - 2017-01-18 00:25:09 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:09 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:09 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:09 --> Total execution time: 0.0140
+DEBUG - 2017-01-18 00:25:09 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:09 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:09 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:09 --> Total execution time: 0.0134
+DEBUG - 2017-01-18 00:25:12 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:12 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:12 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:12 --> Total execution time: 0.0199
+DEBUG - 2017-01-18 00:25:13 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:13 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:13 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:13 --> Total execution time: 0.0186
+DEBUG - 2017-01-18 00:25:13 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:13 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:13 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:13 --> Total execution time: 0.0130
+DEBUG - 2017-01-18 00:25:14 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:14 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:14 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:14 --> Total execution time: 0.0171
+DEBUG - 2017-01-18 00:25:14 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:14 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:14 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:14 --> Total execution time: 0.0148
+DEBUG - 2017-01-18 00:25:17 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:17 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:17 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:17 --> Total execution time: 0.0208
+DEBUG - 2017-01-18 00:25:18 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:18 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:18 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:18 --> Total execution time: 0.0161
+DEBUG - 2017-01-18 00:25:18 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:18 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:18 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:18 --> Total execution time: 0.0115
+DEBUG - 2017-01-18 00:25:19 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:19 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:19 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:19 --> Total execution time: 0.0152
+DEBUG - 2017-01-18 00:25:19 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:19 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:19 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:19 --> Total execution time: 0.0141
+DEBUG - 2017-01-18 00:25:22 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:22 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:22 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:22 --> Total execution time: 0.0122
+DEBUG - 2017-01-18 00:25:23 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:23 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:23 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:23 --> Total execution time: 0.0122
+DEBUG - 2017-01-18 00:25:23 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:23 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:23 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:23 --> Total execution time: 0.0151
+DEBUG - 2017-01-18 00:25:24 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:24 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:24 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:24 --> Total execution time: 0.0169
+DEBUG - 2017-01-18 00:25:27 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:27 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:27 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:27 --> Total execution time: 0.0150
+DEBUG - 2017-01-18 00:25:28 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:28 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:28 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:28 --> Total execution time: 0.0103
+DEBUG - 2017-01-18 00:25:28 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:28 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:28 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:28 --> Total execution time: 0.0103
+DEBUG - 2017-01-18 00:25:29 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:29 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:29 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:29 --> Total execution time: 0.0259
+DEBUG - 2017-01-18 00:25:29 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:29 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:29 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:29 --> Total execution time: 0.0274
+DEBUG - 2017-01-18 00:25:32 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:32 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:32 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:32 --> Total execution time: 0.0134
+DEBUG - 2017-01-18 00:25:33 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:33 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:33 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:33 --> Total execution time: 0.0136
+DEBUG - 2017-01-18 00:25:33 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:33 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:33 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:33 --> Total execution time: 0.0202
+DEBUG - 2017-01-18 00:25:34 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:34 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:34 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:34 --> Total execution time: 0.0105
+DEBUG - 2017-01-18 00:25:34 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:34 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:34 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:34 --> Total execution time: 0.0110
+DEBUG - 2017-01-18 00:25:37 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:37 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:37 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:37 --> Total execution time: 0.0158
+DEBUG - 2017-01-18 00:25:38 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:38 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:38 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:38 --> Total execution time: 0.0112
+DEBUG - 2017-01-18 00:25:38 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:38 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:38 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:38 --> Total execution time: 0.0132
+DEBUG - 2017-01-18 00:25:39 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:39 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:39 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:39 --> Total execution time: 0.0092
+DEBUG - 2017-01-18 00:25:39 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:39 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:39 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:39 --> Total execution time: 0.0087
+DEBUG - 2017-01-18 00:25:42 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:42 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:42 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:42 --> Total execution time: 0.0131
+DEBUG - 2017-01-18 00:25:43 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:43 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:43 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:43 --> Total execution time: 0.0101
+DEBUG - 2017-01-18 00:25:43 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:43 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:43 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:43 --> Total execution time: 0.0166
+DEBUG - 2017-01-18 00:25:44 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:44 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:44 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:44 --> Total execution time: 0.0127
+DEBUG - 2017-01-18 00:25:44 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:44 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:44 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:44 --> Total execution time: 0.0143
+DEBUG - 2017-01-18 00:25:47 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:47 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:47 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:47 --> Total execution time: 0.0124
+DEBUG - 2017-01-18 00:25:48 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:48 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:48 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:48 --> Total execution time: 0.0130
+DEBUG - 2017-01-18 00:25:48 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:48 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:48 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:48 --> Total execution time: 0.0105
+DEBUG - 2017-01-18 00:25:49 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:49 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:49 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:49 --> Total execution time: 0.0195
+DEBUG - 2017-01-18 00:25:49 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:49 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:49 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:49 --> Total execution time: 0.0151
+DEBUG - 2017-01-18 00:25:52 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:52 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:52 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:52 --> Total execution time: 0.0083
+DEBUG - 2017-01-18 00:25:53 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:53 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:53 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:53 --> Total execution time: 0.0109
+DEBUG - 2017-01-18 00:25:53 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:53 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:53 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:53 --> Total execution time: 0.0159
+DEBUG - 2017-01-18 00:25:54 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:54 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:54 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:54 --> Total execution time: 0.0105
+DEBUG - 2017-01-18 00:25:54 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:54 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:54 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:54 --> Total execution time: 0.0132
+DEBUG - 2017-01-18 00:25:57 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:57 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:57 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:57 --> Total execution time: 0.0106
+DEBUG - 2017-01-18 00:25:58 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:58 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:58 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:58 --> Total execution time: 0.0128
+DEBUG - 2017-01-18 00:25:58 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:58 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:58 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:58 --> Total execution time: 0.0130
+DEBUG - 2017-01-18 00:25:59 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:59 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:59 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:59 --> Total execution time: 0.0132
+DEBUG - 2017-01-18 00:25:59 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:25:59 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:25:59 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:25:59 --> Total execution time: 0.0126
+DEBUG - 2017-01-18 00:26:02 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:02 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:02 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:02 --> Total execution time: 0.0117
+DEBUG - 2017-01-18 00:26:03 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:03 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:03 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:03 --> Total execution time: 0.0122
+DEBUG - 2017-01-18 00:26:03 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:03 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:03 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:03 --> Total execution time: 0.0137
+DEBUG - 2017-01-18 00:26:04 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:04 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:04 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:04 --> Total execution time: 0.0112
+DEBUG - 2017-01-18 00:26:04 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:04 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:04 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:04 --> Total execution time: 0.0212
+DEBUG - 2017-01-18 00:26:07 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:07 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:07 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:07 --> Total execution time: 0.0137
+DEBUG - 2017-01-18 00:26:08 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:08 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:08 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:08 --> Total execution time: 0.0138
+DEBUG - 2017-01-18 00:26:08 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:08 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:08 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:08 --> Total execution time: 0.0135
+DEBUG - 2017-01-18 00:26:09 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:09 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:09 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:09 --> Total execution time: 0.0429
+DEBUG - 2017-01-18 00:26:09 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:09 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:09 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:09 --> Total execution time: 0.0142
+DEBUG - 2017-01-18 00:26:12 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:12 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:12 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:12 --> Total execution time: 0.0114
+DEBUG - 2017-01-18 00:26:13 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:13 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:13 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:13 --> Total execution time: 0.0132
+DEBUG - 2017-01-18 00:26:13 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:13 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:13 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:13 --> Total execution time: 0.0131
+DEBUG - 2017-01-18 00:26:14 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:14 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:14 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:14 --> Total execution time: 0.0115
+DEBUG - 2017-01-18 00:26:14 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:14 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:14 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:14 --> Total execution time: 0.0156
+DEBUG - 2017-01-18 00:26:17 --> UTF-8 Support Enabled
+DEBUG - 2017-01-18 00:26:17 --> No URI present. Default controller set._set_routing2
+DEBUG - 2017-01-18 00:26:17 --> Global POST, GET and COOKIE data sanitized115.159.131.99
+DEBUG - 2017-01-18 00:26:17 --> Total execution time: 0.0179
+ERROR - 2017-01-18 00:27:13 --> notify accessed
+ERROR - 2017-01-18 00:27:29 --> notify accessed
+ERROR - 2017-01-18 00:27:45 --> notify accessed
+ERROR - 2017-01-18 00:28:17 --> notify accessed
+ERROR - 2017-01-18 00:36:49 --> notify accessed
+ERROR - 2017-01-18 00:41:52 --> notify accessed
+ERROR - 2017-01-18 00:41:52 --> Severity: Notice --> Undefined index: HTTP_RAW_POST_DATA /data/release/php-weapp-demo/application/controllers/Notify.php 19
+ERROR - 2017-01-18 00:43:36 --> notify accessed
+ERROR - 2017-01-18 00:43:59 --> notify accessed
+ERROR - 2017-01-18 00:43:59 --> Severity: Notice --> Undefined index: HTTP_RAW_POST_DATA /data/release/php-weapp-demo/application/controllers/Notify.php 19
+ERROR - 2017-01-18 00:51:36 --> notify accessed
+ERROR - 2017-01-18 00:54:04 --> notify accessed
+ERROR - 2017-01-18 01:01:24 --> notify accessed
+ERROR - 2017-01-18 01:06:51 --> notify accessed
+ERROR - 2017-01-18 01:07:30 --> 404 Page Not Found: Admin/images
+ERROR - 2017-01-18 01:13:39 --> notify accessed
+ERROR - 2017-01-18 01:31:26 --> notify accessed
+ERROR - 2017-01-18 01:36:53 --> notify accessed
+ERROR - 2017-01-18 01:43:41 --> notify accessed
+ERROR - 2017-01-18 01:43:49 --> 404 Page Not Found: Robotstxt/index
+[2017-01-18 01:44:06][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-18 01:51:37 --> notify accessed
+ERROR - 2017-01-18 01:54:07 --> notify accessed
+[2017-01-18 01:54:08][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021Yc4Cr1xBfDp0UKzyr1UGeCr1Yc4Cb",
+                "encrypt_data": "gaV4ljtjHe5WOr99raOb1T60fFuLINp+YDl8dCZk3SNFGobLKZG3zbizhf3hsA4l\/OLkYmS75\/AIKJCAczcDptIdmlpRHNMI2kRh873k9WuygOLTmHtVSGcNUIG6LUZIBmqxqrgf3CngXX2A98y0Wqrm2GI2UV2pHG4hLhxvy9KSZzkKOOUNMHa2XAmuz6JwW93N82r0s4b3pR9R2Wrk1VYZQBIsQQs2GC8weebRTZgzBcpb5z5leXgQ8g6zEC07vWkyv62E1FEclT2oY\/vpxWr8tzGq5vaoXJZYe0ASqyQ\/cstUBkRqanacy1\/LkhPGYlOqBJE+ng6GsDPKYlEMa2FyidxhMuif+ltuwzwAdswKTWHKjuVbfF\/w7jBvdFQFU7RsV9Gg9z47nXkywg3OApJYtTCCVyMdcLPR3XsqhawTVYjBIr0vX0uxVvjdfr+mCdBRAL7SBACaBa2vd2tl9g==",
+                "iv": "Lv00foNbboIPR4V8zvM3AA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d05e8a5d1e21733666c6fb59fa29218",
+            "skey": "87039ac9f459ecda7981ed5affa5d78c",
+            "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "",
+                "province": "",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "watermark": {
+                    "timestamp": 1484675648,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "87ms"
+}
+
+[2017-01-18 01:54:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d05e8a5d1e21733666c6fb59fa29218",
+        "skey": "87039ac9f459ecda7981ed5affa5d78c",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI"
+    }
+}
+
+ERROR - 2017-01-18 01:54:23 --> notify accessed
+ERROR - 2017-01-18 01:54:40 --> notify accessed
+ERROR - 2017-01-18 01:54:58 --> notify accessed
+ERROR - 2017-01-18 01:55:30 --> notify accessed
+ERROR - 2017-01-18 01:58:31 --> notify accessed
+ERROR - 2017-01-18 01:58:31 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 27
+ERROR - 2017-01-18 02:01:28 --> notify accessed
+ERROR - 2017-01-18 02:01:28 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 27
+ERROR - 2017-01-18 02:06:54 --> notify accessed
+ERROR - 2017-01-18 02:06:54 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 27
+ERROR - 2017-01-18 02:13:43 --> notify accessed
+ERROR - 2017-01-18 02:13:43 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 27
+ERROR - 2017-01-18 02:18:50 --> Severity: Notice --> Undefined index: LDSF /data/release/php-weapp-demo/vendor/qcloud/weapp-sdk/lib/Helper/Logger.php 123
+ERROR - 2017-01-18 02:20:43 --> LDSF
+ERROR - 2017-01-18 02:20:43 --> Severity: Notice --> Undefined index: LDSF /data/release/php-weapp-demo/vendor/qcloud/weapp-sdk/lib/Helper/Logger.php 124
+ERROR - 2017-01-18 02:28:24 --> 12345
+ERROR - 2017-01-18 02:28:35 --> notify accessed
+ERROR - 2017-01-18 02:28:35 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 27
+ERROR - 2017-01-18 02:30:41 --> 12345
+ERROR - 2017-01-18 02:30:41 --> 54321
+ERROR - 2017-01-18 02:31:07 --> 12345
+ERROR - 2017-01-18 02:31:07 --> 54321
+ERROR - 2017-01-18 02:31:30 --> notify accessed
+ERROR - 2017-01-18 02:31:30 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 27
+ERROR - 2017-01-18 02:31:32 --> 12345
+ERROR - 2017-01-18 02:31:32 --> 54321
+ERROR - 2017-01-18 02:31:32 --> 11111
+ERROR - 2017-01-18 02:33:34 --> 
+ERROR - 2017-01-18 02:34:09 --> 2
+ERROR - 2017-01-18 02:34:57 --> 5
+ERROR - 2017-01-18 02:36:35 --> 
+ERROR - 2017-01-18 02:37:16 --> Severity: Notice --> Use of undefined constant _threshold_array - assumed '_threshold_array' /data/release/php-weapp-demo/vendor/qcloud/weapp-sdk/lib/Helper/Logger.php 125
+ERROR - 2017-01-18 02:37:16 --> s
+ERROR - 2017-01-18 02:37:30 --> Severity: Notice --> Undefined offset: 5 /data/release/php-weapp-demo/vendor/qcloud/weapp-sdk/lib/Helper/Logger.php 125
+ERROR - 2017-01-18 02:37:30 --> 
+ERROR - 2017-01-18 02:38:21 --> Severity: Notice --> Undefined offset: 1 /data/release/php-weapp-demo/vendor/qcloud/weapp-sdk/lib/Helper/Logger.php 125
+ERROR - 2017-01-18 02:38:21 --> 
+ERROR - 2017-01-18 02:39:02 --> 
+ERROR - 2017-01-18 02:49:15 --> abc
+ERROR - 2017-01-18 02:49:15 --> 5
+ERROR - 2017-01-18 02:51:59 --> 1 2
+ERROR - 2017-01-18 02:51:59 --> 2 0
+ERROR - 2017-01-18 02:51:59 --> 5
+ERROR - 2017-01-18 02:52:42 --> 1 2
+ERROR - 2017-01-18 02:52:42 --> 2 0
+ERROR - 2017-01-18 02:52:42 --> 5
+ERROR - 2017-01-18 02:58:38 --> notify accessed
+ERROR - 2017-01-18 02:58:38 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 27
+ERROR - 2017-01-18 03:05:35 --> 1 2
+ERROR - 2017-01-18 03:05:35 --> 2 0
+[2017-01-18 03:05:35][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001dhyuN0VuGB720QavN0mMGuN0dhyud",
+                "encrypt_data": "4U1eohQ9gSCNZpCe1W62zaaBmFYvY2SwzDepyDEXdySES91kW9UsXDOL00BQTnfxv8lertjo9oRoM7ROaeFZsHwBv0xEMe+quJ7AIdgNoLvNKxyYf5NHWqLo3vpO6kXs6jn+Z3tHTzEGYMUpcEUt2JAlNoXr55leHku9JUy4x1YBF5cIi4iKPY46U9gx\/OBMLnrntfBVSV0Ddij6fosngg5On199DesWiGi3NEaB2+6k60FwyetEeXBRLW5jr8Wi\/9OV6ZY04\/fkL0hDKbB0Bn7AvxkZpIMmGzmwWSukRvP7DKk\/fS7D5ra54u94Ua0sLWrXx\/8uX9ttz3I6cmewFMutW6SCUOR0SK06AyoIam\/gaNB6Lm4zIg1XVYDdT3M58aGcGxoHSKFFz3xAR2okjsO3g8SZQRoTsxWZsu9p7ARlzxeQ4rR5BO8txmd7DcDwF8hFbV5wwBTDDIycYSd0zePQHlDhsukcPpxqPV1L4kY=",
+                "iv": "x9pD0PJZUVcwHwPDGFd+cg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "7ee3566a697f08e29e659df701f43934",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484679935,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "112ms"
+}
+
+[2017-01-18 03:05:35][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "7ee3566a697f08e29e659df701f43934",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-18 03:05:42 --> notify accessed
+ERROR - 2017-01-18 03:05:42 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:05:55 --> notify accessed
+ERROR - 2017-01-18 03:05:55 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:06:11 --> notify accessed
+ERROR - 2017-01-18 03:06:11 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:06:42 --> notify accessed
+ERROR - 2017-01-18 03:06:42 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:06:56 --> notify accessed
+ERROR - 2017-01-18 03:06:56 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:07:37 --> notify accessed
+ERROR - 2017-01-18 03:07:37 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:07:47 --> notify accessed
+ERROR - 2017-01-18 03:07:47 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:08:05 --> notify accessed
+ERROR - 2017-01-18 03:08:05 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:08:37 --> notify accessed
+ERROR - 2017-01-18 03:08:37 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:09:00 --> notify accessed
+ERROR - 2017-01-18 03:09:00 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:09:15 --> notify accessed
+ERROR - 2017-01-18 03:09:15 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:09:31 --> notify accessed
+ERROR - 2017-01-18 03:09:31 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:09:46 --> notify accessed
+ERROR - 2017-01-18 03:09:46 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:10:04 --> notify accessed
+ERROR - 2017-01-18 03:10:04 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:11:29 --> notify accessed
+ERROR - 2017-01-18 03:11:29 --> {"appid":"wx3c13313f866a541a","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1368336002","nonce_str":"4BmwesXpNKP83JxfdFYZDzMHtn7SicWk","openid":"oPicY0cBD5ZB89KieBFSH-PNddIE","out_trade_no":"20170118031124730416","result_code":"SUCCESS","return_code":"SUCCESS","sign":"41B978EBED26CE1A716730CDDCF6D359","time_end":"20170118031129","total_fee":"1","trade_type":"JSAPI","transaction_id":"4002512001201701186685565601"}
+ERROR - 2017-01-18 03:11:29 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 24
+ERROR - 2017-01-18 03:11:38 --> notify accessed
+ERROR - 2017-01-18 03:11:38 --> {"appid":"wx3c13313f866a541a","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1368336002","nonce_str":"6FrW8ADEtJ4Bpdsz3Y7cQnyGakReK5Zx","openid":"oPicY0cBD5ZB89KieBFSH-PNddIE","out_trade_no":"20170118030731801743","result_code":"SUCCESS","return_code":"SUCCESS","sign":"918D8A87D671ECDCA7479E32D2F868C0","time_end":"20170118030736","total_fee":"1","trade_type":"JSAPI","transaction_id":"4002512001201701186685530468"}
+ERROR - 2017-01-18 03:11:38 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 24
+ERROR - 2017-01-18 03:11:41 --> notify accessed
+ERROR - 2017-01-18 03:11:41 --> {"appid":"wx3c13313f866a541a","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1368336002","nonce_str":"4BmwesXpNKP83JxfdFYZDzMHtn7SicWk","openid":"oPicY0cBD5ZB89KieBFSH-PNddIE","out_trade_no":"20170118031124730416","result_code":"SUCCESS","return_code":"SUCCESS","sign":"41B978EBED26CE1A716730CDDCF6D359","time_end":"20170118031129","total_fee":"1","trade_type":"JSAPI","transaction_id":"4002512001201701186685565601"}
+ERROR - 2017-01-18 03:11:41 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 24
+ERROR - 2017-01-18 03:11:58 --> notify accessed
+ERROR - 2017-01-18 03:11:58 --> {"appid":"wx3c13313f866a541a","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1368336002","nonce_str":"4BmwesXpNKP83JxfdFYZDzMHtn7SicWk","openid":"oPicY0cBD5ZB89KieBFSH-PNddIE","out_trade_no":"20170118031124730416","result_code":"SUCCESS","return_code":"SUCCESS","sign":"41B978EBED26CE1A716730CDDCF6D359","time_end":"20170118031129","total_fee":"1","trade_type":"JSAPI","transaction_id":"4002512001201701186685565601"}
+ERROR - 2017-01-18 03:11:58 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 24
+ERROR - 2017-01-18 03:12:31 --> notify accessed
+ERROR - 2017-01-18 03:12:31 --> {"appid":"wx3c13313f866a541a","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1368336002","nonce_str":"4BmwesXpNKP83JxfdFYZDzMHtn7SicWk","openid":"oPicY0cBD5ZB89KieBFSH-PNddIE","out_trade_no":"20170118031124730416","result_code":"SUCCESS","return_code":"SUCCESS","sign":"41B978EBED26CE1A716730CDDCF6D359","time_end":"20170118031129","total_fee":"1","trade_type":"JSAPI","transaction_id":"4002512001201701186685565601"}
+ERROR - 2017-01-18 03:12:31 --> Severity: Warning --> implode(): Argument must be an array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:12:31 --> 
+ERROR - 2017-01-18 03:12:31 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 25
+ERROR - 2017-01-18 03:13:07 --> notify accessed
+ERROR - 2017-01-18 03:13:07 --> {"appid":"wx3c13313f866a541a","bank_type":"CFT","cash_fee":"1","fee_type":"CNY","is_subscribe":"N","mch_id":"1368336002","nonce_str":"Qf5KaFsRjh8BCAWt7HXdSzyrYGe4ZJmM","openid":"oPicY0cBD5ZB89KieBFSH-PNddIE","out_trade_no":"20170118030855514039","result_code":"SUCCESS","return_code":"SUCCESS","sign":"433677CE1BA2C22CB4F36C1991C56CCF","time_end":"20170118030900","total_fee":"1","trade_type":"JSAPI","transaction_id":"4002512001201701186688698550"}
+ERROR - 2017-01-18 03:13:07 --> Severity: Warning --> implode(): Argument must be an array /data/release/php-weapp-demo/application/controllers/Notify.php 23
+ERROR - 2017-01-18 03:13:07 --> 
+ERROR - 2017-01-18 03:13:07 --> Severity: Error --> Cannot use object of type stdClass as array /data/release/php-weapp-demo/application/controllers/Notify.php 25
+ERROR - 2017-01-18 03:13:45 --> notify accessed
+ERROR - 2017-01-18 03:15:34 --> notify accessed
+ERROR - 2017-01-18 03:28:40 --> notify accessed
+ERROR - 2017-01-18 03:31:32 --> notify accessed
+ERROR - 2017-01-18 03:39:48 --> notify accessed
+ERROR - 2017-01-18 03:41:42 --> notify accessed
+ERROR - 2017-01-18 03:43:10 --> notify accessed
+ERROR - 2017-01-18 04:25:46 --> 1 2
+ERROR - 2017-01-18 04:25:46 --> 2 0
+[2017-01-18 04:25:46][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-18 04:26:02 --> 1 2
+ERROR - 2017-01-18 04:26:02 --> 2 0
+[2017-01-18 04:26:02][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-18 07:24:42 --> 404 Page Not Found: RemoteControlhtml/index
+ERROR - 2017-01-18 07:50:06 --> 1 2
+ERROR - 2017-01-18 07:50:06 --> 2 0
+[2017-01-18 07:50:06][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-18 07:50:06 --> 1 2
+ERROR - 2017-01-18 07:50:06 --> 2 0
+[2017-01-18 07:50:06][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-18 07:50:06 --> 1 2
+ERROR - 2017-01-18 07:50:06 --> 2 0
+[2017-01-18 07:50:06][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-18 07:50:15 --> 1 2
+ERROR - 2017-01-18 07:50:15 --> 2 0
+[2017-01-18 07:50:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求头未包含 X-WX-Code，请配合客户端 SDK 登录后再进行请求"
+}
+
+ERROR - 2017-01-18 12:40:09 --> 404 Page Not Found: Invoker/JMXInvokerServlet
+ERROR - 2017-01-18 14:03:02 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-01-18 14:32:28 --> 404 Page Not Found: Cache/global
+ERROR - 2017-01-18 14:35:03 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2017-01-18 14:35:04 --> 404 Page Not Found: Sitemapxml/index
+ERROR - 2017-01-18 15:14:20 --> 404 Page Not Found: Invoker/JMXInvokerServlet
+ERROR - 2017-01-18 17:41:58 --> 1 2
+ERROR - 2017-01-18 17:41:58 --> 2 0
+[2017-01-18 17:41:58][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021mBx9w1GsD0c0c0s8w17io9w1mBx9g",
+                "encrypt_data": "N6C5MlJrgEJJcJ0etcFWkWZfd1FuNTBJkPXlpzcEghCITHZRgrdqcaZVjQc7\/hEgA6qoImEPuJ7iAQKqPlvQfFOx9KoSsNBKvZmSL\/AKhRslZECPeBOorunl1OsiIrxa6tMxcayBw2um6CQKumQUasdmoiVB6lK64uGUdS3cg0tqXlqR7o5EQPISoUgp8Yw1k3C\/FmX4ZURRarAxPvCyfIv2NkfXTcBzWHqNtHVpZw6Plbnze6tLFMijVjacK5HJdjubsyrZx1cSNZ+eCC6mzUxoYfjC1Mh41u4DLybCTfi3AdDmULYzLpBdD1WeNvwpEcq971\/JCHK6j5U8VbWC\/MyTLfruK3oRMStCY9muaSvdME3OZMehxF3q2Cnz2C5GwhM\/zp1pRwxKOLi16JxiD9eXXh9nYlUQYsTY34chRxgAqCNMbnaTqf1xYnDzFJUtlXobIdkui0DIbO7iqDGCyudbBHx0XUTxTWZM+qTRPB0=",
+                "iv": "7cDruTFPuUV+RXFrK3FWqA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "9ecb434c011da2f28376a47bae8caaa8",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484732518,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "85ms"
+}
+
+[2017-01-18 17:41:58][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "9ecb434c011da2f28376a47bae8caaa8",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-18 19:26:58 --> 404 Page Not Found: Webservice/proxy
+ERROR - 2017-01-18 20:56:01 --> 404 Page Not Found: Good/undefined
+ERROR - 2017-01-18 21:10:04 --> 1 2
+ERROR - 2017-01-18 21:10:04 --> 2 0
+[2017-01-18 21:10:04][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021j722b0dkhRu1B9P0b0xp82b0j722z",
+                "encrypt_data": "GI04fDxZohSIOb0ULJGke8oWlXXD2FHOBj6Eu\/bXvf39aL2k98BHPVuxaTl61m4hq9MU7q8vLtel4qG7TsvKhbwWN6ArSrlvvGIrlqM\/IjvWsjPDrOt66k0YieHIBVclVYC7TZSGFzviLbX1\/MDuv\/Hr+Rnp7mzmyF93w1ebbjdks8vtuNuLIEKUG2vo64L8T1JKeKG2O8O4IJDfGOoj0boW6Jqg\/\/RypcIkZqhQNdPpFeww4W745cArSq9dNQ4IxG8DBq7MxP1OWEIE64qgEoRn7ThqaYgLQ4EpGmeCUCxjMB\/7Ra0+IBhgx9C+\/eBjwqAaAfJTbuhmuF4jXnnjP3P3MPTZCKzN7oX\/Q+Bc0QO2N9me5lI7uAfwyQPycEFLkMwXotaWCdU8rp9UgC1pPqzLbLp7lwZfRYYymeVMtmPRLZMZNWuZBG5ISskxv4nO0VqyJmpzMfPZagp1Tbhfw9XpoaGO7zr\/jYaBRtXPEZ8=",
+                "iv": "J\/fbKRt+VoZsCALCBaNryw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "2aaf038d3a9eb872b2cb436abf16d8f5",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1484745004,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 2592000
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "87ms"
+}
+
+[2017-01-18 21:10:04][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "2aaf038d3a9eb872b2cb436abf16d8f5",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-01-18 21:10:04 --> Severity: Error --> Cannot access parent:: when current class scope has no parent /data/release/php-weapp-demo/application/models/User_model.php 14
+ERROR - 2017-01-18 21:13:54 --> Severity: Error --> Cannot access parent:: when current class scope has no parent /data/release/php-weapp-demo/application/models/User_model.php 14
+ERROR - 2017-01-18 21:14:39 --> Severity: Notice --> Undefined property: User::$Good_model /data/release/php-weapp-demo/application/controllers/User.php 23
+ERROR - 2017-01-18 21:14:39 --> Severity: Error --> Call to a member function getuserprofile() on null /data/release/php-weapp-demo/application/controllers/User.php 23
+ERROR - 2017-01-18 21:15:26 --> Severity: Notice --> Array to string conversion /data/release/php-weapp-demo/application/controllers/User.php 23
+ERROR - 2017-01-18 21:35:20 --> Query error: Unknown column 'openid' in 'where clause' - Invalid query: select * from t_user_profile where openid = 'oPicY0cBD5ZB89KieBFSH-PNddIE'

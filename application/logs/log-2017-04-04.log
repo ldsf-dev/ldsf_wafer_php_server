@@ -1,0 +1,93 @@
+ERROR - 2017-04-04 02:17:27 --> 404 Page Not Found: CFIDE/administrator
+ERROR - 2017-04-04 04:46:07 --> 404 Page Not Found: Search/index
+ERROR - 2017-04-04 04:46:07 --> 404 Page Not Found: 273/index
+ERROR - 2017-04-04 14:55:51 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 18:48:15 --> 404 Page Not Found: Cache/global
+ERROR - 2017-04-04 19:29:05 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-04-04 21:15:41 --> 1 2
+ERROR - 2017-04-04 21:15:41 --> 2 0
+[2017-04-04 21:15:41][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021deSH10YnjuD1BbxI10efTH10deSHr",
+                "encrypt_data": "HXtXKIZ85kbyEMT8eEqfXsCChSblfsl9FwYPhJ5s62Inn8Ujw8Mwzu1+\/6yN7b1mtq2UoNqhonidcSIFQeJqSyrUXjRldAQp9AwlWi2vhfARLn84bNJBFimHyt+bGYHjg9ootRZNLV5R46XSQmoZCMXaoajpYaIcmHCz8pBuAt+YwyEWOgKAwcjEycZF+uZ+UCNK6sumKE9Xniblgda9HkYxEUP6s5cVB0O0M6pD+QHMkOZuhcicpAWf3prPwE7UcCeMWxlgC7bYafKd72lcDAdoRy2SU4djlvbxcqZQot83piLZhfKYnzYoc3S+Te4dTKF9S\/M8MxFOyEp3Brc9SocwJPVL1Yz1OB574VgsAXOya5CuAsVwPBYGPhechYu9PAqnyG0O0cGrbIaAJkvRlYc\/4jBRJSBai288Q5GSqyVAd7jMYFWnBlE9jgQLTK7KfFj3j2ptp\/\/wbmeRf0EDDDR3ppNr6enTsiu\/xnLoqpDxJm\/W9RuLBsUsi0fBqgqQc6Ws3yaaef0p5Je40R9ndQ==",
+                "iv": "ciES922jpprwRAemChH5tg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "4cab25d3c710753138c8316c19b53cea",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "unionId": "oU11PxI5w2BTja9r5Wnjl-9nznPg",
+                "watermark": {
+                    "timestamp": 1491311739,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "928ms"
+}
+
+[2017-04-04 21:15:41][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "4cab25d3c710753138c8316c19b53cea",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+        "unionid": "oU11PxI5w2BTja9r5Wnjl-9nznPg"
+    }
+}
+
+ERROR - 2017-04-04 21:15:41 --> 1 2
+ERROR - 2017-04-04 21:15:41 --> 2 0
+[2017-04-04 21:15:41][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031UOqM20GglPE1mzNP20wSuM20UOqMl",
+                "encrypt_data": "eUKdr+\/9XsscvWZHcKaUt\/hdIPLTVQ6ZVFsQe7nU6wX\/Vh7OISw35sJK6GwZpN2GrdyagZVM5XNngdkgHQIBJqCZM+aFE0eDL9f0A5I8haWZKkcDclkcr27cz5Ukn3wYu1feXQD9nTWA1DSRwIjpAoKMCgCvR74DyKzDOP73u7KSUlzK0L3RsT5+O6Xs961Gmw6wJZrO0yTCycjpSdY98UgRL4bWjIjF+UVAVFwDldPlhu7JlIPhle0VhGDuTrI7r89k17mKXkIMZvFJt5Ral0WOYt+TLymJscRm8wRAUtWyYEBglWWnBuqgDwsQiztDWQbXEGmh7Qg45ECvyQVa1keODbuv93hPQgb10XpEH2qmc5fOMHVu5YxNLFM4\/i+c2c7NG\/IeNvp6DKvxO+FWcEe\/J5WG0WUoMzbSKeFFhdR4CQtPJNeGcNpoQtQW2DLBeCFzpJFxx\/zVW0log6ce9hZL3f0otetRCXman26Rwl4ZkEq2ELxYkfxvPLId84fz7s6O7wTr4MdYyRg3jTCdUQ==",
+                "iv": "fOhbHdU9koKqnzRXiflp3g=="
+            }
+        }
+    },
+    "[响应]": "<br \/>\n<b>Warning<\/b>:  rmdir(log\/2017-03-30): No such file or directory in <b>\/opt\/lampp\/htdocs\/mina_auth\/system\/log\/log.php<\/b> on line <b>341<\/b><br \/>\n{\"returnCode\":0,\"returnMessage\":\"UPDATE_SESSION_SUCCESS\",\"returnData\":{\"id\":\"2cf24fa4e47169cf5cdc27fae97ea51d\",\"skey\":\"1367a6eb22762d5e6cb7ba7ff5b065d0\",\"user_info\":{\"openId\":\"oPicY0eKLErSVPY9eCynPyHwZYB8\",\"nickName\":\"\\u848b\\u715c\\u5929.\\u5728\\u8def\\u4e0a\",\"gender\":1,\"language\":\"en\",\"city\":\"Suzhou\",\"province\":\"Jiangsu\",\"country\":\"CN\",\"avatarUrl\":\"http:\\\/\\\/wx.qlogo.cn\\\/mmopen\\\/vi_32\\\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\\\/0\",\"unionId\":\"oU11PxI5w2BTja9r5Wnjl-9nznPg\",\"watermark\":{\"timestamp\":1491311739,\"appid\":\"wx3c13313f866a541a\"}},\"duration\":7200},\"version\":1,\"componentName\":\"MA\"}",
+    "[耗时]": "819ms"
+}
+
+[2017-04-04 21:15:41][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "鉴权服务器响应格式错误，无法解析 JSON 字符串"
+}
+
+ERROR - 2017-04-04 21:17:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 21:17:22 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 21:18:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 21:18:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 21:18:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 21:21:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 21:32:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-04 21:33:54 --> 404 Page Not Found: Faviconico/index

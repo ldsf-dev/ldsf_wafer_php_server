@@ -1,0 +1,1718 @@
+ERROR - 2017-07-29 00:40:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:41:10 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:41:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:41:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:41:21 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:43:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:45:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '/规格, `t_good`.`good_name` AS `商品`, `t_good_spec`.`good_spec_name` AS `' at line 1 - Invalid query: SELECT `t_card_deli`.`card_deli_expectdate` AS `送货日`, CONCAT(t_good.good_name,"/",t_good_spec.good_spec_name) AS 商品/规格, `t_good`.`good_name` AS `商品`, `t_good_spec`.`good_spec_name` AS `规格`, `t_card_deli`.`card_deli_contactname` AS `收货人`, `t_card_deli`.`card_deli_contacttel` AS `电话`, `t_card_deli`.`card_deli_contactaddress` AS `地址`, `t_card_deli`.`card_deli_cardid` AS `卡号`, `t_card_deli`.`card_deli_datetime` AS `提货时间`
+FROM `t_card_deli`
+JOIN `t_card` ON `t_card`.`card_no` = `t_card_deli`.`card_deli_cardid`
+JOIN `t_good` ON `t_good`.`good_id` = `t_card`.`card_goodid`
+JOIN `t_good_spec` ON `t_good_spec`.`good_id` = `t_good`.`good_id` and `t_good_spec`.`good_spec_seq` = `t_card`.`card_goodspecid`
+ORDER BY `t_card_deli`.`card_deli_datetime` DESC
+ERROR - 2017-07-29 00:46:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '\/规格, `t_good`.`good_name` AS `商品`, `t_good_spec`.`good_spec_name` AS `' at line 1 - Invalid query: SELECT `t_card_deli`.`card_deli_expectdate` AS `送货日`, CONCAT(t_good.good_name,"/",t_good_spec.good_spec_name) AS 商品\/规格, `t_good`.`good_name` AS `商品`, `t_good_spec`.`good_spec_name` AS `规格`, `t_card_deli`.`card_deli_contactname` AS `收货人`, `t_card_deli`.`card_deli_contacttel` AS `电话`, `t_card_deli`.`card_deli_contactaddress` AS `地址`, `t_card_deli`.`card_deli_cardid` AS `卡号`, `t_card_deli`.`card_deli_datetime` AS `提货时间`
+FROM `t_card_deli`
+JOIN `t_card` ON `t_card`.`card_no` = `t_card_deli`.`card_deli_cardid`
+JOIN `t_good` ON `t_good`.`good_id` = `t_card`.`card_goodid`
+JOIN `t_good_spec` ON `t_good_spec`.`good_id` = `t_good`.`good_id` and `t_good_spec`.`good_spec_seq` = `t_card`.`card_goodspecid`
+ORDER BY `t_card_deli`.`card_deli_datetime` DESC
+ERROR - 2017-07-29 00:46:23 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:46:32 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:46:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:46:53 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:46:57 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 00:59:07 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 00:59:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:00:14 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:01:56 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:02:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:02:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:02:11 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:02:12 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:02:18 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:02:19 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:02:39 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:03:00 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:03:03 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:03:52 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:03:55 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:04:01 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:04:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:07:03 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:15:34 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:16:11 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:26:03 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:26:12 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:26:23 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:26:54 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:27:45 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:28:36 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:30:11 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:30:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:30:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 01:30:35 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:35:57 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:36:26 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:36:50 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:37:23 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:37:31 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:38:41 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:39:18 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:39:54 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:40:13 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:40:19 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 01:40:51 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 02:09:29 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 02:09:31 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 02:09:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 02:09:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 02:09:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 02:09:52 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 03:51:17 --> 404 Page Not Found: Cardqrcode/qrcode_0000000021.jpg
+ERROR - 2017-07-29 06:13:08 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-07-29 06:13:08 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-07-29 06:13:08 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-07-29 06:13:09 --> 404 Page Not Found: Static/js
+ERROR - 2017-07-29 06:13:09 --> 404 Page Not Found: Include/js
+ERROR - 2017-07-29 06:13:10 --> 404 Page Not Found: Include/js
+ERROR - 2017-07-29 06:13:10 --> 404 Page Not Found: Include/js
+ERROR - 2017-07-29 06:13:10 --> 404 Page Not Found: Res/js
+ERROR - 2017-07-29 06:13:11 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-07-29 06:13:11 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-07-29 06:13:11 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-07-29 06:13:12 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-07-29 06:13:12 --> 404 Page Not Found: Template/default
+ERROR - 2017-07-29 06:13:12 --> 404 Page Not Found: Static/js
+ERROR - 2017-07-29 06:13:13 --> 404 Page Not Found: Images/js
+ERROR - 2017-07-29 06:13:13 --> 404 Page Not Found: Templets/style
+ERROR - 2017-07-29 06:13:14 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-07-29 06:13:14 --> 404 Page Not Found: Images/default
+ERROR - 2017-07-29 06:13:14 --> 404 Page Not Found: Js/lang
+ERROR - 2017-07-29 06:13:15 --> 404 Page Not Found: Js/lang
+ERROR - 2017-07-29 06:13:15 --> 404 Page Not Found: D/js
+ERROR - 2017-07-29 06:13:15 --> 404 Page Not Found: Skin/default
+ERROR - 2017-07-29 06:13:16 --> 404 Page Not Found: Media/system
+ERROR - 2017-07-29 06:13:16 --> 404 Page Not Found: Media/system
+ERROR - 2017-07-29 06:13:17 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-07-29 06:13:17 --> 404 Page Not Found: Style/default
+ERROR - 2017-07-29 06:13:17 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-07-29 06:13:18 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-07-29 06:13:18 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-07-29 06:13:18 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-07-29 06:13:19 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-07-29 06:13:19 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-07-29 06:13:19 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-07-29 09:18:09 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-07-29 09:23:48 --> 404 Page Not Found: Server-status/index
+LDSF - 2017-07-29 10:41:00 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 10:41:00 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+LDSF - 2017-07-29 10:41:01 --> >>> User->loginrecord()
+LDSF - 2017-07-29 10:41:01 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+LDSF - 2017-07-29 10:41:09 --> >>> User->profile()
+LDSF - 2017-07-29 10:41:09 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+LDSF - 2017-07-29 10:41:18 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-29 10:41:18 --> openid=oPicY0aGdvC5dofGN1QqvyNE2KEQ
+ERROR - 2017-07-29 10:44:24 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-29 11:34:07 --> 404 Page Not Found: Cache/global
+ERROR - 2017-07-29 11:39:50 --> 1 2
+ERROR - 2017-07-29 11:39:50 --> 2 0
+[2017-07-29 11:39:50][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021EdB4h0DenaA1CGS3h0AfB4h0EdB4F",
+                "encrypt_data": "6tLjIAfl2AUl6YD6DxvW3BL9geP1oa23dJ7grOGcKIErsQ8sXtQgL+kAkOaAF+v3fH+f4P9erxb8oMIQFtp3UR4wqH55NwEuZJ7UuecmQmPMvsqmFLX5vZ23DtHDBR+AEaC+jUiWLpt61jM7kSxHAVaxPhH2TXdMxtmC49j6QI8ts+x7n1zNCb5Tr7yyApt9lt1knY34l0izf\/\/u4ZN4neDWfAl9SeOjsdgQOgZP6l2gSGOiE5UloOM5Ef2a4ULbVUEHECTA3a2DFbGjSk5K+VcwWGijr3rPYYQUOclMN\/6yzkUz8PsjcZxwK4iOyfmIkqYS6Rvyic1STH4b7SF9O53nLXRfuQaPJiEucSBn8TbJhEO2mVxiPzU+GqxAKY3W7oEFuBVvXkqlCvUO6lgHJdQv4XcO6Oin9r8Pl5b4Y3AJCVmqtzxDq8FvDPEoqZz754eUwVKeS+9q4cx175gfm1SbDkRSS4Y7xt\/nk91LtYxOn2xWsU7j0ng12lPj9OcmUszZ4DB86SGWnZrwDGtiVA==",
+                "iv": "ZH\/Ha4vNF7N+QQ3MI9VdyA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:39:50][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:39:51 --> 1 2
+ERROR - 2017-07-29 11:39:51 --> 2 0
+[2017-07-29 11:39:51][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001RYkhF02Ye6i2JpniF0s0ihF0RYkhE",
+                "encrypt_data": "KorarkCPHF1Gx2tZg2nepv1Ic4H9rMkAHsz0w4Y1sw9RsuItRlqNii\/nbnKL0GCKDmuCrrKs+dEZmXZ6CrQHksuThphiXQRP1MzCOBFNJc0I+khROhiFGURyLQzxe0LWEte7m+ZMkQ1RnPhTSqHx5QciPiDdh2grlRNqG0NBgDcd2fImG2c2lD7BKW8hqh3ppFuU1vuaJrdEw89Xoo\/iQZRhe8xmHki0F8mVYjm1f4nLN8nAqckmMLlZo8At78Ue6YKpgkNXO3cviABSOfgNFV4op0jXnhxiR7N5JMGBN2bR4UyLvhVMF8OoLtzl5Q+nvUArope2o5rpiuQ\/nVhHgzP7R7ki\/KEACmGumpbmANG6RhcdCWayCKNF7iqSwDxckwxiybDDLAbOak2i1ZseHv2mmlsKXQZqgUH3S7LAYcgNNKjZ+GmPrRvqAiuCi\/iAgwc\/CKSQSaTRiYQ5FGuZhfzlm4OQ13SZwcWNvZpljRLow2IswIpUrCqNAc3tRKzVc4auc6VtQ76pkoacqugpRA==",
+                "iv": "B+9rNuKf\/jv8HoIY+y\/bSA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:39:51][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+LDSF - 2017-07-29 11:42:42 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 11:42:42 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 11:42:42 --> >>> User->loginrecord()
+LDSF - 2017-07-29 11:42:42 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-29 11:43:03 --> 1 2
+ERROR - 2017-07-29 11:43:03 --> 2 0
+[2017-07-29 11:43:03][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "02189gM42IjiwJ0teeM42xUfM4289gMo",
+                "encrypt_data": "DMqu9JIq\/DuJbOkL0+UR8\/fM76HXH+5yCimlpMSYOHFu3feR7XTydByj94J6QOQ5cV9gPcb5Xrlw6ytRko37OdeohsrxEXIzm53j9x+dDIgKL9+8D3XCAriMv4TLReRArjU9qA6MwGlsIqN+YEGsTbWjVMOJkLQ3kLy\/XqQRlUMik93ZT\/sAMJa9empC2mwVawxwTUfIdzOvPhSXXIljMEmYpiHHS6WGpy9jTEqo5CeHMz\/FWCQMnqtDl6oLoKVdSzwjpq3E5mHK0ELVWBOkyq+1AkYwi3x26VUlvtJJVqjV0oQz7NxBZV1ObRVPvgbJz8nHKlwSWbZa+J+46heF731\/NhtV+ToK8HMRD\/I2NsFcQEst6JtApKRUAl0K5cnn6HVJiA+DBRDq0dYf4tHbyOhXrayeDSBqbzBi9juhkgpZ8F+990Cnzhorkp1bkyNOcX5CBvjvNCdrP2sWqcWisMTKhmxDlXWue3arg4\/4nem+EAdE9VTmd2mLByQNQisghx1M\/y7Fi4eGqVrSmgnzeg==",
+                "iv": "FLCvbrRI8MK8dOFB4DSCYQ=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:43:03][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:43:03 --> 1 2
+ERROR - 2017-07-29 11:43:03 --> 2 0
+[2017-07-29 11:43:03][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081OcduD1uij800gCvvD14WluD1OcduS",
+                "encrypt_data": "pt+xd1HLF5opC+40tSYf2Vb36viWbv9B957LwIDCp1yEt0XRCleVvVGEvei+sGF3lAYSUNc2\/N8K7hHpQqpxffcofW46f45XCk4dBFLGmNVDRRxDaWZnR\/biHW9UlmJwLxFLVng48dCmuTs0eTqioE2SZzMaicLLzmwP1zl0FdXBAIBhL\/pZPextdEYnNdhNkfuLWmn6GVJOFAcXa6TPUYS8J3ruSpKCUF8PXfWKywM8l0OzF6Z9r2VVOeB7K2HOJf0RFFn8oINhsU\/2bjPrr3a+sPEDV6JJ5KF3e20PaFRQ4pFRG2oDMse5PeYXaLVJK+G0H7aagdBf1yGYLXcWn4Rt7R0vSA1YabbftQh5M6\/WJkE62GwyLC9rBoivZus\/Kus0XxemVVTwd1nkZZB68kZQwi5x21a1\/pNhrG+QfN9KZ3qOLv+g4+ZvKloFatzw6XBbQPxsnmoB7kF72CnKjtajWHdXXg15pze\/M8emSZ6i+Yxn6\/Mr+6ZB5XR1i7CoAvjwZo8JUcnfBFENd7Dq1Q==",
+                "iv": "4avHVqsis9+X5QiEl8TjNw=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:43:03][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:43:37 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 11:43:43 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 11:43:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 11:43:47 --> 1 2
+ERROR - 2017-07-29 11:43:47 --> 2 0
+[2017-07-29 11:43:47][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0613EQLe2RfK2E0xgbKe2Du6Me23EQLg",
+                "encrypt_data": "mRQBgyUxGReHg0hlnONA8YGqtRyh30r27uHa27UL6BWDZ29XrOpAaCxm7Eb0\/vECyzFYyI+taCHS3rLQHVPrYUsPub9eGoXGHKq0SsrxIkZ8YXRgVmXLpgq6sd5EaufZyjeW8DlvFBbNE06qZt1nz91oLXtkQuYzB+yRguW2SM6QreSoJdSFajDkFOwGBagO92IHu1hJJtEmfvH\/FCUgR7WTVFSEgeaaiuKNra03O\/elsAyGQuKdgSV3OdAvPvmvbiU+x2vI3qqmhTWGWO0ZEoCZiyDU3S7Dxbhjvq2sCDUopH8SRLcQvNSODVNlqJQFBYHe\/ubsvrIYGvfQx6HSZUGhlfk17yvZpWddss56wAXlfd90A7T1pOVdxVAlfqcy078Djde2vfSd3XEsaLJBiCm7C8gMjIqlhIO5KOkblsETT3dHsbM4Oqav8Y5uLoti7pRVasiw5KN+A58u5QjuXz\/zqMtpRYazrNyARxu7ZFho0g\/VMkuVrMjIvsqVFF1NO\/htlgy\/SfplmLJLiIdiGg==",
+                "iv": "SQNBqCnYgOJf3apKupI3Yg=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:43:47][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:43:47 --> 1 2
+ERROR - 2017-07-29 11:43:47 --> 2 0
+[2017-07-29 11:43:47][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051eeUP60gXZoK14JDR60UVKP60eeUPC",
+                "encrypt_data": "FiQVLOWlVS6kuR73QOVHudih6B2xPmALrzDDf1CuAgxje0olqJrB4B4a8PPG6O7nI\/P1e1zvYiOTIL9dhYWEyOvo3CTwaXud+qbxB+2QtcTWJw\/gxrxazSB8fj2am9DEx44RDyZsF4YLA\/lSz9Rq+0RY\/MqoTzptTRVlfbsIUIMs1rk+88m4T5qbgINSnZrgeG+QGMQCJbTC284HS3YO0W1cp8MkkfWp2kEC2OhNqik7FwdwTF4yxWVugFaLy6dNMDb7XxnfKrNJlim7f5kYA1MnRZASf8QnAx4UAuF1yfYuflVKFfsRw0zPtzqpWwPS9L5pagqmuJN0tXAA9U+uROorogu2b17cNthbL6G\/1FEBLJbGChxG2F7kioVF75CQuiuiKEM8KHiA+wAxFIpVvSCV\/M+XurMbFT44Jx6qr6gpIk0li+wcHUWi++WezrwZSM\/tc6bwdFyyxVz5z0q03TqAj94\/r1nZFAfN0\/2Jk1Ylv1PvvWeNJ\/+\/MW\/wdbGtFWYgryop\/l4FObvuljKqFA==",
+                "iv": "HAYmqDnWe\/4NyytiDB8nMw=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:43:47][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:44:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 11:44:31 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 11:44:41 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 11:44:41 --> 404 Page Not Found: Faviconico/index
+LDSF - 2017-07-29 11:44:48 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 11:44:48 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 11:44:49 --> >>> User->loginrecord()
+LDSF - 2017-07-29 11:44:49 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-29 11:45:05 --> 1 2
+ERROR - 2017-07-29 11:45:05 --> 2 0
+[2017-07-29 11:45:05][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061XTr5J0ZPlXj2VbI7J0ava5J0XTr58",
+                "encrypt_data": "14Q7pzYLyKd7yLXnmJeaBVUV5LwMnrxyPpq5ju5eIF4Jv3Bb+Xm0MjWDvn0VBAn3z1dkCZcqVw4rBMG1zgleUAhhtOek7BCSeRsOdJulFLP1smEfZ+u4YnvRyaOmgvWXzok9aZq7\/RhV3cbzdcropbIft9CMRaUTAqMF3UMKIo7sfb69+JY\/cEGMQ6HoZsyCETP84ICT7l\/23s28OXi+17TTBcO2DJf2Sweb8uee04zpt+Zq8EGKoX60yuOJE0nI9EmoJRpjNufiYYkRVR7kmWB+Uat9bXXcX4S3CyChhOYkjgewNVydffqFKdHvvTlDy\/Jr64xptVFMvjNl5xV5cWLTuR31a269UpNe96lwYSWVW41jEPgtlg6DWfv0LprTTu6CMUNvg5339\/4phLKnOVZTBujnyPclZQzsaHLG3tkGC3L4ETI+OsQl\/Y3hCq1P\/ggAyUquIDyUNCTtLyMXUXv18tWtHNA1R50OiHYqel6Na+2KMWxqLHXJ5p137DAppuva3rRxOWTkjpuyBPM7zQ==",
+                "iv": "fR05JejEDoStgkHMR7CRpw=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30001ms"
+}
+
+[2017-07-29 11:45:05][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:45:05 --> 1 2
+ERROR - 2017-07-29 11:45:05 --> 2 0
+[2017-07-29 11:45:05][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001OzLNZ1ArVyX0H36NZ1zAsNZ1OzLNY",
+                "encrypt_data": "\/LokzOabnh7fNvbx\/3QQc2iuZe97Dmm84AEKRTqH9eK\/p2fEt2yfbqZQxVaaRnkoTwt4N7Yk1y1gXijjXYEx42+Dzcp\/p5hF+7LyOPToZ5LIN+W+ts9b8Sd9ZiXrEm+5BmjRAuKD\/EFbOEf2f+ILLAOcOjEJkABRMETt1T4lSd2FlLylteFeCK9bl1gL1EVePcsvR4N8okCGi5T79SE5Fj\/zfLJbX6pY7NISgWROuaZVwa1xlgUTkoHTMKCsmWrYsyyNJRu7nrKlHcjdeHNbkmBMFVefk5iquGGUc7hvJmJqBkLrUOWij56nxBW1+BFTnANyfUDwAtU\/vZYwwtIJWX4NFmR0p7FYBfqnXuzM3knHb7OCJolMgzZ9cV6JinGUnOfeE6vdVw5rp26TNlKtzAzBBtzH0RWM9av0GLfChcKJn675MSRLCvOM4HmiVqMTUfVVIOj66uTaqwPt1RB8xde72nS3NKwvOhamogbXlp94if3NeqGkUBJfum6l6vQZu\/SYC2RDFZyStY3wn4D\/cA==",
+                "iv": "0ctvnBdh7KHw7CNf\/mh6Cg=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30003ms"
+}
+
+[2017-07-29 11:45:05][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+LDSF - 2017-07-29 11:45:19 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 11:45:19 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 11:45:19 --> >>> User->loginrecord()
+LDSF - 2017-07-29 11:45:19 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 11:46:21 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 11:46:21 --> openid=oPicY0eKLErSVPY9eCynPyHwZYB8
+LDSF - 2017-07-29 11:46:21 --> >>> User->loginrecord()
+LDSF - 2017-07-29 11:46:21 --> openid=oPicY0eKLErSVPY9eCynPyHwZYB8
+ERROR - 2017-07-29 11:47:53 --> 1 2
+ERROR - 2017-07-29 11:47:53 --> 2 0
+[2017-07-29 11:47:53][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051Qu32X1WWcVW0e4X0X11Hf2X1Qu320",
+                "encrypt_data": "bO6CrC9LvPw0tr3MXGqPqqUyR81sByBiBcSfkvJUKyFnohMTwzWnT95nnxNWU1gVw0kjM6Gpcpk7SgpNXmtisGq2\/tpkI2CqwBxtTk5gYniqVqw5wLdmJ5y+GddGuw5SKYsFZ+mtivjTBhr4P1k5tAiP+do8T3aPhsmp4Xc9JV\/L1NFk5hvDyejXvL7+Nqp1GDKdeOa2usmaqqhfcFx8GQMK+vllelpWNxJSRato4X4Gde5Wn0jKWNVheS8o+6d4BzfVJK64J8+MIGUM9Wl2jXCBHC+Oge8jdH3ZocXZsd171\/skxGyQYqKj85VZmjVSFrcpP3aQqxUmrpIz8rKHkWq06gyFVqv6ZdrGebQzl8Ufqe3Yw02\/kttwOGOTefR6ELgF8OqnLdqdd49py5jeLAKEF+0cc8LAfHaCKJdh+h7DHLcMfISK9P4PG7i\/zU+v3oVLZUs7AcpPbP9JDFPJwCsMCHRTZSY966leF0nuPpJVT8McETBIeY2voYJh0xUdNbSSQQHLKegkVkNbu5x9Tg==",
+                "iv": "G\/ZuXAaBdCj31hC7XfmpFA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:47:53][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:47:53 --> 1 2
+ERROR - 2017-07-29 11:47:53 --> 2 0
+[2017-07-29 11:47:53][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021wCMrh0aOmNz14Ufoh06OWrh0wCMr2",
+                "encrypt_data": "nX\/MhhLgZp486O7uRRYaamU4QEQk6wDy6ud6U+GjZxjFajt+Vo\/s2CzljdNmAheO1gq74A0KQFX2PKBTVzGHX6iI3VjC9eujQq0dL6RGNYv2LEqj4QmGW\/txnWewRls1L7lcZdM55ykcd1aBd6uPRKUtn7FXoIlTCe6gElHKpyMRJePJtpA9gTVACji2ZI8jspz6fEcaHmJxZJjllviGTZY1fTp\/KjEljqMDD1MV4N5561L1aWAwiEYNwjRgvSrligKFufR15vfeyl07C09xuPEwtB1Busfad45knBjFcnp\/4Eo4+E+alKYlqjjei0YFh3n576eVqhGIDWtzBfStSqdF0eKX5p1kvWQ66PU476o\/8JV6rxCN3M1MyaUvoDwJ6\/XOm+lRjNFHmeZaXjSqsCDp5\/1sQu7En4E9GkI9yhxpKw+FRdTdtnJdbsI0F9jI+2NYU9r9AworQPGAJ1xaQ73GEANMk9wiKQON6FAhpulCfjzj7Sqnpnl1g5RlwxK8zgFr4zoCRsRDTO3+M7mTOQ==",
+                "iv": "utFAN3X1hbL+D2QrB9DfQg=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:47:53][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:52:07 --> 1 2
+ERROR - 2017-07-29 11:52:07 --> 2 0
+[2017-07-29 11:52:07][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041pnMeH0pW4Fk2ctNhH0luGeH0pnMeA",
+                "encrypt_data": "dDU4owqw9XmVDWTeBMSqVnTU0ZxsYraInBd7VobvFSNvQypWyqT20tMnaeFnq\/gnkTCQgqg3eO52Fq6Uxd\/CK6uFVMnS9v2X8QYd78aGxczlkPExLWEnIKhNyx+\/ta\/Dzscka5JZApt9Ju8qyqwJkFxnN+ebREFFAcrcNdGuWfxMOvgZhi2cK0JeSUV9JedN+qxxopFR7NG8aljMJEkoUkTUW8nPmXFZo2Lbmp7A\/TN\/dpJqjw34m\/i+\/Ou131wb2jHGSFwr68lHldGTvKF+5wjP8TUuSxXN\/Ry7coG8DUoNORZaHE+Sbb1E0+bhyFezC\/4h1GS+azjio99xG52b1vopuLcXEC2yDXZrJtBGX7B1G2iRecZzTQksAtLmWZLNLFBuwEJQrZcQgkDl3LLsVRjEmMUL52hNAUawa5rQViYhz4yUnpVKCXIigOXcL5daqLImzsQ8XxgZ9RHcfRgC9PV4o6yd\/SjOoy9T\/JVnex3fPee7VayNzqaJVGv7fXybS3O+pMkK5U2zJfToQMg0yA==",
+                "iv": "O8p8JbOM1yGIZmHEfbsyRw=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30003ms"
+}
+
+[2017-07-29 11:52:07][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:52:07 --> 1 2
+ERROR - 2017-07-29 11:52:07 --> 2 0
+[2017-07-29 11:52:07][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0712qjyc1x7ccs0aSVvc1H5Uxc12qjyK",
+                "encrypt_data": "GDP55kZ0zJr2xnYQfSBD3fTu90Xs\/com+5TCbTulOxtJ2rY9FtzW\/Jn11sbx8qldnstf0N7MKe49ofneHI366rpm\/vnB9uH\/g7haoWc5VQ1cUoBsJ9hf3kWzC5zkCLWxYhwX252vQ8E1kWWrhpkr1LAkuojb2Tf7E5VorqUzZx5J94ehFV\/zw86jWO0OGn7AiO89tXYnp9SZ8x31ubnUF6bHpKmhc7xzQ18kDvbOw709\/Ax+bo3LysmOyo8UkJxn8uF1HsmFF\/ExwIllrAFHGW5VynN0pMu0zprcJIZo\/SYTxQ26Z3YFncTVoE+bVC2oejUpYL49iTwAYkHwli7jtv0BYFjXT7o1dDwYblitf74TD6jFrf4qPnmiqUz9rb8i6nzwPzOh13Dy6GsM6zjBEPVEPVq6hGng3QycPYCStEgu7vmejNvWx4Cd5Zk5rt2uXWTkvfkATPb\/Jl3r6gKORSs9+8M7FVdf8Ze3T3lS4IHUdPnZl0eKDbvk4mAeKU2auRh6MPAlKK8ZPzSb77KqKQ==",
+                "iv": "24RzDmqU6hYou6gfq5z6EQ=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:52:07][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:53:08 --> 1 2
+ERROR - 2017-07-29 11:53:08 --> 2 0
+[2017-07-29 11:53:08][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041MyvlV1vNEVS0s0DjV1LzJlV1MyvlQ",
+                "encrypt_data": "\/\/jZjIuwkDhtUVusa5sKEudc54pCulWZGijSEzgijEFbUXjnalYe44nXvjX9Y1QNW6pfdNc4hq7yUXA05lBx+qB5T9AGi5VJAEVQWjPnsxFlEf4UhzGqJC7F0ZabkKTXfKghW8zvSmaBfMuM5oV8zFeVcr1WpU3u189cJLx6kSIrYSklrw8R1JsRqA+Oqn5YJSFHMDO31OYSS9GcgvOcB4pKZF0bRK3DVQyC1AKugUsUcuQ0toBwRAMXaQhr6yi63lMAgcOGhn0x6nBAD7CrrjGfQemPuwEkNu39ufGb8wNaE6nB6briiWCSmUY7KVi2xo9aXWITEcu5umfuUPs\/oNyWheSr2uYZMXhoZv7SqQb1y2HWlWDtZp+ODGBS3KEJJABwGuBi4GDOzK3DKuilirysFv2M\/mPU5ixuXFgG3QAsATKdH+6eSJmDwHKOJ8enSjurLPSznLhfqfFzqdG3t5puVk7xWCKMbjQ5XPc\/R\/E65f8fp053MtH9BDBM0oR1iWXRZVQGcioW9kXC6Ocppw==",
+                "iv": "s0oGoXhObHteiUsY5oJ3PQ=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:53:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:53:08 --> 1 2
+ERROR - 2017-07-29 11:53:08 --> 2 0
+[2017-07-29 11:53:08][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0717NiIa2ciwkS07HVJa2M3fIa27NiIn",
+                "encrypt_data": "QOuFOUBBJEMk3tEc4t10a+9a6YS5xCUp82V07LQEAUM4yKs85jDuX4P99fWs\/RCtM3nh+XZ\/zRfNQxcum7U0iptJiLScmf81dTUdmg0SBdug999qCJbt37cWt1FwRknx4yteIxwC1vgsogeyn7S5PbUCyoikIi449J7Z+N+dxjIHUHgVsJFOrKLgn8F7Cpsk8EsrTiuU7jtCat553g2DZ3OsEVNPhEzRVZu36nRdnK5k5s2XMUhc2w\/gUhMY9sNBj7vxcJ8WV52uDzOLUpKUJOl1dqvUsFe1CypAAEF8fSNNfwTesvRgAHs\/K5kkc1boOMPEcAwZabUZLNls\/8U+c2d1mrrRyaFF4c806CVpmK8lHc\/KMLlwCoFA6fpSLHSUEO5beZaM6P8N1oX4slvT4z1wpPCDCxgTsf00F9trXspjJKMr4VOJqqw0KK7X\/cg0cu3Ns5ck\/SBlgJrZpZqRoNQSliGrdTogOp\/qnSWVR6louwiigruq5Vnag6sIo7TTz+tnu507E1CsXJXavFx+ig==",
+                "iv": "6gbo0EvfiXRV\/vQ2EaVqQA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:53:08][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:56:32 --> 1 2
+ERROR - 2017-07-29 11:56:32 --> 2 0
+[2017-07-29 11:56:32][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021l6a1Q181Em713lAZP1BI11Q1l6a17",
+                "encrypt_data": "NmB7ahGHBhAmNJ1OWw8\/oNjDGVMk3tC0aOMKcWsTR3TRbgiIjrX7uOw8ypfAujPoyDG8w\/OctcoPt\/dcRp8tjMfOGobKeR+J2CDHYsSHCne\/dpu8rc4dsHiNib+exIa72Blfm3erqb+dvU0GKVecRnA8rH6RqOp17a166kwUdobc\/pdcMvbQJwwQqf7AWwn0s8csDSPXT5HY5Rqh4eFybfqHHK3t93pJ59CVI+DxzwMuacEQyybDOa5xWEcg0dhboiUEWAFn+Y684ctIDWCGjBLAvFWcRnZYqHfdNZYRMtWWqq0ZVK9o1pLrtteuzPnpoRE6GthxX2B8m126ZYW86mX7iyCk1iUeDfLU43RdgR1rvlB4dLJjAkl4iximzlrk87++Wt2EdlhDnWaNo04ZIOYhHZPdAlSn3yjNGaIwAOthPc+8JG9RKmzWeYgPz8BQtU+lvvlRnLE4l\/6mXTdEU84nUua9a8XkLFEZYTAgodwJEQRqB6udZVIjZeIX5JjZr5Dsh4W\/6CBH20i6wYaTj76r+GS00noidqi+43CCtt0=",
+                "iv": "dpocOW4uov7+3BBAzD9rjA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30003ms"
+}
+
+[2017-07-29 11:56:32][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 11:56:32 --> 1 2
+ERROR - 2017-07-29 11:56:32 --> 2 0
+[2017-07-29 11:56:32][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021yl8hU1Eqt1U0WwWgU1jIXgU1yl8hS",
+                "encrypt_data": "71OR8tcBOmM00G\/2hpcEmqu+WSymBrHloVDb6v2v9x\/ZbWNRN5H18YliFJ3R2ptHIBW6sEPMJfQn\/TMqWZrnm8lXFejnEs2B3zOw8SkRMj3Y4r78QmrCd7BBnPRxKv9oqQeKm6a8g7+IqNTEPmh1kMVzFXtxedR9TCtJWSqDxBZL63q4SLOTQgSxPOJSeU4MmQOiXtNOx9HvEEomz9WEfn8bltBASTK0EO+dRH7X+IfihBaxfMN9tX91cqX3HpfkMgQu\/bje+uWL6COzHh9yaQRuMyBmiX2eJtPxwogw0vUnDepjORwZmEEGnNd49TOvJiMD4yMY\/wCYUb1WjgNsg\/jzmyQyC5FycpRYE5oz0I5IsdmClTF\/QA\/8RmguzjT2ee4vey+IvFYvOYc+OkFVrUqHqUL8IctuBvgxEe3Z2wx35LsfVB6bb5zwYEMjy5KL\/F7SLhMF7TkLe1nGYFTiJbCgX2Oqt6hmbd3NupmOaybkw3z6uBu1H1vHLDYRGruy6drPa6PglropsZkZ7wqYBCCCmhIz+NLhuhsO\/+Jzyt8=",
+                "iv": "PjmV8Dk1Q+aZayMjbNWhow=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 11:56:32][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 12:00:23 --> 1 2
+ERROR - 2017-07-29 12:00:23 --> 2 0
+[2017-07-29 12:00:23][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041XhxKf1gMcXw0V1FIf1M6vKf1XhxKb",
+                "encrypt_data": "mWIRQ4zLJaf1ezNeR1zKRk11ijS2jV\/THbiHFMO3sa4cjk8Gx9jovmmFvDBccagVxyJXTcKrcm4cfcFILdewRWdAYwHYuOsXvyZeIU\/GqU4IQW4+U0zU3IvNWZIvcyqqAuFcLx5FFmoxO7gUDqfLQ2YhqpM4H3aTw6EqmqIZSLrm40uUs5CpaL2RYfgwckfnLRrAcreixVtnhERS5cAY1sj1c1fEucFOhpTIlS9PnxfiRsbcb5unMgrm80jUYULZO7mDwK3jdwRc2YrZg+kGrUQwpM9oBKRTFuKF7MBTB11\/CaNjQjaT71QM9KLogIHjFR\/x3SJdgl643izFolebDykljmaKvXkfBKDrim\/GstlCCqwN7R\/wyxH3dUOr41l+zhtfQCB6JYomv+bPyppgUVEMvTdJTuG7KtuiFRvSnHvjfAKDCGXD\/rUwHNUuxZFaUc9ijkbYvtTv\/xRitjQIFEjquC3EkUQNmnDxLzY3BQfNlOo9clJ9VXVfBNoJFy+BlW4T58McF3tn9csyyOv7AA==",
+                "iv": "9mn5Vj8wkXUHI410ulIHJg=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30006ms"
+}
+
+[2017-07-29 12:00:23][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 12:00:23 --> 1 2
+ERROR - 2017-07-29 12:00:23 --> 2 0
+[2017-07-29 12:00:23][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031Ecymu1V8nf90aCGku1b2Imu1Ecymw",
+                "encrypt_data": "yNfe9bxjy8L6UFu26k4D3H8pvbL4B+G9yZb\/jcjI\/iirf50UzJfCEhKLs2MqQ3jp+OHE5Cn\/CiLqADHx8Lmwvx+lGkf9lZTlhl4lDtp7K01\/NBYiv9mtEYT6CGwvjlIjFmnZ3ksijt9NTYUJt+9UFDXjdhfdu+I0bmpVSr3UCCwAKLclFg12w2OpgJwabP+tlRPi+ZxNhNpUUqiIVXuvcVy93TGGtnUzNcWySy1+Y\/GfL9l+5EeZ5K4pmmuBiJZHQDKg1GFc9Gmn0golcuuS2wag6BlEvjm3fukaf05MzV8DRNGd2ElaWn2rTKqDQjJzc16LGyQvl+xnysJtkGlC\/iXHyTKz0LmPS6TCm8dk7jSSHL4WCu7EoxOYhQQ2KrwRZlj4Hz\/7Clp1UcG3IElWVEGMLsF48N5pbSQM5nV28jYsZv7lDUfzzprfnmwh46xZg0rXjSl0HLp2ZbgnhKtrE4AyxbhUhaWoKTM+9kXFvMaEv739S54KR93r9eEIGMy9uoeaEMR0IQIKKLg842kgHw==",
+                "iv": "v92anD1Ff+vWZVmAEQfODQ=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30003ms"
+}
+
+[2017-07-29 12:00:23][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+LDSF - 2017-07-29 12:02:54 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 12:02:55 --> openid=oPicY0ToNtf9fq1RstociWzt3lxE
+LDSF - 2017-07-29 12:02:55 --> >>> User->loginrecord()
+LDSF - 2017-07-29 12:02:55 --> openid=oPicY0ToNtf9fq1RstociWzt3lxE
+ERROR - 2017-07-29 12:03:00 --> 
+LDSF - 2017-07-29 12:04:35 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-29 12:04:35 --> openid=oPicY0ToNtf9fq1RstociWzt3lxE
+LDSF - 2017-07-29 12:17:12 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 12:17:12 --> openid=oPicY0ToNtf9fq1RstociWzt3lxE
+LDSF - 2017-07-29 12:17:12 --> >>> User->loginrecord()
+LDSF - 2017-07-29 12:17:12 --> openid=oPicY0ToNtf9fq1RstociWzt3lxE
+ERROR - 2017-07-29 12:18:01 --> 1 2
+ERROR - 2017-07-29 12:18:01 --> 2 0
+[2017-07-29 12:18:01][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051P34vj0EfJ6k15kNtj04Zlvj0P34vK",
+                "encrypt_data": "s3Ecy\/QmxiPVA9kW+DigtJElposZ7DtiwWrS1yboXjN9MXHVQf4POH4FSGGz0c8WttCCG11dcH15MGQKj4s6Z8BaLPZIGOO9HGs+Cv1HFC4PdsbEdqCtoDU9waRaMCxNPY7na9Vg7kRq8o0ADDSInzIJv7gI8HeEmLsqs2fcCQzxxtABSgaMMR+zGxUBR37VsTfMttM9fJtaDDpPmFYTbrUEAY7jWDVVcqXOGrh46HqxCb1xJMF\/ZpdhWtTBXeeVxRIZ\/wxdVgSK4OA4YMePLzwlOmpm02Cmooh0T0LPxf\/yHUaTDmEFftVcCmD3w0wVAVZfAVpYHB4qshErYuEpP85B9YG50JdN36U6J+qxAzUIs\/ohQ1l6XYvp6N\/QDT0\/9Rbmwz1wGz4d\/O06UxYmoDQO2OdtZhjRkjH2\/ShcerZxj9BULbXyXgk27pqKGbwvl6UBXrUgq7wUSrPH2aUuiFHk1ZGGhoLn9P9zu3jBKbt032kPkde0SOzwqa4kHhNULRdsf31z0AutTfaK3htDmw==",
+                "iv": "L32Ho+umE2NFvx1pH2LbTg=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 12:18:01][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 12:18:02 --> 1 2
+ERROR - 2017-07-29 12:18:02 --> 2 0
+[2017-07-29 12:18:02][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021KBuW01ytWY02dzjW01holW01KBuWc",
+                "encrypt_data": "SOK\/GhhvUXTRFUciMin+WNlHUDcBXNyWQvnLLLRFq5MViCAHnpL+0NltDb7MbF5QJYXeVVhMO+UJwKFTPGMzf6XcyxhyP2Uxnsu3Z2TkPOxNoFuVN7l9r+PliXEkXtZUZwTuk9NFNNT4jW8u02D4I96r9sSpkOix8yBUp0FYCmFf6KH7o3Yk4nrN+XR6\/xNY+XHtP2ntXQBsrBsJlXFFrgHS9cT6GQcluWLu9\/klvgFyiaDWMtCptF56WhyG99y9k7qMLRzIsvEttbbH9sOwqAvwdyBr9PtyNUP5QY2WZRjY0fcVGY+bQPY3VNdSlR1HKaiKsWvqpH20GVfjHTvn9bmOmNV+xukLz+bcerAhzIk\/7nXBYtsCSmBbU0ViwbmHJHLZTk97FczeT8oWB+xt26OzfwOnaH3a\/+0cQdNeJtMo4ZAAOsKGyiaGP9zKo6oG5lJP7IAzsHZCm44+AE8497yk1KoIFq322NvEXVtA4mHkAXBFPGZpCsCMgOyDFlKgYQAzjfku1eAZIYST1yVKpg==",
+                "iv": "HuKPsRtydNTPVx\/WlTCmjQ=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 12:18:02][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 12:21:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:21:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:21:04 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:21:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:21:12 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:21:44 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:21:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:21:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:23:58 --> 1 2
+ERROR - 2017-07-29 12:23:58 --> 2 0
+[2017-07-29 12:23:58][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041ISbSF1PgUg20mgkRF1jL8SF1ISbS5",
+                "encrypt_data": "LiJBjHj70b1gpI61km0D2F0szvDK62R0D7ahq62XjipGG8LScKCgw6NVu1rRD3iXTHjcWQYE4Uo938LZeqtvZTIdlYXT0FdpKOEgYzqfGy\/\/DNfx7eMRrMGrJMxUtIEPoR2fo00q2W6fFLc9V0NveeA6GzMl6Cy097kAF0bNAXYv7TdaCRvTyGawq0onE6gxB+UstZ3VTTjNnC3YMwSg2rHTyK+043AVt+Ss6\/vnuK4QjCYGzKChhtCZU601Yo0\/uslscQussfR5A9RbJ0d5OmQJX7N8s7IFfqpeDqLVFnDdjrIquY9RONMH8WB2x53qc1wipo1AQaoIH79qgHO8EvlCQr0oV6a0ElYo2KaDQLm8TMbWcy2N6O8f\/YKTi6TaIlcCT\/kqOS1BHqsCuh+9fUF3jue+tnO037xHZBgPMgPXbyMx4BroE5T3x6NEx3stcqGCLVOYT0uc\/er3Juk7pE\/G7cJohb3lJkHEYjvm2VMvaxoaLty0wNSgmT\/d1WTgAOOLwrfA5hcyAthRfT5HUQ==",
+                "iv": "2Qrc73Kfie2sEf8IwT+vnA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 12:23:58][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 12:23:58 --> 1 2
+ERROR - 2017-07-29 12:23:58 --> 2 0
+[2017-07-29 12:23:58][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051uNb4w1P8Pdd0V4o2w1IgV3w1uNb4i",
+                "encrypt_data": "DM4lw1b0fjw0Wi4it+0vukxwNtdE5vYhZHTtISOg3ogAHQmJrtqprLNGsD8z\/9xVZjg5XvzOvAsohwCJ16cptbYeZpnJmAHEeBOwKxzyzR7wqY2o5iDv61Y+10oe3DkyaJ42JWeou1hctZC5ThTlowc3H82pTD6cCQZ440+RRIXbsdd1Edvxq\/9Z4ubxUNmUbngvdEsLgU3LsGC5un6AMbzHZS5vQWcKAnz2q0QjTKVybugyKnWpE07oumVhMAOVuDfFybOOsYMYUsdmd2uFZfDwddy+ShYhEmbyLj+OlYqIaoEYpD6cJD2zGBOEfdmXSkZdXr7FHptU+eVfLon9zB06HMbR7bd95AgdGz5yr6ztsfzTYFNDL3Kw7g5UoCEHUHSJ9r8pXrt57qqdwHnJLNgmYGh3btcEDI0a23+0loe3v52GYjOVQPI1MyAdrtVeLH6Zg\/kyuVC03Faxj1X6bTXoblrJ0j2+3jA0MqQD+DQD95VYeib3me1r1KFRFsCa+YkBNKvruRYmUoar2he8og==",
+                "iv": "b6OIwueL19MUoHxAsfQS6g=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+[2017-07-29 12:23:58][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 12:40:02 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:40:08 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 12:40:09 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 13:39:07 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-29 14:03:24 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 14:03:26 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-07-29 14:26:17 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+LDSF - 2017-07-29 14:32:14 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 14:32:14 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 14:32:15 --> >>> User->loginrecord()
+LDSF - 2017-07-29 14:32:15 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-29 14:48:49 --> 404 Page Not Found: Manager/html
+LDSF - 2017-07-29 15:10:33 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 15:10:33 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 15:10:33 --> >>> User->loginrecord()
+LDSF - 2017-07-29 15:10:33 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 15:34:37 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 15:34:37 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 15:34:37 --> >>> User->loginrecord()
+LDSF - 2017-07-29 15:34:37 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 15:35:43 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 15:35:43 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 15:35:43 --> >>> User->loginrecord()
+LDSF - 2017-07-29 15:35:43 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-29 15:38:33 --> 1 2
+ERROR - 2017-07-29 15:38:33 --> 2 0
+[2017-07-29 15:38:33][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051lODnV10srTS0l0ZoV1VKWnV1lODn6",
+                "encrypt_data": "h2XuQY8YK8FE8E3kDaYq650vXpXblHwLisvSzAXIIW28d5d11fVTWVEOnN+zKTg101+4dmIvthUkbRKx+WU+yTlQeN3GDN4cXWul\/bOcNZAhKAIXxLpgIzY0oEB1igr0PPk\/3wLZfZTVuBleqTOaOSjV0hWqBCV2ySxsAX+N4ViaBOgvjOO0ro955J7sTHtNZN1kHrt+K6DDBYDJ+927Y7ZtUPBqnB8pNdEvGBxhCnisQx\/P2KLFbGGYW4hSsUtV6NYIXPQRCSh2e587MtyenkTwUAz4tjVOiBNMP0vjyHSX3LaOYqQVpswFVuYcD9eBidzRVSvY3peSZa\/h8f+9WWJuCifSqJW7Rme4kmThzDwdPaXNxPNtmB5h5BGFDDXRa5DFdy\/V\/MVhWni35CrSJaojOh7+nVVnlpCHzh9zrAhLzpdvEBK7TetJVsJHVMdovQTIGbcW8vjuG9Eh8Y4V6qfxO5MTQXlLjXwf1rQKcCm3+6z5OOiSa19zBnamG6S6Ok+tx7zqTw63NyF7UxqUUdVVGhnnrZS95Xpe5b2H4c0=",
+                "iv": "jgXI0UtGwZxO4AVCLw9z\/g=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+LDSF - 2017-07-29 15:38:33 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:38:33][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:38:59 --> 1 2
+ERROR - 2017-07-29 15:38:59 --> 2 0
+[2017-07-29 15:38:59][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "081z4I4C1pREw10bgq6C1OtJ4C1z4I40",
+                "encrypt_data": "zgm8ZrRtmF68fQ+CT+gkQorg5Av+oOkDZRe9WYUhonffDyDrCYWf\/gdRN5xFfKkLf\/+hi9jYrDsZQhFVjV9EovQFPMzj2gHXVcigvNoMrfIXNYnZ63D+q1dYrTGeH\/hOowisUp2tntxk12zbC+EdnGlASKlkbqQ0HBjoUfBj6k\/SZpr\/bNssWhh7tEaXBsZy9GacY5f92OBbUMvpbMfSRxzeCYLnwFDr955Q2wkjmc5IgMSkE75xknSYvUPWVhpUQDf1hiwrPH9wsmaWwAS\/e+8ndeHbD0aZ+7FZCLTcIfMijwMMk9j0POLpNOlH7qNNWxaTODTfcMkZDHX51HFJNJldhZS1oGk6PP7KSB6OG4TSRbWZ36QbcvazFC4fTcWvjPjmd5Fqbl9S\/BcaLLfidLdSCvPsgl3gWH6y8Nk1CxADJ1GcGde\/1ZOR8XTr0+FtHOclv1Zl40iu4OBAxOHZmA+RTJJepqtkVAP3f5HD\/AW1fTfEdBo\/IdKRhb7kL3kCQe4Vd\/ic5HZvAmQNvC1vePFN6b5lqUioS+Mw1DF2cv8=",
+                "iv": "jVXSvclhyLuNXLS5Rdpqpw=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+LDSF - 2017-07-29 15:38:59 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:38:59][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:38:59 --> 1 2
+ERROR - 2017-07-29 15:38:59 --> 2 0
+[2017-07-29 15:38:59][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0610eHlW0huysW1mQloW0oCSlW00eHl8",
+                "encrypt_data": "Kt8ofit2E35S8cTIhk7ho2yM4m3WBaCveK+IkLSCRk5LjHTYAtVISZ3nKPW3WYxUgfnjLN\/7k1kZB1D47dWJzimY9Ej01EaqBggCqd3BjOuoST\/X7muYf7FqQ9WLofnPVvvCH2xXDOLagWVAJ8ENtdZp0jkY99BdSZbhoHdar6N4tKg2Ai72J8QCHSdKZRsafigIWPMn\/jkqa0ZjczgEUKx5XMT2sGLKNzeHOxUJGVyWDw1Fnou2mRqwT7GlqAh3RFE8p6oca\/f\/Ln88Ac9kM+OaBlqDfiENlAomIv7KFzEoN+Yof6IzWdRSnjT6ygRnKQzmGAYch1vRx\/o5n4UkmlwyNo0O5+JLWDeb1JpnJTmZ4iYfw0CWsA\/RI\/TiyOOmDEGQHRf1UULci7TGUd+5QAdMYp4bNDVT1IwNCCYdf5yn\/FZ4sJ3JpcHtZacPrNgVuzl3LyCMhI0g5m5UyT820rSUUpFynYGU48Eb8CYmFPTlQP655zRjLox6QT4LJ4iKdDVOnbIE0kBt3L6HNb0i0KSBPgqnd4dO+vvU+bpyXF4=",
+                "iv": "aVGx646tJadv8C3f9kw4gA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+LDSF - 2017-07-29 15:38:59 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:38:59][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:39:42 --> 1 2
+ERROR - 2017-07-29 15:39:42 --> 2 0
+[2017-07-29 15:39:42][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061tXnfh0qL8Zz1Hi3ih0zxwfh0tXnfg",
+                "encrypt_data": "Ibcyx7h7IZXrNkQoStommcpaArrEi2q0IltT9JNd80EwaVHtvJlI\/8017w6xpNEvZbbodjWJBjF+Idrge2mR0syugNCuOcd1t\/rGx9Qcyw5zqDWKav89LByytVXO3vp2\/\/Gp4R7MSojLW\/n3Ne\/En4n86TJZBTP7UG5OwSN6iqwBJxn+r+WSUG\/siAD3Sp4wXrARLBjYKENShpz7E9Owe6FyqVvJ9ow68LAeXoRrUsohA9vFg1rRUVHrUQ2hLiRw4GZeP4+5yMRY34HP2T2+6SJac+VSvKhYaNSuvy3qQaFTVK91GJM9BkzTkmYkU+b+tyFSPBjIa3jGS6aS9sGy1blx5hapuDxcPULil+ZpoYC9+SlGMJ5jKois6N3YspDHf0JoS5nzYJ+s2lWW3WZzWYNzvF+oqzsxdlf3nc\/JB1ZMEpUCYmSmKVc6e4fh96GbvJFU5i5VXM9vnibqOavou6gqun9QxT0D4ZFzP\/GAhQbpMZGm8SEv9GMopXxM4If2KgozV+SwEYaslk8Sk34uan5tsI576F9glz9aSu5sSrE=",
+                "iv": "ctGgwWBgY4auc\/\/KqCaZ5g=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30006ms"
+}
+
+LDSF - 2017-07-29 15:39:42 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:39:42][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:39:42 --> 1 2
+ERROR - 2017-07-29 15:39:42 --> 2 0
+[2017-07-29 15:39:42][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021fDpb42MFteL0qMOd42jIrb42fDpbx",
+                "encrypt_data": "673XMLCp6b2d4wwIuXLf4sR1PDpcLJYoNZ+4JaDgF\/TksW2mAgwJyJRwIxgb0U+utdjHeAIxCheLdC7NAlg9Sr0KPsIqeHv65n4fKer42BhKRlbUobBWn0aV\/a8n7BRqEnF9EUqAwyIsVmhIU4cS02ZAt0p2R5zzKATgh9znKYrMQ92XLKdF\/o4lwkWm0pAMCtE\/o6UeiFrquKI0go8WtI3D8lXSqHMXylkLpf9HQttiqL7PTOhXESfPYX1TMX8eY7aNkLzwLaNvsb7Z6qX1V3iztUk2XDT\/YU\/kdwsp26ipshcovrPh711Da60o6VRQ9\/Zzcwnkeop25ZGidSUVrJHMgYuunI8eLfTR48j6yt5HTqKwLmw\/0iiRqnOx5xezC8YbWhoQqaOP567JQ3uQclNhOJaJEz+QzPZhh2al3YDay2jEv+PIHWfmyeeETcopnw+msAKMWxglPHfLY0aWxSn+pXgpM9ir+24PEae4rVIkQuDJe3s6QVifKrhVCzEZiZFIkF5\/v+C0006dwF6Z1YnCDpZPkm3PRSe6lR4FNK0=",
+                "iv": "Tp6\/GGNOZrzVVUbbkv0REQ=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+LDSF - 2017-07-29 15:39:42 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:39:42][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:41:50 --> 1 2
+ERROR - 2017-07-29 15:41:50 --> 2 0
+[2017-07-29 15:41:50][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "08194i3b2L9LZR0GO33b24St3b294i3d",
+                "encrypt_data": "ZOI9T+BAdhZo8Fr\/k6A0tEcI1NKGCvhKoG7SOqo6ZBOVUB4TrxXsJgF3G3EChyQr+YajGS0oVsX6eKy8Ya0szY63p219SIe2cfDzgJ+qZ5UY2y1ORGNWeff27xALlj1rwHgqhrbq6td6K1xzcplfqbu1PJMTbu0kLBuKNpAf4+xNJj+xCZkvr1UaGNknmvwHAXC9TcX5JjsmnQ8OWwDe\/XP4vEN2keTdwAXJgfC8EJP6TXBihJP35mE53pfBQQg2kdtszmI08CoSVwvra3kDh6l\/+rYNJWmXkhkraSoiK+jL+3xiw8AGG5pHMPHN\/+8VvuCfqQU2gw4kp4yEH2fKVpGJuDhGUOlQTBqSN0XxdJEc\/wcXj31s+K1MKLbWypegluZn9R4LmArUTkdnTAJpZA4u6\/QxA7hyHDlTxdCNx9JRuIRW3cflyiWfk8JptgK4rzJfBf6VE9uhcNsxDOv+CD\/tH43n3jQRimrmV3ajq7QfgMlDcoAohPqdP\/seKUiA8+3YM0M9GGNXtpYU2BZ9WGhLn55D2rxdutjGe0jXF+g=",
+                "iv": "iFxjDWqhj4ecBEB2+HUTzA=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30003ms"
+}
+
+LDSF - 2017-07-29 15:41:50 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:41:50][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:41:50 --> 1 2
+ERROR - 2017-07-29 15:41:50 --> 2 0
+[2017-07-29 15:41:50][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "051QX8K21KMuxL1KlRI21l2KJ21QX8K3",
+                "encrypt_data": "CbHCxpQgWQN089dKMnmiSAytLdPMnOnNqf4AMT\/rBwZg6JIH0F2H8q0wnZyWQNSuo9q0Q4Vtbwy0XmbFiI6f8tvCd4ntX8eC6hWdyccP\/3pgsXPWddNc4l3iRFJVVjxlc88dLd9x8in2Q2dX4gUmCTvzKAfZu0X3\/ug9oRrQwHvOcpx27xHpsd5qWhPphuQF1TvVG722Aa+wcUL\/vNHLiwIbGYwkyNYjJ3lOzwgYN\/3t6bqYa5t5ex9P1M6inAtlGFB+aLqGnRLUaR0PkfHS40Vt9jXuk8urBu4yqKFBstjClkUF5a\/XM7IIAn9zZGtdBSnSgjsuSuFIVMg9QReLfVPIH1rlbQUaC9SVmArSJOSrA2avy9mXvz8Hmm6EmYx+RGvHj7B59bIiB0\/VfhZjVabg6hyMdD2HDEqwR+70ywd3HKKEcj\/OgeMNTFh0rDm7rbRvG5UKdx0Pufpmr32WsHPDaFt5mjiQb4Y9FXR52oTNAtHu1Ml3feIJNe+Azi6PhFc9+LvjpW2wX0c2O02zjKyIx3qoWz4YRgRA0HHdkj4=",
+                "iv": "uK6Bqie0Bw5152yuXWLTng=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30003ms"
+}
+
+LDSF - 2017-07-29 15:41:50 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:41:50][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+LDSF - 2017-07-29 15:56:12 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 15:56:12 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 15:56:12 --> >>> User->loginrecord()
+LDSF - 2017-07-29 15:56:12 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-29 15:56:50 --> 1 2
+ERROR - 2017-07-29 15:56:50 --> 2 0
+[2017-07-29 15:56:50][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0419Lo1r170Meq0osjZq1Pe21r19Lo1m",
+                "encrypt_data": "sYn0pDxBSWoM6Bf1AzX8DSJ0E47lgCgPMOvN0R3jQN8akSJ9gv+opHGQtd2dTTkJxlmXNkQR3DKREsYcSL\/nHFajl0mMBOV0+EOGW90vLlv3xTCnMloTQzr20tiyjS6KzquSoVqqKS8wQBpgcI0DwLdcgLNepDPh91aJxIRZQzz+TLonHQhxG86tqfOTCgq4qEtgWJZWkUs3Dv4HGpuhDh3cGqWuGZDCuIEeopwBV9SvDjWGK+\/NVpzAwSyIPf+dEZjJqBbyuLdSUSQkZSq5sbpjuRuLUrvzuiQJmKMDgpE2pVjoSV3G4BPLLv7LNKHpbf0FwtUfjAyBH\/u3E3RXwTcEKxg7yne5AZ5t3dO5hCXCm4ICyqWckmA1z+JJkzhr1wA+yCy\/O+1RBiQKs+OBuzYvArzN\/CqroyGLrxRGxcUC22aj1NSY0KnZxWhud2GMEdXQq4B7Q9r00u6V27v0nD0SpgvZsZ\/vEButQxq0q+0Q5NQy3xlmcrXkwolhL\/XLa21ktplVvJkyxmQnER5R6QSSv+68oHbsp++VtC6PqNQ=",
+                "iv": "wZbSPAi7vO125pkGnstfVw=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+LDSF - 2017-07-29 15:56:50 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:56:50][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:56:54 --> 1 2
+ERROR - 2017-07-29 15:56:54 --> 2 0
+[2017-07-29 15:56:54][DEBUG] POST http://10.133.193.8/mina_auth/} => [0] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041MxciQ05RACb2oO2gQ03WfiQ0Mxci7",
+                "encrypt_data": "d\/rcARMfVXBUJVOetEfl6DJBxa3m8GJn189\/X1SarB2gzwpYcix+h6mo+Bono3xGKLXQdSbwhHn3h69uwK8q2yMRFfelqPemLDQ\/K07rhNc12jontmj\/x1LoqTsOAhFBShmCscnZetWGyq\/R6UJfQ4OC5+WmaTFg4IV1o9WkE69+8HvMKMN0ylhlpn9zIXKHogylm9wvbpDodkYIAZMRjYc6Y\/gEpT4vWPS4YpLMsXIOlf3zyn3BiYxbgCbH6sCiLvD4yTXqCBSF+cB1+afo50kVfO1tzRXQJjL+HLy\/ud6pKp1YAY+yWAqSXTY7qpPBIh\/YlWGgnE68ecpv5kS1WG5JeWiOQx4oKT02k3yqa94DS+uzvcXUGSMtjvz1IK8y1DBPpD1iyFN1DhZ6r3w8FxqDRCxTxlfe30Yo7XNrISzcqqnk\/kQnvXHKRpP0K1+oyHBkB90HbnN6cMoGCPUYY+7B0VOTgmN\/6BViLTy206cYf6IFCakM2KTMRiRKhupSl22XLAAUXOwc6\/+Jb8ziGIEpdk4jnUucDEfoVJb9eA4=",
+                "iv": "TMIaqkSjK0dtCGwRhlF24g=="
+            }
+        }
+    },
+    "[响应]": false,
+    "[耗时]": "30002ms"
+}
+
+LDSF - 2017-07-29 15:56:54 --> error:ERR_LOGIN_FAILED message:请求鉴权 API 失败，网络异常或鉴权服务器错误
+[2017-07-29 15:56:54][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "error": "ERR_LOGIN_FAILED",
+    "message": "请求鉴权 API 失败，网络异常或鉴权服务器错误"
+}
+
+ERROR - 2017-07-29 15:59:02 --> 1 2
+ERROR - 2017-07-29 15:59:02 --> 2 0
+[2017-07-29 15:59:02][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0319kxFl0GLjum1OMhHl0R5nFl09kxFi",
+                "encrypt_data": "vnyX2MtBWDncGhz\/phrh\/Odfg6gUK1dzpKy3fHo08D8ZBT3Sgj7SUfUI4Nnvz2TM3Se9tcvobkYLQ+sPPoH\/edaRZCj2ef0kvpeW+MVyAyd0E2PET0ASfE7IIpjMXi2lEXL9DpC76zPDTQK8nFEDDhkapudkwbj3Q7egB6GrRmhBFmoL7ZrFdktgkNYBxwg\/0Ed3mY8SMj0pKMKo0jihT2pmbBsklgb8sy2P8ZuXVXcsRFHuhjb0Ns0Is4+uR6OCJOxdU57wrEshdjx1zgri51jTaFUhpTr2N4DW8Py+5cKLCjKc4GET+AMbqZL+KZSbAC6Fke1qDp5nh2Ne7\/6j99qZlc0ZL4j4RwjlAHGQE9zf72W56u8SKgYYXUNO6ZbqcvEERhTowNXXwKmHAKOOB3XqgDPl9Pmp0BSdXM5LuW9WzfkdxW0FC9mcV+XpYCn0R7tlilLy9NxLwjGqUKI3oyIm8hETgwKqKpXMpSXgF3FnnhrdT0WARokndt1kfuYH0lzipo9a58NaTmvg+g34Co\/Q\/pYEmszFJ2iyLjzV2x8=",
+                "iv": "NXC71KpgWsolYFXAoa83Aw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "328fc215cff949f0a05e1ce02e3be9ec",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1501315141,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "129ms"
+}
+
+ERROR - 2017-07-29 15:59:02 --> Severity: Notice --> Array to string conversion /data/release/php-weapp-demo/vendor/qcloud/weapp-sdk/lib/Auth/LoginService.php 18
+LDSF - 2017-07-29 15:59:02 --> loginResult:Array
+[2017-07-29 15:59:02][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "328fc215cff949f0a05e1ce02e3be9ec",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-07-29 15:59:04 --> 1 2
+ERROR - 2017-07-29 15:59:04 --> 2 0
+[2017-07-29 15:59:04][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021vCg6a0HDaEu1Qo69a0JFW5a0vCg6n",
+                "encrypt_data": "4R1kIdepe2XivvvLQm0qLrVHXxRH4MOrUOiAqc\/AhxU+kF99aO+gdeSqRRlbrxHefrz04weB4nxf9U2tQn6CB7FQyLuo0vk0F7sN2I7SQ3cT7JtNgzv5gwEUDC\/woLZAm6wwJC096QhcHfD3V\/LamzrJ98i5lMpZP8SKd2mUWwfF0zw8Z138zfiKGj4GnDJKk5Z7KE6+yyd0V8tKsG8v4Rr5gmkdalx\/vOBT18hGO90\/UsOvLESIZT747cnPglCAVSjQIu1vlgXFpytRcxo0ZesYI5u5f2aVWq4Keym31RLPaRmQRp2mHb3M\/pwGFzJ1sZ5D0XOei0yRvmr59bFwQ\/oSxtWcH44\/FhEGsbMKftENSf+YooZ\/XV9NIA3gfbdCY\/H7iS\/5K3Ef7PjFngoaTqBNiHKCwAdcoYVGnxdRt+mltofpEfkRh7A\/1z+xF8tTCvZl++gMv1WLGm2LaZSZMFFTRNODBGCvr3VXJzUdJVdm6BTpjB2K2sOhp+aeiobr+KM7KQQ0lvihyrOeXA3JT7EOXZkZ\/iWoDO3j6eZg\/gs=",
+                "iv": "bxAS5cLrIc6l90L5Smpy6Q=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "f9cfaa163f69dae6ff214335b35dec57",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1501315144,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "119ms"
+}
+
+ERROR - 2017-07-29 15:59:04 --> Severity: Notice --> Array to string conversion /data/release/php-weapp-demo/vendor/qcloud/weapp-sdk/lib/Auth/LoginService.php 18
+LDSF - 2017-07-29 15:59:04 --> loginResult:Array
+[2017-07-29 15:59:04][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "f9cfaa163f69dae6ff214335b35dec57",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+ERROR - 2017-07-29 15:59:36 --> 1 2
+ERROR - 2017-07-29 15:59:36 --> 2 0
+[2017-07-29 15:59:36][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001xizAk0wDxzn1t2rDk0FYNAk0xizAY",
+                "encrypt_data": "5hE4bLVYABvkZk51venOI1T317Qg24VxpBk0Ozt3zMgGe4A9L9opjshINm1qRxAiNV6\/OvVFgZAmKPjJSg2LtiwRA0qxI8UW5slh6Y5xcmqmPiLiSWvcEYUu6eY5gtWPMeuo+KKHdYSm+o58QcveY\/ZWB6u\/BrFnW2r6mvBLgl6VYsszFJ9tSeqBp9qXxMqTTlE73tLk+Aqws9xP48ISXdmdHd7dJzyhUGZL7RePNq8iLw5MexnM59YvKjdSgJo\/8r3\/5BMI8n7s2eu0V5e8WqLynNn2M0Mzo7Jj11stkz6DEL0F6s\/uXyD8nJb79vf0Wq+XFiWc1HxTvQgyPNPVLQHX5yfEIQaANQlabIo5n4vPF0PU0wT0KHiDi8bl07el4YjDyl2Mx1pxv21oRz1V3uOCCR9HEJyMApZOnQl1W7HhjD9RzFBCnfiw23lU18HhuO5kbcc2yns7PLo4llX\/ByZIwog32u7qSSIXI9o\/EtS\/AolMOPq7ZAdbyWAjqWNcCy62Mou6DUb78XVll8oLn2ZRcdm3xmtr7czUUttM50Y=",
+                "iv": "SnfwBENMncsoco0zBqstBg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "280ca83d168f1844115ea1912f988ec8",
+            "skey": "9e7e173bede24a754eff334f18054708",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "unionId": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU",
+                "watermark": {
+                    "timestamp": 1501315176,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "109ms"
+}
+
+[2017-07-29 15:59:36][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "280ca83d168f1844115ea1912f988ec8",
+        "skey": "9e7e173bede24a754eff334f18054708",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+        "unionid": "oU11PxF4Uy0w_t7N6rhIUzOyZ6VU"
+    }
+}
+
+LDSF - 2017-07-29 15:59:37 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 15:59:37 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+LDSF - 2017-07-29 15:59:37 --> >>> User->loginrecord()
+LDSF - 2017-07-29 15:59:37 --> openid=oPicY0cBD5ZB89KieBFSH-PNddIE
+ERROR - 2017-07-29 15:59:53 --> 1 2
+ERROR - 2017-07-29 15:59:53 --> 2 0
+[2017-07-29 15:59:53][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "061IsitQ14E2281eXYwQ1f5vtQ1IsitH",
+                "encrypt_data": "0MUTGXu0nZm2uawwTZz+0bcf6QC3STGxhmwR0fEtmwBa\/7kn1syndGwrbXfkhwgZmFD8I7sTWUitHSpj2wObXn5qX6v9S7bPAelPGsSDQiPk4D\/SxiD7xB4Fo6LqMl19mBu2q8W962fFBXP+WtUTaR0UMw7HCSPUo+v34To9jS81hAl7BfdzlxklCscXMAmxTEhzU9PN0BvEV3HQIKv818izcdCGpxuAHfjAcRu3Z+QmRs\/vKkN5CPoeqxpnnq821RH0+Ylg+M4gYvIzy\/Jrrwn\/hIC\/Pzp7ruUsB1zpNRvWqiQOeVm7anqllxTCdwndjobgxEXCA4lRYh8G8\/x1CaMJFrfPlw+\/uLeR41\/G72XjgxBRBAJEK+Ct8Yw8l6xsBLCPeUvLrs9pKAPzJfYMyfvKbZcHFmReiqDAAg1zIGWBzJuckYUIV43rggcGlqHl1h2kV4RYCyIwNnyMw11\/ZO65t\/vmNbq563totKKpLj6IBtaWVM1wHgAl1DNBwGfIU2AoM\/SDbEAOCM5ke10MMnQ\/eCsNjSi1HpHgKivDveA=",
+                "iv": "Fx3AOZpAtTbYVUyQfJJI5g=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "e993e19e4080f33ca57e853778de9c2a",
+            "skey": "9fecd1938f9fa93b10238a4e7457cc10",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "unionId": "oU11PxHsDfBM-kQG-tjoJqA0wQKI",
+                "watermark": {
+                    "timestamp": 1501315193,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "114ms"
+}
+
+[2017-07-29 15:59:53][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "e993e19e4080f33ca57e853778de9c2a",
+        "skey": "9fecd1938f9fa93b10238a4e7457cc10",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+        "unionid": "oU11PxHsDfBM-kQG-tjoJqA0wQKI"
+    }
+}
+
+ERROR - 2017-07-29 15:59:53 --> 1 2
+ERROR - 2017-07-29 15:59:53 --> 2 0
+[2017-07-29 15:59:53][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001PqQh92Gu04O0F07i92wEgi92PqQhY",
+                "encrypt_data": "Cn9lEaxr1+xbvHPP5FUMibtjOdWD5VZb2DSB8hplkIA2jBo6FUA0Fy3maHGCeuZkAXtyBpHxGWR8+29P2Ih3hig5isl4HlUN3Pal9ZGONXkcbPPx0mF9aVRgEIsgSRtgzPydZqszyw3ilNzIIPOXXoJoIXjtHkbxOYc\/FMZUaqph0hcKTHs+EvLH4YNtOU9Evlmu7Wxonz35U39OZ5XhP72QqPATetZlXHT8RfoeMBzk6TJ1saik4kyGAMr2WIxPh78jEEON6W\/y8EO3Lvdt8Hl63G+5Ie3BW1k+plyplgWYmfj5HX6QeXziRuGo4qVt3THrwVU5wyeOFAqQsmPSnYgHbO8\/EiZlth15pXgLcfMFPPv6zQZlDZ47bvMjGIvYguqNJhUWk+kKYlp6wT5axiQ0tpwpJySJ\/MlmfEhHs+iPc6jlmQju4szLnStDtFK6UnFhDsQnv6d47F\/sqm8t4n4WbyJXBr2gwx\/kS+ni7kIru+n6i1fwXTgRCImxMM8ZvQP9yEI5v6\/kFsow5J\/E0wPD+Sr3l6AsArHh7C4t9AU=",
+                "iv": "mb\/CLQu956y+kVMMIP+S8w=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "e993e19e4080f33ca57e853778de9c2a",
+            "skey": "501e27f8ed89c9c7158b150587db2ca1",
+            "user_info": {
+                "openId": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+                "nickName": "礼待四方",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELBlqJBD2ZIcibvibk57IE2wsjuDTfHdc6tt21tdEgjVQicUrau9NicDJyn8ADWqj4uxCtAwZpXazShLg\/0",
+                "unionId": "oU11PxHsDfBM-kQG-tjoJqA0wQKI",
+                "watermark": {
+                    "timestamp": 1501315193,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "126ms"
+}
+
+[2017-07-29 15:59:53][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "e993e19e4080f33ca57e853778de9c2a",
+        "skey": "501e27f8ed89c9c7158b150587db2ca1",
+        "openid": "oPicY0dtNCjgr9ot5nWbwbBUAIFI",
+        "unionid": "oU11PxHsDfBM-kQG-tjoJqA0wQKI"
+    }
+}
+
+LDSF - 2017-07-29 15:59:54 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 15:59:54 --> openid=oPicY0dtNCjgr9ot5nWbwbBUAIFI
+LDSF - 2017-07-29 15:59:54 --> >>> User->loginrecord()
+LDSF - 2017-07-29 15:59:54 --> openid=oPicY0dtNCjgr9ot5nWbwbBUAIFI
+ERROR - 2017-07-29 16:02:29 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-07-29 16:44:14 --> 1 2
+ERROR - 2017-07-29 16:44:14 --> 2 0
+[2017-07-29 16:44:14][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "041bVoNs1Xk5Bp0qDqNs1Ff3Ns1bVoN4",
+                "encrypt_data": "DG7dfhFHVHf8W15tTIBePRd7IbO2D73X\/AMvjouhBVstHU4T7aLgtFv8x6AQoHoMo\/1u1EtwEab\/MN7J2r5cyhMA2nMGOGbgUcPBpUQ50X0voMd0wg1SOlYH+rAwTrsNwNxTKBBf757w1NxcI0FyZAFoomaRdHTPW5KapVLhQrvVKtrzCWKjQSipO1XEHiaPrEZmbOZ3XJY28tV6Pf6oko00BYNqB8ZveS3BPdfdeogwr\/BDmDwuG+YPlzDJceGW+Bk6yfSZlJMGNS1C54ZSWzsvEofnKkTaBv0GNF7DqJVUAdAqd4ILjo7+TkpNIbbdm6xjLPP7qOxbtIdGVqnnaMSr44sl0Rn1qTgbAqJOt\/lLrIoklEeX+wUPYyz2fW9OI\/5Er+8zGnuFEdmoqRUfSa9fwYd\/K7OjRSEal2Mfh4iPilKNb9el+0JR9kyTOCWum340BypzpT1PaxOa\/sKWWT9ujxHlbIJPVhjGJoPqzwj1dsW+R+rx6ecMf3+XKtzSjX+PzKLbvWFiHQf5DeWFkA==",
+                "iv": "9S6Ttd8RHOwDBlGmMn85Wg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d60690afa7b5edc080982ec42dc7cc2",
+            "skey": "75d80f77e1180b862b407144351298f9",
+            "user_info": {
+                "openId": "oPicY0dX2SyyDTWCNDcBLiBakjxE",
+                "nickName": "肖波",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELQmHPhWRaEFwqBIDXqub3kicOQISDpPodicypico1YxibGDelpPrvdQsubfkvy7KH7aVGAuTDB7ciahSA\/0",
+                "unionId": "oU11PxEsTkOIaxW3Mc6TLjuGHgTQ",
+                "watermark": {
+                    "timestamp": 1501317854,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "150ms"
+}
+
+[2017-07-29 16:44:14][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d60690afa7b5edc080982ec42dc7cc2",
+        "skey": "75d80f77e1180b862b407144351298f9",
+        "openid": "oPicY0dX2SyyDTWCNDcBLiBakjxE",
+        "unionid": "oU11PxEsTkOIaxW3Mc6TLjuGHgTQ"
+    }
+}
+
+ERROR - 2017-07-29 16:44:15 --> 1 2
+ERROR - 2017-07-29 16:44:15 --> 2 0
+[2017-07-29 16:44:15][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021QJGtz1rzsme0TWStz1u9Utz1QJGtZ",
+                "encrypt_data": "+MCSzazpnOCiXnFZFQC4vueNQnXuqns9ODK9e0AUuCyiFLrru1jnOo1BbZCBk0dZT92yXeXxSZg+mJgVN9TJ0ePeF7pBbclaLvA6rkmxEqnrwjoLAL0N\/h4ej7LMx8sBfTlUsRby\/zRtm8cyEp7sYUBUnGDR+ITJeB5lpfjtFIU\/6A229060l\/xVYNoU3cBG7AsOGt5N1NaJWlglobHA8lYgglqDsTu2PkRZc4HWWFoogCtDHMb+UQQUXRfzKn0IopvtY\/61uPHB7326XS0ov1AB375LWtsRqWo7B+IVJK57jKVduV+6c2G6lk1uJPsf7qhL1Gmt+CM8anbTZWlFVpVKZAZqqqQd1Lemq\/qvMtcGu3tbIWLXEl8UBoO2s77nrIC8qmRiDJpVl4vNDEaQgqVnvyWdf0VIIV6P6v\/7aXAhWoKvYrmz++Ga8IaKpCTiWfgaEExbYLfPaSV\/gaOkbmsChZ8mmtpQDeF2Kd7zZNd3qYXYFH5bon\/3SIe9PKi3rwjG8+iNG33kSG7UQiHpvw==",
+                "iv": "00PgHcoxGm6BPIZd+7wB2g=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "0d60690afa7b5edc080982ec42dc7cc2",
+            "skey": "8258171cd64746cf42fdb2415db3a30b",
+            "user_info": {
+                "openId": "oPicY0dX2SyyDTWCNDcBLiBakjxE",
+                "nickName": "肖波",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaELQmHPhWRaEFwqBIDXqub3kicOQISDpPodicypico1YxibGDelpPrvdQsubfkvy7KH7aVGAuTDB7ciahSA\/0",
+                "unionId": "oU11PxEsTkOIaxW3Mc6TLjuGHgTQ",
+                "watermark": {
+                    "timestamp": 1501317855,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "104ms"
+}
+
+[2017-07-29 16:44:15][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "0d60690afa7b5edc080982ec42dc7cc2",
+        "skey": "8258171cd64746cf42fdb2415db3a30b",
+        "openid": "oPicY0dX2SyyDTWCNDcBLiBakjxE",
+        "unionid": "oU11PxEsTkOIaxW3Mc6TLjuGHgTQ"
+    }
+}
+
+LDSF - 2017-07-29 16:44:16 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 16:44:16 --> openid=oPicY0dX2SyyDTWCNDcBLiBakjxE
+LDSF - 2017-07-29 16:44:16 --> >>> User->loginrecord()
+LDSF - 2017-07-29 16:44:16 --> openid=oPicY0dX2SyyDTWCNDcBLiBakjxE
+ERROR - 2017-07-29 16:47:35 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-29 16:48:23 --> 1 2
+ERROR - 2017-07-29 16:48:23 --> 2 0
+[2017-07-29 16:48:23][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "071Pw7ND1LHiY000MlOD1odgND1Pw7Nm",
+                "encrypt_data": "CqUtJ+no\/3Cal2LqHTDBEHqM\/lbsUapIP+bQEVhd1KXMovsG8RuXDh98Y+5D5Cyerbx9nsRRK0v3jXIxy2fCRtFTAb9se90\/ntw5xTSimfssUMxs4hJb5WxAIGZn297sU0ONoRHbvA11ZyIDpyAY56hfy+4vj3vjRLi+yuTLkTdrBMzAn\/b\/T8lP0aOLYcxSyXz4\/EAwqY3iMe8Ot6j7Fn1KcA+813OWJ0E3a8cKuS9KCPKMM8z+CSdiq1K4ZYTZmsTlviR20lNrxH7cRiTHxkHK4jC91pUFgzgZS79NXzbsVAawhtwFdmWKnjy3q2AVU3dCprXhTRZhHy+1EBorqkgngvyN+hPTOAIu5qBuvpWGx4JyDW6Mr9CmqCb+ztuA1YdQIX6UL77b1fL\/aMFvdaQqAye5aCZIUAkM6kktJ\/xzYezWz1LP\/EsMQxvsuqb0Daob4\/ByLWmsr23CzQRib0ghARr6Yq9oKydbMD8trYQpOq+wu0jjqqeXJAkvfo6tJj83GlFU91MmIeMjuiYogg==",
+                "iv": "YB9y5ao+Wk4wMwX8S39Rkg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "6a01baa5461d669f4528caa4f2beb9d6",
+            "skey": "a0690d370d2f15420e275402ed6827a3",
+            "user_info": {
+                "openId": "oPicY0WW_UTowzw3Bjix3oyxy4f0",
+                "nickName": "琳",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEIticVbYmaUTymy9459iaXlDp9gaibeUyWiaAKkpTTLSiaJDSHgcLSia5qhwXTV7cYrWicibzv32icxdY40Vbg\/0",
+                "unionId": "oU11PxA31NsQ6bZ7ghH8wqJZcQDo",
+                "watermark": {
+                    "timestamp": 1501318102,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "139ms"
+}
+
+[2017-07-29 16:48:23][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "6a01baa5461d669f4528caa4f2beb9d6",
+        "skey": "a0690d370d2f15420e275402ed6827a3",
+        "openid": "oPicY0WW_UTowzw3Bjix3oyxy4f0",
+        "unionid": "oU11PxA31NsQ6bZ7ghH8wqJZcQDo"
+    }
+}
+
+ERROR - 2017-07-29 16:48:23 --> 1 2
+ERROR - 2017-07-29 16:48:23 --> 2 0
+[2017-07-29 16:48:23][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "001GSaZ31LZ1QO1OHXY31YEaZ31GSaZh",
+                "encrypt_data": "RgngE2DmaRA0yX1FzL3XmjIellDdNnz9LuC1L\/4AWPkFZSV0B53epD2vyzo0+XS9zsjf6n9goUTipSRj3rgD\/BokFs+CKUgPfX+VmjG5jzJSeIoUpKJzpgJJE9Zt16tVps5S6RROu1e1GChfTiI4q7SNlbpW9Kcl1UPO6Ti3zlVhonrsXOsu5nv6CbV\/ZpvJlj7LMubEctj8G9Y0Nx7l0\/SjsTS1Jq3IAorQauK\/jWX4TIS167g7EnAr4VRtR9c5rw5t+mtO\/AYKdMFJ1wZJDJgyLJV87OCYuGLJ4TtSFxfrfuI+jyB\/I1SX8pkGMBRRJhpFjcq2YFJRiigPl8Iyso9uexqpQ43U9vU2SEtGcs08Qwd9Zr1Ae7Gc5CeGcD2a7ApyEWKZ0zedYZkRfSMZsTJl8wB6XO\/nZDrRJYVuqQa6UK48clb2aWLtRCRrrwplZor8M1WjJNPeaOHjEYF+4CnFVmpm6Tzx6jJq\/\/+2ygTQMDvsMMXIzzfOp884BD61L0qW3HDAiejckCIXMneczQ==",
+                "iv": "4d5cqhiB5wFlGvml1O060w=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "6a01baa5461d669f4528caa4f2beb9d6",
+            "skey": "729e9c862965b4b480452f4fb7c0793f",
+            "user_info": {
+                "openId": "oPicY0WW_UTowzw3Bjix3oyxy4f0",
+                "nickName": "琳",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEIticVbYmaUTymy9459iaXlDp9gaibeUyWiaAKkpTTLSiaJDSHgcLSia5qhwXTV7cYrWicibzv32icxdY40Vbg\/0",
+                "unionId": "oU11PxA31NsQ6bZ7ghH8wqJZcQDo",
+                "watermark": {
+                    "timestamp": 1501318103,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "140ms"
+}
+
+[2017-07-29 16:48:23][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "6a01baa5461d669f4528caa4f2beb9d6",
+        "skey": "729e9c862965b4b480452f4fb7c0793f",
+        "openid": "oPicY0WW_UTowzw3Bjix3oyxy4f0",
+        "unionid": "oU11PxA31NsQ6bZ7ghH8wqJZcQDo"
+    }
+}
+
+LDSF - 2017-07-29 16:48:24 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 16:48:24 --> openid=oPicY0WW_UTowzw3Bjix3oyxy4f0
+ERROR - 2017-07-29 16:48:24 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-07-29 16:48:24 --> >>> User->loginrecord()
+LDSF - 2017-07-29 16:48:24 --> openid=oPicY0WW_UTowzw3Bjix3oyxy4f0
+ERROR - 2017-07-29 16:48:27 --> 
+LDSF - 2017-07-29 16:48:34 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 16:48:34 --> openid=oPicY0WW_UTowzw3Bjix3oyxy4f0
+LDSF - 2017-07-29 16:48:34 --> >>> User->loginrecord()
+LDSF - 2017-07-29 16:48:34 --> openid=oPicY0WW_UTowzw3Bjix3oyxy4f0
+LDSF - 2017-07-29 16:49:37 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-29 16:49:37 --> openid=oPicY0WW_UTowzw3Bjix3oyxy4f0
+ERROR - 2017-07-29 16:51:03 --> 1 2
+ERROR - 2017-07-29 16:51:03 --> 2 0
+[2017-07-29 16:51:03][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031coLYk1ILeDi0XNtXk1JYmYk1coLYl",
+                "encrypt_data": "JaFokoPG35q42auxvDBRIg217b45VvhaPcoVYn11qeRFmYkQcxfmYdvXBcswSf1Brm6kufGJ4keHZZoiYIsAYdj+UDxc3+faMLCVFd8\/WCWn\/oDziwZuMFmLQVaMBXd9jAE\/YPzXdBU+3rM97P3z\/7l\/OXi2BEB2dkdpQN0NFmGfxw1he5cVY2fNeoh9NgjYbab3jtKXBBo6SR+y0eXCidHGlWkuSPW26r1jwL2P+pNL4J\/tArn23bV4polNQRHwcQrdokuxU1WJdGLC0P6kQZJfp2wlGtTF2JAgN7HfTxF3eFwJYmnqgXkL2QVA8WaQbyLMrZ\/zehVqAor449Dsy6KVsnwC5+X85x4Blwb1ynxOVE523viFziblGOaAFxYbJKdQeZsQ1PYRUZHLJWiFnLBq\/VO7L61naCdH+7Vb\/UKNiKFOiioC9vInjYjuJ1cqS7+vH4Z5SU591f+BLZJj1p\/CMe2JymBzbgohqKM1WRn6CI0TbTu1fqvrvlZKtcmL10VI91k22YwVXZZ3KCUUEw==",
+                "iv": "C+tmBHJtkzKBz9B\/Qn6SMw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "NEW_SESSION_SUCCESS",
+        "returnData": {
+            "id": "1b082d28fbdb01f5be63ab4cda096abd",
+            "skey": "9821e4a320ca432a2dbff157eaf4213b",
+            "user_info": {
+                "openId": "oPicY0cJpwqq_92RP_Rs6lkLW_uk",
+                "nickName": "shing",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEKib91j7h81AqqzNyh59SmdXnHmSjk6CCicj7TvB6s2IsK4oEibp7EGAknrGbDbjOiak3PUs9otX4lLHw\/0",
+                "unionId": "oU11PxCeb8vri9_Nb_9MhItpmch8",
+                "watermark": {
+                    "timestamp": 1501318262,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "135ms"
+}
+
+[2017-07-29 16:51:03][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "1b082d28fbdb01f5be63ab4cda096abd",
+        "skey": "9821e4a320ca432a2dbff157eaf4213b",
+        "openid": "oPicY0cJpwqq_92RP_Rs6lkLW_uk",
+        "unionid": "oU11PxCeb8vri9_Nb_9MhItpmch8"
+    }
+}
+
+ERROR - 2017-07-29 16:51:03 --> 1 2
+ERROR - 2017-07-29 16:51:03 --> 2 0
+[2017-07-29 16:51:03][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "071iFMkF1YrCP20y9vnF1G65lF1iFMkx",
+                "encrypt_data": "kFRsmzAg3YQtjUJcurPjSBRvNoLCTEj\/xXrgHFHSS9o3HVEnCEW3AfoeYWlj\/0T6WqTC8p2beJRocM+IVLhFao6sH7qyXxiCn3lGddg8gM3d6IKg4Yc58ThztOcGO9xeTvyTthCwC3AVQwGS3qQrjmylxsPIm0gDQa+XIlehnEIGJyo9YzTAEU9QfVCF9VBb9rHrF2WPXWxmUlGt3eZVVW0W88Uz4Q3Ga62PMATrHRH6fUNTaL9e+SaeJKk+n9aGRjGKjspYosIeOAxKxaQc+SiXrhUYbyQ9qJtZSA8BwtdliJvAbwVm\/Oxmq5snfJ67wPCzpJdd30zKUkxBBS7GYTBgqJzTvkPUkbuuLhlWSQQiqukvPajnuYIf+6ir1DD607MplKyuk9TxUMW3J3mqVCGEocKq1uS4scYMdu5Um99x\/Pp\/U25Ainp6dWJCGnCx0Ot0K6CIPhVDdTFH+0BKQQZIlL6MwqcP7rnXfF2u1AEMFaMEjYzZY6QLmqxFmxUBFvtW9o+r4uE97kdAUvHygw==",
+                "iv": "P1wUZN5W7SEa0vjXG32doA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "1b082d28fbdb01f5be63ab4cda096abd",
+            "skey": "fdc07edf3ec19d61ddb1ef1cc97a9fe6",
+            "user_info": {
+                "openId": "oPicY0cJpwqq_92RP_Rs6lkLW_uk",
+                "nickName": "shing",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/PiajxSqBRaEKib91j7h81AqqzNyh59SmdXnHmSjk6CCicj7TvB6s2IsK4oEibp7EGAknrGbDbjOiak3PUs9otX4lLHw\/0",
+                "unionId": "oU11PxCeb8vri9_Nb_9MhItpmch8",
+                "watermark": {
+                    "timestamp": 1501318263,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "95ms"
+}
+
+[2017-07-29 16:51:03][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "1b082d28fbdb01f5be63ab4cda096abd",
+        "skey": "fdc07edf3ec19d61ddb1ef1cc97a9fe6",
+        "openid": "oPicY0cJpwqq_92RP_Rs6lkLW_uk",
+        "unionid": "oU11PxCeb8vri9_Nb_9MhItpmch8"
+    }
+}
+
+LDSF - 2017-07-29 16:51:04 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 16:51:04 --> openid=oPicY0cJpwqq_92RP_Rs6lkLW_uk
+ERROR - 2017-07-29 16:51:04 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+LDSF - 2017-07-29 16:51:04 --> >>> User->loginrecord()
+LDSF - 2017-07-29 16:51:04 --> openid=oPicY0cJpwqq_92RP_Rs6lkLW_uk
+ERROR - 2017-07-29 16:51:07 --> 
+ERROR - 2017-07-29 16:54:49 --> 1 2
+ERROR - 2017-07-29 16:54:49 --> 2 0
+[2017-07-29 16:54:49][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "013H353V0NuFMX1A7q2V0EQ43V0H353H",
+                "encrypt_data": "CoFN+cV1Xqo4qx0FlrJ0rPKxKkqtH2uGxsBt65S7hJ2ib+zDun1DHYw1DTFgSkciNlvtlYePMlwT60Jw7wGLfg6L+b8RhgNbYMZJrIpWh\/NpCwtxK8x1qXythI5i3+M8P9pPn6tEHcYERFbJX\/oWhrKp5LCQAZWciUCaaMI9ojeVR4Ja\/RHDuKwk1Moh4VhOcMLcVArX3mf9dh7Ahtxwib+2czrnmBT5n4MN7Yk5pyn9fsTPQOlAugDPoA5FnSiv4BvvxTO77nQ5WazpZLLIYCNuwLdhLrYYQV7WTwIpSLzZHjG58Mw6\/NrE9ckNtA6RAuj9+9IuMDxRthSAZLssZh5GRU9MqMPv+ZtBk7Eo0r5i5d8Yrtq3d8H7YEJvfS2eGlOHtzI6HfmMS0\/TqzrQIm8HoxVNj1CigncZP8FKxeJBeJsXOkhryJhf73eXwXjtf78RGo\/zZNwoPJc1GqQQGB7yz1e4ksGDm1+n7VvUoJjApZ4XSPSR9EPHvPq\/UmNcpvwRUsn0f+DS8ip8nHFjghSeQ3cffvIkXurLlTM1rHM=",
+                "iv": "VmM5XM3Ud66CnirnlopgyA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "c3ac48173b5c58dd1ccc177cc5c0833e",
+            "skey": "7db79d2b5224c0ad20bf2fa6660b24be",
+            "user_info": {
+                "openId": "oPicY0fpeVOoEAW3GndPdUMfNLeM",
+                "nickName": "怪咖呆帝",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/2M99jhPTcZCTsTiayibYJKjOic77AkfH8u6XLvAa1iaABoupk5wsIYRTPOicZ6V8cDAUIicHA7DwicIS29GyAria0rGcicQ\/0",
+                "unionId": "oU11PxDCtCQ-5PQlqy3uPqAj1gU4",
+                "watermark": {
+                    "timestamp": 1501318488,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "153ms"
+}
+
+[2017-07-29 16:54:49][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "c3ac48173b5c58dd1ccc177cc5c0833e",
+        "skey": "7db79d2b5224c0ad20bf2fa6660b24be",
+        "openid": "oPicY0fpeVOoEAW3GndPdUMfNLeM",
+        "unionid": "oU11PxDCtCQ-5PQlqy3uPqAj1gU4"
+    }
+}
+
+ERROR - 2017-07-29 16:54:49 --> 1 2
+ERROR - 2017-07-29 16:54:49 --> 2 0
+[2017-07-29 16:54:49][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0036Vah628c7GN0MxFg62pl8h626Vahl",
+                "encrypt_data": "6BobzjHuO5DjFTkDJeYrVLTEcNUWzHB\/tSe4vQO8F9vybKx6o\/PtEl31w4kmGTLYHK3Shx7Kxs0o5cRywzkpsuH6YlUhwFguUdK3Cm4bwTgcF1PQL+8Rx55T78x5+B4HpYI8Aa+OpFpHeIRiYju1mVvskqnDltN6HWMS5IQjJT3DGPPpuPVWjZpn3jWLU2O1CzLM7Q5YrWFaWtelkWMSow8YURzSOaD4yk49TH+1wjyteuxm1\/o3znyLwfk\/iYvEUpW0aCgZ0PZndcCBiSkqNPVNeYAD+4HjjLcYwdI98rIaIcpQZdBD8Qr6sEjyAkUcfoECvRTiC6ruEwZnvuIJuzgEYHNTZ7Qtt44go6is4MqhAlEdsoM6jWvXRG23XOHq3ILZQe6+LCaYGD6n\/wvoALo3ry9S4\/eMuTcZDw8L2XW4F+QJCXU\/mMvNzU1CqYkMo5lAGyx367\/R08\/VTiHuuIFhzH9kCyRpxcLTs733UIkuMStQD3RpaD3IdEiMipu3stKfZxhP0oNMM64B2emi96Jz+kNnslUTFp5\/LNnSMxk=",
+                "iv": "nZ8XyJBZcJJI80GugvDRbg=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "c3ac48173b5c58dd1ccc177cc5c0833e",
+            "skey": "f7d70b57a04eda7656c2041ec46b7ab1",
+            "user_info": {
+                "openId": "oPicY0fpeVOoEAW3GndPdUMfNLeM",
+                "nickName": "怪咖呆帝",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "https:\/\/wx.qlogo.cn\/mmopen\/vi_32\/2M99jhPTcZCTsTiayibYJKjOic77AkfH8u6XLvAa1iaABoupk5wsIYRTPOicZ6V8cDAUIicHA7DwicIS29GyAria0rGcicQ\/0",
+                "unionId": "oU11PxDCtCQ-5PQlqy3uPqAj1gU4",
+                "watermark": {
+                    "timestamp": 1501318488,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "170ms"
+}
+
+[2017-07-29 16:54:49][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "c3ac48173b5c58dd1ccc177cc5c0833e",
+        "skey": "f7d70b57a04eda7656c2041ec46b7ab1",
+        "openid": "oPicY0fpeVOoEAW3GndPdUMfNLeM",
+        "unionid": "oU11PxDCtCQ-5PQlqy3uPqAj1gU4"
+    }
+}
+
+LDSF - 2017-07-29 16:54:50 --> >>> User->addressbookisempty()
+LDSF - 2017-07-29 16:54:50 --> openid=oPicY0fpeVOoEAW3GndPdUMfNLeM
+LDSF - 2017-07-29 16:54:50 --> >>> User->loginrecord()
+LDSF - 2017-07-29 16:54:50 --> openid=oPicY0fpeVOoEAW3GndPdUMfNLeM
+ERROR - 2017-07-29 16:58:39 --> 
+ERROR - 2017-07-29 17:00:08 --> 
+LDSF - 2017-07-29 17:01:29 --> >>> User->addressbook() opt=default
+LDSF - 2017-07-29 17:01:29 --> openid=oPicY0cJpwqq_92RP_Rs6lkLW_uk
+ERROR - 2017-07-29 22:17:03 --> 404 Page Not Found: Manager/html
+ERROR - 2017-07-29 22:29:57 --> 404 Page Not Found: Cache/global

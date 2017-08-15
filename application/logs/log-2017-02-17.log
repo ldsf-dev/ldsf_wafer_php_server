@@ -1,0 +1,393 @@
+ERROR - 2017-02-17 00:11:43 --> 404 Page Not Found: Phpmyadmin1/index
+ERROR - 2017-02-17 00:15:23 --> 404 Page Not Found: Squid-reports/index
+ERROR - 2017-02-17 00:15:24 --> 404 Page Not Found: Warning/index
+ERROR - 2017-02-17 01:08:24 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-02-17 01:08:42 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-02-17 01:41:31 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 97
+ERROR - 2017-02-17 01:41:36 --> 404 Page Not Found: Order/undefined
+ERROR - 2017-02-17 01:43:03 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 97
+ERROR - 2017-02-17 01:43:08 --> 404 Page Not Found: Order/undefined
+ERROR - 2017-02-17 01:50:57 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 97
+ERROR - 2017-02-17 01:52:04 --> 404 Page Not Found: Order/undefined
+ERROR - 2017-02-17 01:52:48 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 97
+ERROR - 2017-02-17 01:55:50 --> 129811.99999999999
+ERROR - 2017-02-17 01:55:50 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 99
+ERROR - 2017-02-17 01:56:48 --> 129811.99999999999
+ERROR - 2017-02-17 01:56:48 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 99
+ERROR - 2017-02-17 01:57:25 --> 129811.99999999999
+ERROR - 2017-02-17 01:57:25 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 99
+ERROR - 2017-02-17 01:59:24 --> 811.9999999999999
+ERROR - 2017-02-17 01:59:24 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 99
+ERROR - 2017-02-17 01:59:56 --> 810
+ERROR - 2017-02-17 02:00:07 --> 1 2
+ERROR - 2017-02-17 02:00:07 --> 2 0
+[2017-02-17 02:00:07][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "021pPo75023iDG16fE850PQG750pPo7O",
+                "encrypt_data": "tLdx4wtH\/nNjIhMPzfgJHl\/IAMwiVhY5trcBA50UTnjVxn40wHdRhnsDnFSoTssd\/TxLHZxw3u4Nt5l7IqTvNRJTluo6losOI+JvdMadtTSHWI3XumtsUCgf9wK9x89hniVBxcR0qqfCfpBlJGmmpzbzJvMzhKr2o672\/gz2LyjJCvfzTzLceP7SumwqceFC+cZq4BB\/t7ouPDPW\/HP5jRn\/mFcDAc2TrQucOHEZJ813twx2UQT+RgwPWGAiDLFGcPYV8E2eXA0cPmX69LQq5J5Up8Mxun3cE79EL2OU3Dq3xGAvTDydvFdekjQdz9luy6mOQld9Y6utSh79iW1+TUszxblNGP\/GkJ9pZ2PWs\/By8M4j9mSMcAcSqWTx4rtazlH9KQ6elAgo\/DEkWcNNQfxEN0zO\/\/sNnpOQcIbFmn2vHRpNtlliWoH5gaFUN9FPK08KCnunTN4pdpOI7qTn6uWWcwnZ8LFDoC1fvl46JGU=",
+                "iv": "j56+K6IJo7N\/VZrrC6e+qw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "ab1f6b3558982d9e8668d481239d7fa5",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1487268007,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "80ms"
+}
+
+[2017-02-17 02:00:07][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "ab1f6b3558982d9e8668d481239d7fa5",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-17 02:00:47 --> 899
+ERROR - 2017-02-17 02:02:02 --> 811.9999999999999
+ERROR - 2017-02-17 02:02:02 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 99
+ERROR - 2017-02-17 02:03:31 --> 811.9999999999999
+ERROR - 2017-02-17 02:03:31 --> Severity: Notice --> Undefined index: prepay_id /data/release/php-weapp-demo/application/controllers/Takeorder.php 99
+ERROR - 2017-02-17 02:23:27 --> 974400
+ERROR - 2017-02-17 02:31:24 --> 2436
+ERROR - 2017-02-17 02:32:21 --> Query error: Not unique table/alias: 't_good_spec' - Invalid query: SELECT `t_good`.`good_name`, `t_good`.`good_thumbnail`, `t_order`.`order_contact_name`, `t_order`.`order_contact_tel`, `t_order`.`order_contact_add`, `t_order`.`order_status`, `t_order`.`order_prepayid`, `t_good_spec`.`good_spec_price`, format(t_good_spec.good_spec_price/100,2) as good_spec_price_display, `t_order_goodsinfo`.`order_good_qty`, format(t_order.order_amount/100,2) as order_amount_display
+FROM `t_order`
+JOIN `t_order_goodsinfo` ON `t_order`.`order_id` = `t_order_goodsinfo`.`order_id`
+JOIN `t_good` ON `t_order_goodsinfo`.`order_good_id` = `t_good`.`good_id`
+JOIN `t_good_spec` ON `t_good`.`order_good_id` = `t_good_spec`.`good_id`
+JOIN `t_good_spec` ON `t_order_goodsinfo`.`order_good_spec_id` = `t_good_spec`.`good_spec_seq`
+JOIN `t_order_status` ON `t_order`.`order_status` = `t_order_status`.`order_status`
+WHERE `t_order`.`order_id` = '20170217023124043789'
+ERROR - 2017-02-17 02:33:32 --> Query error: Not unique table/alias: 't_good_spec' - Invalid query: SELECT `t_good`.`good_name`, `t_good`.`good_thumbnail`, `t_order`.`order_contact_name`, `t_order`.`order_contact_tel`, `t_order`.`order_contact_add`, `t_order`.`order_status`, `t_order`.`order_prepayid`, `t_good_spec`.`good_spec_price`, format(t_good_spec.good_spec_price/100,2) as good_spec_price_display, `t_order_goodsinfo`.`order_good_qty`, format(t_order.order_amount/100,2) as order_amount_display
+FROM `t_order`
+JOIN `t_order_goodsinfo` ON `t_order`.`order_id` = `t_order_goodsinfo`.`order_id`
+JOIN `t_good` ON `t_order_goodsinfo`.`order_good_id` = `t_good`.`good_id`
+JOIN `t_good_spec` ON `t_order_goodsinfo`.`order_good_id` = `t_good_spec`.`good_id`
+JOIN `t_good_spec` ON `t_order_goodsinfo`.`order_good_spec_id` = `t_good_spec`.`good_spec_seq`
+JOIN `t_order_status` ON `t_order`.`order_status` = `t_order_status`.`order_status`
+WHERE `t_order`.`order_id` = '20170217023124043789'
+ERROR - 2017-02-17 02:44:13 --> 812
+ERROR - 2017-02-17 03:09:22 --> 4060
+ERROR - 2017-02-17 03:10:26 --> 1
+ERROR - 2017-02-17 03:10:42 --> notify start
+ERROR - 2017-02-17 03:10:42 --> notify end, id:20170217031026134580 wx_id:4002512001201702170213951982
+ERROR - 2017-02-17 03:28:39 --> 404 Page Not Found: Phpmyadmin1/index
+ERROR - 2017-02-17 03:51:04 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-02-17 03:51:16 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-02-17 06:09:09 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-02-17 06:36:51 --> 404 Page Not Found: Phpmyadmin1/index
+ERROR - 2017-02-17 08:48:39 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-17 10:46:20 --> 404 Page Not Found: Admin/images
+ERROR - 2017-02-17 11:02:50 --> 404 Page Not Found: Proxyhtml/index
+ERROR - 2017-02-17 14:12:21 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-17 14:40:40 --> 1 2
+ERROR - 2017-02-17 14:40:40 --> 2 0
+[2017-02-17 14:40:40][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031jrqsJ0KKEW322Y6qJ0mz4sJ0jrqsO",
+                "encrypt_data": "2qur8s9uXrrklAio8Gmc5wJvS0ciFRhcooSaHloCikkGxDddHwor+m\/G70JOipxGGqfBxm9dx7vQkX+GdpNQipyhNhbbO7hpFGp040ulPC56iBMX5Oo\/m2HbrLntdoLa810p7TTCIHqD1ZjnG2iM2gMcSWdHFeUhoRML9J34bhwJ7o+SDoryzxxfrqxvDkfVZ9v39iHzOB19DMivYxteNW7gxpcogo4cZdSJdNONRUecwSc9rs84zd\/tTdEC6S3FdPq2YU9hsc9sssqL0jrRmBxiVKWwZFEWptVl5igWyqUGJ2RWl7VmUQ7r9vG7aJl9zmAwxnPCuKCwq8iNOXnnnzmsWflWqpAybZxcymXh7WL02gMU2m9hwITfP3nKhc8Qtm3SuKeSqRxfZoHnf9rEp0ON885NEgFGwBPaTrE6VkQ6fblY6maVMsxz4EFr2CmvxysJAEOdK4cUANXOA8tq06vSJnttA8AWa2LSXP2pi\/c=",
+                "iv": "g\/Yo8C1KuuTh4Ovl1gpgtw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+            "skey": "c13a02c275ad98546f2e709ee4c0653b",
+            "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+            "user_info": {
+                "openId": "oPicY0cBD5ZB89KieBFSH-PNddIE",
+                "nickName": "普通话君",
+                "gender": 1,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eoVvEdGWoKlDIyUibGRJic4ckYwWHy5bJkeTY8vdf4tT4ibjZiccDicibBjoM5N7aTXTSM7s94hMOc4BicDw\/0",
+                "watermark": {
+                    "timestamp": 1487313639,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "86ms"
+}
+
+[2017-02-17 14:40:40][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2a20bd9d0d240a74d6514ce55ba4a61f",
+        "skey": "c13a02c275ad98546f2e709ee4c0653b",
+        "openid": "oPicY0cBD5ZB89KieBFSH-PNddIE"
+    }
+}
+
+ERROR - 2017-02-17 14:55:17 --> 404 Page Not Found: Cache/global
+ERROR - 2017-02-17 15:43:15 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:43:38 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:44:08 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:44:32 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:44:53 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:45:02 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:45:21 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:46:02 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:46:44 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:47:14 --> Query error: View 'ldsf.view_goodslist' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them - Invalid query: SELECT *
+FROM `view_goodslist`
+ERROR - 2017-02-17 15:53:09 --> Query error: Unknown column 'good_id' in 'where clause' - Invalid query: SELECT `good_comment_nickname`, `good_comment_datetime`, `good_comment_detail`, `good_comment_score`
+FROM `t_good_comment`
+WHERE `good_id` = '1001002'
+ORDER BY `good_comment_datetime` DESC
+ERROR - 2017-02-17 15:53:14 --> Query error: Unknown column 'good_id' in 'where clause' - Invalid query: SELECT `good_comment_nickname`, `good_comment_datetime`, `good_comment_detail`, `good_comment_score`
+FROM `t_good_comment`
+WHERE `good_id` = '1001001'
+ORDER BY `good_comment_datetime` DESC
+ERROR - 2017-02-17 16:58:55 --> 404 Page Not Found: Phpmyadmin/phpmyadmin
+ERROR - 2017-02-17 17:03:12 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-17 17:14:59 --> Query error: Column count doesn't match value count at row 1 - Invalid query: INSERT INTO `t_good_comment` () VALUES ('')
+ERROR - 2017-02-17 17:15:00 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-02-17 17:17:38 --> newcomment
+ERROR - 2017-02-17 17:17:44 --> newcomment
+ERROR - 2017-02-17 17:20:37 --> newcomment
+ERROR - 2017-02-17 17:21:44 --> newcomment
+ERROR - 2017-02-17 17:22:16 --> newcomment
+ERROR - 2017-02-17 17:22:54 --> newcomment
+ERROR - 2017-02-17 17:28:57 --> newcomment
+ERROR - 2017-02-17 17:30:25 --> newcomment
+ERROR - 2017-02-17 18:46:54 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-17 18:46:54 --> 1 2
+ERROR - 2017-02-17 18:46:54 --> 2 0
+[2017-02-17 18:46:54][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011nGddU0w7znV15UxeU0MUsdU0nGddV",
+                "encrypt_data": "uhcLH\/wwvHCQbFBFKsOGWd\/CheKQW02n\/oG3Rv\/ppjI6Q6FFm9L8z+1V5fiIDpa64ztBg+3QfUN4\/qnDzOH6NAttvwp3iWuk6D5QmFF+tRMMkn4BNt+gzf2Wo4Y2mv8XQD7hBCz9KWwkGOukFLi7HDAHZWwp2wyEV+xaMh9u2a1XwDaS4wI2w3Gzj7OtPSMJl0qDNo\/Y4DOz5TaUgZV4sDxQV1EZG5075mVP8PKJfhTcnRWGlT0ZXZelJULVvsD31hcdFYWvVUA21Fx3u8B35jr2AsM9E0oKxTqBJfWtLrv9y+CF3tBEe1bFO45\/7Lff9NNlN8fbSvvOfkmjxf8xKDbUdQZxiQeLKBUNpDu1Z4n19CIkIK3Tv9UhSaQdn9xaiyWMIJq3C\/x1Pnair5JjJMVNPFXeUoyBmGGS1oGY6d+TAn4stMuebfDwD9b67AQuov9XcCBzIfgURl5EKlHqb\/siy6FRTOntqsETIox5bZU=",
+                "iv": "cUK3yeJb++3HlX+xKvXezA=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "917fd1e612c68c17dcd0c0204c15cabc",
+            "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "watermark": {
+                    "timestamp": 1487328409,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "132ms"
+}
+
+[2017-02-17 18:46:54][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "917fd1e612c68c17dcd0c0204c15cabc",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8"
+    }
+}
+
+ERROR - 2017-02-17 18:46:55 --> 1 2
+ERROR - 2017-02-17 18:46:55 --> 2 0
+[2017-02-17 18:46:55][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "031xSAur1PiPup0ewNwr1cFQur1xSAuM",
+                "encrypt_data": "EgneCKBs9duCxzJ59oT7ePkVVIIbYSXwV\/mDa8YAT0aZwt1EaHIR8PnbB4sKz0uCKLFRxKfMiRb7FL6sWzL7jCXpqRkDfMVwto++xXFa24SCQ5U8EfNGnkvvvYZiT2gLZSIBA\/VT0+O1HusLZaaU+GrdaVt3kvAx\/xp3cPa++olO4s1vjJ3Ubh\/iQZim8G56SiO4aEceSKuh2Lsh7RMcl+dNtVhBYchQ5SVVcU1iGvKMn3zsrUJPeCVmPU5LIszTK0FQzsmw6xAO43n2h13m4m+aR8QblC9fkr8nPaZsYDzfENTtSsN1ijp6VIGv5vWIctqmbdUmw6xeyj4VvuGRudDBNVaDfSD2YISfUEf9WkyUOYerpfn4+5UQPF\/giYMcKlT0pfxVIOoh1NHE3sk0jqSzPkzYAmmatIPESwbV0h2vB9yd094OeBV63\/hIsubHar0fn1LmVxiEloq+gphnGybDpbY7TIgJRogzD\/AXn98=",
+                "iv": "8qLtTzZN2T2+Z+jOF2kVew=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+            "skey": "8103c0b6b085d12dfa461569d58a5ee4",
+            "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+            "user_info": {
+                "openId": "oPicY0eKLErSVPY9eCynPyHwZYB8",
+                "nickName": "蒋煜天.在路上",
+                "gender": 1,
+                "language": "en",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83ep6oLvpbBfVcYSLBjobULhjllh9epmRg03RiaFZNoTNtoH9JRCRrAcuEjFgkVoblGFFTopTPTOvfgg\/0",
+                "watermark": {
+                    "timestamp": 1487328414,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "118ms"
+}
+
+[2017-02-17 18:46:55][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "2cf24fa4e47169cf5cdc27fae97ea51d",
+        "skey": "8103c0b6b085d12dfa461569d58a5ee4",
+        "openid": "oPicY0eKLErSVPY9eCynPyHwZYB8"
+    }
+}
+
+ERROR - 2017-02-17 19:23:01 --> 404 Page Not Found: Phpmyadmin/phpmyadmin
+ERROR - 2017-02-17 19:45:45 --> 404 Page Not Found: Phpmyadmin/index
+ERROR - 2017-02-17 21:15:46 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-02-17 21:15:46 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-02-17 21:15:47 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-02-17 21:15:47 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-17 21:15:47 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-17 21:15:48 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-17 21:15:48 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-17 21:15:49 --> 404 Page Not Found: Res/js
+ERROR - 2017-02-17 21:15:49 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-02-17 21:15:49 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-17 21:15:50 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-17 21:15:50 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-02-17 21:15:50 --> 404 Page Not Found: Template/default
+ERROR - 2017-02-17 21:15:51 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-17 21:15:51 --> 404 Page Not Found: Images/js
+ERROR - 2017-02-17 21:15:52 --> 404 Page Not Found: Templets/style
+ERROR - 2017-02-17 21:15:52 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-02-17 21:15:52 --> 404 Page Not Found: Images/default
+ERROR - 2017-02-17 21:15:53 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-17 21:15:53 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-17 21:15:53 --> 404 Page Not Found: D/js
+ERROR - 2017-02-17 21:15:54 --> 404 Page Not Found: Skin/default
+ERROR - 2017-02-17 21:15:54 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-17 21:15:55 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-17 21:15:55 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-17 21:15:55 --> 404 Page Not Found: Style/default
+ERROR - 2017-02-17 21:15:56 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-17 21:15:56 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-02-17 21:15:56 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-17 21:15:57 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-02-17 21:15:57 --> 404 Page Not Found: Please_read/_search
+ERROR - 2017-02-17 21:15:58 --> 404 Page Not Found: Pleasereadthis/index
+ERROR - 2017-02-17 21:15:58 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-02-17 21:15:58 --> 404 Page Not Found: Warning/index
+ERROR - 2017-02-17 21:15:59 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-02-17 21:15:59 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-02-17 21:17:04 --> 404 Page Not Found: Wp-includes/js
+ERROR - 2017-02-17 21:17:05 --> 404 Page Not Found: Skins/vector
+ERROR - 2017-02-17 21:17:05 --> 404 Page Not Found: Misc/states.js
+ERROR - 2017-02-17 21:17:06 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-17 21:17:06 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-17 21:17:06 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-17 21:17:07 --> 404 Page Not Found: Include/js
+ERROR - 2017-02-17 21:17:07 --> 404 Page Not Found: Res/js
+ERROR - 2017-02-17 21:17:08 --> 404 Page Not Found: Js/wind_editor.js
+ERROR - 2017-02-17 21:17:08 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-17 21:17:08 --> 404 Page Not Found: Styles/prosilver
+ERROR - 2017-02-17 21:17:09 --> 404 Page Not Found: Editor/ubb
+ERROR - 2017-02-17 21:17:09 --> 404 Page Not Found: Template/default
+ERROR - 2017-02-17 21:17:09 --> 404 Page Not Found: Static/js
+ERROR - 2017-02-17 21:17:10 --> 404 Page Not Found: Images/js
+ERROR - 2017-02-17 21:17:10 --> 404 Page Not Found: Templets/style
+ERROR - 2017-02-17 21:17:11 --> 404 Page Not Found: Include/dedeajax2.js
+ERROR - 2017-02-17 21:17:11 --> 404 Page Not Found: Images/default
+ERROR - 2017-02-17 21:17:11 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-17 21:17:12 --> 404 Page Not Found: Js/lang
+ERROR - 2017-02-17 21:17:12 --> 404 Page Not Found: D/js
+ERROR - 2017-02-17 21:17:13 --> 404 Page Not Found: Skin/default
+ERROR - 2017-02-17 21:17:13 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-17 21:17:13 --> 404 Page Not Found: Media/system
+ERROR - 2017-02-17 21:17:14 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-17 21:17:14 --> 404 Page Not Found: Style/default
+ERROR - 2017-02-17 21:17:14 --> 404 Page Not Found: Lang/zh
+ERROR - 2017-02-17 21:17:15 --> 404 Page Not Found: Rockmongo/index
+ERROR - 2017-02-17 21:17:15 --> 404 Page Not Found: Server-status/index
+ERROR - 2017-02-17 21:17:16 --> 404 Page Not Found: Ueditoralljs/index
+ERROR - 2017-02-17 21:17:16 --> 404 Page Not Found: Please_read/_search
+ERROR - 2017-02-17 21:17:16 --> 404 Page Not Found: Pleasereadthis/index
+ERROR - 2017-02-17 21:17:17 --> 404 Page Not Found: Wikilibd/PmWiki.ChangeLog
+ERROR - 2017-02-17 21:17:17 --> 404 Page Not Found: Warning/index
+ERROR - 2017-02-17 21:17:18 --> 404 Page Not Found: 4e5e5d7364f443e28fbf0d3ae744a59a/index
+ERROR - 2017-02-17 21:17:18 --> 404 Page Not Found: Jenkins/index
+ERROR - 2017-02-17 22:34:23 --> Severity: Notice --> Undefined index: HTTP_OPENID /data/release/php-weapp-demo/application/controllers/User.php 32
+ERROR - 2017-02-17 22:34:23 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-17 22:35:35 --> Severity: Notice --> Undefined index: HTTP_OPENID /data/release/php-weapp-demo/application/controllers/User.php 32
+ERROR - 2017-02-17 22:35:35 --> Severity: Notice --> Trying to get property of non-object /data/release/php-weapp-demo/application/models/User_model.php 30
+ERROR - 2017-02-17 23:57:30 --> 404 Page Not Found: Please_read/_search
+ERROR - 2017-02-17 23:57:39 --> 404 Page Not Found: Please_read/_search
+ERROR - 2017-02-17 23:57:51 --> 404 Page Not Found: Please_read/_search

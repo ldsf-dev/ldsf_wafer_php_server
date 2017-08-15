@@ -1,0 +1,147 @@
+ERROR - 2017-04-11 01:17:15 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 01:33:42 --> Query error: Table 'r65tsd8o72.t_order' doesn't exist - Invalid query: SELECT `t_good`.`good_name`, `t_good`.`good_thumbnail`, `t_order`.`order_id`, `t_order`.`order_status`, `t_order`.`order_create_datetime`, `t_order_status`.`order_status_name`, `t_good_spec`.`good_spec_name`, `t_order_goodsinfo`.`order_good_qty`, format(t_order.order_amount/100,2) as order_amount_display
+FROM `t_order`
+JOIN `t_order_goodsinfo` ON `t_order`.`order_id` = `t_order_goodsinfo`.`order_id`
+JOIN `t_good` ON `t_order_goodsinfo`.`order_good_id` = `t_good`.`good_id`
+JOIN `t_good_spec` ON `t_order_goodsinfo`.`order_good_spec_id` = `t_good_spec`.`good_spec_seq` and `t_good`.`good_id` = `t_good_spec`.`good_id`
+JOIN `t_order_status` ON `t_order`.`order_status` = `t_order_status`.`order_status`
+WHERE `t_order`.`order_openid` = ''
+ORDER BY `t_order`.`order_create_datetime` DESC
+ERROR - 2017-04-11 02:25:58 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 02:29:56 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 02:29:57 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 02:29:57 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 02:29:57 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 02:30:08 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 06:45:56 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-04-11 10:02:25 --> 404 Page Not Found: Cache/global
+ERROR - 2017-04-11 12:45:11 --> 404 Page Not Found: Cgi-bin/php
+ERROR - 2017-04-11 15:45:30 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-04-11 15:45:31 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-04-11 15:45:32 --> 404 Page Not Found: Cgi/index
+ERROR - 2017-04-11 15:45:33 --> 404 Page Not Found: Cgi-bin/cgiSrv.cgi
+ERROR - 2017-04-11 16:59:11 --> 1 2
+ERROR - 2017-04-11 16:59:11 --> 2 0
+[2017-04-11 16:59:11][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "0013f2ZZ1lt4aZ0Am6ZZ1pC5ZZ13f2ZD",
+                "encrypt_data": "tbKtti591iNTFl4ttJZWjgLVzCBiGhcRGqgthNBVP2nzZwOVGy+BOzBAgBZxpDICKWL6uGdD9xMSivln0KqMoefwdB3Fw3xZ1GJV6meOgq5d1AE2gGAUcBL30HGCBqtClqfEIkGhyaqmfpx5xpI9qrqWmb34eO\/Tl996Pc4JxW75bDfBqW0zUVA9dUjl84CMd73xxm6hKygfnHJ0j5SepeAD0iKEW1vNRTCU+otKTd4y92Ay1U0YJpyjwqtlXeOnB88UUPzwwL72wY9UanFP3GyIslaEnSDLVNWm6yyBNxgDzACZDRswuXmibSWQQu1QUUs8AWQEJx\/UcAIUYg0ITNmIcEIYirzZPUbxM7yZ4tEZojOY7W2qa8w+UrJ7SumkkPignMAnVMPdYTCvTyxBubw4uJAzmAMDi\/jcmk5W\/LF65n75+p5Y5+O4iokjOSzpqjBF5B5AY9QRJWacP34pAGJaqXi2SPktJd0o+UAZQl7QLKLXfTkrMkk2EnqSzsN7WYekVBkYtNZ+TY9T3u5T9Q==",
+                "iv": "hMsIl7GNeOqjsFYnksFnEw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+            "skey": "da9f5e90d083d64f504917d1a19511ec",
+            "user_info": {
+                "openId": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+                "nickName": "小慧",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqYgM5ALODOGva2ZrZLghgB5RlAbzW14jjUmghOodVcsuS5WPl0YLtZKAiaUIOBUCgeOaKd4IBwHuQ\/0",
+                "unionId": "oU11PxL_dgOT3hlFIxnGMMiEaMgw",
+                "watermark": {
+                    "timestamp": 1491901150,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "85ms"
+}
+
+[2017-04-11 16:59:11][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+        "skey": "da9f5e90d083d64f504917d1a19511ec",
+        "openid": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+        "unionid": "oU11PxL_dgOT3hlFIxnGMMiEaMgw"
+    }
+}
+
+ERROR - 2017-04-11 16:59:11 --> 1 2
+ERROR - 2017-04-11 16:59:11 --> 2 0
+[2017-04-11 16:59:11][DEBUG] POST http://10.133.193.8/mina_auth/} => [200] {
+    "[请求]": {
+        "version": 1,
+        "componentName": "MA",
+        "interface": {
+            "interfaceName": "qcloud.cam.id_skey",
+            "para": {
+                "code": "011qrLIH1icpK604UwJH1LOzIH1qrLIn",
+                "encrypt_data": "iNB62x7Dxfu63UtJ4mszjqxE5mebGzuwgdwOXrk9VPzmJIUSC3sJc7DPtoSxBD2h2T7iWp6EqR4gdk3rctAJoSgTROFlUnLbnkn\/cARIcjXbNStDiKD4vGrC+48iN10PMi\/Q9bGzCdlCuFbq7pUkHoJKN9H1mHzDXtmpTlIRnVlgJwT5y1Ng5AxDF9oGV2tyPUQAPYPjVdykR\/6ZI9qBlhJCCs59wslWW1blJKwPY4mnTVGSyPH+T7ji1rQOKKkneMjPYGs6nxpTleLoCxZ4VN+3eqJzheNix8iGAhNs08aAFI7s4IpFsED60GjLSzB\/\/vHY18LRgzXvYoOYsaWBXf447lMVRYei9qDc4mVLGDaFdaBhXJvbEDdqMYjlns07FomEHCLrctND44pqFlr4gCC2oOe\/M\/24MR6IzPQK51X\/GEqpw65If3Xzc8J1GQzoboUcJvRtwmMEf\/FIsalYoc6RN48lDW7K6nlrST2QWhBOkf57KIxWGvkBJ2ASAx3uJBYFRcGwA5+PRCq7qUlInA==",
+                "iv": "gA2NLs0+3RYpe\/ZSARJ\/jw=="
+            }
+        }
+    },
+    "[响应]": {
+        "returnCode": 0,
+        "returnMessage": "UPDATE_SESSION_SUCCESS",
+        "returnData": {
+            "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+            "skey": "6cc5a5891551c6e626cd5b5529874748",
+            "user_info": {
+                "openId": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+                "nickName": "小慧",
+                "gender": 2,
+                "language": "zh_CN",
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "CN",
+                "avatarUrl": "http:\/\/wx.qlogo.cn\/mmopen\/vi_32\/DYAIOgq83eqYgM5ALODOGva2ZrZLghgB5RlAbzW14jjUmghOodVcsuS5WPl0YLtZKAiaUIOBUCgeOaKd4IBwHuQ\/0",
+                "unionId": "oU11PxL_dgOT3hlFIxnGMMiEaMgw",
+                "watermark": {
+                    "timestamp": 1491901150,
+                    "appid": "wx3c13313f866a541a"
+                }
+            },
+            "duration": 7200
+        },
+        "version": 1,
+        "componentName": "MA"
+    },
+    "[耗时]": "112ms"
+}
+
+[2017-04-11 16:59:11][DEBUG] Util::writeJsonResult => [200] {
+    "F2C224D4-2BCE-4C64-AF9F-A6D872000D1A": 1,
+    "session": {
+        "id": "ae44a116fff0ec961ec4edb865c0f6b1",
+        "skey": "6cc5a5891551c6e626cd5b5529874748",
+        "openid": "oPicY0aLfcmWwl9MARbMUMpScmEY",
+        "unionid": "oU11PxL_dgOT3hlFIxnGMMiEaMgw"
+    }
+}
+
+ERROR - 2017-04-11 16:59:16 --> 
+ERROR - 2017-04-11 16:59:32 --> 
+ERROR - 2017-04-11 16:59:36 --> 
+ERROR - 2017-04-11 18:06:40 --> 404 Page Not Found: HndUnblockcgi/index
+ERROR - 2017-04-11 18:28:28 --> 404 Page Not Found: Cgi/index
+ERROR - 2017-04-11 19:09:51 --> 404 Page Not Found: 404/search_children.js
+ERROR - 2017-04-11 19:25:28 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-04-11 19:25:37 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-04-11 20:06:19 --> 404 Page Not Found: Map_portshtml/index
+ERROR - 2017-04-11 20:45:46 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 20:45:49 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 20:46:07 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 20:49:54 --> 404 Page Not Found: Faviconico/index
+ERROR - 2017-04-11 21:14:50 --> 404 Page Not Found: Manager/html
+ERROR - 2017-04-11 22:37:55 --> 404 Page Not Found: Map_portshtml/index
+ERROR - 2017-04-11 22:43:09 --> 404 Page Not Found: TmUnblockcgi/index
+ERROR - 2017-04-11 22:43:48 --> 404 Page Not Found: TmUnblockcgi/index
