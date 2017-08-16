@@ -184,6 +184,8 @@ class Admin_model extends CI_Model
                             $arr_deli['good_name'].
                             '","gs":"'.
                             $arr_deli['good_spec_name'].
+                            '","ename":"'.
+                            '顺丰快递'.
                             '"}'
                         ).
                         '&mobile='.
