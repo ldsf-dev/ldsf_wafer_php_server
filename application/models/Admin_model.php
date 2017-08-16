@@ -134,6 +134,7 @@ class Admin_model extends CI_Model
 
     public function updateExpressNo($arr)
     {
+        $this->load->helper('myutil');
         $cnt = 0;
 
         foreach ($arr as $orderid => $expressno) {
@@ -148,6 +149,52 @@ class Admin_model extends CI_Model
                     )
                 );
                 if ($this->db->affected_rows() == 1) {
+                    $this->db->select(
+                        array(
+                            't_good.good_name',
+                            't_good_spec.good_spec_name',
+                            't_card_deli.card_deli_contactname',
+                            't_card_deli.card_deli_contacttel'
+                        )
+                    );
+                    $this->db->from('t_card_deli');
+                    $this->db->join(
+                        't_card',
+                        't_card.card_no = t_card_deli.card_deli_cardid'
+                    );
+                    $this->db->join(
+                        't_good',
+                        't_good.good_id = t_card.card_goodid'
+                    );
+                    $this->db->join(
+                        't_good_spec',
+                        't_good_spec.good_id = t_card.card_goodid and t_good_spec.good_spec_seq = t_card.card_goodspecid'
+                    );
+                    $this->db->where('t_card_deli.card_deli_orderid', $orderid);;
+                    $query = $this->db->get();
+
+                    $arr_deli = $query->row_array();
+                    var_dump($arr_deli);
+
+                    $api_content = 'content='.
+                        rawurlencode(
+                            '{"name":"'.
+                            $arr_deli['card_deli_contactname'].
+                            '","gn":"'.
+                            $arr_deli['good_name'].
+                            '","gs":"'.
+                            $arr_deli['good_spec_name'].
+                            '"}'
+                        ).
+                        '&mobile='.
+                        $arr_deli['card_deli_contacttel'].
+                        '&tNum=T170317001208';
+
+                    $arr_send = sendSMSbyapi($api_content);
+
+                    echo $api_content;
+                    var_dump($arr_send);
+
                     $cnt++;
                 }
             }
