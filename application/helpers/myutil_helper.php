@@ -365,3 +365,25 @@ function sendSMSbyapi($content){
 
     return $arr;
 }
+
+function sendExpressNo($contactname,$goodname,$goodspecname,$expressname,$expressno,$mobile){
+    $api_content = 'content='.
+        rawurlencode(
+            '{"name":"'.
+            $contactname.
+            '","gn":"'.
+            $goodname.
+            '","gs":"'.
+            $goodspecname.
+            '","ename":"'.
+            $expressname.
+            '","eno":"'.
+            $expressno.
+            '"}'
+        ).
+        '&mobile='.
+        $mobile.
+        '&tNum=T170317001208';
+
+    return sendSMSbyapi($api_content);
+}

@@ -176,25 +176,15 @@ class Admin_model extends CI_Model
                     $arr_deli = $query->row_array();
                     var_dump($arr_deli);
 
-                    $api_content = 'content='.
-                        rawurlencode(
-                            '{"name":"'.
-                            $arr_deli['card_deli_contactname'].
-                            '","gn":"'.
-                            $arr_deli['good_name'].
-                            '","gs":"'.
-                            $arr_deli['good_spec_name'].
-                            '","ename":"'.
-                            '顺丰快递'.
-                            '"}'
-                        ).
-                        '&mobile='.
-                        $arr_deli['card_deli_contacttel'].
-                        '&tNum=T170317001208';
+                    $arr_send = sendExpressNo(
+                        $arr_deli['card_deli_contactname'],
+                        $arr_deli['good_name'],
+                        $arr_deli['good_spec_name'],
+                        '顺丰速运',
+                        $expressno,
+                        $arr_deli['card_deli_contacttel']
+                    );
 
-                    $arr_send = sendSMSbyapi($api_content);
-
-                    echo $api_content;
                     var_dump($arr_send);
 
                     $cnt++;
