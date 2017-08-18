@@ -34,6 +34,9 @@
                 卡号
             </th>
             <th>
+                销售
+            </th>
+            <th>
                 提货时间
             </th>
         </tr>
@@ -49,6 +52,7 @@
                 <td><?php echo $record['地址']; ?></td>
                 <td><?php echo $record['备注']; ?></td>
                 <td><?php echo $record['卡号']; ?></td>
+                <td><?php echo $record['销售']; ?></td>
                 <td><?php echo $record['提货时间']; ?></td>
             </tr>
         <?php endforeach; ?>

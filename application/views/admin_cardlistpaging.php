@@ -29,6 +29,9 @@
             商品说明
         </th>
         <th>
+            销售
+        </th>
+        <th>
             有效期起始时间
         </th>
         <th>
@@ -93,6 +96,9 @@
             </td>
             <td>
                 <?php echo $record['card_goodremark']; ?>
+            </td>
+            <td>
+                <?php echo $record['card_salesman']; ?>
             </td>
             <td>
                 <?php echo $record['card_expire_starttime']; ?>

@@ -166,7 +166,7 @@ class Admin extends CI_Controller
     }
 
     /**
-     * 列出所有卡券提货信息
+     * 列出所有订单信息
      */
     public function allorders($currentpage, $pagelimit = 10)
     {

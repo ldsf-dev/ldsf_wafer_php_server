@@ -41,6 +41,7 @@ class Card_model extends CI_Model
                 't_card.card_password',
                 't_card.card_status',
                 't_card.card_goodremark',
+                't_card.card_salesman',
                 't_card.card_expire_starttime',
                 't_card.card_expire_endtime',
                 't_card.card_remark',
@@ -215,6 +216,7 @@ class Card_model extends CI_Model
                 't_card_deli.card_deli_contactaddress AS 地址',
                 't_card_deli.card_deli_remark AS 备注',
                 't_card_deli.card_deli_cardid AS 卡号',
+                't_card.card_salesman AS 销售',
                 't_card_deli.card_deli_datetime AS 提货时间'
             )
         );
