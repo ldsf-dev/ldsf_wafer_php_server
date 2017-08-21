@@ -3,7 +3,7 @@
 require "http_request.php"; 
 require "get_access_token.php"; 
 
-$token = getAccessToken(); 
+$token = getAccessToken();
 
 // $name = $_GET['name'];
 // $gift = $_GET['gift'];

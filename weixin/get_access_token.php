@@ -1,13 +1,11 @@
 <?php
 
-function getAccessToken()
+function getAccessToken($appid = "wxb0f5b379a85374ce", $appsecret = "fc8d10f449ffd006b8ac00ffb1781530")
 {
     //$	appid = "wx5447c67d2b39e9b0";
     //$	appsecret = "b11f9f14f994bffd8b11d0f175fd4763";
     //$appid = "wxfa0ab76487cffb89";
     //$appsecret = "2cb83ff640a75dc34fa1308c16313e15";
-    $appid = "wxb0f5b379a85374ce";
-    $appsecret = "fc8d10f449ffd006b8ac00ffb1781530";
     $url = "https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid=$appid&secret=$appsecret";
 
     date_default_timezone_set('PRC');
