@@ -77,7 +77,7 @@ class Admin_model extends CI_Model
                 't_good.good_name AS 商品名称|good_name',
                 't_good.good_desc AS 商品描述|good_desc',
                 't_good.good_price AS 价格|good_price',
-                't_good.good_status AS 商品状态|good_',
+                't_good.good_status AS 商品状态|good_status',
                 't_good.good_onsale_datetime AS 上架时间|good_onsale_datetime',
                 't_good.good_offsale_datetime AS 下架时间|good_offsale_datetime',
                 't_good.good_thumbnail AS 缩略图|good_thumbnail',

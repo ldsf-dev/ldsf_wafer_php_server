@@ -166,6 +166,60 @@ class Admin extends CI_Controller
     }
 
     /**
+     * 列出卡券提货信息（条件：提货日期）
+     */
+    public function selectdeliverysbydelidate($currentpage, $pagelimit = 10, $delidate = '')
+    {
+        $this->load->helper('myutil');
+        $this->load->model('Card_model');
+
+        $post = file_get_contents("php://input");
+
+        if ($post != '') {
+            $arr_post = urldatatoarray($post);
+            $redirectpage = $arr_post['redirectpage'] == '' ? '1' : $arr_post['redirectpage'];
+            $arr = $this->Card_model->getCardDeliveryInfoPagingWithCondition(
+                $redirectpage,
+                $pagelimit,
+                array(
+                    't_card_deli.card_deli_expectdate' => $delidate
+                )
+            );
+        } else {
+            $arr = $this->Card_model->getCardDeliveryInfoPagingWithCondition(
+                $currentpage,
+                $pagelimit,
+                array(
+                    't_card_deli.card_deli_expectdate' => $delidate
+                )
+            );
+        }
+
+        $arr_title = array('title' => '礼待四方 - 卡券提货列表');
+
+        $arr_paging = array(
+            'url' => '/admin/alldeliverys',
+            'currentpage' => $arr['currentpage'],
+            'pagecount' => $arr['pagecount'],
+            'pagelimit' => $pagelimit,
+            'pagearr' => $arr['pagearr']
+        );
+
+        $this->load->view('component/html_header');
+        $this->load->view('component/head_header');
+        $this->load->view('component/head_meta');
+        $this->load->view('component/head_title', array('arr' => $arr_title));
+        $this->load->view('component/head_style');
+        $this->load->view('component/head_script_delilist');
+        $this->load->view('component/head_footer');
+        $this->load->view('component/body_header');
+        $this->load->view('admin_delilist_selectdelidate', array('arr' => $arr));
+        $this->load->view('component/body_footer');
+        $this->load->view('component/html_footer');
+
+    }
+
+    /**
      * 列出所有订单信息
      */
     public function allorders($currentpage, $pagelimit = 10)

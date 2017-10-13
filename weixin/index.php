@@ -254,7 +254,7 @@ class wechat
                         $fromUsername,
                         $toUsername,
                         $time,
-                        TEXT_AUTOREPLY_MESSAGE
+                        TEXT_AUTOREPLY_SUBSCRIBE
                     );
                     $unionid = getUserUnionID($token, $fromUsername);
 

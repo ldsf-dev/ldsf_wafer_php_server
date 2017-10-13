@@ -257,6 +257,62 @@ class Card_model extends CI_Model
         return $arr;
     }
 
+    public function getCardDeliveryInfoPagingWithCondition($currentpage, $pagelimit, $condition)
+    {
+        $arr = array();
+
+        $this->db->limit($pagelimit, ($currentpage - 1) * $pagelimit);
+
+        $this->db->select(
+            array(
+                't_card_deli.card_deli_orderid',
+                't_card_deli.card_deli_expressno AS 物流单号',
+                't_card_deli.card_deli_contactname AS 收货人',
+                't_card_deli.card_deli_contacttel AS 电话',
+                't_card_deli.card_deli_contactaddress AS 地址',
+                't_card.card_suppliercd AS 标记'
+            )
+        );
+        $this->db->from('t_card_deli');
+        foreach ($condition as $con => $value) {
+            $this->db->where($con, $value);
+        }
+        $this->db->join('t_card', 't_card.card_no = t_card_deli.card_deli_cardid');
+        $this->db->join('t_good', 't_good.good_id = t_card.card_goodid');
+        $this->db->join('t_good_spec', 't_good_spec.good_id = t_good.good_id and t_good_spec.good_spec_seq = t_card.card_goodspecid');
+        $this->db->order_by('t_card_deli.card_deli_datetime', 'DESC');
+        $query = $this->db->get();
+
+        $arr['arr'] = $query->result_array();
+
+        $count = $query->num_rows();
+        $quotient = floor($count / $pagelimit);
+        $remainder = $count % $pagelimit;
+
+        $pagecount = $quotient + ($remainder == 0 ? 0 : 1);
+
+        $arr['currentpage'] = $currentpage;
+
+        $arr['pagecount'] = $pagecount;
+
+        $arr['pagelimit'] = $pagelimit;
+
+        if ($pagecount <= 10) {
+            $arr['pagearr'] = array();
+            for ($i = 1; $i <= $pagecount; $i++) {
+                $arr['pagearr'][] = $i;
+            }
+        } else {
+            if ($currentpage < 5 || $currentpage > $pagecount - 4) {
+                $arr['pagearr'] = [1, 2, 3, 4, 5, '…', $pagecount - 4, $pagecount - 3, $pagecount - 2, $pagecount - 1, $pagecount];
+            } else {
+                $arr['pagearr'] = [1, 2, '…', $currentpage - 1, $currentpage, $currentpage + 1, '…', $pagecount - 1, $pagecount];
+            }
+        }
+
+        return $arr;
+    }
+
 
     public function validateCard($openid, $cardno, $password)
     {
