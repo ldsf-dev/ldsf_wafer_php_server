@@ -1,0 +1,1 @@
+<script src="https://64458061.gift4fang.com/application/views/component/js/clipboard.min.js" type="text/javascript"></script>

@@ -13,10 +13,10 @@ DEFINE("APPID_LDSF","wxb0f5b379a85374ce");
 DEFINE("FORMAT_DATETIME_DEFAULT","Y-m-d H:i:s");
 
 // 用户关注自动回复内容
-DEFINE("TEXT_AUTOREPLY_SUBSCRIBE",'欢迎关注礼待四方微信公众号！2017年度云彪黄桃提货通道现已关闭，尚未提货的礼券，可留至明年黄桃当季继续使用。服务热线：18913158288');
+DEFINE("TEXT_AUTOREPLY_SUBSCRIBE",'欢迎关注礼待四方微信公众号！服务热线：18913158288');
 
 // 用户留言自动回复内容
-DEFINE("TEXT_AUTOREPLY_MESSAGE",'由于黄桃季节供货截止，2017年度云彪黄桃提货通道现已关闭，尚未提货的礼券，可留至明年黄桃当季继续使用（8月前后）。如有其他问题，可拨打服务热线：18913158288');
+DEFINE("TEXT_AUTOREPLY_MESSAGE",'持有礼待四方阳澄湖大闸蟹礼券的朋友可选择下方菜单“礼券提货”，进入礼待四方小程序，点击左下角的“礼券验证”进行提货。如有疑问可拨打服务热线：18913158288');
 
 // 触发客服关键字
 DEFINE("KEYWORD_CUSTOMSERVICE",'客服');

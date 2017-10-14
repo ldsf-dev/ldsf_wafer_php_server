@@ -77,6 +77,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <li><a href="/admin/allcards/1">卡券列表</a></li>
         <li><a href="/admin/alldeliverys/1">卡券提货列表</a></li>
     </ul>
+    <p>订单管理</p>
+    <ul>
+        <li><a href="/admin/updatedelibydate">分日期订单更新</a></li>
+    </ul>
     <p>系统管理</p>
     <ul>
         <li><a href="/admin/getareainfofromapi">省市区信息更新</a></li>

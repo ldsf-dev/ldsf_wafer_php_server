@@ -78,6 +78,29 @@ class Admin extends CI_Controller
     }
 
     /**
+     * 分日期订单更新页面
+     */
+    public function updatedelibydate()
+    {
+        $arr_title = array('title' => '礼待四方 - 分日期订单更新');
+
+        $this->load->view('component/html_header');
+        $this->load->view('component/head_header');
+        $this->load->view('component/head_meta');
+        $this->load->view('component/head_title', array('arr' => $arr_title));
+        $this->load->view('component/head_style');
+        $this->load->view('component/head_script_cardlist');
+        $this->load->view('component/head_tcal');
+        $this->load->view('component/head_footer');
+        $this->load->view('component/body_header');
+        $this->load->view('component/body_returntoindex');
+        $this->load->view('admin_updatedelibydate');
+        $this->load->view('component/body_footer');
+        $this->load->view('component/html_footer');
+
+    }
+
+    /**
      * 列出所有卡券详细信息
      */
     public function allcards($currentpage, $pagelimit = 10)
@@ -211,6 +234,7 @@ class Admin extends CI_Controller
         $this->load->view('component/head_title', array('arr' => $arr_title));
         $this->load->view('component/head_style');
         $this->load->view('component/head_script_delilist');
+        $this->load->view('component/head_script_clipboardtool');
         $this->load->view('component/head_footer');
         $this->load->view('component/body_header');
         $this->load->view('admin_delilist_selectdelidate', array('arr' => $arr));
