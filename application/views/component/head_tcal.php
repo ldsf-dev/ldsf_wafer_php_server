@@ -157,7 +157,6 @@
         else {
             resultvalue = f_tcalGenerateDate(d_date, A_TCALCONF.format);
             e_input.value = resultvalue;
-            document.getElementById("form1").action="/admin/selectdeliverysbydelidate/1/200/" + resultvalue;
             f_tcalCancel();
         }
     }

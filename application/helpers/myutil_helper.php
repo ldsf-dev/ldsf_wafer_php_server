@@ -339,8 +339,10 @@ function getAccessToken()
 }
 
 function sendSMSbyapi($content){
-    $host = "http://ali-sms.showapi.com";
-    $path = "/sendSms";
+    //$host = "http://ali-sms.showapi.com";
+    $host = "http://sms.market.alicloudapi.com";
+    //$path = "/sendSms";
+    $path = "/singleSendSms";
     $method = "GET";
     $appcode = "91f0c581861c4600bc9c282ea7b272dd";
     $headers = array();
@@ -367,13 +369,29 @@ function sendSMSbyapi($content){
 }
 
 function sendExpressNo($contactname,$goodname,$goodspecname,$expressname,$expressno,$mobile){
-    $api_content = 'content='.
+//    $api_content = 'content='.
+//        rawurlencode(
+//            '{"name":"'.
+//            $contactname.
+//            '","gn":"'.
+//            $goodname.
+//            '","gs":"'.
+//            $goodspecname.
+//            '","ename":"'.
+//            $expressname.
+//            '","eno":"'.
+//            $expressno.
+//            '"}'
+//        ).
+//        '&mobile='.
+//        $mobile.
+//        '&tNum=T170317001208';
+    $api_content = 'ParamString='.
         rawurlencode(
             '{"name":"'.
             $contactname.
-            '","gn":"'.
-            $goodname.
-            '","gs":"'.
+            '","gngs":"'.
+            $goodname."-".
             $goodspecname.
             '","ename":"'.
             $expressname.
@@ -381,9 +399,9 @@ function sendExpressNo($contactname,$goodname,$goodspecname,$expressname,$expres
             $expressno.
             '"}'
         ).
-        '&mobile='.
+        '&RecNum='.
         $mobile.
-        '&tNum=T170317001208';
+        '&SignName=礼待四方&TemplateCode=SMS_105505059';
 
     return sendSMSbyapi($api_content);
 }
