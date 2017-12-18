@@ -16,7 +16,7 @@ class Admin_model extends CI_Model
         $this->load->database();
     }
 
-    public function getUserProfiles()
+    public function getUserProfiles($currentpage = 1, $pagelimit = 20)
     {
         $this->db->select(
             array(
@@ -24,14 +24,60 @@ class Admin_model extends CI_Model
                 't_user_profile.user_avatar AS 微信头像',
                 't_user_profile.user_nickname AS 微信昵称',
                 't_user_profile.user_mobile AS 手机号',
-                't_user_profile.user_sex AS 性别',
+                't_user_profile.user_sex_str AS 性别',
                 't_user_profile.user_openid AS OpenID',
             )
         );
         $this->db->from('t_user_profile');
         $query = $this->db->get();
 
-        return $query->result_array();
+        $count = $query->num_rows();
+
+        $this->db->limit($pagelimit, ($currentpage - 1) * $pagelimit);
+
+        $this->db->select(
+            array(
+                't_user_profile.user_id AS ID',
+                't_user_profile.user_avatar AS 微信头像',
+                't_user_profile.user_nickname AS 微信昵称',
+                't_user_profile.user_mobile AS 手机号',
+                't_user_profile.user_sex_str AS 性别',
+                't_user_profile.user_openid AS OpenID',
+            )
+        );
+        $this->db->from('t_user_profile');
+
+        $query = $this->db->get();
+
+        $arr['data'] = $query->result_array();
+
+        $quotient = floor($count / $pagelimit);
+        $remainder = $count % $pagelimit;
+
+        $pagecount = $quotient + ($remainder == 0 ? 0 : 1);
+
+        $arr['currentpage'] = $currentpage;
+
+        $arr['pagecount'] = $pagecount;
+
+        $arr['pagelimit'] = $pagelimit;
+
+        $arr['countall'] = $count;
+
+        if ($pagecount <= 10) {
+            $arr['pagearr'] = array();
+            for ($i = 1; $i <= $pagecount; $i++) {
+                $arr['pagearr'][] = $i;
+            }
+        } else {
+            if ($currentpage < 5 || $currentpage > $pagecount - 4) {
+                $arr['pagearr'] = [1, 2, 3, 4, 5, '…', $pagecount - 4, $pagecount - 3, $pagecount - 2, $pagecount - 1, $pagecount];
+            } else {
+                $arr['pagearr'] = [1, 2, '…', $currentpage - 1, $currentpage, $currentpage + 1, '…', $pagecount - 1, $pagecount];
+            }
+        }
+
+        return $arr;
     }
 
     public function getUserLoginRecords()

@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="viewport"
+      content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+<head>
+    <script>
+        window.onload = function () {
+            var genButton = document.getElementById("generateImage");
+            bindButtonEvent(genButton, "click", generateImage);
+        };
+
+        function bindButtonEvent(element, type, handler) {
+            if (element.addEventListener) {
+                element.addEventListener(type, handler, false);
+            } else {
+                element.attachEvent('on' + type, handler);
+            }
+        }
+
+        function generateImage() {
+            var yourname = document.getElementById("yourname").value;
+            var youramount = document.getElementById("youramount").value;
+            var canvas = document.getElementById("thecanvas");
+            var ctx = canvas.getContext("2d");
+            var beauty = new Image();
+            beauty.src = "https://64458061.gift4fang.com/weixin/images/certimage.jpg";
+            beauty.onload = function () {
+                ctx.drawImage(beauty, 0, 0);
+                ctx.textAlign = "start";
+                ctx.fillStyle = "rgba( 255, 30, 0, 1)"; // black color
+                ctx.font = "40px 宋体";
+                ctx.fillText(yourname, 210, 611);
+                ctx.textAlign = "center";
+                ctx.fillStyle = "rgba( 0, 0, 0, 1)"; // black color
+                ctx.font = "32px Arial";
+                ctx.fillText(youramount, 618, 735);
+                var image = canvas.toDataURL("image/jpg");
+                document.getElementById("result").innerHTML = "<img src='" + image + "' style='width: 100%;'/>";
+            }
+        }
+    </script>
+</head>
+<body bgcolor="#E6E6FA">
+<div>
+    <canvas width=960 height=1346 id="thecanvas" style="display:none;"></canvas>
+    名字：<input type="text" id="yourname"/><br/>
+    金额：<input type="text" id="youramount"/>
+    <button id="generateImage">生成公益证书</button>
+    <div id="result"></div>
+</div>
+</body>
+</html>

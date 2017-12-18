@@ -91,6 +91,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <li><a href="/admin/getmaterialslist/news">图文素材列表</a></li>
         <li><a href="/admin/newmedia">新建永久媒体素材</a></li>
     </ul>
+    <p>测试</p>
+    <ul>
+        <li><a href="https://64458061.gift4fang.com/weixin/saveimage.html">动态图片</a></li>
+        <li><a href="/admin/platform/index">新版管理界面</a></li>
+    </ul>
 </div>
 </body>
 </html>

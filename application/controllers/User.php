@@ -166,6 +166,7 @@ class User extends CI_Controller
                     'user_openid' => $openid,
                     'user_nickname' => $nickname,
                     'user_sex' => $gender,
+                    'user_sex_str' => $gender,
                     'user_avatar' => $avatarurl
                 )
             );

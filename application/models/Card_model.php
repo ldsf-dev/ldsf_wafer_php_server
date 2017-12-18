@@ -56,6 +56,7 @@ class Card_model extends CI_Model
         $this->db->join('t_good_spec', 't_good_spec.good_id = t_good.good_id and t_good_spec.good_spec_seq = t_card.card_goodspecid', 'left');
         $query = $this->db->get();
         $arr['arr'] = $query->result_array();
+        $arr['data'] = $arr['arr'];
 
         $count = $this->db->count_all('t_card');
         $quotient = floor($count / $pagelimit);
@@ -68,6 +69,8 @@ class Card_model extends CI_Model
         $arr['pagecount'] = $pagecount;
 
         $arr['pagelimit'] = $pagelimit;
+
+        $arr['countall'] = $count;
 
         if ($pagecount <= 10) {
             $arr['pagearr'] = array();
@@ -199,6 +202,43 @@ class Card_model extends CI_Model
         return $query->result_array();
     }
 
+    public function getDeliveryInfoBySupplier($date, $supplier)
+    {
+        $this->db->select(
+            array(
+                't_card.card_suppliercd',
+                't_card_deli.card_deli_contactname',
+                't_card_deli.card_deli_contacttel',
+                't_card_deli.card_deli_contactaddress',
+            )
+        );
+        $this->db->from('t_card_deli');
+        $this->db->where('t_card_deli.card_deli_expectdate', $date);
+        $this->db->where('t_card.card_supplier', $supplier);
+        $this->db->join('t_card', 't_card.card_no = t_card_deli.card_deli_cardid');
+        $this->db->order_by('t_card_deli.card_deli_datetime', 'DESC');
+        $query = $this->db->get();
+
+        $res_html = '<html><body>';
+
+        if ($query->num_rows() == 0) {
+            $res_html = $res_html . '没有订单';
+
+        } else {
+
+            foreach ($query->result() as $row) {
+                $res_html = $res_html . '<h1>' . $row->card_suppliercd . ":" . $row->card_deli_contactname . "," . $row->card_deli_contacttel . "," . $row->card_deli_contactaddress . "</h1>";
+            }
+        }
+
+        $res_html = $res_html . '</body></html>';
+
+        $res['html'] = $res_html;
+        $res['num'] = $query->num_rows();
+
+        return $res;
+    }
+
     public function getAllCardDeliveryInfoPaging($currentpage, $pagelimit)
     {
         $arr = array();
@@ -207,7 +247,7 @@ class Card_model extends CI_Model
 
         $this->db->select(
             array(
-                't_card_deli.card_deli_orderid',
+                //'t_card_deli.card_deli_orderid',
                 't_card_deli.card_deli_expressno AS 物流单号',
                 't_card_deli.card_deli_expectdate AS 送货日',
                 'CONCAT(t_good.good_name," / ",t_good_spec.good_spec_name) AS 商品规格',
@@ -228,6 +268,7 @@ class Card_model extends CI_Model
         $query = $this->db->get();
 
         $arr['arr'] = $query->result_array();
+        $arr['data'] = $arr['arr'];
 
         $count = $this->db->count_all('t_card_deli');
         $quotient = floor($count / $pagelimit);
@@ -240,6 +281,8 @@ class Card_model extends CI_Model
         $arr['pagecount'] = $pagecount;
 
         $arr['pagelimit'] = $pagelimit;
+
+        $arr['countall'] = $count;
 
         if ($pagecount <= 10) {
             $arr['pagearr'] = array();

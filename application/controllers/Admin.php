@@ -18,6 +18,95 @@ class Admin extends CI_Controller
     }
 
     /**
+     * 访问后台管理页面
+     */
+    public function platform($path = 'index', $datatype = '', $pagecount = 1, $pagelimit = 20)
+    {
+        $this->load->model('Admin_model');
+        $this->load->model('Card_model');
+
+        $arr = array(
+            'base_path' => 'https://64458061.gift4fang.com/application/views/'
+        );
+
+        switch ($path) {
+            case 'index':
+                $this->load->view('admin_platform_index', array('arr' => $arr));
+                break;
+            case 'top':
+                $this->load->view('admin_platform_top', array('arr' => $arr));
+                break;
+            case 'left':
+                $this->load->view('admin_platform_left', array('arr' => $arr));
+                break;
+            case 'data':
+                switch ($datatype) {
+                    case 'users':
+                        $data = $this->Admin_model->getUserProfiles($pagecount, $pagelimit);
+                        $arr['data'] = $data['data'];
+                        $arr['sortkey'] = 'ID';
+                        $arr['pickey'] = '微信头像';
+                        $arr['navstr'] = array(
+                            '首页',
+                            '用户管理',
+                            '用户列表'
+                        );
+                        break;
+                    case 'cards':
+                        $data = $this->Card_model->getAllCardsPaging($pagecount, $pagelimit);
+                        $arr['data'] = $data['data'];
+                        $arr['sortkey'] = '送货日';
+                        $arr['pickey'] = '';
+                        $arr['navstr'] = array(
+                            '首页',
+                            '卡券管理',
+                            '卡券列表'
+                        );
+                        break;
+                    case 'delis':
+                        $data = $this->Card_model->getAllCardDeliveryInfoPaging($pagecount, $pagelimit);
+                        $arr['data'] = $data['data'];
+                        $arr['sortkey'] = '送货日';
+                        $arr['pickey'] = '';
+                        $arr['navstr'] = array(
+                            '首页',
+                            '卡券管理',
+                            '卡券提货列表'
+                        );
+                        break;
+                    default:
+                        break;
+
+                }
+
+                $arr['url'] = '/admin/platform/data/'.$datatype;
+
+                $arr['currentpage'] = $data['currentpage'];
+                $arr['pagecount'] = $data['pagecount'];
+                $arr['pagelimit'] = $data['pagelimit'];
+                $arr['countall'] = $data['countall'];
+                $arr['pagearr'] = $data['pagearr'];
+
+                if($arr['currentpage'] == 1){
+                    $arr['prevpage'] = 1;
+                    $arr['nextpage'] = $arr['pagecount'] == 1 ? 1 : $arr['currentpage'] + 1;
+                } elseif ($arr['currentpage'] == $arr['pagecount']){
+                    $arr['prevpage'] = $arr['currentpage'] - 1;
+                    $arr['nextpage'] = $arr['pagecount'];
+                } else {
+                    $arr['prevpage'] = $arr['currentpage'] - 1;
+                    $arr['nextpage'] = $arr['currentpage'] + 1;
+                }
+
+                $this->load->view('admin_platform_data', array('arr' => $arr));
+                break;
+            default:
+                break;
+        }
+    }
+
+
+    /**
      * 列出全部用户资料
      */
     public function allprofiles()
@@ -26,7 +115,7 @@ class Admin extends CI_Controller
 
         $arr = $this->Admin_model->getUserProfiles();
 
-        $this->load->view('admin_userlist', array('arr' => $arr));
+        $this->load->view('admin_userlist', array('arr' => $arr['data']));
     }
 
     /**
@@ -580,13 +669,33 @@ class Admin extends CI_Controller
     public function sendmessagetosupplier()
     {
         $this->load->helper('myutil');
+        $this->load->model('Card_model');
 
         $token = getAccessToken();
 
-        $data = '{"touser":"oXXigwgnK8gKdxAHhwW0Tew4xYEE","template_id":"awC-pnebafLCpeqCzx6Q741xBnUH9rKowjouWmzc0WE","url":"https://64458061.gift4fang.com/admin/selectdeliverysbydelidate/1/200/2017-10-22","data":{"first":{"value":"购买成功！","color":"#173177"},"keyword1":{"value":"您购买了一个商品","color":"#173177"},"keyword2":{"value":"平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06","color":"#173177"},"remark":{"value":"平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06\n平安,1280：何百磊 13911020553 北京 朝阳区 百子湾路金都杭城东区3号楼2单元2303\n盛虹,980：申祖应 15851685535 江苏 苏州 吴江区 盛泽镇西二环路盛虹集团总部\n平安,1280：张萍萍 13510281167 广东 深圳 罗湖区 新安路联城美园怡美阁26A06","color":"#173177"}}}';
-        $ret = https_request("https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=$token", $data);
+        $date = date('Y-m-d');
+        $supplier = '1';
+
+        $result = $this->Card_model->getDeliveryInfoBySupplier($date, $supplier);
+
+        if ($result['num'] > 0) {
+            $data = '{"touser":"oXXigwgnK8gKdxAHhwW0Tew4xYEE","template_id":"awC-pnebafLCpeqCzx6Q741xBnUH9rKowjouWmzc0WE","url":"https://64458061.gift4fang.com/admin/getdelibysupplier/' . $date . '/' . $supplier . '","data":{"first":{"value":"购买成功！","color":"#173177"},"keyword1":{"value":"您购买了一个商品","color":"#173177"},"keyword2":{"value":"点击查看详细信息","color":"#173177"}}}';
+            $ret = https_request("https://api.weixin.qq.com/cgi-bin/message/template/send?access_token=$token", $data);
+        } else {
+            $ret = 'no deli';
+        }
 
         echo $ret;
+    }
+
+    public function getdelibysupplier($date, $supplier)
+    {
+        $this->load->model('Card_model');
+
+        $result = $this->Card_model->getDeliveryInfoBySupplier($date, $supplier);
+
+        //echo str_replace('\\n','\n',$result);
+        echo $result['html'];
     }
 
 
